@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_bottom: 7
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: CB11,Large Creature,6,,Injector Crocodile
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-07-15 19:59:30
+	name: CB11 Large Creature
+	casting_cost: 5B
+	image: image58.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	rarity: common
+	rule_text:
+		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, if <atom-cardname><nospellcheck>Large Creature</nospellcheck></atom-cardname> doesn’t have a +1/+1 counter on it, put a +1/+1 counter on it.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever one or more counters are put on <atom-cardname><nospellcheck>Large Creature</nospellcheck></atom-cardname>, target opponent loses 3 life unless they discard a card.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Virginie Juteau
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

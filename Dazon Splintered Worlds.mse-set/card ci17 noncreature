@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CW17,Noncreature,2,,Sunder the Gateway
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-08-08 16:52:34
+	name: CI17 Noncreature
+	casting_cost: 2I
+	image: image127.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text: Create a 1/1 silver Avatar creature token and a 2/2 silver Avatar creature token.
+	flavor_text:
+		<i-flavor>ft<soft-line>
+		ft<soft-line>
+		ft</soft-line></soft-line></i-flavor>
+	illustrator: Victor Hugo Harmatiuk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

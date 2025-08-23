@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes:
+		CG06,Small Creature,3,,Overgrown Pest
+		DEPART
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-08-09 15:22:34
+	name: Beya Woodswalker
+	casting_cost: 2G
+	image: image92.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, create a 1/1 green Avatar creature token.
+	flavor_text:
+		<i-flavor>ft<soft-line>
+		ft<soft-line>
+		ft</soft-line></soft-line></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: DaiSanVIsArt
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

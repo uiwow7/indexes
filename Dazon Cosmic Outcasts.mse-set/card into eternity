@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: !tag: energy;
+	time_created: 2025-04-21 09:08:05
+	time_modified: 2025-04-22 16:28:45
+	name: Into Eternity
+	casting_cost: 2B
+	image: image171.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		You get <sym-auto>E</sym-auto> for each five cards in your graveyard.
+		You may pay any amount of <sym>E</sym>. When you do, return target creature with mana value less than or equal to the amount of <sym>E</sym> paid this way from your graveyard to the battlefield.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Elreviae
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

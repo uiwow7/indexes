@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CW02,Small Creature,1,,Tarkir Duneshaper
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-08-08 18:09:35
+	name: CI02 Small Creature
+	casting_cost: I
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> leaves the battlefield, create a 1/1 silver and black Avatar creature token with <kw-A><nospellcheck><key>decayed</key></nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor>ft</i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Escanor333
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-04-24 09:54:10
+	time_modified: 2025-05-16 10:27:25
+	name: Swarm Engine
+	casting_cost: 4
+	image: image206.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Construct</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Swarm Engine</nospellcheck></atom-cardname> enters, put a +1/+1 counter on each noncreature, nonland permanent you control.
+		<sym-auto>T</sym-auto>: Target noncreature, nonland permanent you control becomes a creature. <i-auto>(This lasts indefinitely.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Chris Cold
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

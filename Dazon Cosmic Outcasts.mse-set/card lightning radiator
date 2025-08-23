@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-04-22 18:24:32
+	time_modified: 2025-05-12 17:28:34
+	name: Lightning Radiator
+	casting_cost: 3R
+	image: image181.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: At the beginning of your end step, choose any target. <atom-cardname><nospellcheck>Lightning Radiator</nospellcheck></atom-cardname> deals 2 damage to that target if you’ve cast a nonartifact, noncreature spell this turn. <atom-cardname><nospellcheck>Lightning Radiator</nospellcheck></atom-cardname> deals 2 damage to that target if you’ve cast at least three spells this turn.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	illustrator: Filipe Pinto
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

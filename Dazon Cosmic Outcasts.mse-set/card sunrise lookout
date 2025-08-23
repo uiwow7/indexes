@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-25 21:18:22
+	time_modified: 2025-03-25 22:31:03
+	name: Sunrise Lookout
+	casting_cost: 1WW
+	image: image68.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Dragon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Sunrise Lookout</nospellcheck></atom-cardname> enters, you gain 3 life if you control an enchantment.
+		<sym-auto>T</sym-auto>, Sacrifice an enchantment: You draw a card and gain 1 life.
+	flavor_text: <i-flavor><error-spelling:en_US>Baru</error-spelling:en_US> lives in eternal sunrise.</i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Clockbirds
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

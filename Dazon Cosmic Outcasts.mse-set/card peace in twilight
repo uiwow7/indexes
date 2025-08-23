@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-05-16 18:37:50
+	time_modified: 2025-06-21 18:46:09
+	name: Peace in Twilight
+	casting_cost: WU
+	image: image211.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Once each turn, when you cast a noncreature spell, you may get <sym>E</sym>.
+		<sym>EEEE</sym>: You draw a card and gain 3 life.
+	flavor_text: <i-flavor><error-spelling:en_US>Drakol</error-spelling:en_US> entered night <error-spelling:en_US>seperate</error-spelling:en_US> from the splinters and awoke with them.</i-flavor>
+	illustrator: Sephiroth-Art
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

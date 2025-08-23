@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: !tag energy;
+	time_created: 2025-03-26 01:28:17
+	time_modified: 2025-04-22 17:34:55
+	name: Power Off
+	casting_cost: 2UU
+	image: image86.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Power Off</nospellcheck></atom-cardname> enters, if you cast it, return target spell or nonland permanent to its owner’s hand. You get <sym-auto>EEEE</sym-auto>.
+		Whenever you cast your second spell each turn, you may pay <sym-auto>EE</sym-auto>. If you do, tap target creature and draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Jeff Zuagle
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

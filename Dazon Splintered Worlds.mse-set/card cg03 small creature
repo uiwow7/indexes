@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CG03,Small Creature,2,,Portent Tracker
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-07-22 10:37:34
+	name: CG03 Small Creature
+	casting_cost: 1G
+	image: image97.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, if this creature doesn’t have a +1/+1 counter on it, put a +1/+1 counter on it.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever one or more counters are put on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>, you gain 1 life.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: VegaColors
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

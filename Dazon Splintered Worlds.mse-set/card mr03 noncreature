@@ -1,0 +1,19 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: MR03,Noncreature,6,,Chandra, Hope's Beacon
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-06-08 00:00:00
+	name: MR03 Noncreature
+	casting_cost: 5R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	sub_type: 
+	rarity: mythic rare
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

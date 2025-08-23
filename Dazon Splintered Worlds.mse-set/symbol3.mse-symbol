@@ -1,0 +1,105 @@
+﻿mse_version: 0.3.5
+part:
+	type: shape
+	name: Rectangle
+	combine: overlap
+	point:
+		position: (0.8423842658,0.4765886052)
+		lock: free
+		line_after: line
+	point:
+		position: (0.8424362681,0.5257907223)
+		lock: free
+		line_after: line
+	point:
+		position: (0.1509667980,0.5260709693)
+		lock: free
+		line_after: line
+	point:
+		position: (0.1509147958,0.4768688522)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: Rectangle
+	combine: overlap
+	point:
+		position: (0.4760638298,0.1542553191)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5252659574,0.1542553191)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5252659574,0.8976063830)
+		lock: free
+		line_after: line
+	point:
+		position: (0.4760638298,0.8976063830)
+		lock: free
+		line_after: line
+part:
+	type: symmetry
+	name: Rotation (2)
+	kind: rotation
+	copies: 2
+	center: (0.5000000000,0.5000000000)
+	handle: (0.2000000000,0.0000000000)
+part:
+	type: symmetry
+	name: Rotation (2)
+	kind: rotation
+	copies: 2
+	center: (0.5000000000,0.5000000000)
+	handle: (0.2000000000,0.0000000000)
+	part:
+		type: shape
+		name: Polygon
+		combine: overlap
+		point:
+			position: (0.0709506855,0.4273601112)
+			lock: free
+			line_after: curve
+			handle_before: (-0.0137711864,0.1803712552)
+			handle_after: (0.0043623850,0.4572552623)
+		point:
+			position: (0.4645454956,0.9563194528)
+			lock: free
+			line_after: line
+			handle_before: (-0.2144452047,-0.0432529510)
+		point:
+			position: (0.0645742635,0.9547226679)
+			lock: free
+			line_after: curve
+			handle_after: (0.0036164475,-0.2118932571)
+part:
+	type: symmetry
+	name: Rotation (2)
+	kind: rotation
+	copies: 2
+	center: (0.5000000000,0.5000000000)
+	handle: (0.2000000000,0.0000000000)
+	part:
+		type: shape
+		name: Triangle
+		combine: overlap
+		point:
+			position: (0.4940159574,0.7978723404)
+			lock: free
+			line_after: line
+		point:
+			position: (0.7845744681,0.5451369374)
+			lock: free
+			line_after: line
+		point:
+			position: (0.2034574468,0.5451369374)
+			lock: free
+			line_after: line
+part:
+	type: symmetry
+	name: Rotation (2)
+	kind: rotation
+	copies: 2
+	center: (0.5000000000,0.5000000000)
+	handle: (0.2000000000,0.0000000000)

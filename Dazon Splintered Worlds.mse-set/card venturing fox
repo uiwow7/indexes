@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CG01,Small Creature,1,,Placid Rottentail
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-08-08 17:13:04
+	name: Venturing Fox
+	casting_cost: G
+	image: image88.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Fox</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text: Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, if at least two other creatures are attacking, put a +1/+1 counter on it.
+	flavor_text:
+		<i-flavor>ft<soft-line>
+		ft<soft-line>
+		ft</soft-line></soft-line></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Clockbirds
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

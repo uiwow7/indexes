@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: archetype
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-06-09 21:13:13
+	time_modified: 2025-07-22 20:58:59
+	name: Archetypes/Themes
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	sub_type: 
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<sym-auto>UBR</sym-auto>: <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Spellslinger</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		<sym-auto>IGU</sym-auto>: Revelations Ramp
+		<sym-auto>IWU</sym-auto>: Avatar kindred
+		<sym-auto>IBR</sym-auto>: Sacrifice/<kw-0><nospellcheck><key>Decayed</key></nospellcheck></kw-0>
+		<sym-auto>RGW</sym-auto>: Go wide
+		<sym-auto>WBG</sym-auto>: Counters
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

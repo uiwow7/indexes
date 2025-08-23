@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 15
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: 
+	time_created: 2025-05-16 18:37:50
+	time_modified: 2025-06-09 17:03:28
+	name: The Arbiter’s Harmonizer
+	casting_cost: 1GW
+	image: image213.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Once each turn, when you cast an enchantment spell, you may draw a card.
+		Whenever you cast an enchantment spell, put a +1/+1 counter on <atom-cardname><nospellcheck>The Arbiter’s Harmonizer</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor>Harmony isn’t beautiful, it’s mandatory.</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Scott Uminga
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

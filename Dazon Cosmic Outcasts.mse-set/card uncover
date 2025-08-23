@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-04-12 16:01:48
+	time_modified: 2025-04-16 11:23:01
+	name: Uncover
+	casting_cost: W
+	image: image144.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Return target enchantment card with mana value 3 or less from your graveyard to the battlefield.
+		<kw-1><nospellcheck><key>Cycling <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2</sym-auto></param-cost>, Discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-1>
+	flavor_text: <i-flavor><error-spelling:en_US>Dazon</error-spelling:en_US> is littered with ruins of what was once prosperity, but is now simply emptiness.</i-flavor>
+	power: 
+	toughness: 
+	illustrator: Sylvia Ritter
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

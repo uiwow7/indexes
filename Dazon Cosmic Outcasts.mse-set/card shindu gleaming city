@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-25 23:11:26
+	time_modified: 2025-06-09 16:53:42
+	name: Shindu, Gleaming City
+	casting_cost: 
+	image: image80.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Plains</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto>.)</i-auto>
+		As <atom-cardname><nospellcheck>Shindu, Gleaming City</nospellcheck></atom-cardname> enters, you may pay 3 life. If you don’t, it enters tapped.
+		<sym-auto>2W</sym-auto>, <sym-auto>T</sym-auto>: Copy target triggered ability you control that was caused by a permanent you control entering. Activate only once each turn.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Gary Tonge
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

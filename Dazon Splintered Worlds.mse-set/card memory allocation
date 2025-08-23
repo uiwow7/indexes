@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CB18,Noncreature,3,,Unseal the Necropolis — return from gy
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-07-16 09:59:36
+	name: Memory Allocation
+	casting_cost: 2B
+	image: image61.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text: Return target creature card from your graveyard to your hand. Put two +1/+1 counters and a <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> counter on target creature you control.
+	flavor_text:
+		<i-flavor>ft<soft-line>
+		ft</soft-line></i-flavor>
+	illustrator: Max Hay
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 12
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: CW06,Small Creature,3,,Sigiled Sentinel
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-07-16 10:51:44
+	name: Pathwalker
+	casting_cost: 2W
+	image: image7.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, if this creature doesn’t have a +1/+1 counter on it, put a +1/+1 counter on it.)</i-auto></atom-reminder-custom></kw-A>
+		<atom-name>This creature</atom-cardname> has <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> as long as it has a counter on it.
+	flavor_text: <i-flavor>The paths between splinters are walked by those who can see them for what they are.</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Samuel Speziali
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

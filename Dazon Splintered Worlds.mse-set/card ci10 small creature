@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CW10,Small Creature,4,,Knight of the New Coalition
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-07-26 10:54:38
+	name: CI10 Small Creature
+	casting_cost: 3I
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	rarity: common
+	rule_text: At the beginning of your upkeep, you may sacrifice a creature. If you do, <kw-a><nospellcheck><key>scry <param-number>2</param-number></key></nospellcheck></kw-a>.
+	flavor_text:
+		<i-flavor>ft<soft-line>
+		ft<soft-line>
+		ft<soft-line>
+		ft</soft-line></soft-line></soft-line></i-flavor>
+	power: 3
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

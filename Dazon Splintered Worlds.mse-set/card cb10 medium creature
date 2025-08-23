@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CB10,Medium Creature,5,,Etched Host Doombringer
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-07-15 20:00:09
+	name: CB10 Medium Creature
+	casting_cost: 4B
+	image: image59.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Medium Creature</nospellcheck></atom-cardname> is put into a graveyard or exile from the battlefield, you draw two cards and lose 2 life.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 4
+	illustrator: JohnnyBoooy
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

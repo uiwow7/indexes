@@ -1,0 +1,98 @@
+﻿mse_version: 0.3.5
+part:
+	type: shape
+	name: Rectangle
+	combine: subtract
+	point:
+		position: (0.8005319149,0.3271276596)
+		lock: free
+		line_after: line
+	point:
+		position: (0.7739361702,0.2978723404)
+		lock: free
+		line_after: line
+	point:
+		position: (0.1968085106,0.6742021277)
+		lock: free
+		line_after: line
+	point:
+		position: (0.2260638298,0.7021276596)
+		lock: free
+		line_after: line
+part:
+	type: symmetry
+	name: Rotation (2)
+	kind: rotation
+	copies: 2
+	center: (0.5000000000,0.5000000000)
+	handle: (0.2000000000,0.0000000000)
+	part:
+		type: shape
+		name: Triangle
+		combine: overlap
+		point:
+			position: (0.2076800090,0.6894092036)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5867045267,0.6769906925)
+			lock: free
+			line_after: line
+		point:
+			position: (0.3505422321,0.3667847270)
+			lock: free
+			line_after: line
+part:
+	type: symmetry
+	name: Rotation (2)
+	kind: rotation
+	copies: 2
+	center: (0.5000000000,0.5000000000)
+	handle: (0.2000000000,0.0000000000)
+	part:
+		type: shape
+		name: Polygon
+		combine: overlap
+		point:
+			position: (0.0789294089,0.3954452176)
+			lock: free
+			line_after: curve
+			handle_before: (-0.0137711864,0.1803712552)
+			handle_after: (0.0043623850,0.4572552623)
+		point:
+			position: (0.4738540062,0.9403620060)
+			lock: free
+			line_after: line
+			handle_before: (-0.2144452047,-0.0432529510)
+		point:
+			position: (0.1057976678,0.8669567105)
+			lock: free
+			line_after: curve
+			handle_after: (-0.0203197227,-0.2158826188)
+part:
+	type: shape
+	name: Rectangle
+	combine: subtract
+	point:
+		position: (0.2632978723,0.2327127660)
+		lock: free
+		line_after: line
+	point:
+		position: (0.7287234043,0.2978723404)
+		lock: free
+		line_after: line
+	point:
+		position: (0.7433510638,0.7593085106)
+		lock: free
+		line_after: line
+	point:
+		position: (0.2672872340,0.6954787234)
+		lock: free
+		line_after: line
+part:
+	type: symmetry
+	name: Rotation (2)
+	kind: rotation
+	copies: 2
+	center: (0.5000000000,0.5000000000)
+	handle: (0.2000000000,0.0000000000)

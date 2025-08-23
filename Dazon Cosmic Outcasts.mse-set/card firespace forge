@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!tag: energy;
+		!addtoken Construct;
+	time_created: 2025-04-21 09:08:05
+	time_modified: 2025-06-01 13:42:21
+	name: Firespace Forge
+	casting_cost: 1R
+	image: image169.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Whenever one or more sources you control deal noncombat damage, you get <sym-auto>E</sym-auto>.
+		Pay <sym-auto>EEE</sym-auto>: Create a 1/1 red Construct artifact creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Aaron Nakahara
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

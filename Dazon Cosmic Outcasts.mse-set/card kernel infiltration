@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: !tag energy;
+	time_created: 2025-03-26 22:27:22
+	time_modified: 2025-08-08 11:28:35
+	name: Kernel Infiltration
+	casting_cost: 5U
+	image: image98.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Kernel Infiltration</nospellcheck></atom-cardname> enters, you get <sym-auto>EEEEE</sym-auto>.
+		Whenever a player casts a spell, you may pay <sym-auto>E</sym-auto>. If you do, draw a card.
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor>The Arbiter thought it was impossible, but the systems were broken into.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	illustrator: Vinecentius Matthew
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

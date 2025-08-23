@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-10 12:18:16
+	time_modified: 2025-04-05 19:04:37
+	name: Sava’s Last Eclipse
+	casting_cost: 1BR
+	image: image18.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		As an additional cost to cast this spell, sacrifice X noncreature, nonland, permanents.
+		Destroy up to X target creatures.
+	flavor_text: <i-flavor><error-spelling:en_US>Savas</error-spelling:en_US> was the first splinter to lose its control. But that was not enough for The Arbiter. Not nearly enough.</i-flavor>
+	illustrator: St3Doom
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 01:28:21
+	time_modified: 2025-04-19 15:49:48
+	name: Rage of Sava
+	casting_cost: 7R
+	image: image90.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Dragon</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Rage of Sava</nospellcheck></atom-cardname> costs <sym-auto>1</sym-auto> less to cast for each noncreature, nonland card in your graveyard.
+		When <atom-cardname><nospellcheck>Rage of Sava</nospellcheck></atom-cardname> enters, discard your hand, then draw three cards.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Anato Finnstark
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

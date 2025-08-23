@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CW08,Small Creature,3,flying ,Phyrexian Pegasus
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-08-06 17:50:37
+	name: CI08 Small Creature
+	casting_cost: 2I
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	rarity: common
+	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, create a 2/2 silver Avatar creature token.
+	flavor_text:
+		<i-flavor>ft<soft-line>
+		ft<soft-line>
+		ft</soft-line></soft-line></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

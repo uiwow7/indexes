@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: TODO: find new art
+	time_created: 2025-03-10 21:48:16
+	time_modified: 2025-05-29 12:13:27
+	name: Past Unresolved
+	casting_cost: BB
+	image: image25.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: You draw two cards, lose 2 life, and <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+	flavor_text:
+		<i-flavor>ft<soft-line>
+		ft<soft-line>
+		ft<soft-line>
+		ft<soft-line>
+		ft</soft-line></soft-line></soft-line></soft-line></i-flavor>
+	illustrator: Bzartt
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

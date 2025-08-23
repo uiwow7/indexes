@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CB02,Small Creature,2,,Aetherblade Agent
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-07-15 20:44:03
+	name: CB02 Small Creature
+	casting_cost: 1B
+	image: image57.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	rarity: common
+	rule_text: When <atom-cardname><nospellcheck>Small Creature</nospellcheck></atom-cardname> dies, each player discards a card. For each noncreature card discarded this way, put a +1/+1 counter on target creature.
+	flavor_text:
+		<i-flavor>ft<soft-line>
+		ft</soft-line></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Pascal Quidault
+	card_code_text: • Designed by panders
+	card_code_text_2: 
+	card_code_text_3: 

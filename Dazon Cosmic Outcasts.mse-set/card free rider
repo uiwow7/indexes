@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-04-12 16:01:43
+	time_modified: 2025-04-12 22:57:56
+	name: Free Rider
+	casting_cost: 2R
+	image: image140.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Free Rider</nospellcheck></atom-cardname> enters, it deals 2 damage to each opponent.
+		Whenever <atom-cardname><nospellcheck>Free Rider</nospellcheck></atom-cardname> attacks, it deals 1 damage to any target.
+	flavor_text: <i-flavor>“The Arbiter has no hold here. It can’t touch me.”</i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Joey Pool
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

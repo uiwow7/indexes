@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		Naroz & Ikan collide
+		!tag energy;
+	time_created: 2025-03-12 09:05:05
+	time_modified: 2025-03-13 12:15:47
+	name: Narokan Collision
+	casting_cost: U
+	image: image33.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Draw a card. You get <sym>EE</sym>.
+	flavor_text: <i-flavor>When the splinters of <error-spelling:en_US>Hokori</error-spelling:en_US> collide, inevitable disaster follows. <error-spelling:en_US>Naroz</error-spelling:en_US> and <error-spelling:en_US>Ikan</error-spelling:en_US> colliding was a death sentence to both splinters, so The Arbiter had to intervene to prevent chaos.</i-flavor>
+	illustrator: Tryingtofly
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

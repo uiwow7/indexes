@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-17 13:53:37
+	time_modified: 2025-06-04 14:07:33
+	name: Demon of Dark Loss
+	casting_cost: 2B
+	image: image50.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Demon of Dark Loss</nospellcheck></atom-cardname> enters, you draw a card.
+		Whenever you draw a card, you gain 1 life.
+	flavor_text: <i-flavor>Darkness and loss come hand in hand.</i-flavor>
+	power: 1
+	toughness: 4
+	illustrator: Jeff Brown
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

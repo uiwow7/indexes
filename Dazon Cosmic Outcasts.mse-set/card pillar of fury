@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 01:28:17
+	time_modified: 2025-03-26 09:36:08
+	name: Pillar of Fury
+	casting_cost: 3R
+	image: image91.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Pillar of Fury</nospellcheck></atom-cardname> costs <sym-auto>1</sym-auto> less to cast for each attacking creature.
+		Creatures you control get +1/+1 until end of turn.
+	flavor_text: <i-flavor><error-spelling:en_US>Sava</error-spelling:en_US> has endured so many years of futile conflict that its inhabitants are always bursting with rage.</i-flavor>
+	illustrator: Matteo Bassini
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

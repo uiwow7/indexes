@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: !tag energy;
+	time_created: 2025-03-11 19:13:59
+	time_modified: 2025-05-19 11:36:46
+	name: Containment Dome
+	casting_cost: 3W
+	image: image43.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Containment Dome</nospellcheck></atom-cardname> enters, exile target nonland permanent an opponent controls until <atom-cardname><nospellcheck>Containment Dome</nospellcheck></atom-cardname> leaves the battlefield.
+		<kw-0><nospellcheck><key>Uncover—<param-cost><sym-auto>1W</sym-auto>, Pay <sym>EE</sym></param-cost></key></nospellcheck></kw-0> <i-auto>(<sym-auto>1W</sym-auto>, Pay <sym-auto>EE</sym-auto>: Return this card from your graveyard to the battlefield, except it’s an enchantment and loses all other card types. Exile it if it would leave the battlefield. Uncover only as a sorcery.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Lorenz Hideyoshi Ruwwe
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

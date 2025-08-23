@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: 
+	time_created: 2025-03-09 16:20:13
+	time_modified: 2025-03-09 21:59:50
+	name: Twisting Nebulas
+	casting_cost: 3G
+	image: image6.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text: Whenever <atom-cardname><nospellcheck>Twisting Nebulas</nospellcheck></atom-cardname> or another enchantment enters under your control, draw a card.
+	flavor_text: <i-flavor><error-spelling:en_US>Hokori</error-spelling:en_US> collapsed, leading the planes around it to twist and turn into one. Into an amalgam. Into a home. This is what The Arbiter knew.</i-flavor>
+	illustrator: ERA7
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

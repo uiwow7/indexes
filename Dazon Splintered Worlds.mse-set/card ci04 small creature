@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CW04,Small Creature,2,,Swordsworn Cavalier
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-08-08 14:23:06
+	extra_data:
+		magic-m15-altered-plus:
+			vorthos_box: 
+	name: CI04 Small Creature
+	casting_cost: 1I
+	image: image117.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, each opponent loses 2 life.
+	flavor_text:
+		<i-flavor>ft<soft-line>
+		ft</soft-line></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Marcos Poncio
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

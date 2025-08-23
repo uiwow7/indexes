@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: HAVEN
+	time_created: 2025-04-06 19:55:33
+	time_modified: 2025-04-06 22:27:18
+	name: Lost to the Storm
+	casting_cost: G
+	image: image119.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature gets +2/+0 and has <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
+		When enchanted creature dies, put a +1/+1 counter on target creature you control.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: DaiSanVisArt
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

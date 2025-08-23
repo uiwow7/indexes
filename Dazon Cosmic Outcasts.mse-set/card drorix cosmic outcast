@@ -1,0 +1,42 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		opacity: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !addtoken Human;
+	time_created: 2025-03-10 12:02:14
+	time_modified: 2025-05-13 16:16:03
+	extra_data:
+		magic-m15-mainframe-planeswalker:
+			vorthos_box: He/Him
+	special_text:
+		Enchantments you control have <kw-0><nospellcheck><key>ward <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-0>.
+		[+1]: <margin:130:0:0><kw-0><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-0>. Create a 1/1 white Human enchantment creature token if you control three or more enchantments.</margin:130:0:0>
+		[-1]: <margin:130:0:0>Target permanent becomes an enchantment and loses all other card types.</margin:130:0:0>
+	name: Drorix, Cosmic Outcast
+	casting_cost: WBG
+	image: image13.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Drorix</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rarity: rare
+	loyalty_cost_2: +1
+	loyalty_cost_3: -1
+	loyalty: 3
+	level_1_text: Enchantments you control have <kw-0><nospellcheck><key>ward <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-0>.
+	level_2_text: <margin:130:0:0><kw-0><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-0>. Create a 1/1 white Human enchantment creature token if you control three or more enchantments.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Target permanent becomes an enchantment and loses all other card types.</margin:130:0:0>
+	level_4_text: 
+	illustrator: Tigaer
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

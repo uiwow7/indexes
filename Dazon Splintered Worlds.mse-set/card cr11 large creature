@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CR11,Large Creature,5,,Onakke Javelineer
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-07-17 16:25:12
+	name: CR11 Large Creature
+	casting_cost: 4R
+	image: image73.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Horror</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text: When <atom-cardname><nospellcheck>Large Creature</nospellcheck></atom-cardname> enters, create three 1/1 black Spirit creature tokens with <kw-0><nospellcheck><key>decayed</key></nospellcheck></kw-0>. <i-auto>(They can’t block. When one attacks, sacrifice it at end of combat.)</i-auto>
+	flavor_text:
+		<i-flavor>ft<soft-line>
+		ft</soft-line></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Gustavo Arteaga
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

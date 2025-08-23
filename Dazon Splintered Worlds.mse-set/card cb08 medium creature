@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CB08,Medium Creature,3,,Ichor Shade
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-07-08 17:12:29
+	name: CB08 Medium Creature
+	casting_cost: 2B
+	image: image54.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	rarity: common
+	rule_text: When <atom-cardname><nospellcheck>Medium Creature</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/B</sym>.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text:
+		<i-flavor>ft<soft-line>
+		ft<soft-line>
+		ft<soft-line>
+		ft</soft-line></soft-line></soft-line></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Caleb Worcester
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

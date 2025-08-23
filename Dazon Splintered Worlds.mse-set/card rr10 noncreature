@@ -1,0 +1,19 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: RR10,Noncreature,8,,City on Fire
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-06-08 00:00:00
+	name: RR10 Noncreature
+	casting_cost: 7R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	sub_type: 
+	rarity: rare
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

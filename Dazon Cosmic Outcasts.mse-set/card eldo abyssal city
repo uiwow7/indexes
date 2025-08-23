@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!tag energy;
+		UNIFINISHED
+	time_created: 2025-03-12 14:25:36
+	time_modified: 2025-08-17 10:25:38
+	crown_type: normal
+	name: Eldo, Abyssal City
+	casting_cost: 
+	image: image35.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	sub_type: <word-list-land>Island</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>.)</i-auto>
+		As <atom-cardname><nospellcheck>Eldo, Abyssal City</nospellcheck></atom-cardname> enters, you may pay 3 life. If you don’t, it enters tapped.
+		<sym-auto>2U</sym-auto>, <sym-auto>T</sym-auto>: Return target nonland permanent you control to its owner’s hand.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Ed Lopez
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

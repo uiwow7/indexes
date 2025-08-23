@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-adventure
+	stylesheet_version: 2024-05-27
+	has_styling: false
+	notes: CB07,Medium Creature,3,,Etched Familiar
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-07-16 09:34:22
+	card_color_2: black
+	name: Najari Shaper
+	name_2: Shaping
+	casting_cost: 2B
+	casting_cost_2: 1BV/GV/U
+	image: image43.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Vertex Sorcery</word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: <word-list-spell></word-list-spell>
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text: Whenever one or more creatures you control die, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym>.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text_2:
+		<i-auto>(You can cast copies of this while in play)</i-auto>
+		Each opponent loses 2 life and you gain 2 life.
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Sam Morris
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

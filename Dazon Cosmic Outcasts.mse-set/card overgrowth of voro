@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 22:27:22
+	time_modified: 2025-03-27 22:49:18
+	name: Overgrowth of Voro
+	casting_cost: 6GG
+	image: image95.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: When <atom-cardname><nospellcheck>Overgrowth of Voro</nospellcheck></atom-cardname> or another permanent enters, you may gain 2 life and put a +1/+1 counter on up to one target creature you control.
+	flavor_text: <i-flavor>The Arbiter commanded the trees to grow, and so they grew. But they didn’t stop.</i-flavor>
+	illustrator: Winterkeep
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

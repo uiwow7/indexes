@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CG20,Noncreature,4,,Crystal Carapace
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-08-19 10:32:05
+	name: Gatu Darkhammer
+	casting_cost: 3G
+	image: image112.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		When <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> enters, put a +1/+1 counter on up to one target creature.
+		Equipped creature has <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> as long as it has a counter on it and gets +2/+2.
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Tron30
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

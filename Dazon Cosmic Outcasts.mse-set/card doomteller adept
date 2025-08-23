@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-04-08 19:41:09
+	time_modified: 2025-06-09 17:07:51
+	name: Doomteller Adept
+	casting_cost: W
+	image: image133.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: When <atom-cardname><nospellcheck>Doomteller Adept</nospellcheck></atom-cardname> enters, exile up to five target cards from graveyards.
+	flavor_text: <i-flavor>“We follow the oracles who have led this plane to where it is. We follow the oracles who gave this plane life. We follow the oracles that predict all and command fate. We are not cultists, nor fools, simply adepts carrying out the will of fate.” </i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Anato Finnstark
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

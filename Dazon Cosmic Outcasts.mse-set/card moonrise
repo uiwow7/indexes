@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 01:28:21
+	time_modified: 2025-03-26 02:22:34
+	name: Moonrise
+	casting_cost: 5GG
+	image: image87.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>twenty</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. For each card type, you may return a card of that type from your graveyard to your hand. <i-auto>(Artifact, battle, creature, enchantment, instant, land, planeswalker, and sorcery are card types.)</i-auto>
+	flavor_text: <i-flavor>“On the day the Emerald Moon rises, our chosen will return.”</i-flavor>
+	illustrator: Sylvia Ritter
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

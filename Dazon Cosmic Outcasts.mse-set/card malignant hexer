@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 23:00:16
+	time_modified: 2025-04-06 19:36:14
+	name: Malignant Hexer
+	casting_cost: 1BB
+	image: image96.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		As an additional cost to cast <atom-cardname><nospellcheck>Malignant Hexer</nospellcheck></atom-cardname>, sacrifice a noncreature, nonland permanent.
+		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Malignant Hexer</nospellcheck></atom-cardname> enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. You draw two cards and lose 2 life.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Free4FireYoutube
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

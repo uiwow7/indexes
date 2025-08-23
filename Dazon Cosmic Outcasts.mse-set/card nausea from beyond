@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-04-06 19:55:33
+	time_modified: 2025-06-09 17:02:55
+	name: Nausea From Beyond
+	casting_cost: 3B
+	image: image126.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Horror</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Nausea From Beyond</nospellcheck></atom-cardname> enters, put up to one target card from your graveyard on top of your library.
+		Once each turn, when a card leaves your graveyard, you may have each opponent lose 2 life and you gain 2 life.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Sylvia Ritter
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

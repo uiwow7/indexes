@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-04-03 18:12:14
+	time_modified: 2025-06-09 17:02:36
+	name: Wistful Observer
+	casting_cost: 1U
+	image: image111.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Once each turn, when you cast a noncreature spell, you may draw a card.
+	flavor_text: <i-flavor>“I remember when the Oracles were normal. I remember when <error-spelling:en_US>Dazon</error-spelling:en_US> was simply <error-spelling:en_US>Drakol</error-spelling:en_US>, and when everything was normal, but those times are over. My time is over.”</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Chilly Prins
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

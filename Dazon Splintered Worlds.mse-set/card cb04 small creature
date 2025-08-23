@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CB04,Small Creature,2,,Nezumi Informant
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-07-03 20:04:09
+	name: CB04 Small Creature
+	casting_cost: 1B
+	image: image47.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	rarity: common
+	rule_text:
+		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, if <atom-cardname><nospellcheck>Small Creature</nospellcheck></atom-cardname> doesn’t have a +1/+1 counter on it, put a +1/+1 counter on it.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever you put one or more counters on <atom-cardname><nospellcheck>Small Creature</nospellcheck></atom-cardname>, each opponent lose 1 life.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Benedick Bana
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

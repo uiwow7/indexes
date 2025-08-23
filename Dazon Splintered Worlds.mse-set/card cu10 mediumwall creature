@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CU10,MediumWall Creature,3,,Furtive Analyst
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-06-21 14:23:00
+	name: CU10 MediumWall Creature
+	casting_cost: 2U
+	image: image29.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	rarity: common
+	rule_text:
+		<kw-A><nospellcheck><key>Enlighten</key></nospellcheck><atom-reminder-custom> <i-auto>(Once, when you cast a noncreature spell, <atom-cardname><nospellcheck>MediumWall Creature</nospellcheck></atom-cardname> becomes enlightened. Put a +1/+1 counter on it.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>MediumWall Creature</nospellcheck></atom-cardname> becomes enlightened, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/U</sym>.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 4
+	illustrator: Miles Johnston
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

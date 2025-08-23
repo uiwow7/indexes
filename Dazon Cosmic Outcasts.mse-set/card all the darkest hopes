@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_bottom: 3
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: 
+	time_created: 2025-04-12 16:01:43
+	time_modified: 2025-04-19 15:30:02
+	name: All The Darkest Hopes
+	casting_cost: 1B
+	image: image139.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Whenever a creature you control dies, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
+		As long as there are ten or more creature cards in your graveyard, creatures you control get +1/+1 and have <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor>“One day I could fly away, yet the next I was chained to the ground.”</i-flavor>
+	illustrator: Sylvia Ritter
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

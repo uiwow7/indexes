@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 23:00:07
+	time_modified: 2025-04-05 19:16:21
+	name: Vicious Fiend
+	casting_cost: 2RR
+	image: image94.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
+		Whenever <atom-cardname><nospellcheck>Vicious Fiend</nospellcheck></atom-cardname> attacks, it deals 3 damage to the player or planeswalker its attacking.
+	flavor_text: <i-flavor>Natural selection has caused <error-spelling:en_US>Sava</error-spelling:en_US> to become the home of nightmares; In a world of constant war, one must take drastic measures to even just survive.</i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Dominik Mayer
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

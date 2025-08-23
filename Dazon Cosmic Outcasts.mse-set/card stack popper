@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!tag programming;
+		!tag energy;
+		FLAG
+	time_created: 2025-03-09 16:22:31
+	time_modified: 2025-08-17 11:01:17
+	name: Stack Popper
+	casting_cost: UUU
+	image: image4.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Wizard</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Stack Popper</nospellcheck></atom-cardname> enters, draw two cards, then discard a card.
+		Whenever you cast a noncreature spell, you get <sym-auto>E</sym-auto>. Then you may pay <sym-auto>EEE</sym-auto>. If you do, draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: Scott Uminga
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

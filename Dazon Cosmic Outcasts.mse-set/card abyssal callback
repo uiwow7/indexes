@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: !tag programming;
+	time_created: 2025-04-03 18:12:09
+	time_modified: 2025-06-09 17:03:41
+	name: Abyssal Callback
+	casting_cost: 3B
+	image: image56.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Abyssal Callback</nospellcheck></atom-cardname> costs <sym-auto>1</sym-auto> less to cast for each 1 life an opponent has lost this turn. <i-auto>(Damage causes loss of life.)</i-auto>
+		Destroy target creature. You gain 2 life.
+	flavor_text: <i-flavor>When you call into the abyss, a function calls back.</i-flavor>
+	illustrator: TomTC
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

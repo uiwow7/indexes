@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CR01,Small Creature,1,,Akki Scrapchomper
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-07-17 16:24:16
+	name: CR01 Small Creature
+	casting_cost: R
+	image: image69.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text: When <atom-cardname><nospellcheck>Small Creature</nospellcheck></atom-cardname> enters, create a 1/1 red Avatar creature token.
+	flavor_text:
+		<i-flavor>ft<soft-line>
+		ft<soft-line>
+		ft<soft-line>
+		ft<soft-line>
+		ft</soft-line></soft-line></soft-line></soft-line></i-flavor>
+	power: 0
+	toughness: 1
+	illustrator: Daniel Ignacio
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

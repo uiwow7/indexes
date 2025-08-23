@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-06-10 09:35:17
+	time_modified: 2025-08-07 15:57:12
+	name: UM03 Arcun
+	casting_cost: 1IBR
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, sacrifice another creature.
+		Whenever you sacrifice a creature, <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> deals 1 damage to each opponent.
+	flavor_text: <i-flavor>ft</i-flavor>
+	power: 4
+	toughness: 4
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

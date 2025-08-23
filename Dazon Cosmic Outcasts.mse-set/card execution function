@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: 
+	time_created: 2025-04-24 07:34:22
+	time_modified: 2025-05-19 10:09:19
+	name: Execution Function
+	image: image184.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Function</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<i-auto>(Sacrifice this as you cast an instant or sorcery spell to add the following effects to that spell.)</i-auto>
+		Exile target nonland permanent until target creature you control leaves the battlefield.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Xia Taptara
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

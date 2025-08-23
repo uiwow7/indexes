@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: 
+	time_created: 2025-04-24 09:54:09
+	time_modified: 2025-06-12 08:54:18
+	name: Energizer
+	casting_cost: 3
+	image: image204.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Energizer</nospellcheck></atom-cardname> enters, you get <sym-auto>EEE</sym-auto>.
+		<sym>EE</sym>: Put a +1/+1 counter on <atom-cardname><nospellcheck>Energizer</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor>The Arbiter implants its servants with stolen sparks and sends them through the paths seeking new worlds.</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Scott Uminga
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

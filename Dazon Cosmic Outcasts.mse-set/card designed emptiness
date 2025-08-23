@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: !tag: energy;
+	time_created: 2025-04-21 09:08:05
+	time_modified: 2025-06-09 17:01:47
+	name: Designed Emptiness
+	casting_cost: 1W
+	image: image170.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Whenever a nontoken creature you control enters, you get <sym-auto>E</sym-auto>.
+		At the beginning of combat on your turn, you may pay <sym-auto>EEEEE</sym-auto>. If you do, put a +1/+1 counter on each creature you control.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Gary Tonge
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

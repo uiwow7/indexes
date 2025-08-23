@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 01:28:21
+	time_modified: 2025-08-17 11:03:32
+	name: Final Arrival
+	casting_cost: 3UU
+	image: image84.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		As an additional cost to cast this spell, you may exile a card with mana value 5 or greater from your graveyard.
+		Reveal the top five cards of your library, then an opponent separates them into two piles. If you paid <atom-cardname><nospellcheck>Final Arrival</nospellcheck></atom-cardname>’s additional cost, put both into your hand. Otherwise, put one into your hand and the other into your graveyard.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Darek Zabrocki
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CU21,Noncreature,4,,Tem poral Cleansing — removal
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-07-08 17:39:01
+	name: Overwhelming Existence
+	casting_cost: 1UU
+	image: image38.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text: <kw-A><nospellcheck><key>Sanctify</key></nospellcheck> target spell.<atom-reminder-custom> <i-auto>(Put it into its owner’s sanctum.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text:
+		<i-flavor><soft-line>ft<soft-line>
+		ft<soft-line>
+		</soft-line>ft<soft-line>
+		ft<soft-line>
+		ft</soft-line></soft-line></soft-line></soft-line></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

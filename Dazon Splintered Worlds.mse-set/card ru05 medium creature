@@ -1,0 +1,20 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: RU05,Medium Creature,4,flying ,Zephyr Singer
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-06-08 00:00:00
+	name: RU05 Medium Creature
+	casting_cost: 3U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	rarity: rare
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

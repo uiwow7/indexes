@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CG12,Large Creature,5,,Bonded Herdbeast
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-07-19 08:44:52
+	name: CG12 Large Creature
+	casting_cost: 5G
+	image: image89.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Turtle</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text: Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters or attacks, put your choice of a +1/+1, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, or <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a> counter on target creature you control.
+	flavor_text:
+		<i-flavor>ft<soft-line>
+		ft</soft-line></i-flavor>
+	power: 3
+	toughness: 6
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

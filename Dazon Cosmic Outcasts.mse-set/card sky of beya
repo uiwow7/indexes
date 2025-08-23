@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-17 13:53:44
+	time_modified: 2025-08-08 11:35:36
+	name: Sky of Beya
+	casting_cost: 1U
+	image: image58.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		<kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>, then draw a card.
+		Whenever you cast a spell with mana value 5 or greater, you may return <atom-cardname><nospellcheck>Sky of Beya</nospellcheck></atom-cardname> from your graveyard to your hand.
+	flavor_text: <i-flavor>The sky cries and the stars die, but our lives never lie.</i-flavor>
+	illustrator: Ilya Popov
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

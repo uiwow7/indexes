@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: !tag energy;
+	time_created: 2025-04-17 19:09:04
+	time_modified: 2025-04-19 22:24:52
+	name: Energy Displacer
+	casting_cost: 1U
+	image: image155.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		Whenever you cast your second spell or draw your second card each turn, you get <sym-auto>E</sym-auto>.
+		<sym-auto>T</sym-auto>, Pay <sym-auto>EEE</sym-auto>: Exile another target nonland permanent. Return it to the battlefield under its owner’s control at the beginning of the next end step.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Scott Uminga
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

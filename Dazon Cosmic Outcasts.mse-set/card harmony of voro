@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: 
+	time_created: 2025-03-17 13:53:37
+	time_modified: 2025-06-21 18:49:13
+	name: Harmony of Voro
+	casting_cost: 1G
+	image: image53.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature gets +1/+1 for each enchantment you control.
+	flavor_text: <i-flavor><error-spelling:en_US>Voro</error-spelling:en_US> is the most connected of all of the splinters, the vibrant forests and many different animals all coexisting.</i-flavor>
+	illustrator: Chibionpu
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

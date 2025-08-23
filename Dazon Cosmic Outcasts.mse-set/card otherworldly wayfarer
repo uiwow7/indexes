@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-10 21:42:00
+	time_modified: 2025-06-04 07:06:02
+	name: Otherworldly Wayfarer
+	casting_cost: W
+	image: image24.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: When <atom-cardname><nospellcheck>Otherworldly Wayfarer</nospellcheck></atom-cardname> enters, draw a card if you control three or more enchantments.
+	flavor_text: <i-flavor><error-spelling:en_US>Gatu</error-spelling:en_US> is full of emptiness, space that can only be traversed by those with specialized technology or those who don’t need what humans do to begin with.</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Louis Laurent
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

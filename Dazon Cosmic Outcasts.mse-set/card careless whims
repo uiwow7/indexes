@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-17 13:53:44
+	time_modified: 2025-08-08 11:28:06
+	name: Careless Whims
+	casting_cost: R
+	image: image59.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Exile the top three cards of your library. You may play one of them this turn.
+	flavor_text: <i-flavor><error-spelling:en_US>Sava</error-spelling:en_US> is full of careless beings who cause endless conflict.</i-flavor>
+	illustrator: Ilya Popov
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

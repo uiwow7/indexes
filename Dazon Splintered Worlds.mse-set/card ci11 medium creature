@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CW11,Medium Creature,5,,Infected Defector
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-08-08 18:05:05
+	name: CI11 Medium Creature
+	casting_cost: 4I
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text: <kw-A><nospellcheck><key>Ward—<param-cost><sym-auto>1</sym-auto>, Pay 3 life</param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays <param-cost><sym-auto>1</sym-auto> and pays 3 life</param-cost>.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text:
+		<i-flavor>ft<soft-line>
+		ft</soft-line></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CR06,Small Creature,3,,Hangar Scrounger
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-07-17 16:48:03
+	name: Rage from Beyond
+	casting_cost: 2R
+	image: image74.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Horror</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, create a 1/1 red Avatar creature token.
+		<sym-auto>1</sym-auto>, Sacrifice a creature: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> deals 1 damage to any target.
+	flavor_text: <i-flavor>ft</i-flavor>
+	power: 1
+	toughness: 2
+	illustrator: Nerva1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

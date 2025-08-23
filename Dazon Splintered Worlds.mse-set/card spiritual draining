@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CB15,Noncreature,2,,Final Flourish — removal
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-07-16 10:03:16
+	name: Spiritual Draining
+	casting_cost: 1B
+	image: image66.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		Target creature gets -2/-2 until end of turn. 
+		Put a +1/+1 counter on target creature.
+	flavor_text:
+		<i-flavor>ft<soft-line>
+		ft</soft-line></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

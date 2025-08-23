@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: !addtoken Demon;
+	time_created: 2025-03-25 21:18:22
+	time_modified: 2025-03-25 22:45:03
+	name: Behemoth Beckoner
+	casting_cost: 1BB
+	image: image75.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Behemoth Beckoner</nospellcheck></atom-cardname> enters, each opponent loses 3 life if a permanent card was put into your graveyard from anywhere this turn.
+		<sym-auto>5BB</sym-auto>, Exile <atom-cardname><nospellcheck>Behemoth Beckoner</nospellcheck></atom-cardname> from your graveyard: Create a 6/6 black Demon creature token.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 4
+	illustrator: MorkarDfc
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

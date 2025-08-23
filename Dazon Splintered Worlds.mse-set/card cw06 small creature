@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CW06,Small Creature,3,,Sigiled Sentinel
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-06-10 10:31:04
+	name: CW06 Small Creature
+	casting_cost: 2W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	rarity: common
+	rule_text:
+		<kw-A><nospellcheck><key>Enlighten</key></nospellcheck><atom-reminder-custom> <i-auto>(Once, when you cast a noncreature spell, <atom-cardname><nospellcheck>Small Creature</nospellcheck></atom-cardname> becomes enlightened. Put a +1/+1 counter on it.)</i-auto></atom-reminder-custom></kw-A>
+		While <atom-cardname><nospellcheck>Small Creature</nospellcheck></atom-cardname> is enlightened, it has <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
