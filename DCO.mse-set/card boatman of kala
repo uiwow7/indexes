@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-12 09:11:41
+	time_modified: 2025-08-24 10:22:50
+	name: Boatman of Kala
+	casting_cost: RR
+	image: image40.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: <atom-cardname><nospellcheck>Boatman of Kala</nospellcheck></atom-cardname> gets +1/+1 for each token you control.
+	flavor_text:
+		<i-flavor>“I can bring you across the lava ocean. For a price, of course.”<soft-line>
+		</soft-line>—<error-spelling:en_US>Dunula</error-spelling:en_US> <error-spelling:en_US>Kor</error-spelling:en_US></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Larry Southberg
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

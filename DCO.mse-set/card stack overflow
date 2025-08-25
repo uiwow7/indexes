@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		use_holofoil_stamps: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes:
+		!tag programming;
+		!tag energy;
+	time_created: 2025-03-10 11:21:43
+	time_modified: 2025-04-22 17:34:31
+	name: Stack Overflow
+	casting_cost: XR
+	image: image14.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		You get </sym>X<sym> <sym>E</sym>.
+		Pay any amount of <sym>E</sym>. If you do, <atom-cardname><nospellcheck>Stack Overflow</nospellcheck></atom-cardname> deals damage to each creature and planeswalker equal to the amount of <sym>E</sym> spent this way.
+	flavor_text: <i-flavor><error-spelling:en_US>Ikan</error-spelling:en_US> seemed safe, but nothing can truly be safe while The Arbiter watches.</i-flavor>
+	illustrator: JoeyJazz
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

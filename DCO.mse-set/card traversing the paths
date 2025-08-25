@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: 
+	time_created: 2025-03-11 19:51:33
+	time_modified: 2025-08-24 10:22:29
+	name: Traversing the Paths
+	casting_cost: 5W
+	image: image41.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Traversing the Paths</nospellcheck></atom-cardname> enters, if it was cast, exile all creatures.
+		Once during each of your turns, you may cast a face-up enchantment spell you own from exile.
+	flavor_text: <i-flavor>You might get whisked away or you may simply cease to be.</i-flavor>
+	illustrator: Ryky
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

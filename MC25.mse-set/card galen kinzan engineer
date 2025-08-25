@@ -1,0 +1,45 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes: Planeswalker; mana value 3-4
+	time_created: 2024-11-02 15:54:56
+	time_modified: 2024-11-15 21:12:36
+	name: Galen, Kinzan Engineer
+	casting_cost: 4
+	image: image15.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-planeswalker>Galen</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	loyalty_cost_2: +1
+	loyalty_cost_3: -1
+	loyalty_cost_4: -2
+	loyalty_cost_5: 
+	loyalty: 4
+	level_1_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>.
+		When <atom-legname><nospellcheck>Galen</nospellcheck></atom-legname> enters, you may activate one of his loyalty abilities as though it had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a>. You may activate a different loyalty ability of Galen this turn.
+	level_2_text: <margin:130:0:0>Add <sym-auto>CCC</sym-auto>. You can’t spend this mana to cast spells.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Draw a card.</margin:130:0:0>
+	level_4_text: <margin:130:0:0>Whenever you activate another ability this turn, copy that ability. You may choose new targets for the copy.</margin:130:0:0>
+	level_5_text: 
+	illustrator: Django-red
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>.
+		When <atom-legname><nospellcheck>Galen</nospellcheck></atom-legname> enters, you may activate one of his loyalty abilities as though it had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a>. You may activate a different loyalty ability of Galen this turn.
+		[+1]: <margin:130:0:0>Add <sym-auto>CCC</sym-auto>. You can’t spend this mana to cast spells.</margin:130:0:0>
+		[-1]: <margin:130:0:0>Draw a card.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Whenever you activate another ability this turn, copy that ability. You may choose new targets for the copy.</margin:130:0:0>

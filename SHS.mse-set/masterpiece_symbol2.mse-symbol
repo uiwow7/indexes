@@ -1,0 +1,37 @@
+﻿mse_version: 0.3.5
+part:
+	type: shape
+	name: Triangle
+	combine: overlap
+	point:
+		position: (0.9364406780,0.0720338983)
+		lock: free
+		line_after: line
+	point:
+		position: (0.4491525424,0.7848298918)
+		lock: free
+		line_after: line
+	point:
+		position: (0.1758474576,0.5517790444)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: Square
+	combine: overlap
+	point:
+		position: (0.2579812864,0.6530033696)
+		lock: free
+		line_after: line
+	point:
+		position: (0.0470436501,0.8798243367)
+		lock: free
+		line_after: line
+	point:
+		position: (0.1233746458,0.9508101897)
+		lock: free
+		line_after: line
+	point:
+		position: (0.3343122821,0.7239892226)
+		lock: free
+		line_after: line

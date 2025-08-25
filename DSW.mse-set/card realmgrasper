@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-06-10 09:35:17
+	time_modified: 2025-08-24 07:41:35
+	name: Realmgrasper
+	casting_cost: 2IWU
+	image: image59.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Anima</word-list-race-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Depart <param-number>3</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this card from your sanctum by exiling an Avatar permanent you control with power <param-number>3</param-number> or greater.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, reveal an Avatar or Anima card from your sanctum. Put it into your hand.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Sheezyliz
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

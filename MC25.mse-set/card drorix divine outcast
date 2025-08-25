@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes: Planeswalker; mana value 3-5
+	time_created: 2024-11-02 15:54:53
+	time_modified: 2024-11-23 10:06:51
+	name: Drorix, Divine Outcast
+	casting_cost: 2GW
+	image: image1.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-planeswalker>Drorix</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	loyalty_cost_1: +1
+	loyalty_cost_2: -1
+	loyalty_cost_3: -X
+	loyalty_cost_4: 
+	loyalty_cost_5: 
+	loyalty: 5
+	level_1_text: <margin:130:0:0>Create a 1/1 Ally creature token that’s all colors.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Reveal the top three cards of your library. You may put a permanent card from among them into your hand.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Exile target creature with mana value X or less until <atom-legname><nospellcheck>Drorix</nospellcheck></atom-legname> leaves the battlefield.     </margin:130:0:0>
+	level_4_text: 
+	level_5_text: 
+	level_6_text: 
+	illustrator: Mazzaropi
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		[+1]: <margin:130:0:0>Create a 1/1 Ally creature token that’s all colors.</margin:130:0:0>
+		[-1]: <margin:130:0:0>Reveal the top three cards of your library. You may put a permanent card from among them into your hand.</margin:130:0:0>
+		[-X]: <margin:130:0:0>Exile target creature with mana value X or less until <atom-legname><nospellcheck>Drorix</nospellcheck></atom-legname> leaves the battlefield.     </margin:130:0:0>

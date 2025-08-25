@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-paradox
+	stylesheet_version: 2024-06-07
+	has_styling: false
+	notes: Instant or Sorcery Card Advantage; mana value 4
+	time_created: 2024-11-02 15:54:48
+	time_modified: 2024-11-28 10:52:20
+	name: Rise From Depths
+	casting_cost: 2UU
+	image: image9.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell>Revelation</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. Draw two cards.
+		<kw-A><nospellcheck><key>Pressurecoalesce <param-cost><sym-auto>3UU</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard for <param-cost><sym-auto>3UU</sym-auto></param-cost> if seven or more cards are in your graveyard. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 3
+	illustrator: Nele Diel
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-paradox
+	stylesheet_version: 2024-06-07
+	has_styling: false
+	notes: Noncreature; mana value 2-3
+	time_created: 2024-11-02 15:54:53
+	time_modified: 2024-11-29 09:39:28
+	name: Call of Chaos
+	casting_cost: WB
+	image: image33.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell>Revelation</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Target player loses 1 life and you gain 1 life.
+		<kw-A><nospellcheck><key>Coalesce—<param-cost>Exile a white card from your graveyard and a black card from your graveyard</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard for <param-cost>Exile a white card from your graveyard and a black card from your graveyard</param-cost>. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

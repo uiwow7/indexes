@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: Enchantment; 1-2 mana value (non-aura)
+	time_created: 2024-11-02 15:54:48
+	time_modified: 2024-11-28 10:47:50
+	name: Welcoming Light
+	casting_cost: 1W
+	image: image29.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Whenever a creature enters under your control, you gain 1 life.
+		At the beginning of your end step, if you gained at least 2 life this turn, you may put a +1/+1 counter on target creature.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: MyHilary
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

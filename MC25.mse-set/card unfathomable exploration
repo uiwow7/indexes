@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: Noncreature; 2-6
+	time_created: 2024-11-02 15:54:53
+	time_modified: 2024-11-23 10:09:13
+	card_color_2: blue
+	name: Unfathomable Exploration
+	name_2: See The Future
+	casting_cost: 1GU
+	image: image19.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Draw a card. You may play an additional land this turn.
+		<sym-auto>G/U</sym-auto>, Exile <atom-cardname><nospellcheck>Unfathomable Exploration</nospellcheck></atom-cardname> from your graveyard: Return target land card from your graveyard to the battlefield tapped.
+	rule_text_2:
+		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
+		If enchanted player would draw a card, that player <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>scries</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> </sym>1<sym>, then draws a card. 
+		Enchanted player has no maximum hand size.
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: James Combridge
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text: 
+	special_text_2: 

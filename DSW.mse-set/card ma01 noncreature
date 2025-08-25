@@ -1,0 +1,21 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: MA01,Noncreature,3,,Sword of Once and Future
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-08-24 16:53:19
+	name: MA01 Noncreature
+	casting_cost: 3
+	image: image131.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: mythic rare
+	illustrator: Zorgroth112
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

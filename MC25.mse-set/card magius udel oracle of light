@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes: Planeswalker; mana value 2-4
+	time_created: 2024-11-02 15:54:53
+	time_modified: 2024-11-26 22:23:01
+	name: Magius Udel, Oracle of Light
+	casting_cost: WU
+	image: image23.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-planeswalker>Udel</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	loyalty_cost_2: 0
+	loyalty_cost_3: -2
+	loyalty_cost_4: -4
+	loyalty: 2
+	level_1_text: Whenever you scry, put a loyalty counter on <atom-legname><nospellcheck>Magius Udel</nospellcheck></atom-legname>.
+	level_2_text: <margin:130:0:0><kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Draw  card.</margin:130:0:0>
+	level_4_text: <margin:130:0:0>You get an emblem with “At the beginning of your upkeep, <kw-a><nospellcheck><key>scry <param-number>2</param-number></key></nospellcheck></kw-a>.”</margin:130:0:0>
+	level_5_text: 
+	illustrator: Gerezon
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		Whenever you scry, put a loyalty counter on <atom-legname><nospellcheck>Magius Udel</nospellcheck></atom-legname>.
+		[0]: <margin:130:0:0><kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Draw  card.</margin:130:0:0>
+		[-4]: <margin:130:0:0>You get an emblem with “At the beginning of your upkeep, <kw-a><nospellcheck><key>scry <param-number>2</param-number></key></nospellcheck></kw-a>.”</margin:130:0:0>

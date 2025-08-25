@@ -1,0 +1,116 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2024-10-01
+stylesheet: m15-altered
+stylesheet_version: 2024-09-23
+set_info:
+	title: Aaanginer MC25 Submission
+	set_code: MC25
+	symbol: symbol1.mse-symbol
+	masterpiece_symbol: 
+	stamp_behavior: All unstamped
+styling:
+	magic-m15-altered:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-dfc:
+		front_style: normal
+		other_options: use hovering pt, unindent nonloyalty abilities, automate type frames, auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-planeswalker:
+		other_options: un-indent nonloyalty abilities, mythic edition fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-paradox:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+include_file: card cryptic call
+include_file: card profane call
+include_file: card blazing call
+include_file: card verdant call
+include_file: card illusory companion
+include_file: card deep sea consumer
+include_file: card wasteful decay
+include_file: card wayward impulse
+include_file: card forests watcher
+include_file: card divine call
+include_file: card rise from depths
+include_file: card darkened strix
+include_file: card crusader of the blood moon
+include_file: card angelic wrath
+include_file: card dragon of arcane frost
+include_file: card intoxicating decay
+include_file: card dragon of celestial wishes
+include_file: card unceasing explorer
+include_file: card welcoming light
+include_file: card visions of the great beyond
+include_file: card arcane onslaught
+include_file: card in search of grandeur
+include_file: card magius udel oracle of light
+include_file: card darkness unchained
+include_file: card the last dozandi
+include_file: card drorix divine outcast
+include_file: card call of chaos
+include_file: card arcane oracle
+include_file: card explorer of finality
+include_file: card outpost of radiant fire
+include_file: card unfathomable exploration
+include_file: card caves of premonition
+include_file: card galen kinzan engineer
+include_file: card in search of brilliance
+keyword:
+	keyword: Torment
+	match: Torment yourself
+	reminder: You lose 3 life unless you discard a card or sacrifice a nonland permanent.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Function
+	match: Create a function token
+	reminder: It's an enchantment. As you cast an instant or sorcery spell, sacrifice any number of Functions to add their effects to that spell.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Spirited
+	match: Spirited
+	reminder: When this enters, you may activate one of its activated abilities without paying its cost.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Compose
+	match: Compose
+	reminder: Then if you cast this from your hand, exile it and create a Saga token with “<sym>r3</sym>—You may cast a copy of this card from exile without paying its mana cost.”
+	rules: 
+	mode: custom
+keyword:
+	keyword: Coalesce
+	match: Coalesce <atom-param>cost</atom-param>
+	reminder: You may cast this from your graveyard for {param1}. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Pressurecoalesce
+	match: Pressurecoalesce <atom-param>cost</atom-param>
+	reminder: You may cast this from your graveyard for {param1} if seven or more cards are in your graveyard. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Attune
+	match: Attune
+	reminder: Add text based on basic land types among different lands you control
+	rules: 
+	mode: custom
+keyword:
+	keyword: Cadence
+	match: Cadence
+	reminder: Whenever you cast a spell, if its mana value is greater than this creature's power, put a +1/+1 counter on this creature.
+	rules: 
+	mode: custom
+version_control:
+	type: none
+apprentice_code: 

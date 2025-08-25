@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-09 16:03:50
+	time_modified: 2025-08-24 10:10:36
+	name: Icedroid
+	casting_cost: 4U
+	image: image8.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Construct</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Icedroid</nospellcheck></atom-cardname> costs <sym-auto>1</sym-auto> less to cast for each card you’ve drawn this turn.
+		Whenever <atom-cardname><nospellcheck>Icedroid</nospellcheck></atom-cardname> enters or you cast another spell with mana value 5 or greater, tap target nonland permanent and put a <kw-0><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-0> on it.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 3
+	illustrator: Redoxygene
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CG02,Small Creature,2,,Iridescent Blademaster
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-08-24 07:39:34
+	name: XXX Uncoverer
+	casting_cost: 1G
+	image: image20.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>.
+		<atom-name>This creature</atom-cardname> gets +2/+1 as long as you control a Revelation creature.
+	flavor_text:
+		<i-flavor>ft<soft-line>
+		ft<soft-line>
+		ft</soft-line></soft-line></i-flavor>
+	power: 1
+	toughness: 2
+	illustrator: DaiSanVisArt
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
