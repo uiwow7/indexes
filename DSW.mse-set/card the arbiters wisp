@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CW10,Small Creature,4,,Knight of the New Coalition
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-07-16 09:01:10
+	time_modified: 2025-08-25 16:16:09
 	name: The Arbiter’s Wisp
 	casting_cost: 3W
 	image: image11.png
@@ -20,7 +20,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: common
+	rarity: uncommon
 	rule_text: Other Avatar creatures you control enter with an additional +1/+1 counter on them.
 	flavor_text:
 		<i-flavor>ft<soft-line>

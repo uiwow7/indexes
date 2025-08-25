@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CW09,Small Creature,4,,Bola Slinger
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-07-26 10:50:39
+	time_modified: 2025-08-25 16:26:19
 	name: CI09 Small Creature
 	casting_cost: 3I
 	image: image106.png
@@ -14,7 +14,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en></word-list-race-en>
-	rarity: common
+	rarity: uncommon
 	rule_text: Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, you may sacrifice a creature. When you do, draw a card from your sanctum.
 	flavor_text:
 		<i-flavor>ft<soft-line>

@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CU19,Noncreature,3,,Eyes of Gitaxias — set mechanic
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-07-17 17:41:43
+	time_modified: 2025-08-25 16:11:25
 	name: Spiritual Departure
 	casting_cost: 3U
 	image: image35.png
@@ -20,7 +20,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: common
+	rarity: uncommon
 	rule_text:
 		<kw-A><nospellcheck><key>Depart <param-number>2</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this card from your sanctum by exiling an Avatar permanent you control with power <param-number>2</param-number> or greater.)</i-auto></atom-reminder-custom></kw-A>
 		Draw two cards from your sanctum or your library.

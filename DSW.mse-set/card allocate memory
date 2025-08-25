@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CB18,Noncreature,3,,Unseal the Necropolis — return from gy
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-07-17 16:01:26
+	time_modified: 2025-08-25 16:09:22
 	name: Allocate Memory
 	casting_cost: 2B
 	image: image61.png
@@ -20,7 +20,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: common
+	rarity: uncommon
 	rule_text:
 		Return up to two target creature cards from your graveyard to your hand.
 		<kw-A><nospellcheck><key>Realize <param-cost><sym-auto>5B</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</i-auto></atom-reminder-custom></kw-A>

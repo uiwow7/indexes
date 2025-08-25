@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CR19,Noncreature,3,,Marauding Dreadship
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-07-17 17:36:20
+	time_modified: 2025-08-25 16:09:26
 	name: Forge Chromatic Fire
 	casting_cost: 2R
 	image: image84.png
@@ -20,7 +20,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: common
+	rarity: uncommon
 	rule_text:
 		Creatures you control get +2/+0 until end of turn.
 		<kw-A><nospellcheck><key>Realize <param-cost><sym-auto>5R</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</i-auto></atom-reminder-custom></kw-A>

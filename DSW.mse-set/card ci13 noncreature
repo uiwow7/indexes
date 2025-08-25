@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-08-06 11:46:37
-	time_modified: 2025-08-08 16:33:04
+	time_modified: 2025-08-25 16:26:29
 	name: CI13 Noncreature
 	casting_cost: I
 	image: image123.png
@@ -18,6 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
+	rarity: common
 	rule_text:
 		Look at the top three cards of your library, then put them back in any order. 
 		Draw a card.

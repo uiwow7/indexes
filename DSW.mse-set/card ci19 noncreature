@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CW19,Noncreature,3,,Cut Short
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-08-08 16:48:20
+	time_modified: 2025-08-25 16:26:47
 	name: CI19 Noncreature
 	casting_cost: 2I
 	image: image126.png
@@ -20,8 +20,8 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: common
-	rule_text: Target creature becomes an enchantment and loses all other card types.
+	rarity: uncommon
+	rule_text: Target creature becomes an enchantment and loses all other card types. <i-auto>(This lasts indefinitely.)</i-auto>
 	flavor_text:
 		<i-flavor>ft<soft-line>
 		ft<soft-line>

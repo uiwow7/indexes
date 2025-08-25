@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CU20,Noncreature,4,,Meeting of Minds — draw
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-07-02 20:57:51
+	time_modified: 2025-08-25 16:08:58
 	name: Amalgamate Memories
 	casting_cost: 3U
 	image: image34.png
@@ -20,7 +20,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: common
+	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>, then draw two cards.
 		<kw-A><nospellcheck><key>Realize <param-cost><sym-auto>5UU</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</i-auto></atom-reminder-custom></kw-A>

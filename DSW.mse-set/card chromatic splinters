@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CW21,Noncreature,4,,Inspired Charge — board buff
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-06-21 18:08:46
+	time_modified: 2025-08-25 16:15:31
 	name: Chromatic Splinters
 	casting_cost: 3W
 	image: image25.png
@@ -20,7 +20,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: common
+	rarity: uncommon
 	rule_text:
 		Creatures you control get +1/+1.
 		Avatars you control have <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.

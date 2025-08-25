@@ -7,7 +7,7 @@ card:
 		CB10,Medium Creature,5,,Etched Host Doombringer
 		FINDART
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-08-24 07:39:58
+	time_modified: 2025-08-25 16:21:12
 	name: P
 	casting_cost: 4B
 	image: image24.png
@@ -22,7 +22,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: common
+	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
 		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> is put into a graveyard or exile from the battlefield, you draw two cards and lose 2 life.

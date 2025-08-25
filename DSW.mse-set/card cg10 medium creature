@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CG10,Medium Creature,4,,Chomping Kavu
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-07-22 14:05:45
+	time_modified: 2025-08-25 16:25:19
 	name: CG10 Medium Creature
 	casting_cost: 4G
 	image: image96.png
@@ -20,7 +20,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: common
+	rarity: uncommon
 	rule_text:
 		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, if this creature doesn’t have a +1/+1 counter on it, put a +1/+1 counter on it.)</i-auto></atom-reminder-custom></kw-A>
 		Whenever one or more counters are put on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>, target creature you control gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.

@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CR04,Small Creature,2,,Thrashing Frontliner
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-07-17 16:46:47
+	time_modified: 2025-08-25 16:24:38
 	name: Kalan Processor
 	casting_cost: 1R
 	image: image80.png
@@ -20,7 +20,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: common
+	rarity: uncommon
 	rule_text: Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/W</sym>.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text:
 		<i-flavor>ft<soft-line>

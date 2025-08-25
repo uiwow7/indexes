@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: CW17,Noncreature,2,,Sunder the Gateway
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-08-08 17:17:15
+	time_modified: 2025-08-25 16:09:49
 	name: Spatial Refractions
 	casting_cost: 2I
 	image: image129.png
@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: common
+	rarity: uncommon
 	rule_text:
 		Create a token that’s a copy of target land.
 		<kw-A><nospellcheck><key>Realize <param-cost><sym-auto>4II</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</i-auto></atom-reminder-custom></kw-A>

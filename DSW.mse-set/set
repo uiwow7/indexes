@@ -192,60 +192,33 @@ include_file: card eternal engine
 include_file: card ca04 noncreature
 include_file: card ca05 noncreature
 include_file: card ca06 noncreature
-include_file: card rl01 noncreature
-include_file: card cl02 noncreature
-include_file: card cl03 noncreature
-include_file: card cl04 noncreature
-include_file: card cl05 noncreature
-include_file: card cl06 noncreature
-include_file: card cl07 noncreature
-include_file: card cl08 noncreature
-include_file: card cl09 noncreature
-include_file: card cl10 noncreature
-include_file: card cl11 noncreature
-include_file: card cl12 noncreature
-include_file: card cl13 noncreature
-include_file: card cl14 noncreature
-include_file: card cl15 noncreature
 include_file: card uw01 small creature
-include_file: card uw02 small creature
 include_file: card uw03 small creature
 include_file: card uw04 small creature
-include_file: card uw05 small creature
 include_file: card uw06 medium creature
 include_file: card uw07 medium creature
-include_file: card uw08 medium creature
 include_file: card uw09 noncreature
 include_file: card uw10 noncreature
 include_file: card uw11 noncreature
-include_file: card uw12 noncreature
 include_file: card uw13 noncreature
 include_file: card uu01 small creature
 include_file: card uu02 small creature
 include_file: card uu03 small creature
 include_file: card uu04 small creature
 include_file: card uu05 small creature
-include_file: card uu06 small creature
 include_file: card uu07 noncreature
-include_file: card uu08 noncreature
 include_file: card uu09 noncreature
 include_file: card uu10 noncreature
-include_file: card uu11 noncreature
 include_file: card uu12 noncreature
-include_file: card uu13 noncreature
 include_file: card ub01 small creature
 include_file: card ub02 small creature
 include_file: card ub03 medium creature
 include_file: card ub04 medium creature
 include_file: card ub05 medium creature
-include_file: card ub06 medium creature
 include_file: card ub07 noncreature
 include_file: card ub08 noncreature
-include_file: card ub09 noncreature
 include_file: card ub10 noncreature
 include_file: card ub11 noncreature
-include_file: card ub12 noncreature
-include_file: card ub13 noncreature
 include_file: card ur01 small creature
 include_file: card ur02 small creature
 include_file: card ur03 small creature
@@ -304,7 +277,7 @@ include_file: card rb09 noncreature
 include_file: card rr01 small creature
 include_file: card rr02 small creature
 include_file: card rr03 medium creature
-include_file: card rr04 medium creature
+include_file: card interstellar phoenix
 include_file: card rr05 large creature
 include_file: card rr06 noncreature
 include_file: card rr07 noncreature
@@ -412,7 +385,7 @@ include_file: card ri10 noncreature
 include_file: card ci13 noncreature
 include_file: card spatial refractions
 include_file: card booster pack
-include_file: card rl01 noncreature.1
+include_file: card rl01 noncreature
 include_file: card rl02 noncreature
 include_file: card rl03 noncreature
 include_file: card rl04 noncreature
@@ -421,7 +394,7 @@ include_file: card rl06 noncreature
 include_file: card rl07 noncreature
 include_file: card rl08 noncreature
 include_file: card rl09 noncreature
-include_file: card rl10 noncreature
+include_file: card submerged woodland
 include_file: card rl11 noncreature
 include_file: card rl12 noncreature
 include_file: card rl13 noncreature

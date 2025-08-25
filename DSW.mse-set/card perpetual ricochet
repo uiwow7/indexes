@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CR13,Noncreature,1,,Beamtown Beatstick
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-07-17 17:28:36
+	time_modified: 2025-08-25 16:24:46
 	name: Perpetual Ricochet
 	casting_cost: R
 	image: image81.png
@@ -20,7 +20,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: common
+	rarity: uncommon
 	rule_text:
 		<atom-name>This spell</atom-cardname> deals 1 damage to any target. 
 		If you’ve cast another noncreature spell this turn, <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> deals 1 damage to any target.

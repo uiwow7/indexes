@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CU12,Noncreature,2,,Assimilate Essence — quench
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-06-21 22:26:58
+	time_modified: 2025-08-25 16:18:09
 	name: Misrendering
 	casting_cost: 1U
 	image: image28.png
@@ -20,7 +20,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: common
+	rarity: uncommon
 	rule_text: Counter target spell unless its controller pays <sym-auto>2</sym-auto>. <kw-A><nospellcheck><key>You get</key></nospellcheck> <sym>V/W</sym>.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text:
 		<i-flavor>“It’s fascinating, isn’t it? A world of lies exposed through a singular miscalculation.”<soft-line>
