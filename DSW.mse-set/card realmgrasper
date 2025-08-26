@@ -21,7 +21,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-A><nospellcheck><key>Depart <param-number>3</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this card from your sanctum by exiling an Avatar permanent you control with power <param-number>3</param-number> or greater.)</i-auto></atom-reminder-custom></kw-A>
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, reveal an Avatar or <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Anima</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> card from your sanctum. Put it into your hand.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, reveal an Avatar or Anima card from your sanctum. Put it into your hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4

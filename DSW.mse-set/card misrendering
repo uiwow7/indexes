@@ -24,7 +24,7 @@ card:
 	rule_text: Counter target spell unless its controller pays <sym-auto>2</sym-auto>. <kw-A><nospellcheck><key>You get</key></nospellcheck> <sym>V/W</sym>.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text:
 		<i-flavor>“It’s fascinating, isn’t it? A world of lies exposed through a singular miscalculation.”<soft-line>
-		—CHARACTER <error-spelling:en_US>TBD</soft-line></i-flavor></error-spelling:en_US>
+		—CHARACTER <error-spelling:en_US>TBD</soft-line></error-spelling:en_US></i-flavor>
 	illustrator: Alexandr Elichev
 	card_code_text: 
 	card_code_text_2: 

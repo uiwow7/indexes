@@ -389,21 +389,21 @@ include_file: card ri10 noncreature
 include_file: card ci13 noncreature
 include_file: card spatial refractions
 include_file: card no-name.1
-include_file: card rl01 noncreature
-include_file: card rl02 noncreature
-include_file: card rl03 noncreature
-include_file: card rl04 noncreature
-include_file: card rl05 noncreature
-include_file: card rl06 noncreature
-include_file: card rl07 noncreature
-include_file: card rl08 noncreature
-include_file: card rl09 noncreature
+include_file: card frozen cavern
+include_file: card forsaken depths
+include_file: card sinful carvings
+include_file: card sunlit grove
+include_file: card peacful jungle
+include_file: card barren heath
+include_file: card soaring edifice
+include_file: card lonesome growth
+include_file: card ivory brush
 include_file: card submerged woodland
-include_file: card rl11 noncreature
-include_file: card rl12 noncreature
-include_file: card rl13 noncreature
-include_file: card rl14 noncreature
-include_file: card rl15 noncreature
+include_file: card mountaintop temple
+include_file: card towering spires
+include_file: card mysterious gateway
+include_file: card moonlit mouth
+include_file: card subterranean fungus
 keyword:
 	keyword: Infuse
 	match: Infuse
