@@ -58,6 +58,10 @@ styling:
 	magic-m15-champions-test:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
+	magic-m15-mainframe-dfc:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	magic-m15-mainframe-dfc-plus:
 		official_frames: 
 		altered_plus_frames: 
@@ -384,7 +388,7 @@ include_file: card ri09 noncreature
 include_file: card ri10 noncreature
 include_file: card ci13 noncreature
 include_file: card spatial refractions
-include_file: card booster pack
+include_file: card no-name.1
 include_file: card rl01 noncreature
 include_file: card rl02 noncreature
 include_file: card rl03 noncreature

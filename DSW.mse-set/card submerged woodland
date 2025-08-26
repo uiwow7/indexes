@@ -23,7 +23,7 @@ card:
 	rule_text:
 		<atom-name>This land</atom-cardname> enters tapped. When it does, <kw-1><nospellcheck><key>sift <param-number>1</param-number></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at the top card of your library. You may put that card into your sanctum.)</i-auto></atom-reminder-custom></kw-1>
 		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>U</sym-auto>.
-	flavor_text: <i-flavor>some ft about the merging disruping ecosystems n stuff</i-flavor>
+	flavor_text: <i-flavor>some ft about the merging <error-spelling:en_US>disruping</error-spelling:en_US> ecosystems n stuff</i-flavor>
 	illustrator: Birgitte Gustavsen
 	card_code_text: 
 	card_code_text_2: 
