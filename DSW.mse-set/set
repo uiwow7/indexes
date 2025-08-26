@@ -171,23 +171,23 @@ include_file: card kalan crystal spear
 include_file: card kalan sunbeam
 include_file: card venturing fox
 include_file: card xxx uncoverer
-include_file: card cg03
+include_file: card celestial envoy
 include_file: card ghostly wanderer
 include_file: card arisen avatar
 include_file: card beya woodswalker
 include_file: card thickets incarnation
-include_file: card deepgrowth xxxx
-include_file: card no-name
-include_file: card cg10 medium creature
-include_file: card cg11 medium creature
-include_file: card cg12 large creature
+include_file: card deepgrowth critter
+include_file: card resolute herald
+include_file: card avatar of stolen fate
+include_file: card nebula titan
+include_file: card unconcerned tortoise
 include_file: card eternal blossomer
 include_file: card snakeskin veil
-include_file: card cg15 noncreature
-include_file: card cg16 noncreature
-include_file: card cg17 noncreature
-include_file: card cg18 noncreature
-include_file: card cg19 noncreature
+include_file: card astral navigation
+include_file: card invigorate lost realms
+include_file: card stand your ground
+include_file: card devour to infinity
+include_file: card hunt for eternity
 include_file: card gatu darkhammer
 include_file: card devour earthly worlds
 include_file: card ca01 small creature
@@ -225,29 +225,21 @@ include_file: card ub10 noncreature
 include_file: card ub11 noncreature
 include_file: card ur01 small creature
 include_file: card ur02 small creature
-include_file: card ur03 small creature
 include_file: card ur04 medium creature
 include_file: card ur05 medium creature
 include_file: card ur06 medium creature
-include_file: card ur07 medium creature
-include_file: card ur08 noncreature
 include_file: card ur09 noncreature
 include_file: card ur10 noncreature
 include_file: card ur11 noncreature
 include_file: card ur12 noncreature
-include_file: card ur13 noncreature
 include_file: card ug01 small creature
-include_file: card ug02 small creature
 include_file: card ug03 small creature
 include_file: card ug04 small creature
 include_file: card ug05 medium creature
 include_file: card ug06 medium creature
 include_file: card ug07 medium creature
-include_file: card ug08 large creature
 include_file: card ug09 noncreature
-include_file: card ug10 noncreature
 include_file: card ug11 noncreature
-include_file: card ug12 noncreature
 include_file: card ug13 noncreature
 include_file: card rw01 small creature
 include_file: card rw02 small creature
@@ -334,12 +326,12 @@ include_file: card mm05 large creature
 include_file: card mm06 large creature
 include_file: card tomb of forgotten worlds
 include_file: card mx01 noncreature
-include_file: card ci01 small creature
+include_file: card gatu gembearer
 include_file: card ci02 small creature
-include_file: card ci03 small creature
-include_file: card ci04 small creature
+include_file: card dedicated acolyte
+include_file: card barrier of storms
 include_file: card ci05 small creature
-include_file: card ci06 small creature
+include_file: card forerunner of the collision
 include_file: card ci07 small creature
 include_file: card ci08 celestial tree
 include_file: card ci09 small creature
@@ -362,7 +354,6 @@ include_file: card um04 arcun
 include_file: card um05 arcun
 include_file: card um06 arcun
 include_file: card ui01 small creature
-include_file: card ui02 small creature
 include_file: card ui03 small creature
 include_file: card ui04 small creature
 include_file: card ui05 small creature
@@ -370,10 +361,7 @@ include_file: card ui06 small creature
 include_file: card ui07 noncreature
 include_file: card u08 noncreature
 include_file: card ui09 noncreature
-include_file: card ui10 noncreature
 include_file: card ui11 noncreature
-include_file: card ui12 noncreature
-include_file: card ui13 noncreature
 include_file: card mu01 small creature
 include_file: card mu01 large creature.1
 include_file: card ri01 small creature
@@ -388,7 +376,7 @@ include_file: card ri09 noncreature
 include_file: card ri10 noncreature
 include_file: card ci13 noncreature
 include_file: card spatial refractions
-include_file: card no-name.1
+include_file: card no-name
 include_file: card frozen cavern
 include_file: card forsaken depths
 include_file: card sinful carvings
