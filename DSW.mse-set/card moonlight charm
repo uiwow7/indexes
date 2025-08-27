@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CW16,Noncreature,2,,Realmbreaker's Grasp
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-08-08 18:02:32
+	time_modified: 2025-08-26 23:42:59
 	name: Moonlight Charm
 	casting_cost: I
 	image: image125.png
@@ -25,7 +25,7 @@ card:
 		Choose one –
 		<li><bullet>• </bullet>Destroy target enchantment.
 		</li><li><bullet>• </bullet>Put target card in a graveyard into its owner’s sanctum.
-		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>Sift <param-number>2</param-number></key></nospellcheck>. <i-auto>(Look at the top two cards of your library, then put any number of them into your sanctum and the rest on top in any order.)</i-auto><atom-reminder-custom> <i-auto>(To sift <param-number>2</param-number>, look at the top <param-number>two</param-number> cards of your library, then put any number of them into your sanctum.)</i-auto></atom-reminder-custom></kw-A></li>
+		</li><li><bullet>• </bullet><kw-0><nospellcheck><key>Sift <param-number>2</param-number></key></nospellcheck></kw-0>. <i-auto>(Look at the top two cards of your library, then put any number of them into your sanctum and the rest on top in any order.)</i-auto></li>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Sylvia Ritter
 	card_code_text: Designed by Kogane

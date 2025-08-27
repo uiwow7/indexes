@@ -3,12 +3,12 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: CW09,Small Creature,4,,Bola Slinger
+	notes: CW07,Small Creature,3,flying ,Attentive Skywarden
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-08-26 23:36:05
-	name: CI09 Small Creature
-	casting_cost: 3I
-	image: image106.png
+	time_modified: 2025-08-26 23:36:46
+	name: Ethereal Envoy
+	casting_cost: 2I
+	image: image120.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -20,14 +20,15 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: uncommon
-	rule_text: Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, you may sacrifice a creature. When you do, draw a card from your sanctum.
+	rarity: common
+	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters or dies, tap target creature. Put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.
 	flavor_text:
 		<i-flavor>ft<soft-line>
-		ft</soft-line></i-flavor>
-	power: 3
-	toughness: 3
-	illustrator: Tron30
+		ft<soft-line>
+		ft</soft-line></soft-line></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Yury Solntsev
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

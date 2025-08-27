@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-adventure
+	stylesheet_version: 2024-05-27
+	has_styling: false
+	notes: CW05,Small Creature,3,,Kithkin Billyrider
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-08-26 23:35:45
+	card_color_2: silver
+	name: Darkstar Invader
+	name_2: Stars
+	casting_cost: 2I
+	casting_cost_2: 1IV/GV/U
+	image: image104.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Vertex Sorcery</word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: <word-list-spell></word-list-spell>
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym>. <atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text_2:
+		<i-auto>(You can cast copies of this while in play)</i-auto>
+		Draw two cards, then discard two cards.
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: ThyBlake
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

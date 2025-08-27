@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CW21,Noncreature,4,,Inspired Charge
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-08-26 23:46:53
+	name: Starlight’s Glimmer
+	casting_cost: 4I
+	image: image116.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		Look at the top seven cards of your library, then <kw-0><nospellcheck><key>sanctify</key></nospellcheck></kw-0> any number of them. <i-auto>(Put them into their owner’s sanctum.)</i-auto>
+		Choose up to two cards from your sanctum and put them into your hand.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Alfred Ragvest
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
