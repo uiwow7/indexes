@@ -334,15 +334,15 @@ include_file: card darkstar invader
 include_file: card forerunner of the collision
 include_file: card ethereal envoy
 include_file: card disciple of the celestial tree
-include_file: card ci09 small creature
+include_file: card thief of the boundless
 include_file: card ci11 medium creature
 include_file: card ci10 medium creature
 include_file: card eternal warrior
 include_file: card skyshift
 include_file: card glimpse lost totality
 include_file: card moonlight charm
-include_file: card ci17 noncreature
-include_file: card ci19 noncreature
+include_file: card shadowy incarnations
+include_file: card consume into the boundless
 include_file: card empty hollow eternity
 include_file: card starlights glimmer
 include_file: card vertex reminder
@@ -374,7 +374,7 @@ include_file: card ri07 noncreature
 include_file: card ri08 noncreature
 include_file: card ri09 noncreature
 include_file: card ri10 noncreature
-include_file: card ci13 noncreature
+include_file: card wonderings
 include_file: card refract empty space
 include_file: card no-name
 include_file: card frozen cavern
