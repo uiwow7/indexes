@@ -2,12 +2,15 @@
 card:
 	has_styling: false
 	notes: 
-	time_created: 2025-08-27 15:58:24
-	time_modified: 2025-08-27 15:58:24
+	time_created: 2025-08-27 15:54:36
+	time_modified: 2025-08-27 15:55:09
+	name: UM09
+	casting_cost: BR
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
+	rarity: uncommon
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

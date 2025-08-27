@@ -5,10 +5,10 @@ card:
 	has_styling: false
 	notes: CW11,Medium Creature,5,,Infected Defector
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-08-08 18:05:05
+	time_modified: 2025-08-27 15:47:46
 	name: CI11 Medium Creature
 	casting_cost: 4I
-	image: 
+	image: image149.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -27,7 +27,7 @@ card:
 		ft</soft-line></i-flavor>
 	power: 5
 	toughness: 5
-	illustrator: 
+	illustrator: Anato Finnstark
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

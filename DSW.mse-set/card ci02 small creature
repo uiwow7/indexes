@@ -5,10 +5,10 @@ card:
 	has_styling: false
 	notes: CW02,Small Creature,1,,Tarkir Duneshaper
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-08-08 18:09:35
+	time_modified: 2025-08-27 15:49:08
 	name: CI02 Small Creature
 	casting_cost: I
-	image: 
+	image: image150.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -16,7 +16,7 @@ card:
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type: <word-list-race-en>Goat</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
@@ -25,7 +25,7 @@ card:
 	flavor_text: <i-flavor>ft</i-flavor>
 	power: 2
 	toughness: 1
-	illustrator: Escanor333
+	illustrator: ShootingStarLogBook
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

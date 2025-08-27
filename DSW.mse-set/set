@@ -19,6 +19,7 @@ set_info:
 	symbol: symbol11.mse-symbol
 	masterpiece_symbol: 
 	CARDNAME_replacement: card's type
+	border_color: rgb(0,0,0)
 	use_gradient_multicolor: yes
 	card_number_style: 001/099
 	custom_super_types: 
@@ -84,6 +85,10 @@ styling:
 		overlay: 
 	magic-new-purple:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-old:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		colored_rarities: yes
 		overlay: 
 include_file: card sunrise caller
 include_file: card fallen warden
@@ -199,7 +204,7 @@ include_file: card ca06 noncreature
 include_file: card uw01 small creature
 include_file: card uw03 designed
 include_file: card uw04 designed
-include_file: card uw06 medium creature
+include_file: card uw06 designed
 include_file: card uw07 designed
 include_file: card uw09 noncreature
 include_file: card uw10 noncreature
@@ -392,6 +397,21 @@ include_file: card towering spires
 include_file: card mysterious gateway
 include_file: card moonlit mouth
 include_file: card subterranean fungus
+include_file: card um07
+include_file: card um08
+include_file: card um09
+include_file: card um10
+include_file: card um11
+include_file: card um12
+include_file: card um13
+include_file: card um14
+include_file: card um15
+include_file: card um16
+include_file: card um17
+include_file: card um18
+include_file: card um19
+include_file: card um20
+include_file: card um21
 keyword:
 	keyword: Infuse
 	match: Infuse
