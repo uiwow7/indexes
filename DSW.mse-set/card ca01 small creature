@@ -5,15 +5,33 @@ card:
 	has_styling: false
 	notes: CA01,Small Creature,3,,Skittering Surveyor
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-06-08 00:00:00
+	time_modified: 2025-08-27 12:39:34
 	name: CA01 Small Creature
-	image: 
+	casting_cost: 1
+	image: image146.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
-	sub_type: <word-list-race-en></word-list-race-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: common
+	rule_text:
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, <kw-a><nospellcheck><key>scry <param-number>1</param-number></key></nospellcheck></kw-a>.
+		<sym-auto>2</sym-auto>: Add one mana of any color.
+	flavor_text:
+		<i-flavor>ft<soft-line>
+		ft<soft-line>
+		ft<soft-line>
+		ft</soft-line></soft-line></soft-line></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Venum-Rules-All
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

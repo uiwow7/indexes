@@ -5,15 +5,30 @@ card:
 	has_styling: false
 	notes: CA02,Medium Creature,3,,Halo Hopper
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-06-08 00:00:00
+	time_modified: 2025-08-27 12:42:46
 	name: CA02 Medium Creature
-	image: 
+	casting_cost: 4
+	image: image147.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
-	sub_type: <word-list-race-en></word-list-race-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: common
+	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters or leaves the battlefield, you may discard a card, then draw a card.
+	flavor_text:
+		<i-flavor>ft<soft-line>
+		ft<soft-line>
+		ft</soft-line></soft-line></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Elia Pellegrini
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

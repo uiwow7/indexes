@@ -8,10 +8,10 @@ card:
 		
 		CHANGEART
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-08-08 17:53:24
+	time_modified: 2025-08-27 12:43:34
 	name: Render Worlds
 	casting_cost: R
-	image: 
+	image: image148.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -31,7 +31,7 @@ card:
 		ft<soft-line>
 		ft<soft-line>
 		ft</soft-line></soft-line></soft-line></soft-line></i-flavor>
-	illustrator: StephanieStutz
+	illustrator: Vadim Sadovski
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: UU01,Small Creature,1,,Captive Weird
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-06-08 00:00:00
+	time_modified: 2025-08-27 14:29:37
 	name: UU01 Small Creature
 	casting_cost: U
 	image: 
@@ -15,6 +15,13 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en></word-list-race-en>
 	rarity: uncommon
+	rule_text: <kw-1><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-core> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-core></kw-1>
+	flavor_text:
+		<i-flavor>ft<soft-line>
+		ft<soft-line>
+		ft</soft-line></soft-line></i-flavor>
+	power: 1
+	toughness: 1
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

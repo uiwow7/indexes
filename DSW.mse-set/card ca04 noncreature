@@ -5,15 +5,23 @@ card:
 	has_styling: false
 	notes: CA04,Noncreature,1,,Urn of Godfire
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-06-08 00:00:00
+	time_modified: 2025-08-27 12:31:11
 	name: CA04 Noncreature
-	image: 
+	casting_cost: 1
+	image: image144.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
 	sub_type: <word-list-artifact></word-list-artifact>
 	rarity: common
+	rule_text:
+		When <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> dies, draw a card.
+		<sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>: You draw a card and gain 2 life.
+	flavor_text:
+		<i-flavor>ft<soft-line>
+		ft</soft-line></i-flavor>
+	illustrator: SolarArchitect
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

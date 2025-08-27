@@ -197,16 +197,16 @@ include_file: card ca04 noncreature
 include_file: card ca05 noncreature
 include_file: card ca06 noncreature
 include_file: card uw01 small creature
-include_file: card uw03 small creature
-include_file: card uw04 small creature
+include_file: card uw03 designed
+include_file: card uw04 designed
 include_file: card uw06 medium creature
-include_file: card uw07 medium creature
+include_file: card uw07 designed
 include_file: card uw09 noncreature
 include_file: card uw10 noncreature
 include_file: card uw11 noncreature
 include_file: card uw13 noncreature
-include_file: card uu01 small creature
-include_file: card uu02 small creature
+include_file: card uu01 designed
+include_file: card uu02 designed
 include_file: card uu03 small creature
 include_file: card uu04 small creature
 include_file: card uu05 small creature
