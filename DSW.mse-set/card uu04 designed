@@ -3,11 +3,11 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: UU05,Small Creature,3,,Referee Squad
+	notes: UU04,Small Creature,2,flying ,Skyclave Aerialist
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-08-27 17:50:38
-	name: UU05 Small Creature
-	casting_cost: 2U
+	time_modified: 2025-08-27 17:52:08
+	name: UU04 DESIGNED
+	casting_cost: 1U
 	image: 
 	image_2: 
 	mainframe_image: 
@@ -20,7 +20,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, if this creature doesn’t have a +1/+1 counter on it, put a +1/+1 counter on it.)</i-auto></atom-reminder-custom></kw-A>
-		Whenever one or more counters are put on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>, tap up to one target creature and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.
+		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>. Spend this mana only to cast noncreature spells.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 
@@ -29,7 +29,7 @@ card:
 	flavor_text_3: <i-flavor></i-flavor>
 	flavor_text_4: <i-flavor></i-flavor>
 	power: 1
-	toughness: 3
+	toughness: 2
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

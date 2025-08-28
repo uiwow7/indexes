@@ -3,16 +3,16 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: UW11,Noncreature,3,,Invasion of Dominaria
+	notes: UW09,Noncreature,1,,Elspeth's Smite
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-08-27 17:45:59
-	name: UW11 Noncreature
-	casting_cost: 1W
+	time_modified: 2025-08-27 17:45:24
+	name: UW09 DESIGNED
+	casting_cost: W
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type: <word-list-type-en>Instant</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
@@ -21,7 +21,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: Destroy target tapped creature. <kw-A><nospellcheck><key>You get</key></nospellcheck> <sym>V/W</sym>.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: <atom-name>This spell</atom-cardname> deals 3 damage to target attacking, blocking, or Anima creature.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 
