@@ -3,9 +3,9 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 01:28:21
-	time_modified: 2025-03-26 02:22:27
+	time_modified: 2025-08-27 21:51:11
 	name: Door to Eternity
-	casting_cost: 3BB
+	casting_cost: 1BB
 	image: image89.png
 	image_2: 
 	mainframe_image: 
@@ -20,9 +20,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		At the beginning of your end step, you may return target noncreature card from your graveyard to your hand.
-		<sym-auto>T</sym-auto>, Sacrifice a nonland permanent: You draw a card and lose 1 life.
-		<kw-A><nospellcheck><key>Uncover <param-cost><sym-auto>5B</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>5B</sym-auto></param-cost>: Return this card from your graveyard to the battlefield, except it’s an enchantment and loses all other card types. Exile it if it would leave the battlefield. Uncover only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+		<sym-auto>T</sym-auto>, Sacrifice a nonland permanent: Draw a card.
+		<kw-A><nospellcheck><key>Uncover <param-cost><sym-auto>3B</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>3B</sym-auto></param-cost>: Return this card from your graveyard to the battlefield, except it’s an enchantment and loses all other card types. Exile it if it would leave the battlefield. Uncover only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Scott Uminga
 	card_code_text: 

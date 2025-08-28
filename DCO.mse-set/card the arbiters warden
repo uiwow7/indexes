@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-09 16:10:52
-	time_modified: 2025-08-17 11:10:35
+	time_modified: 2025-08-28 09:13:18
 	name: The Arbiter’s Warden
 	casting_cost: 2R
 	image: image11.png
@@ -17,7 +17,7 @@ card:
 	rarity: rare
 	rule_text:
 		Whenever you cast a spell that targets <atom-cardname><nospellcheck>The Arbiter’s Warden</nospellcheck></atom-cardname>, you may discard a card. If you do, draw a card.
-		<atom-cardname><nospellcheck>The Arbiter’s Warden</nospellcheck></atom-cardname> gets +1/+1 for each Aura attached to it.
+		<atom-cardname><nospellcheck>The Arbiter’s Warden</nospellcheck></atom-cardname> gets +1/+1 for each Aura attached to it.</atom-cardname><atom-name>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

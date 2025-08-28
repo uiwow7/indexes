@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 23:00:16
-	time_modified: 2025-04-03 18:11:58
+	time_modified: 2025-08-28 09:26:41
 	name: Herald of Sparks
 	casting_cost: 2R
 	image: image102.png
@@ -20,9 +20,9 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<atom-cardname><nospellcheck>Herald of Sparks</nospellcheck></atom-cardname> costs <sym-auto>2</sym-auto> less to cast if you’ve cast a noncreature spell this turn.
+		This spell costs <sym-auto>2</sym-auto> less to cast if you’ve cast a noncreature spell this turn.
 		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Herald of Sparks</nospellcheck></atom-cardname> enters, you may discard a card. If you do, draw two cards.
+		When <atom-cardname><nospellcheck>Herald of Sparks</nospellcheck></atom-cardname> enters, you may discard a card. If you do, draw two cards.</atom-cardname><atom-name>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

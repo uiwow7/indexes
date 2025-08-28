@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CU13,Noncreature,2,,Moment of Truth — card selection
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-08-25 16:09:14
+	time_modified: 2025-08-27 21:18:38
 	name: Splinter New Worlds
 	casting_cost: 1U
 	image: image5.png
@@ -24,7 +24,7 @@ card:
 	rule_text:
 		Look at the top three cards of your library. Put one into your hand and the rest on the bottom of your library in a random order.
 		<kw-A><nospellcheck><key>Realize <param-cost><sym-auto>5U</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</i-auto></atom-reminder-custom></kw-A>
-	flavor_text: <i-flavor>ft</i-flavor>
+	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 5
 	illustrator: Samuel Speziali

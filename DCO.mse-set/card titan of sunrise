@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-17 13:53:44
-	time_modified: 2025-04-05 18:32:14
+	time_modified: 2025-08-28 09:24:59
 	name: Titan of Sunrise
 	casting_cost: 6G
 	image: image51.png
@@ -20,8 +20,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<atom-cardname><nospellcheck>Titan of Sunrise</nospellcheck></atom-cardname> costs <sym-auto>1</sym-auto> less to cast for each land card in your graveyard.
-		When <atom-cardname><nospellcheck>Titan of Sunrise</nospellcheck></atom-cardname> enters, put a land card from your graveyard onto the battlefield under your control, then return a nonland card from your graveyard to your hand.
+		This spell costs <sym-auto>1</sym-auto> less to cast for each land card in your graveyard.
+		When <atom-cardname><nospellcheck>Titan of Sunrise</nospellcheck></atom-cardname> enters, return a land card from your graveyard to the battlefield, then return a nonland card from your graveyard to your hand.</atom-cardname><atom-name>
 	flavor_text: <i-flavor></i-flavor>
 	power: 6
 	toughness: 5

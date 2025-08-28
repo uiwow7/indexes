@@ -7,7 +7,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2025-05-16 18:37:50
-	time_modified: 2025-05-19 11:41:01
+	time_modified: 2025-08-27 21:36:16
 	name: Necromancer of the Depths
 	casting_cost: 2BG
 	image: image219.png
@@ -23,9 +23,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text:
-		When <atom-cardname><nospellcheck>Necromancer of the Depths</nospellcheck></atom-cardname> enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
-		Nonland permanent cards in your graveyard have uncover. Their uncover costs are equal to their mana costs. <i-auto>(Pay a card’s uncover cost as a sorcery: Return it from your graveyard to the battlefield, except it’s an enchantment and loses all other card types. Exile it if it would leave the battlefield.)</i-auto>
+	rule_text: Nonland permanent cards in your graveyard have uncover. Their uncover costs are equal to their mana costs. <i-auto>(Pay a card’s uncover cost as a sorcery: Return it from your graveyard to the battlefield, except it’s an enchantment and loses all other card types. Exile it if it would leave the battlefield.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

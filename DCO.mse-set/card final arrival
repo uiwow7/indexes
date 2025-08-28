@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 01:28:21
-	time_modified: 2025-08-17 11:03:32
+	time_modified: 2025-08-27 21:52:27
 	name: Final Arrival
 	casting_cost: 3UU
 	image: image84.png
@@ -19,9 +19,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text:
-		As an additional cost to cast this spell, you may exile a card with mana value 5 or greater from your graveyard.
-		Reveal the top five cards of your library, then an opponent separates them into two piles. If you paid <atom-cardname><nospellcheck>Final Arrival</nospellcheck></atom-cardname>’s additional cost, put both into your hand. Otherwise, put one into your hand and the other into your graveyard.
+	rule_text: Reveal the top five cards of your library, then an opponent separates them into two piles. Then you may exile a card with mana value 5 or greater from your graveyard. If you.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Darek Zabrocki
 	card_code_text: 

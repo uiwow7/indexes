@@ -11,7 +11,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2025-03-12 14:39:43
-	time_modified: 2025-06-04 18:43:21
+	time_modified: 2025-08-27 21:32:46
 	name: The Arbiter’s Protector
 	casting_cost: 2W
 	image: image42.png
@@ -21,7 +21,7 @@ card:
 	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: Whenever an enchantment enters under your control, you gain 2 life.
+	rule_text: Whenever an enchantment you control enters, you gain 2 life.
 	flavor_text: <i-flavor><error-spelling:en_US>Laba</error-spelling:en_US> is by far the hardest of the splinters to get to, its gates located in the depths of oceans and forests. The Arbiter has its servants protect it by guarding both these entrances and <error-spelling:en_US>Laba</error-spelling:en_US> itself.</i-flavor>
 	power: 1
 	toughness: 3

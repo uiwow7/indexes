@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: !addtoken Healing Function;
 	time_created: 2025-04-22 18:24:32
-	time_modified: 2025-06-09 17:01:34
+	time_modified: 2025-08-27 21:34:17
 	name: Illuminating Vortex
 	casting_cost: 1W
 	image: image196.png
@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Illuminating Vortex</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>create a Function token</key></nospellcheck> with “You gain 1 life for each enchantment you control.”<atom-reminder-custom> <i-auto>(It’s an enchantment. As you cast an instant or sorcery spell, sacrifice any number of Functions to add their effects to that spell.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>Illuminating Vortex</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>create a Function token</key></nospellcheck> with “You get <sym-auto>E</sym-auto> equal to this spell’s mana value.”<atom-reminder-custom> <i-auto>(It’s an enchantment. As you cast an instant or sorcery spell, sacrifice any number of Functions to add their effects to that spell.)</i-auto></atom-reminder-custom></kw-A>
 		Once each turn, when an enchantment you control leaves the battlefield, you may tap target creature.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: DaiSanVisArt

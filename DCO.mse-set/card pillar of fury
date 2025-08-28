@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<atom-cardname><nospellcheck>Pillar of Fury</nospellcheck></atom-cardname> costs <sym-auto>1</sym-auto> less to cast for each attacking creature.
+		<atom-name>This spell</atom-cardname> costs <sym-auto>1</sym-auto> less to cast for each attacking creature.
 		Creatures you control get +1/+1 until end of turn.
 	flavor_text: <i-flavor><error-spelling:en_US>Sava</error-spelling:en_US> has endured so many years of futile conflict that its inhabitants are always bursting with rage.</i-flavor>
 	illustrator: Matteo Bassini

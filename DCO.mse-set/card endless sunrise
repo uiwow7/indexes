@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: !addtoken Human;Sunrise Function;
 	time_created: 2025-05-18 21:41:14
-	time_modified: 2025-08-24 11:40:29
+	time_modified: 2025-08-27 21:37:42
 	name: Endless Sunrise
 	casting_cost: RWB
 	image: image227.png
@@ -19,9 +19,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text:
-		<kw-A><nospellcheck><key>Create a function token</key></nospellcheck> with “Exile target nonland permanent if it has mana value less than or equal to this spell’s mana value.”<atom-reminder-custom> <i-auto>(It’s an enchantment. As you cast an instant or sorcery spell, sacrifice any number of Functions to add their effects to that spell.)</i-auto></atom-reminder-custom></kw-A>
-		Create two 1/1 white Human enchantment creature tokens.
+	rule_text: <kw-A><nospellcheck><key>Create a function token</key></nospellcheck> with “Exile target nonland permanent if it has mana value less than or equal to this spell’s mana value.” and two 1/1 white Human enchantment creature tokens.<atom-reminder-custom> <i-auto>(It’s an enchantment. As you cast an instant or sorcery spell, sacrifice any number of Functions to add their effects to that spell.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 

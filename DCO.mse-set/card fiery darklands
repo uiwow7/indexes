@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-24 10:06:05
-	time_modified: 2025-05-16 10:45:16
+	time_modified: 2025-08-28 09:17:31
 	name: Fiery Darklands
 	image: image189.png
 	image_2: 
@@ -21,7 +21,7 @@ card:
 	rule_text:
 		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>R</sym-auto>.)</i-auto>
 		<atom-cardname><nospellcheck>Fiery Darklands</nospellcheck></atom-cardname> enters tapped. 
-		When <atom-cardname><nospellcheck>Fiery Darklands</nospellcheck></atom-cardname> enters, you get <sym-auto>E</sym-auto>.
+		When <atom-cardname><nospellcheck>Fiery Darklands</nospellcheck></atom-cardname> enters, you get <sym-auto>E</sym-auto>.</atom-cardname><atom-name>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Miro Johannes
 	card_code_text: 

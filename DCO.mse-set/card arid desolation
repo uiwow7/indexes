@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-24 10:06:05
-	time_modified: 2025-05-16 10:50:16
+	time_modified: 2025-08-28 09:15:32
 	name: Arid Desolation
 	image: image193.png
 	image_2: 
@@ -21,7 +21,7 @@ card:
 	rule_text:
 		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>W</sym-auto>.)</i-auto>
 		<atom-cardname><nospellcheck>Arid Desolation</nospellcheck></atom-cardname> enters tapped. 
-		When <atom-cardname><nospellcheck>Arid Desolation</nospellcheck></atom-cardname> enters, you get <sym-auto>E</sym-auto>.
+		When <atom-cardname><nospellcheck>Arid Desolation</nospellcheck></atom-cardname> enters, you get <sym-auto>E</sym-auto>.</atom-cardname><atom-name>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Amir Zand
 	card_code_text: 

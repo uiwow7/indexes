@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-25 23:11:26
-	time_modified: 2025-03-25 23:37:36
+	time_modified: 2025-08-27 21:37:16
 	name: Kama, Shattered City
 	casting_cost: 
 	image: image79.png
@@ -22,7 +22,7 @@ card:
 	rule_text:
 		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto>.)</i-auto>
 		As <atom-cardname><nospellcheck>Kama, Shattered City</nospellcheck></atom-cardname> enters, you may pay 3 life. If you don’t, it enters tapped.
-		<sym-auto>2R</sym-auto>, <sym-auto>T</sym-auto>: Exile the top two cards of your library. You may play one of them. <i-auto>(Play it as soon as this ability resolves. You still pay its costs if it has any.)</i-auto>
+		<sym-auto>2R</sym-auto>, <sym-auto>T</sym-auto>: Exile the top two cards of your library. You may cast one of them. <i-auto>(Cast it as soon as this ability resolves. You still pay its costs.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Sylvia Ritter
 	card_code_text: 

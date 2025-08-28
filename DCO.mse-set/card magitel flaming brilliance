@@ -24,7 +24,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>
-		<atom-cardname><nospellcheck>Magitel, Flaming Brilliance</nospellcheck></atom-cardname> gets +1/+1 for each enchantment you control.
+		<atom-name>This creature</atom-cardname> gets +1/+1 for each enchantment you control.
 		Whenever <atom-legname><nospellcheck>Magitel</nospellcheck></atom-legname> attacks, <kw-A><nospellcheck><key>create a Function token</key></nospellcheck> with “You gain 1 life for each enchantment you control.”<atom-reminder-custom> <i-auto>(It’s an enchantment. As you cast an instant or sorcery spell, sacrifice any number of Functions to add their effects to that spell.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
