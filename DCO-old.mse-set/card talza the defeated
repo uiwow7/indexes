@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-04-20 11:45:33
+	time_modified: 2025-05-13 16:16:28
+	extra_data:
+		magic-m15-altered-plus:
+			vorthos_box: He/Him
+	name: Talza, the Defeated
+	casting_cost: BB
+	image: image168.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		At the beginning of your end step, sacrifice a permanent.
+		Whenever a permanent card is put into your graveyard from your hand or the battlefield, put a +1/+1 counter on <atom-cardname><nospellcheck>Talza, the Defeated</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: ChrisNazgul
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

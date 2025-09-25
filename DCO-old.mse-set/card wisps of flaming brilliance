@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: !addtoken Flame Function;
+	time_created: 2025-04-07 09:42:34
+	time_modified: 2025-06-09 17:01:07
+	name: Wisps of Flaming Brilliance
+	casting_cost: 2R
+	image: image130.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Whenever enchanted creature attacks, <kw-A><nospellcheck><key>create a Function token</key></nospellcheck> with “Creatures you control get +1/+0 and gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.”<atom-reminder-custom> <i-auto>(It’s an enchantment. As you cast an instant or sorcery spell, sacrifice any number of Functions to add their effects to that spell.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor>The Grand Oracles left their presence across <error-spelling:en_US>Drakol</error-spelling:en_US>, but never truly touch it.</i-flavor>
+	illustrator: Lino Drieghe
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

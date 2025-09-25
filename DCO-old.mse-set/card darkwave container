@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-04-24 09:53:56
+	time_modified: 2025-08-08 09:09:32
+	name: Darkwave Container
+	casting_cost: 2
+	image: image202.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Darkwave Container</nospellcheck></atom-cardname> enters, you draw a card and get <sym>E</sym>.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Add one mana of any color.
+	flavor_text: <i-flavor>When <error-spelling:en_US>Gatu</error-spelling:en_US> and <error-spelling:en_US>Ikan</error-spelling:en_US> collide, large swaths of emptiness are combined with unbound technology.</i-flavor>
+	illustrator: Luetche
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

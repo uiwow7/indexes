@@ -153,7 +153,6 @@ include_file: card cosmically centered
 include_file: card otherworldly wayfarer
 include_file: card the arbiters raider
 include_file: card past left behind
-include_file: card arane oracle
 include_file: card stack pusher
 include_file: card containment dome
 include_file: card ocean watcher
@@ -285,7 +284,7 @@ include_file: card energy displacer
 include_file: card the arbiters reaper
 include_file: card burning quazar
 include_file: card monk of deafening peace
-include_file: card merge conflict
+include_file: card idyllic tutor
 include_file: card the arbiters wavebringer
 include_file: card eternity from beyond
 include_file: card kalan explorer
@@ -304,22 +303,6 @@ include_file: card illuminating vortex
 include_file: card cold truths
 include_file: card dark dragonfire
 include_file: card lightning radiator
-include_file: card energization function
-include_file: card reset function
-include_file: card intellect function
-include_file: card amplify function
-include_file: card healing function
-include_file: card duty function
-include_file: card flash function
-include_file: card relinquish function
-include_file: card growth function
-include_file: card replenish function
-include_file: card execution function
-include_file: card sunset function
-include_file: card charm function
-include_file: card flame function
-include_file: card dread function
-include_file: card wave function
 include_file: card chromatic starlight
 include_file: card emptylands rover
 include_file: card darkwave container
@@ -328,17 +311,6 @@ include_file: card spacelight
 include_file: card energizer
 include_file: card swarm engine
 include_file: card shorian herald of the beyond
-include_file: card charged tundra
-include_file: card aether hub
-include_file: card occult swamplands
-include_file: card fiery darklands
-include_file: card warped highlands
-include_file: card remote sanctuary
-include_file: card darkening cloudscape
-include_file: card twisting cove
-include_file: card overgrown gate
-include_file: card arid desolation
-include_file: card vibrant aurora
 include_file: card peace in twilight
 include_file: card warlock of venomous fire
 include_file: card unbound soul
@@ -365,7 +337,6 @@ include_file: card swamp
 include_file: card mountain
 include_file: card forest
 include_file: card treasure
-include_file: card lantern function
 keyword:
 	keyword: Uncover
 	match: Uncover <atom-param>cost</atom-param>
@@ -395,6 +366,12 @@ keyword:
 	match: Draft a card from your <atom-param>one_word</atom-param>
 	reminder: Look at three random cards from your {param1}. Put one into your hand.
 	rules: Choose three cards at random from your {param1}. Put one into your hand.
+	mode: custom
+keyword:
+	keyword: Infuse
+	match: Infuse
+	reminder: When you cast a noncreature spell, put a +1/+1 counter on this creature if it doesn't have one.
+	rules: 
 	mode: custom
 version_control:
 	type: none

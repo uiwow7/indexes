@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: !addtoken Charm Function;
+	time_created: 2025-04-07 09:42:34
+	time_modified: 2025-06-09 17:01:03
+	name: Peaceful Charmer
+	casting_cost: 2W
+	image: image132.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Cleric</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: When <atom-cardname><nospellcheck>Peaceful Charmer</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>create a Function token</key></nospellcheck> with “Exile target nonland permanent if it has mana value less than or equal to the number of tokens you control.”<atom-reminder-custom> <i-auto>(It’s an enchantment. As you cast an instant or sorcery spell, sacrifice any number of Functions to add their effects to that spell.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor>Unlike when other splinters collided, the collision of <error-spelling:en_US>Baru</error-spelling:en_US> and <error-spelling:en_US>Voro</error-spelling:en_US> led only to good things in both splinters.</i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Sylar113
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-04-12 16:01:48
+	time_modified: 2025-07-15 06:43:23
+	name: Lively Pup
+	casting_cost: R
+	image: image146.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Fox</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Creatures you control have <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> as long as you’ve cast a noncreature spell this turn.
+	flavor_text: <i-flavor>The foxes of <error-spelling:en_US>Baru</error-spelling:en_US> have endless energy, waiting to be release during a collision.</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Clockbirds
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -3,20 +3,34 @@ card:
 	has_styling: false
 	notes:
 		Naroz & Ikan collide
-		!tag energy;
+		!The Arbiter controls what the people of Dazon see. What they hear. What they smell. It controls everything.
 	time_created: 2025-03-12 09:05:05
-	time_modified: 2025-08-17 10:53:38
+	time_modified: 2025-09-24 19:02:00
+	card_trim: adventure focus
 	name: Tune the Narrative
-	casting_cost: U
+	casting_cost: 4UU
+	casting_cost_2: U
 	image: image33.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Instant</word-list-type-en>
-	sub_type: <word-list-spell></word-list-spell>
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Instant</word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	sub_type_2: <word-list-spell>Omen</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
-	rule_text: Draw a card. You get <sym>EE</sym>.
-	flavor_text: <i-flavor>The Arbiter controls what the people of <error-spelling:en_US>Dazon</error-spelling:en_US> see. What they hear. What they smell. It controls everything.</i-flavor>
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Tune the Narrative</nospellcheck></atom-cardname> enters, return up to one target creature to its owner’s hand.
+	rule_text_2: Up to one taret creature gets -4/-0 until end of turn. <i-auto>(Then shuffle this card into its owner’s library.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 6
+	toughness: 5
 	illustrator: Tryingtofly
 	card_code_text: 
 	card_code_text_2: 

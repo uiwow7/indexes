@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		use_holofoil_stamps: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: !tag: energy;
+	time_created: 2025-04-21 09:08:05
+	time_modified: 2025-08-08 09:12:09
+	name: Naroz Icebreaker
+	casting_cost: U
+	image: image172.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Whenever you scry or surveil, you get <sym-auto>E</sym-auto>.
+		<sym-auto>T</sym-auto>, Pay <sym-auto>EEE</sym-auto>: Draw a card.
+	flavor_text: <i-flavor>When the oceans freeze over, <error-spelling:en_US>Naroz</error-spelling:en_US> is nothing but a shell of what the splinter previously was. Oceans previously home to thousands of different things all trapped under a layer of ice.</i-flavor>
+	illustrator: ErikShoemaker
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

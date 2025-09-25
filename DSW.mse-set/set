@@ -53,6 +53,7 @@ styling:
 	magic-m15-altered-plus:
 		chop_top: 4
 		chop_bottom: 4
+		other_options: 
 		custom_symbol: MyrCustoms/ithLarge.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -173,7 +174,7 @@ include_file: card comsumed memories
 include_file: card hurled flamestone
 include_file: card forge chromatic fire
 include_file: card kalan crystal spear
-include_file: card kalan sunbeam
+include_file: card breaking eternity
 include_file: card venturing fox
 include_file: card xxx uncoverer
 include_file: card celestial envoy
@@ -215,10 +216,10 @@ include_file: card uu02 designed
 include_file: card uu03 designed
 include_file: card uu04 designed
 include_file: card uu05 designed
-include_file: card uu07 noncreature
-include_file: card uu09 noncreature
-include_file: card uu10 noncreature
-include_file: card uu12 noncreature
+include_file: card uu07 designed
+include_file: card uu09 designed
+include_file: card uu10 designed
+include_file: card uu12 designed
 include_file: card ub01 small creature
 include_file: card ub02 small creature
 include_file: card ub03 medium creature
@@ -327,7 +328,7 @@ include_file: card mm01 small creature
 include_file: card mm02 medium creature
 include_file: card mm03 medium creature
 include_file: card mm04 medium creature
-include_file: card mm05 large creature
+include_file: card the eternal nexus
 include_file: card mm06 large creature
 include_file: card tomb of forgotten worlds
 include_file: card mx01 noncreature

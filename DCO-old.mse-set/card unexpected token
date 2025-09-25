@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes:
+		!tag programming;
+		!addtoken Intellect Function;
+	time_created: 2025-03-10 11:58:58
+	time_modified: 2025-06-09 16:58:52
+	name: Unexpected Token
+	casting_cost: 1G
+	image: image20.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text: Whenever <atom-cardname><nospellcheck>Unexpected Token</nospellcheck></atom-cardname> enters or you cast a spell with mana value 5 or greater, <kw-A><nospellcheck><key>create a Function token</key></nospellcheck> with “Draw a card.”<atom-reminder-custom> <i-auto>(It’s an enchantment. As you cast an instant or sorcery spell, sacrifice any number of Functions to add their effects to that spell.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Posh522789
+	card_code_text: • Designed by Styles
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

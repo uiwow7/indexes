@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: !tag: energy;
+	time_created: 2025-04-21 09:08:05
+	time_modified: 2025-06-21 18:49:54
+	name: Aurora Growth
+	casting_cost: 2G
+	image: image173.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		You get <sym-auto>EE</sym-auto>.
+		Pay any amount of <sym>E</sym>. If you do, return an amount of land cards from your graveyard to the battlefield tapped equal to the number of <sym>E</sym> paid this way.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: DaiSanVisArt
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

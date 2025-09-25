@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: s
+	time_created: 2025-05-18 21:41:14
+	time_modified: 2025-06-12 08:56:31
+	name: Marshland Birth
+	casting_cost: BGU
+	image: image228.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: <kw-0><nospellcheck><key>Surveil <param-number>X</param-number></key></nospellcheck></kw-0>, where X is the greatest mana value among permanents you control plus two. When you do, return up to two nonland cards from your graveyard to your hand. Exile <atom-cardname><nospellcheck>Marshland Birth</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Zandalar Mon
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

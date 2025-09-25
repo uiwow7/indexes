@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-10 21:39:38
+	time_modified: 2025-06-04 06:56:46
+	name: Cosmically Centered
+	casting_cost: G
+	image: image23.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature gets +1/+1 and has “Whenever this creature attacks, <kw-A><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck>.”<atom-reminder-action> <i-auto>(To surveil <param-number>1</param-number>, look at the top card of your library. You may put it into your graveyard.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: BisBiswas
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

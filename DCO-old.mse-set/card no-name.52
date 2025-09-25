@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-23 15:10:05
+	time_modified: 2025-09-24 17:14:12
+	name: 
+	casting_cost: 1W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>CARDNAME</nospellcheck></atom-cardname> enters, create a 1/1 white Human enchantment creature token.
+		Whenever a creature you control dies, if it had counters on it, you may put those counters on target creature you control.
+	flavor_text: <i-flavor>The Paths open to those who serve. They open to all those who have nerve, the nerve to fight back.</i-flavor>
+	illustrator: Lorenz Hideyoshi Ruwwe
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-16 11:22:34
-	time_modified: 2025-08-28 09:20:53
+	time_modified: 2025-09-25 10:54:01
 	name: Blood of Moonlight
 	casting_cost: 2R
 	image: image151.png
@@ -20,8 +20,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Blood of Moonlight deals 3 damage to target creature or planeswalker.
-		Exile the top card of your library. You may cast it.</atom-cardname><atom-name>
+		Blood of Moonlight deals 3 damage to any target.
+		Exile the top card of your library. You may play it until the end of your next turn.</atom-cardname><atom-name>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Aleksei Liakh
 	card_code_text: 

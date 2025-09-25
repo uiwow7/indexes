@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-03 18:12:14
-	time_modified: 2025-06-09 17:02:36
+	time_modified: 2025-09-24 19:11:23
 	name: Wistful Observer
 	casting_cost: 1U
 	image: image111.png
@@ -21,8 +21,8 @@ card:
 	rarity: rare
 	rule_text: Once each turn, when you cast a noncreature spell, you may draw a card.
 	flavor_text: <i-flavor>“I remember when the Oracles were normal. I remember when <error-spelling:en_US>Dazon</error-spelling:en_US> was simply <error-spelling:en_US>Drakol</error-spelling:en_US>, and when everything was normal, but those times are over. My time is over.”</i-flavor>
-	power: 2
-	toughness: 2
+	power: 1
+	toughness: 1
 	illustrator: Chilly Prins
 	card_code_text: 
 	card_code_text_2: 

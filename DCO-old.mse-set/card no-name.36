@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		FIND NEW ART
+		!tag programming;
+		!tag energy;
+		“Planeswalkers A and B still have their memories, make sure they’re cleaned out and take their sparks. C however, is unsafe and has been demonstrating bad behavior.”
+		—The Arbiter’s Analyzer
+	time_created: 2025-03-17 13:53:37
+	time_modified: 2025-09-23 18:08:46
+	name: 
+	casting_cost: U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Return target creature to its owner’s hand. If you control a permanent with mana value 5 or greater, its owner puts it on the top or bottom of their library instead.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sylvia Ritter
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

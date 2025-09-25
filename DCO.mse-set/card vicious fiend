@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 23:00:07
-	time_modified: 2025-04-05 19:16:21
+	time_modified: 2025-09-24 19:10:26
 	name: Vicious Fiend
 	casting_cost: 2RR
 	image: image94.png
@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
 		Whenever <atom-cardname><nospellcheck>Vicious Fiend</nospellcheck></atom-cardname> attacks, it deals 3 damage to the player or planeswalker its attacking.
 	flavor_text: <i-flavor>Natural selection has caused <error-spelling:en_US>Sava</error-spelling:en_US> to become the home of nightmares; In a world of constant war, one must take drastic measures to even just survive.</i-flavor>
 	power: 2

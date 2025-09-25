@@ -1,12 +1,9 @@
 ﻿mse_version: 2.5.8
 card:
-	has_styling: true
-	styling_data:
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
+	has_styling: false
 	notes: 
 	time_created: 2025-04-24 09:53:55
-	time_modified: 2025-06-21 18:50:51
+	time_modified: 2025-09-25 11:00:13
 	name: Emptylands Rover
 	casting_cost: 1
 	image: image205.png
@@ -23,8 +20,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Emptylands Rover</nospellcheck></atom-cardname> enters, you get <sym-auto>E</sym-auto>.
-		<sym-auto>T</sym-auto>, Pay <sym-auto>E</sym-auto>: <kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: <kw-0><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
+		<sym-auto>5</sym-auto>: Until end of turn, <atom-cardname><nospellcheck>Emptylands Rover</nospellcheck></atom-cardname> gets +1/+1 for each noncreature permanent you control.
 	flavor_text: <i-flavor>Rovers traverse the deserts of <error-spelling:en_US>Ikan</error-spelling:en_US>, ensuring that the humans who follow can live.</i-flavor>
 	power: 1
 	toughness: 1

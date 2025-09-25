@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-04-16 11:22:34
+	time_modified: 2025-04-17 10:42:11
+	name: Writhing Mound
+	casting_cost: 2B
+	image: image150.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Writhing Mound</nospellcheck></atom-cardname> enters, target player sacrifices a creature.
+		At the beginning of each end step, if a permanent you control left the battlefield this turn, each opponent loses 2 life.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Mark Balazic
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

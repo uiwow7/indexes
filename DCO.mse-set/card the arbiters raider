@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: !addtoken Amplify Function;
 	time_created: 2025-03-10 21:45:01
-	time_modified: 2025-06-09 16:58:59
+	time_modified: 2025-09-24 19:00:28
 	name: The Arbiter’s Raider
 	casting_cost: R
 	image: image26.png
@@ -16,8 +16,8 @@ card:
 	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<kw-0><nospellcheck><key>Prowess</key></nospellcheck></kw-0>
-		When <atom-cardname><nospellcheck>The Arbiter’s Raider</nospellcheck></atom-cardname> enters, <kw-0><nospellcheck><key>create a Function token</key></nospellcheck></kw-0> with “If this spell would deal damage to a permanent or player, it deals that much damage plus one instead.”
+		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, put a +1/+1 counter on this creature if it doesn’t have one.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
 	toughness: 1

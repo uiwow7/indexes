@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-04-12 16:01:43
+	time_modified: 2025-08-17 10:32:01
+	name: Celestial Encroachment
+	casting_cost: 2U
+	image: image138.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Whenever you cast your third spell each turn, each player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, then you may exile a card milled this way. You may play it for as long as it remains exiled, and spend mana as though it were mana of any color to cast it.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: DaiSanVisArt
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!tag programming;
+		!tag energy;
+	time_created: 2025-04-03 18:12:09
+	time_modified: 2025-04-07 10:27:51
+	name: Undefined Reference
+	casting_cost: 1W
+	image: image109.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		You get <sym-auto>EE</sym-auto>.
+		You may pay any amount of <sym>E</sym>. When you do, exile target nonland permanent with mana value less than or equal to the amount of <sym>E</sym> paid this way.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Leon Tukker
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-25 23:11:26
+	time_modified: 2025-06-09 17:13:26
+	name: Toshin, Verdant City
+	casting_cost: 
+	image: image81.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>.)</i-auto>
+		As <atom-cardname><nospellcheck>Toshin, Verdant City</nospellcheck></atom-cardname> enters, you may pay 3 life. If you don’t, it enters tapped.
+		<sym-auto>2G</sym-auto>, <sym-auto>T</sym-auto>: Target creature you control gets +2/+2 until end of turn. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Tyler Edlin
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

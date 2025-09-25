@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: !addtoken Flame Function;
 	time_created: 2025-04-07 09:42:34
-	time_modified: 2025-06-09 17:01:07
+	time_modified: 2025-09-25 10:51:38
 	name: Wisps of Flaming Brilliance
 	casting_cost: 2R
 	image: image130.png
@@ -21,7 +21,8 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
-		Whenever enchanted creature attacks, <kw-A><nospellcheck><key>create a Function token</key></nospellcheck> with “Creatures you control get +1/+0 and gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.”<atom-reminder-custom> <i-auto>(It’s an enchantment. As you cast an instant or sorcery spell, sacrifice any number of Functions to add their effects to that spell.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>Wisps of Flaming Brilliance</nospellcheck></atom-cardname> enters, enchanted creature deals damage equal to its power to target creature you don’t control.
+		Enchanted creature gets +1/+1 and has <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor>The Grand Oracles left their presence across <error-spelling:en_US>Drakol</error-spelling:en_US>, but never truly touch it.</i-flavor>
 	illustrator: Lino Drieghe
 	card_code_text: 

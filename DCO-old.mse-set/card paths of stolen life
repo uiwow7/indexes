@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: !addtoken Replenish Function;
+	time_created: 2025-04-06 19:55:33
+	time_modified: 2025-09-14 14:25:50
+	name: Paths of Stolen Life
+	casting_cost: 1W
+	image: image121.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Creature tokens you control get +1/+1.
+		<sym-auto>3W</sym-auto>, <sym-auto>T</sym-auto>: Create a 1/1 white Human enchantment creature token.
+	flavor_text:
+		<i-flavor>ft<soft-line>
+		ft<soft-line>
+		ft</soft-line></soft-line></i-flavor>
+	illustrator: Xisten Cei
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

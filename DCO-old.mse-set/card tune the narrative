@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		Naroz & Ikan collide
+		!tag energy;
+	time_created: 2025-03-12 09:05:05
+	time_modified: 2025-08-17 10:53:38
+	name: Tune the Narrative
+	casting_cost: U
+	image: image33.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Draw a card. You get <sym>EE</sym>.
+	flavor_text: <i-flavor>The Arbiter controls what the people of <error-spelling:en_US>Dazon</error-spelling:en_US> see. What they hear. What they smell. It controls everything.</i-flavor>
+	illustrator: Tryingtofly
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

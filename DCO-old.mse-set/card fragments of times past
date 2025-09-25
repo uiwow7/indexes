@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 22:27:22
+	time_modified: 2025-06-09 17:03:58
+	name: Fragments of Times Past
+	casting_cost: 5BB
+	image: image97.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Return up to three target creature cards from any graveyard to the battlefield under your control. 
+	flavor_text: <i-flavor>Kara was once a thriving center of <error-spelling:en_US>Hokori</error-spelling:en_US>, but there was no turning back after the fall. </i-flavor>
+	illustrator: Sylvia Ritter
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

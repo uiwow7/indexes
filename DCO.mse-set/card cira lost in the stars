@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: !tag energy;
 	time_created: 2025-04-20 11:45:33
-	time_modified: 2025-06-21 11:42:52
+	time_modified: 2025-09-25 10:55:46
 	extra_data:
 		magic-m15-altered-plus:
 			vorthos_box: She/Her
@@ -23,8 +23,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Whenever you draw a card, you get <sym-auto>E</sym-auto>.
-		Whenever you cast a noncreature, spell during your turn, you may pay <sym-auto>EEE</sym-auto>. If you do, copy that spell, then return it to your hand.
+		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, put a +1/+1 counter on this creature if it doesn’t have one.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever Cira deals combat damage to a player, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>. If she has a counter on her, draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 5

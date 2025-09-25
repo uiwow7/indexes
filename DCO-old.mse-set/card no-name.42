@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-17 13:53:44
+	time_modified: 2025-09-18 20:18:13
+	name: 
+	casting_cost: B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+		<sym-auto>3BB</sym-auto>, Exile <atom-cardname><nospellcheck>CARDNAME</nospellcheck></atom-cardname> from your graveyard: Return target enchantment card from your graveyard to the battlefield.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Davidev
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

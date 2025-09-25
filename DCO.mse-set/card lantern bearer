@@ -1,9 +1,9 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: !addtoken Sunset Function;
+	notes: 
 	time_created: 2025-05-16 18:37:50
-	time_modified: 2025-08-17 11:04:35
+	time_modified: 2025-09-25 11:03:10
 	name: Lantern Bearer
 	casting_cost: 2RW
 	image: image214.png
@@ -20,11 +20,11 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Lantern Bearer</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>create a function token</key></nospellcheck> with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and “This spell deals 2 damage to any target.”<atom-reminder-custom> <i-auto>(It’s an enchantment. As you cast an instant or sorcery spell, sacrifice any number of Functions to add their effects to that spell.)</i-auto></atom-reminder-custom></kw-A>
-		Non-function tokens you control have <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Lantern Bearer</nospellcheck></atom-cardname> enters, put a +1/+1 counter on each other creature you control. They gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
-	toughness: 2
+	toughness: 3
 	illustrator: Clockbirds
 	card_code_text: 
 	card_code_text_2: 

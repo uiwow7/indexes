@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-04-22 18:24:32
+	time_modified: 2025-07-15 05:32:53
+	name: Cold Truths
+	casting_cost: 1U
+	image: image200.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Draw two cards. Discard a card unless you’ve cast another noncreature spell this turn.
+	flavor_text: <i-flavor>“This splinter is not yours. This plane is not yours. My world is not yours to keep forever.”</i-flavor>
+	watermark: none
+	illustrator: ZHURZH-ART
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

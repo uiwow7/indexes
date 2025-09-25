@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-05-18 21:41:14
-	time_modified: 2025-06-09 17:07:07
+	time_modified: 2025-09-25 11:03:50
 	name: Sunset Dancer
 	casting_cost: UBR
 	image: image218.png
@@ -20,9 +20,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a>
-		Whenever a creature you control attacks, you get <sym-auto>E</sym-auto>.
-		Pay <sym-auto>EEE</sym-auto>: Draw a card.
+		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, put a +1/+1 counter on this creature if it doesn’t have one.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever you cast a noncreature spell, <atom-cardname><nospellcheck>Sunset Dancer</nospellcheck></atom-cardname> deals 1 damage to each opponent. If <atom-cardname><nospellcheck>Sunset Dancer</nospellcheck></atom-cardname> has a counter on it, you gain 1 life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

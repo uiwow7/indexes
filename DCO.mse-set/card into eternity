@@ -1,16 +1,16 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: !tag: energy;
+	notes: !addtoken Treasure
 	time_created: 2025-04-21 09:08:05
-	time_modified: 2025-04-22 16:28:45
+	time_modified: 2025-09-25 10:57:32
 	name: Into Eternity
 	casting_cost: 2B
 	image: image171.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
@@ -20,9 +20,13 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		You get <sym-auto>E</sym-auto> for each five cards in your graveyard.
-		You may pay any amount of <sym>E</sym>. When you do, return target creature with mana value less than or equal to the amount of <sym>E</sym> paid this way from your graveyard to the battlefield.
-	flavor_text: <i-flavor></i-flavor>
+		All creatures get -2/-2 until end of turn.
+		Create a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
+	flavor_text:
+		<i-flavor>ft<soft-line>
+		ft<soft-line>
+		ft<soft-line>
+		ft</soft-line></soft-line></soft-line></i-flavor>
 	illustrator: Elreviae
 	card_code_text: 
 	card_code_text_2: 

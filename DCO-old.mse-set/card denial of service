@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: !tag programming;
+	time_created: 2025-03-23 15:17:41
+	time_modified: 2025-03-25 22:24:41
+	name: Denial of Service
+	casting_cost: 1U
+	image: image71.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: If you’ve cast another noncreature spell this turn, draw a card. Return target nonland permanent to its owner’s hand.
+	flavor_text:
+		<i-flavor>“I’ve figured it out! If we can overload The Arbiter’s systems that both watch us and keep us captive, maybe we can escape.”<soft-line>
+		—<error-spelling:en_US>Jaza</error-spelling:en_US>, to <error-spelling:en_US>Drorix</error-spelling:en_US> and <error-spelling:en_US>Fiad</soft-line></error-spelling:en_US></i-flavor>
+	illustrator: DAMEAUX9
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

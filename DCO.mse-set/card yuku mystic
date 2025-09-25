@@ -1,9 +1,9 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: !addtoken Growth Function;
+	notes: 
 	time_created: 2025-03-21 10:40:50
-	time_modified: 2025-08-27 21:32:12
+	time_modified: 2025-09-24 19:06:09
 	name: Yuku Mystic
 	casting_cost: GG
 	image: image63.png
@@ -19,10 +19,12 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: <kw-A><i-auto><nospellcheck><key>Landfall</key></nospellcheck></i-auto></kw-A> — Whenever a land you control enters, <kw-A><nospellcheck><key>create a Function token</key></nospellcheck> with “Put a +1/+1 counter on target creature you control.”<atom-reminder-custom> <i-auto>(It’s an enchantment. As you cast an instant or sorcery spell, sacrifice any number of Functions to add their effects to that spell.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text:
+		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, put a +1/+1 counter on this creature if it doesn’t have one.)</i-auto></atom-reminder-custom></kw-A>
+		<atom-cardname><nospellcheck>Yuku Mystic</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> as long as it has a counter on it.
 	flavor_text: <i-flavor></i-flavor>
-	power: 1
-	toughness: 2
+	power: 2
+	toughness: 3
 	illustrator: DaiSanVisArt
 	card_code_text: 
 	card_code_text_2: 

@@ -5,7 +5,7 @@ card:
 		!tag programming;
 		!tag energy;
 	time_created: 2025-04-03 18:12:09
-	time_modified: 2025-04-07 10:27:51
+	time_modified: 2025-09-24 19:11:07
 	name: Undefined Reference
 	casting_cost: 1W
 	image: image109.png
@@ -21,9 +21,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text:
-		You get <sym-auto>EE</sym-auto>.
-		You may pay any amount of <sym>E</sym>. When you do, exile target nonland permanent with mana value less than or equal to the amount of <sym>E</sym> paid this way.
+	rule_text: Exile target nonland permanent. It’s controller draws a card.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Leon Tukker
 	card_code_text: 

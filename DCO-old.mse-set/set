@@ -1,0 +1,386 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2024-10-01
+stylesheet: m15-altered-plus
+stylesheet_version: 2020-09-04
+set_info:
+	title: Dazon: Cosmic Outcasts
+	description:
+		Archetypes:
+		wu = Energy control
+		ub = Card draw
+		br = Direct damage aggro
+		rg = auras
+		gw = Enchantment Midrange
+		wb = Enchantment sac/looping/extra value with uncover
+		ur = Energy spellslinger
+		bg = Uncover graveyard stuff
+		rw = Tokens (functions)
+		gu = mv 5+
+		
+		splinters:
+		yuku = glass 1
+		naroz = water 2
+		kala = fire 3
+		ikan = tech 4
+		voro = forest 5
+		gatu = space 6
+		beya = light 7
+		kara = dark 8
+		sava = war 9
+		baru = peace 10
+		laba = land of the aribter
+	set_code: DCO
+	symbol: symbol2.mse-symbol
+	masterpiece_symbol: 
+	automatic_reminder_text: old, expert, pseudo, action, custom, lower case
+	use_gradient_multicolor: yes
+	card_number_style: 0001
+	default_stamp: standard
+	mainframe_rarity_name: dco.png
+	auto_nyx: yes
+	auto_star: no
+	alternate_nyx: star
+styling:
+	magic-m15:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-altered:
+		chop_bottom: 
+		frames: clear
+		mainframe_rarity_name: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-altered-plus:
+		chop_top: 4
+		chop_bottom: 4
+		alt_rarity_color: 
+		mainframe_rarity_name: dco.png
+		use_holofoil_stamps: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	magic-m15-clearartifact:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-commander:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-extra:
+		text_box_mana_symbols: magic-mana-small-extra-m15.mse-symbol-font
+		pt_box_symbols: magic-pt-symbols-extra.mse-symbol-font
+		overlay: 
+	magic-m15-godzilla:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-jinx:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-dfc:
+		other_options: use hovering pt, unindent nonloyalty abilities, automate type frames, auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-planeswalker:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-tokens:
+		frames: M20, nyx
+		auto_frames: nyx
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-nameonright:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-paradox:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-saga:
+		other_options: class
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-snow:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-spellbook:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-unstable-basics:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-new:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-new-purple:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-planeshifted:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-scifi:
+		frames: legend
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-starwars:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-symbol-display: image: no
+	magic-sync:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-windy-ultima:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+include_file: card in search of eternity
+include_file: card no-name
+include_file: card no-name.1
+include_file: card no-name.2
+include_file: card no-name.3
+include_file: card twisting nebulas
+include_file: card no-name.4
+include_file: card no-name.5
+include_file: card no-name.6
+include_file: card no-name.7
+include_file: card chosen of the grand oracles
+include_file: card no-name.8
+include_file: card no-name.9
+include_file: card no-name.10
+include_file: card no-name.11
+include_file: card no-name.12
+include_file: card drorix cosmic outcast
+include_file: card no-name.13
+include_file: card human
+include_file: card no-name.14
+include_file: card cavesplitter
+include_file: card no-name.15
+include_file: card no-name.16
+include_file: card no-name.17
+include_file: card no-name.18
+include_file: card no-name.19
+include_file: card no-name.20
+include_file: card no-name.21
+include_file: card ocean watcher
+include_file: card shock
+include_file: card fungal raze
+include_file: card traversing the paths
+include_file: card no-name.22
+include_file: card no-name.23
+include_file: card no-name.24
+include_file: card no-name.25
+include_file: card no-name.26
+include_file: card no-name.27
+include_file: card no-name.28
+include_file: card no-name.29
+include_file: card no-name.30
+include_file: card no-name.31
+include_file: card no-name.32
+include_file: card no-name.33
+include_file: card corruption from beyond
+include_file: card no-name.34
+include_file: card no-name.35
+include_file: card celestial tree
+include_file: card no-name.36
+include_file: card no-name.37
+include_file: card no-name.38
+include_file: card no-name.39
+include_file: card no-name.40
+include_file: card no-name.41
+include_file: card no-name.42
+include_file: card no-name.43
+include_file: card titan of sunrise
+include_file: card no-name.44
+include_file: card no-name.45
+include_file: card no-name.46
+include_file: card scorcher
+include_file: card no-name.47
+include_file: card no-name.48
+include_file: card no-name.49
+include_file: card no-name.50
+include_file: card no-name.51
+include_file: card no-name.52
+include_file: card no-name.53
+include_file: card rite of the grand oracles
+include_file: card no-name.54
+include_file: card no-name.55
+include_file: card no-name.56
+include_file: card intellect from beyond
+include_file: card behemoth beckoner
+include_file: card no-name.57
+include_file: card no-name.58
+include_file: card no-name.59
+include_file: card no-name.60
+include_file: card no-name.61
+include_file: card no-name.62
+include_file: card no-name.63
+include_file: card no-name.64
+include_file: card no-name.65
+include_file: card no-name.66
+include_file: card no-name.67
+include_file: card counterfeit tranquility
+include_file: card final arrival
+include_file: card door to eternity
+include_file: card no-name.68
+include_file: card moonrise
+include_file: card shadowmare
+include_file: card no-name.69
+include_file: card no-name.70
+include_file: card no-name.71
+include_file: card warmth of a thousand souls
+include_file: card no-name.72
+include_file: card no-name.73
+include_file: card naroz sentinel
+include_file: card vicious fiend
+include_file: card no-name.74
+include_file: card no-name.75
+include_file: card leviathan caller
+include_file: card malignant hexer
+include_file: card herald of sparks
+include_file: card no-name.76
+include_file: card no-name.77
+include_file: card no-name.78
+include_file: card no-name.79
+include_file: card no-name.80
+include_file: card no-name.81
+include_file: card no-name.82
+include_file: card wistful observer
+include_file: card no-name.83
+include_file: card no-name.84
+include_file: card no-name.85
+include_file: card no-name.86
+include_file: card ghastly wanderer
+include_file: card no-name.87
+include_file: card no-name.88
+include_file: card no-name.89
+include_file: card no-name.90
+include_file: card herald of something
+include_file: card nausea from beyond
+include_file: card no-name.91
+include_file: card no-name.92
+include_file: card the arbiter
+include_file: card no-name.93
+include_file: card twilight revelation
+include_file: card drakoli piracy
+include_file: card no-name.94
+include_file: card no-name.95
+include_file: card doomteller adept
+include_file: card cultist of cold fate
+include_file: card harbinger of demise
+include_file: card demon of ruinous fire
+include_file: card illuminating augur
+include_file: card no-name.96
+include_file: card celestial encroachment
+include_file: card all the darkest hopes
+include_file: card no-name.97
+include_file: card inquiry from beyond
+include_file: card uncover
+include_file: card cosmic immenseness
+include_file: card celestial darkness
+include_file: card no-name.98
+include_file: card no-name.99
+include_file: card no-name.100
+include_file: card no-name.101
+include_file: card no-name.102
+include_file: card no-name.103
+include_file: card no-name.104
+include_file: card no-name.105
+include_file: card no-name.106
+include_file: card no-name.107
+include_file: card no-name.108
+include_file: card burning quazar
+include_file: card no-name.109
+include_file: card idyllic tutor
+include_file: card no-name.110
+include_file: card eternity from beyond
+include_file: card no-name.111
+include_file: card no-name.112
+include_file: card magitel flaming brilliance
+include_file: card cira lost in the stars
+include_file: card no-name.113
+include_file: card no-name.114
+include_file: card nashar starry turtle
+include_file: card no-name.115
+include_file: card no-name.116
+include_file: card into eternity
+include_file: card no-name.117
+include_file: card no-name.118
+include_file: card no-name.119
+include_file: card no-name.120
+include_file: card no-name.121
+include_file: card no-name.122
+include_file: card chromatic starlight
+include_file: card no-name.123
+include_file: card no-name.124
+include_file: card no-name.125
+include_file: card spacelight
+include_file: card no-name.126
+include_file: card no-name.127
+include_file: card shorian herald of the beyond
+include_file: card peace in twilight
+include_file: card no-name.128
+include_file: card no-name.129
+include_file: card no-name.130
+include_file: card no-name.131
+include_file: card no-name.132
+include_file: card no-name.133
+include_file: card no-name.134
+include_file: card no-name.135
+include_file: card no-name.136
+include_file: card endless wreckage
+include_file: card no-name.137
+include_file: card watchful gaze
+include_file: card endless sunrise
+include_file: card ancients from beyond
+include_file: card no-name.138
+include_file: card no-name.139
+include_file: card demon
+include_file: card construct
+include_file: card warlock
+include_file: card plains
+include_file: card island
+include_file: card swamp
+include_file: card mountain
+include_file: card forest
+include_file: card treasure
+include_file: card no-name.140
+include_file: card no-name.141
+include_file: card no-name.142
+keyword:
+	keyword: Uncover
+	match: Uncover <atom-param>cost</atom-param>
+	reminder: {param1}: Return this card from your graveyard to the battlefield, except it’s an enchantment and loses all other card types. Exile it if it would leave the battlefield. Uncover only as a sorcery.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Cosmolize
+	match: Cosmolize
+	reminder: When {this_or_that("permanent")} enters, conjure a duplicate of it into your sanctum, except it’s an enchantment and doesn’t have cosmolize.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Funcions
+	match: Create a function token
+	reminder: It's an enchantment. As you cast an instant or sorcery spell, sacrifice any number of Functions to add their effects to that spell.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Funcions
+	match: Create <atom-param>english_number</atom-param> function tokens
+	reminder: They’re enchantments. As you cast an instant or sorcery spell, sacrifice any number of Functions to add their effects to that spell.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Draft
+	match: Draft a card from your <atom-param>one_word</atom-param>
+	reminder: Look at three random cards from your {param1}. Put one into your hand.
+	rules: Choose three cards at random from your {param1}. Put one into your hand.
+	mode: custom
+keyword:
+	keyword: Infuse
+	match: Infuse
+	reminder: When you cast a noncreature spell, put a +1/+1 counter on this creature if it doesn't have one.
+	rules: 
+	mode: custom
+version_control:
+	type: none
+apprentice_code: 

@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: !addtoken Sunset Function;
+	time_created: 2025-04-03 18:12:14
+	time_modified: 2025-06-09 17:00:54
+	name: Vulpine Sage
+	casting_cost: 4R
+	image: image110.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Fox</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Vulpine Sage</nospellcheck></atom-cardname> enters or you discard it, <kw-A><nospellcheck><key>create a Function token</key></nospellcheck> with “This spell deals 2 damage to any target.”<atom-reminder-custom> <i-auto>(It’s an enchantment. As you cast an instant or sorcery spell, sacrifice any number of Functions to add their effects to that spell.)</i-auto></atom-reminder-custom></kw-A>
+		<sym-auto>1R</sym-auto>: Discard <atom-cardname><nospellcheck>Vulpine Sage</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Clockbirds
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
