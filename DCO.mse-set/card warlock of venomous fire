@@ -7,7 +7,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2025-05-16 18:37:50
-	time_modified: 2025-06-04 13:36:10
+	time_modified: 2025-09-25 17:28:10
 	name: Warlock of Venomous Fire
 	casting_cost: 1UB
 	image: image221.png
@@ -29,6 +29,7 @@ card:
 	flavor_text: <i-flavor>“The Grand Oracles told us to kill. So we kill. They told us to live, and so we live.”</i-flavor>
 	power: 2
 	toughness: 3
+	card_stamp: none
 	illustrator: MassGas (edited)
 	card_code_text: 
 	card_code_text_2: 

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: !tag energy;
 	time_created: 2025-04-20 11:45:33
-	time_modified: 2025-09-25 10:55:46
+	time_modified: 2025-09-28 16:27:18
 	extra_data:
 		magic-m15-altered-plus:
 			vorthos_box: She/Her
@@ -27,7 +27,7 @@ card:
 		Whenever Cira deals combat damage to a player, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>. If she has a counter on her, draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
-	toughness: 5
+	toughness: 3
 	illustrator: Clockbirds
 	card_code_text: 
 	card_code_text_2: 

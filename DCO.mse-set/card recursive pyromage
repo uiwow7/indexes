@@ -9,7 +9,7 @@ card:
 		!tag programming;
 		!addtoken Reset Function;
 	time_created: 2025-03-09 16:32:17
-	time_modified: 2025-09-24 18:58:57
+	time_modified: 2025-09-25 17:26:38
 	name: Recursive Pyromage
 	casting_cost: 1R
 	image: image10.png
@@ -25,6 +25,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
+	card_stamp: none
 	illustrator: Izusansart
 	card_code_text: 
 	card_code_text_2: 

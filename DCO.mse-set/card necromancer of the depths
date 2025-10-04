@@ -7,7 +7,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2025-05-16 18:37:50
-	time_modified: 2025-08-27 21:36:16
+	time_modified: 2025-09-25 17:27:16
 	name: Necromancer of the Depths
 	casting_cost: 2BG
 	image: image219.png
@@ -27,6 +27,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
+	card_stamp: none
 	illustrator: ChrisNazgul
 	card_code_text: 
 	card_code_text_2: 

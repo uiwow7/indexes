@@ -53,7 +53,7 @@ styling:
 	magic-m15-altered-plus:
 		chop_top: 4
 		chop_bottom: 4
-		use_holofoil_stamps: yes
+		use_holofoil_stamps: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	magic-m15-clearartifact:
@@ -140,7 +140,7 @@ include_file: card recursive pyromage
 include_file: card chosen of the grand oracles
 include_file: card buffer underflow
 include_file: card package manager
-include_file: card stack overflow
+include_file: card watching eternity
 include_file: card circular import
 include_file: card unexpected token
 include_file: card drorix cosmic outcast
@@ -154,13 +154,13 @@ include_file: card otherworldly wayfarer
 include_file: card the arbiters raider
 include_file: card past left behind
 include_file: card stack pusher
-include_file: card containment dome
+include_file: card shrouded subjugator
 include_file: card ocean watcher
 include_file: card shock
 include_file: card fungal raze
 include_file: card traversing the paths
-include_file: card tune the narrative
-include_file: card touch the hallowed grounds
+include_file: card ethereal spellbinder
+include_file: card enduring guardian
 include_file: card boatman of kala
 include_file: card depths giant
 include_file: card eldo abyssal city
@@ -176,12 +176,12 @@ include_file: card hellfire wyrm
 include_file: card preserver of voro
 include_file: card tree of celestial light
 include_file: card memory leak
-include_file: card demon of dark loss
+include_file: card eternity seeker
 include_file: card the arbiters marauder
 include_file: card harmony of voro
-include_file: card mindless control
+include_file: card clockwork disciple
 include_file: card sky of beya
-include_file: card look accross the lake
+include_file: card look across the lake
 include_file: card careless whims
 include_file: card titan of sunrise
 include_file: card destiny diviner
@@ -212,17 +212,17 @@ include_file: card power off
 include_file: card crystalized dread
 include_file: card pillar of fury
 include_file: card firmness of toshin
-include_file: card counterfeit tranquility
+include_file: card tranquil wanderer
 include_file: card final arrival
 include_file: card door to eternity
 include_file: card rage of sava
 include_file: card moonrise
 include_file: card shadowmare
 include_file: card heartless executor
-include_file: card kernel infiltration
+include_file: card cosmic roamer
 include_file: card fragments of times past
 include_file: card warmth of a thousand souls
-include_file: card overgrowth of voro
+include_file: card the arbiters worldbringer
 include_file: card the arbiters sight
 include_file: card naroz sentinel
 include_file: card vicious fiend
@@ -282,7 +282,7 @@ include_file: card deepgrowth explorer
 include_file: card lost curiosity
 include_file: card energy displacer
 include_file: card the arbiters reaper
-include_file: card burning quazar
+include_file: card burning quasar
 include_file: card monk of deafening peace
 include_file: card idyllic tutor
 include_file: card the arbiters wavebringer
@@ -297,8 +297,8 @@ include_file: card nashar starry turtle
 include_file: card designed emptiness
 include_file: card naroz icebreaker
 include_file: card into eternity
-include_file: card firespace forge
-include_file: card aurora growth
+include_file: card firespace seeker
+include_file: card herald of the new times
 include_file: card illuminating vortex
 include_file: card cold truths
 include_file: card dark dragonfire

@@ -3,9 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-05-16 18:37:50
-	time_modified: 2025-09-25 11:03:38
+	time_modified: 2025-09-25 17:03:37
 	card_trim: adventure focus
 	name: Risen Thicket
+	name_2: Treegrowth
 	casting_cost: 4GU
 	casting_cost_2: GU
 	image: image222.png

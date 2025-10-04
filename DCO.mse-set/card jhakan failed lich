@@ -7,7 +7,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2025-04-20 11:45:33
-	time_modified: 2025-05-13 16:16:35
+	time_modified: 2025-09-25 17:28:41
 	extra_data:
 		magic-m15-altered-plus:
 			vorthos_box: He/Him
@@ -32,6 +32,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
+	card_stamp: none
 	illustrator: DaiSanVisArt
 	card_code_text: 
 	card_code_text_2: 

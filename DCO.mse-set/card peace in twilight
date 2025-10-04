@@ -3,11 +3,11 @@ card:
 	has_styling: false
 	notes: Drakol entered night seperate from the splinters and awoke with them.
 	time_created: 2025-05-16 18:37:50
-	time_modified: 2025-09-25 11:02:40
+	time_modified: 2025-09-27 08:54:34
 	card_trim: adventure focus
 	name: Peace in Twilight
 	name_2: Enter Night
-	casting_cost: WU
+	casting_cost: 3WU
 	casting_cost_2: WU
 	image: image211.png
 	image_2: 

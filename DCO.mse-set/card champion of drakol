@@ -3,9 +3,9 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-06 19:55:33
-	time_modified: 2025-06-04 18:49:06
+	time_modified: 2025-09-26 09:38:07
 	name: Champion of Drakol
-	casting_cost: GG
+	casting_cost: 1G
 	image: image123.png
 	image_2: 
 	mainframe_image: 
@@ -19,12 +19,10 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: <kw-A><nospellcheck><key>Escape—<param-cost><sym-auto>1G</sym-auto>, Exile an enchantment card from your graveyard</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its escape cost.)</i-auto></atom-reminder-expert></kw-A>
-	flavor_text:
-		<i-flavor>“Even if the Grand Oracles have deserted us, I’ll still fight on this plane.”<soft-line>
-		</soft-line></i-flavor>
-	power: 3
-	toughness: 2
+	rule_text: Whenever one or more counters are put on another creature you control, you may put a +1/+1 counter on <atom-cardname><nospellcheck>Champion of Drakol</nospellcheck></atom-cardname>. Do this only once each turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
 	illustrator: SuperPhazed
 	card_code_text: 
 	card_code_text_2: 

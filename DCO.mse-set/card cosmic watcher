@@ -9,7 +9,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2025-03-13 16:38:48
-	time_modified: 2025-08-27 21:30:32
+	time_modified: 2025-09-25 17:27:24
 	name: Cosmic Watcher
 	casting_cost: 3UU
 	image: image48.png
@@ -26,6 +26,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4
+	card_stamp: none
 	illustrator: ERA7
 	card_code_text: 
 	card_code_text_2: 

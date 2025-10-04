@@ -11,7 +11,7 @@ card:
 		“Planeswalkers A and B still have their memories, make sure they’re cleaned out and take their sparks. C however, is unsafe and has been demonstrating bad behavior.”
 		—The Arbiter’s Analyzer
 	time_created: 2025-03-17 13:53:37
-	time_modified: 2025-09-24 19:03:19
+	time_modified: 2025-09-25 17:26:27
 	name: Memory Leak
 	casting_cost: U
 	image: image231.png
@@ -23,6 +23,7 @@ card:
 	rarity: rare
 	rule_text: Return target creature to its owner’s hand. If you control a permanent with mana value 5 or greater, its owner puts it on the top or bottom of their library instead.
 	flavor_text: <i-flavor></i-flavor>
+	card_stamp: none
 	illustrator: Sylvia Ritter
 	card_code_text: 
 	card_code_text_2: 

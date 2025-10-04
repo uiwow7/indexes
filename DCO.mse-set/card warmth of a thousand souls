@@ -3,9 +3,9 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 22:27:22
-	time_modified: 2025-08-28 09:27:13
+	time_modified: 2025-09-27 08:53:32
 	name: Warmth of a Thousand Souls
-	casting_cost: 6R
+	casting_cost: 4R
 	image: image100.png
 	image_2: 
 	mainframe_image: 
@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		This spell costs <sym-auto>1</sym-auto> less to cast for each nonland, noncreature permanent you control.
+		This spell costs <sym-auto>1</sym-auto> less to cast for each noncreature, nonland permanent you control.
 		Enchanted creature gets +2/+2 and has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
 		Whenever enchanted creature attacks, exile the top two cards of your library. You may play them this turn.</atom-cardname><atom-name>
 	flavor_text: <i-flavor></i-flavor>

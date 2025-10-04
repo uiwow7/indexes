@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-21 09:08:05
-	time_modified: 2025-09-25 10:56:18
+	time_modified: 2025-10-02 16:25:41
 	name: Designed Emptiness
 	casting_cost: 1W
 	image: image170.png
@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Each enchantment you control enters with an additional +1/+1 counter on it.
+		Other enchantment you control enters with an additional +1/+1 counter on it.
 		<sym-auto>2W</sym-auto>: Target enchantment you control becomes a 0/0 creature in addition to its other types.
 	flavor_text: <i-flavor>ft</i-flavor>
 	illustrator: Gary Tonge

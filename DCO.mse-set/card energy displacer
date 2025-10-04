@@ -2,14 +2,14 @@
 card:
 	has_styling: true
 	styling_data:
-		chop_top: 3
-		chop_bottom: 3
+		chop_top: 8
+		chop_bottom: 8
 		use_holofoil_stamps: yes
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: !tag energy;
+	notes: 
 	time_created: 2025-04-17 19:09:04
-	time_modified: 2025-09-04 13:23:49
+	time_modified: 2025-09-25 17:27:02
 	name: Energy Displacer
 	casting_cost: 1U
 	image: image155.png
@@ -26,9 +26,10 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Whenever you cast your second spell or draw your second card each turn, you get <sym-auto>E</sym-auto>.
-		<sym-auto>T</sym-auto>, Pay <sym-auto>EE</sym-auto>: Exile another target nonland permanent. Return it to the battlefield under its owner’s control at the beginning of the next end step. Activate only as a sorcery.
+		At the beginning of your upkeep, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
+		<kw-A><nospellcheck><key>Uncover <param-cost><sym-auto>3U</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>3U</sym-auto></param-cost>: Return this card from your graveyard to the battlefield, except it’s an enchantment and loses all other card types. Exile it if it would leave the battlefield. Uncover only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
+	card_stamp: none
 	illustrator: Scott Uminga
 	card_code_text: 
 	card_code_text_2: 

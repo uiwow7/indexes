@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: !addtoken Human;
 	time_created: 2025-03-26 23:00:07
-	time_modified: 2025-09-24 19:10:03
+	time_modified: 2025-09-27 08:05:33
 	name: The Arbiter’s Sight
 	casting_cost: 2WW
 	image: image106.png
@@ -24,7 +24,7 @@ card:
 		When <atom-cardname><nospellcheck>The Arbiter’s Sight</nospellcheck></atom-cardname> attacks, exile target enchantment card from your graveyard. You may cast a copy of the exiled card.
 		At the beginning of your end step, if an enchantment you control entered this turn, create a 1/1 white Human enchantment creature token. 
 	flavor_text: <i-flavor>Everything is seen</i-flavor>
-	power: 2
+	power: 3
 	toughness: 3
 	illustrator: Scott Uminga
 	card_code_text: 

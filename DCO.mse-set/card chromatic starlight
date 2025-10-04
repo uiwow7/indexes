@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-24 09:53:54
-	time_modified: 2025-08-17 10:32:42
+	time_modified: 2025-09-30 17:11:07
 	name: Chromatic Starlight
 	casting_cost: 1
 	image: image194.png
@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Chromatic Starlight</nospellcheck></atom-cardname> enters, add one mana of any color.
+		When <atom-cardname><nospellcheck>Chromatic Starlight</nospellcheck></atom-cardname> enters, if mana was spent to cast it, add one mana of any color.
 		<sym-auto>2</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Chromatic Starlight</nospellcheck></atom-cardname>: Draw a card. Add one mana of any color.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: BaukjeSpirit

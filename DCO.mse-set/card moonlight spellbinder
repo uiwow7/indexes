@@ -9,7 +9,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2025-03-17 14:22:21
-	time_modified: 2025-03-21 11:16:48
+	time_modified: 2025-09-25 17:29:29
 	name: Moonlight Spellbinder
 	casting_cost: 1B
 	image: image62.png
@@ -31,6 +31,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
+	card_stamp: none
 	illustrator: Ryky
 	card_code_text: 
 	card_code_text_2: 

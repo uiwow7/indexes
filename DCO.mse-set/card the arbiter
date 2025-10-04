@@ -9,7 +9,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2025-04-07 09:07:57
-	time_modified: 2025-08-28 09:26:08
+	time_modified: 2025-09-25 17:27:07
 	extra_data:
 		magic-m15-altered-plus:
 			vorthos_box: It/Its
@@ -34,6 +34,7 @@ card:
 	flavor_text: <i-flavor>“Grow. Explore. Expand.”</i-flavor>
 	power: 10
 	toughness: 10
+	card_stamp: none
 	illustrator: ERA7
 	card_code_text: 
 	card_code_text_2: 

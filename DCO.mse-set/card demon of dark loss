@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-17 13:53:37
-	time_modified: 2025-06-04 14:07:33
+	time_modified: 2025-09-26 17:19:11
 	name: Demon of Dark Loss
 	casting_cost: 2B
-	image: image50.png
+	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -16,7 +16,7 @@ card:
 	rule_text:
 		When <atom-cardname><nospellcheck>Demon of Dark Loss</nospellcheck></atom-cardname> enters, you draw a card.
 		Whenever you draw a card, you gain 1 life.
-	flavor_text: <i-flavor>Darkness and loss come hand in hand.</i-flavor>
+	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 4
 	illustrator: Jeff Brown

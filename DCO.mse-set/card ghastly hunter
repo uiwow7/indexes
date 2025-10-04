@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-16 11:22:34
-	time_modified: 2025-09-25 10:53:28
+	time_modified: 2025-09-27 08:09:59
 	name: Ghastly Hunter
 	casting_cost: 3W
 	image: image153.png
@@ -23,8 +23,8 @@ card:
 		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, put a +1/+1 counter on this creature if it doesn’t have one.)</i-auto></atom-reminder-custom></kw-A>
 		At the beginning of your end step, reveal the top four cards of your library, then choose up to one permanent card from among them. If it has mana value 3 or less or <atom-cardname><nospellcheck>Ghastly Hunter</nospellcheck></atom-cardname> has a counter on it, put it into your hand and the rest on the bottom of your library in a random order.
 	flavor_text: <i-flavor></i-flavor>
-	power: 1
-	toughness: 3
+	power: 3
+	toughness: 4
 	illustrator: Aaron Griffin
 	card_code_text: 
 	card_code_text_2: 

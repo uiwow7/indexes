@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-07 09:42:34
-	time_modified: 2025-04-15 22:25:57
+	time_modified: 2025-10-02 16:24:18
 	name: Drakoli Piracy
 	casting_cost: BB
 	image: image131.png
@@ -21,7 +21,7 @@ card:
 	rarity: rare
 	rule_text:
 		When <atom-cardname><nospellcheck>Drakoli Piracy</nospellcheck></atom-cardname> enters, you may sacrifice a permanent.
-		Once each turn, when a card you control is put into a graveyard from the battlefield or your hand, you may draw a card and lose 1 life.
+		Once each turn, when a card you own is put into a graveyard from the battlefield or your hand, you may draw a card and lose 1 life.
 	flavor_text: <i-flavor>With the Gods gone and Grand Oracles turned insane, <error-spelling:en_US>Drakol</error-spelling:en_US> became of plane of chaos within <error-spelling:en_US>Dazon</error-spelling:en_US>.</i-flavor>
 	illustrator: Darek Zabrocki
 	card_code_text: 

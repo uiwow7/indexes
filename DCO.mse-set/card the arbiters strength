@@ -1,13 +1,9 @@
 ﻿mse_version: 2.5.8
 card:
-	has_styling: true
-	styling_data:
-		chop_bottom: 10
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
+	has_styling: false
 	notes: 
 	time_created: 2025-04-03 18:12:09
-	time_modified: 2025-06-09 16:52:26
+	time_modified: 2025-10-02 16:22:37
 	border_color: rgb(0,0,0)
 	name: The Arbiter’s Strength
 	casting_cost: 2G
@@ -24,10 +20,11 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: Whenever a triggered ability of another noncreature enchantment you control triggers, you may pay <sym-auto>1</sym-auto>. If you do, copy that ability.
+	rule_text: Whenever a triggered ability of a noncreature enchantment you control triggers, you may pay <sym-auto>1</sym-auto>. If you do, copy that ability. You may choose new targets for the copy.
 	flavor_text: <i-flavor> “Grow. Explore. Expand.” Those 3 words were all that mattered. The amalgam would grow. The servants would explore. The Arbiter would expand.</i-flavor>
 	power: 3
 	toughness: 3
+	card_stamp: none
 	illustrator: Scott Uminga
 	card_code_text: 
 	card_code_text_2: 

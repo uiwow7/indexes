@@ -7,7 +7,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2025-03-25 21:18:22
-	time_modified: 2025-03-25 23:02:52
+	time_modified: 2025-09-25 17:29:25
 	name: Sentinel of Sanctuaries
 	casting_cost: 1GG
 	image: image76.png
@@ -30,6 +30,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
+	card_stamp: none
 	illustrator: Aleksei Liakh
 	card_code_text: 
 	card_code_text_2: 

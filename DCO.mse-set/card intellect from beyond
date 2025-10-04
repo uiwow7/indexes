@@ -9,7 +9,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2025-03-25 21:18:22
-	time_modified: 2025-03-27 23:09:47
+	time_modified: 2025-09-27 08:43:17
 	name: Intellect From Beyond
 	casting_cost: 1UU
 	image: image77.png
@@ -26,12 +26,12 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		When <atom-cardname><nospellcheck>Intellect From Beyond</nospellcheck></atom-cardname> enters, draw a card if you’ve cast a noncreature spell this turn.
 		Whenever you cast a noncreature spell, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
 	flavor_text: <i-flavor>From nothing, came everything.</i-flavor>
 	power: 3
-	toughness: 2
+	toughness: 3
+	card_stamp: none
 	illustrator: DaiSanVisART
 	card_code_text: 
 	card_code_text_2: 

@@ -1,16 +1,16 @@
 ﻿mse_version: 2.5.8
 card:
 	has_styling: false
-	notes: !addtoken Treasure;
+	notes: When Sava and Kala collide, fire rages across both splinters and massacres everyone who comes close.
 	time_created: 2025-03-23 15:36:29
-	time_modified: 2025-06-09 17:04:04
+	time_modified: 2025-09-26 17:30:44
 	name: Marring Flames
 	casting_cost: 1R
 	image: image73.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type: <word-list-type-en>Instant</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
@@ -19,8 +19,10 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: Destroy target nonbasic land. If you do, its controller creates a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
-	flavor_text: <i-flavor>When <error-spelling:en_US>Sava</error-spelling:en_US> and <error-spelling:en_US>Kala</error-spelling:en_US> collide, fire rages across both splinters and massacres everyone who comes close.</i-flavor>
+	rule_text:
+		Put a +1/+1 counter on target creature you control.
+		When you do, you may sacrifice a creature. If you do, <atom-cardname><nospellcheck>Marring Flames</nospellcheck></atom-cardname> deals damage equal to the sacrificed creature’s power to any target.
+	flavor_text: <i-flavor></i-flavor>
 	illustrator: Gary Tonge
 	card_code_text: 
 	card_code_text_2: 

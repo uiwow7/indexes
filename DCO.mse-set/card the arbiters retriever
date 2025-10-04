@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-24 09:54:05
-	time_modified: 2025-09-25 11:01:34
+	time_modified: 2025-09-26 09:04:49
 	name: The Arbiter’s Retriever
 	casting_cost: 2
 	image: image203.png
@@ -21,10 +21,11 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: When <atom-cardname><nospellcheck>The Arbiter’s Retriever</nospellcheck></atom-cardname> dies, return another target enchantment card from your graveyard to your hand.
+	rule_text: When <atom-cardname><nospellcheck>The Arbiter’s Retriever</nospellcheck></atom-cardname> dies, return another target enchantment card from your graveyard to your hand. Exile <atom-cardname><nospellcheck>The Arbiter’s Retriever</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
+	card_stamp: none
 	illustrator: Scott Uminga
 	card_code_text: 
 	card_code_text_2: 
