@@ -30,7 +30,7 @@ card:
 		Enchanted creature gets +4/+4, has <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, and has “This creature must be blocked if able.”
 	flavor_text:
 		<i-flavor>“Firmness is not aggression. It is strength, it is unity.”<soft-line>
-		—<error-spelling:en_US>Cedran</error-spelling:en_US>, Preserver of <error-spelling:en_US>Voro</soft-line></error-spelling:en_US></i-flavor>
+		—<error-spelling:en_US>Cedran</error-spelling:en_US>, Preserver of <error-spelling:en_US>Voro</soft-line></i-flavor></error-spelling:en_US>
 	card_stamp: none
 	illustrator: Hamsta180
 	card_code_text: 

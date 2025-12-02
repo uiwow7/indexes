@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-06-10 09:35:17
-	time_modified: 2025-08-07 15:57:12
+	time_modified: 2025-11-30 11:59:33
 	name: UM03 Arcun
 	casting_cost: 1IBR
-	image: 
+	image: image155.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -25,6 +25,7 @@ card:
 	flavor_text: <i-flavor>ft</i-flavor>
 	power: 4
 	toughness: 4
+	illustrator: Sylvia Ritter
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

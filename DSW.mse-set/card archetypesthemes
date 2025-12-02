@@ -9,7 +9,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-06-09 21:13:13
-	time_modified: 2025-08-27 15:49:19
+	time_modified: 2025-10-19 20:41:56
 	name: Archetypes/Themes
 	image: 
 	image_2: 
@@ -20,7 +20,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<sym-auto>UBR</sym-auto>: Spellslinger
+		<sym-auto>UBR</sym-auto>: <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Spellslinger</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
 		<sym-auto>IGU</sym-auto>: Revelations Ramp
 		<sym-auto>IWU</sym-auto>: Avatar kindred
 		<sym-auto>IBR</sym-auto>: Sacrifice/<kw-0><nospellcheck><key>Decayed</key></nospellcheck></kw-0>

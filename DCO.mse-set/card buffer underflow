@@ -16,7 +16,7 @@ card:
 	rule_text:
 		If you control no nonland permanents, this spell costs <sym-auto>U</sym-auto> less to cast.
 		Counter target permanent spell.
-	flavor_text: <i-flavor>The Arbiter’s systems were all perfectly in place and worked properly. Until Jaza got her hands on them.</i-flavor>
+	flavor_text: <i-flavor>The Arbiter’s systems were all perfectly in place and worked properly. Until <error-spelling:en_US>Jaza</error-spelling:en_US> got her hands on them.</i-flavor>
 	illustrator: Ryrycouch
 	card_code_text: 
 	card_code_text_2: 

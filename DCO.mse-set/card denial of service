@@ -22,7 +22,7 @@ card:
 	rule_text: If you’ve cast another noncreature spell this turn, draw a card. Return target nonland permanent to its owner’s hand.
 	flavor_text:
 		<i-flavor>“I’ve figured it out! If we can overload The Arbiter’s systems that both watch us and keep us captive, maybe we can escape.”<soft-line>
-		—<error-spelling:en_US>Jaza</error-spelling:en_US>, to <error-spelling:en_US>Drorix</error-spelling:en_US> and <error-spelling:en_US>Fiad</soft-line></error-spelling:en_US></i-flavor>
+		—<error-spelling:en_US>Jaza</error-spelling:en_US>, to <error-spelling:en_US>Drorix</error-spelling:en_US> and <error-spelling:en_US>Fiad</soft-line></i-flavor></error-spelling:en_US>
 	illustrator: DAMEAUX9
 	card_code_text: 
 	card_code_text_2: 

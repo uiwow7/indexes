@@ -21,7 +21,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: Counter target spell. If you control an Avatar or Anima, <kw-a><nospellcheck><key>scry <param-number>3</param-number></key></nospellcheck></kw-a>.
+	rule_text: Counter target spell. If you control an Avatar or <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Anima</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, <kw-a><nospellcheck><key>scry <param-number>3</param-number></key></nospellcheck></kw-a>.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 

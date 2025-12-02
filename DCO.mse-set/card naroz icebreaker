@@ -25,7 +25,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: Whenever you surveil, scry, or shuffle, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>. Do this only once each turn.
+	rule_text: Whenever you <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>surveil</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, scry, or shuffle, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>. Do this only once each turn.
 	flavor_text: <i-flavor>When the oceans freeze over, <error-spelling:en_US>Naroz</error-spelling:en_US> is nothing but a shell of what the splinter previously was. Oceans previously home to thousands of different things all trapped under a layer of ice.</i-flavor>
 	card_stamp: none
 	illustrator: ErikShoemaker

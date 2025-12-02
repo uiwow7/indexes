@@ -247,7 +247,7 @@ include_file: card ug07 medium creature
 include_file: card ug09 noncreature
 include_file: card ug11 noncreature
 include_file: card ug13 noncreature
-include_file: card rw01 small creature
+include_file: card rw01 designed
 include_file: card rw02 small creature
 include_file: card rw03 medium creature
 include_file: card rw04 medium creature
@@ -331,7 +331,7 @@ include_file: card mm04 medium creature
 include_file: card the eternal nexus
 include_file: card mm06 large creature
 include_file: card tomb of forgotten worlds
-include_file: card mx01 noncreature
+include_file: card stormwrought titan
 include_file: card gatu gembearer
 include_file: card ci02 small creature
 include_file: card dedicated acolyte
@@ -354,7 +354,7 @@ include_file: card starlights glimmer
 include_file: card vertex reminder
 include_file: card archetypesthemes
 include_file: card realmgrasper
-include_file: card um02 arcun
+include_file: card vibrant genesis
 include_file: card um03 arcun
 include_file: card um04 arcun
 include_file: card um05 arcun
@@ -398,21 +398,6 @@ include_file: card towering spires
 include_file: card mysterious gateway
 include_file: card moonlit mouth
 include_file: card subterranean fungus
-include_file: card um07
-include_file: card um08
-include_file: card um09
-include_file: card um10
-include_file: card um11
-include_file: card um12
-include_file: card um13
-include_file: card um14
-include_file: card um15
-include_file: card um16
-include_file: card um17
-include_file: card um18
-include_file: card um19
-include_file: card um20
-include_file: card um21
 keyword:
 	keyword: Infuse
 	match: Infuse

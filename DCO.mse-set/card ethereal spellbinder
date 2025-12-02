@@ -27,7 +27,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		When <atom-cardname><nospellcheck>Ethereal Spellbinder</nospellcheck></atom-cardname> enters, return up to one target creature to its owner’s hand.
-	rule_text_2: Up to one taret creature gets -4/-0 until end of turn. <i-auto>(Then shuffle this card into its owner’s library.)</i-auto>
+	rule_text_2: Up to one <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>taret</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creature gets -4/-0 until end of turn. <i-auto>(Then shuffle this card into its owner’s library.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	power: 6

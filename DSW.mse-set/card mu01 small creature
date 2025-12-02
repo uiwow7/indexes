@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: MU01,Large Creature,5,,Jin-Gitaxias
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-07-16 09:06:56
+	time_modified: 2025-10-19 20:50:18
 	name: MU01 Small Creature
 	casting_cost: 1I
 	image: 
@@ -15,6 +15,10 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en></word-list-race-en>
 	rarity: mythic rare
+	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, look at the top three cards of your library. Put one into your hand and the rest on the bottom of your library in any order.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

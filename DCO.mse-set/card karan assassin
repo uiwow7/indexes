@@ -23,7 +23,7 @@ card:
 		If a noncreature permanent would cause your opponent to lose life, they lose that much life plus one instead.
 	flavor_text:
 		<i-flavor>“The splinter of darkness lurks everywhere, you just need to look for it.”<soft-line>
-		—<error-spelling:en_US>Fiad</error-spelling:en_US>, Warden of <error-spelling:en_US>Hokori</soft-line></error-spelling:en_US></i-flavor>
+		—<error-spelling:en_US>Fiad</error-spelling:en_US>, Warden of <error-spelling:en_US>Hokori</soft-line></i-flavor></error-spelling:en_US>
 	power: 2
 	toughness: 2
 	card_stamp: none

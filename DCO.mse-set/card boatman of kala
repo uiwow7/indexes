@@ -16,7 +16,7 @@ card:
 	rule_text: <atom-cardname><nospellcheck>Boatman of Kala</nospellcheck></atom-cardname> gets +1/+1 for each token you control.</atom-cardname><atom-name>
 	flavor_text:
 		<i-flavor>“I can bring you across the lava ocean. For a price, of course.”<soft-line>
-		</soft-line>—<error-spelling:en_US>Dunula</error-spelling:en_US> <error-spelling:en_US>Kor</error-spelling:en_US></i-flavor>
+		</soft-line>—<error-spelling:en_US>Dunula</error-spelling:en_US> <error-spelling:en_US>Kor</i-flavor></error-spelling:en_US>
 	power: 1
 	toughness: 1
 	illustrator: Larry Southberg

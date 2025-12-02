@@ -21,7 +21,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: <atom-name>This spell</atom-cardname> deals 3 damage to target attacking, blocking, or Anima creature.
+	rule_text: <atom-name>This spell</atom-cardname> deals 3 damage to target attacking, blocking, or <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Anima</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creature.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 
