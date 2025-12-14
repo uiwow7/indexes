@@ -3,7 +3,10 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: CW16,Noncreature,2,,Realmbreaker's Grasp
+	notes:
+		CW16,Noncreature,2,,Realmbreaker's Grasp
+		
+		FIND ORIGINAL ART
 	time_created: 2025-06-08 00:00:00
 	time_modified: 2025-08-26 23:42:59
 	name: Moonlight Charm

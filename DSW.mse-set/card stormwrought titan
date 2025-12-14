@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: MX01,Noncreature,5,,Invasion of Ravnica
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-11-30 11:56:16
+	time_modified: 2025-12-13 18:13:56
 	name: Stormwrought Titan
 	casting_cost: 5
 	image: image153.png
@@ -21,10 +21,12 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: mythic rare
-	rule_text: 
+	rule_text:
+		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, if this creature doesn’t have a +1/+1 counter on it, put a +1/+1 counter on it.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever one or more counters are put on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>, draw a card, then discard a card.
 	flavor_text: <i-flavor></i-flavor>
-	power: 5
-	toughness: 5
+	power: 3
+	toughness: 2
 	illustrator: OrroreProfondo
 	card_code_text: 
 	card_code_text_2: 

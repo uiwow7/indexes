@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-08-06 11:46:37
-	time_modified: 2025-08-26 23:55:16
+	time_modified: 2025-12-01 22:15:38
 	name: Wonderings
 	casting_cost: I
-	image: image123.png
+	image: image59.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -20,8 +20,8 @@ card:
 	sub_type_4: 
 	rarity: common
 	rule_text:
-		Look at the top three cards of your library, then put them back in any order. 
 		Draw a card.
+		Look at the top three cards of your library, then put them back in any order. 
 	flavor_text:
 		<i-flavor>ft<soft-line>
 		ft</soft-line></i-flavor>

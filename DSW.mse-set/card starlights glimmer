@@ -3,12 +3,15 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: CW21,Noncreature,4,,Inspired Charge
+	notes:
+		CW21,Noncreature,4,,Inspired Charge
+		
+		~~delve?????~~ 
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-08-26 23:46:53
+	time_modified: 2025-12-01 22:08:11
 	name: Starlight’s Glimmer
 	casting_cost: 4I
-	image: image116.png
+	image: image118.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

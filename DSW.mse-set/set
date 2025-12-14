@@ -194,14 +194,14 @@ include_file: card invigorate lost realms
 include_file: card stand your ground
 include_file: card devour to infinity
 include_file: card hunt for eternity
-include_file: card gatu darkhammer
+include_file: card something hammer
 include_file: card devour earthly worlds
 include_file: card ca01 small creature
 include_file: card ca02 medium creature
 include_file: card eternal engine
 include_file: card ca04 noncreature
 include_file: card ca05 noncreature
-include_file: card ca06 noncreature
+include_file: card monument to eternity
 include_file: card uw01 designed
 include_file: card uw03 designed
 include_file: card uw04 designed
@@ -220,14 +220,14 @@ include_file: card uu07 designed
 include_file: card uu09 designed
 include_file: card uu10 designed
 include_file: card uu12 designed
-include_file: card ub01 small creature
-include_file: card ub02 small creature
-include_file: card ub03 medium creature
-include_file: card ub04 medium creature
-include_file: card ub05 medium creature
-include_file: card ub07 noncreature
-include_file: card ub08 noncreature
-include_file: card ub10 noncreature
+include_file: card ub01 designed
+include_file: card ub02 designed
+include_file: card ub03 designed
+include_file: card ub04 designed
+include_file: card ub05 designed
+include_file: card ub07 designed
+include_file: card ub08 designed
+include_file: card ub10 designed
 include_file: card ub11 noncreature
 include_file: card ur01 small creature
 include_file: card ur02 small creature
@@ -249,7 +249,7 @@ include_file: card ug11 noncreature
 include_file: card ug13 noncreature
 include_file: card rw01 designed
 include_file: card rw02 small creature
-include_file: card rw03 medium creature
+include_file: card rw03 designed
 include_file: card rw04 medium creature
 include_file: card rw05 medium creature
 include_file: card rw06 medium creature
@@ -258,7 +258,7 @@ include_file: card rw08 noncreature
 include_file: card rw09 noncreature
 include_file: card rw10 noncreature
 include_file: card ru01 small creature
-include_file: card ru02 small creature
+include_file: card ru02 designed
 include_file: card ru03 small creature
 include_file: card ru04 medium creature
 include_file: card ru05 medium creature
@@ -277,7 +277,7 @@ include_file: card rb07 noncreature
 include_file: card rb08 noncreature
 include_file: card rb09 noncreature
 include_file: card rr01 small creature
-include_file: card rr02 small creature
+include_file: card rr02 designed
 include_file: card rr03 medium creature
 include_file: card interstellar phoenix
 include_file: card rr05 large creature
@@ -288,7 +288,7 @@ include_file: card rr09 noncreature
 include_file: card rr10 noncreature
 include_file: card rg01 medium creature
 include_file: card rg02 medium creature
-include_file: card rg03 large creature
+include_file: card rg03 designed
 include_file: card rg04 large creature
 include_file: card rg05 large creature
 include_file: card rg06 noncreature
@@ -355,10 +355,10 @@ include_file: card vertex reminder
 include_file: card archetypesthemes
 include_file: card realmgrasper
 include_file: card vibrant genesis
-include_file: card um03 arcun
-include_file: card um04 arcun
-include_file: card um05 arcun
-include_file: card um06 arcun
+include_file: card bloodbringer
+include_file: card no-name
+include_file: card a
+include_file: card watcher of eternity
 include_file: card ui01 small creature
 include_file: card ui03 small creature
 include_file: card ui04 small creature
@@ -372,7 +372,7 @@ include_file: card mu01 small creature
 include_file: card mu01 large creature.1
 include_file: card ri01 small creature
 include_file: card ri02 small creature
-include_file: card ri03 small creature
+include_file: card ri03 designed
 include_file: card ri04 medium creature
 include_file: card ri05 medium creature
 include_file: card ri06 large creature
@@ -382,7 +382,7 @@ include_file: card ri09 noncreature
 include_file: card ri10 noncreature
 include_file: card wonderings
 include_file: card refract empty space
-include_file: card no-name
+include_file: card no-name.1
 include_file: card frozen cavern
 include_file: card forsaken depths
 include_file: card sinful carvings

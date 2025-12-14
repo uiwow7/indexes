@@ -5,16 +5,27 @@ card:
 	has_styling: false
 	notes: RW03,Medium Creature,3,flying ,Guardian of Ghirapur
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-06-08 00:00:00
+	time_modified: 2025-12-01 19:30:15
 	name: RW03 Medium Creature
 	casting_cost: 2W
-	image: 
+	image: image156.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
-	sub_type: <word-list-race-en></word-list-race-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Angel</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
+	rule_text: When this creature enters, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym> for each creature you control.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor>They watch as angels but act as demons.</i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: DaiSanVisArt
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

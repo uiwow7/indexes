@@ -5,13 +5,13 @@ card:
 	has_styling: false
 	notes: CW04,Small Creature,2,,Swordsworn Cavalier
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-08-26 01:27:45
+	time_modified: 2025-12-01 21:12:51
 	extra_data:
 		magic-m15-altered-plus:
 			vorthos_box: 
 	name: Barrier of Storms
 	casting_cost: 1I
-	image: image117.png
+	image: image108.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -26,10 +26,8 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, each opponent loses 2 life.
-	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft</soft-line></i-flavor>
+		As long as a nonland permanent you control has left the battlefield this turn, <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> can attack as though it didn’t have <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2
 	illustrator: Marcos Poncio

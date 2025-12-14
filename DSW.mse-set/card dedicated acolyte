@@ -3,12 +3,14 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: CW03,Small Creature,2,,Alabaster Host Sanctifier
+	notes:
+		CW03,Small Creature,2,,Alabaster Host Sanctifier
+		FLAG, REDESIGN
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-08-26 01:27:01
+	time_modified: 2025-12-01 21:10:14
 	name: Dedicated Acolyte
 	casting_cost: 1I
-	image: image108.png
+	image: image113.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -28,8 +30,8 @@ card:
 		ft<soft-line>
 		ft<soft-line>
 		ft</soft-line></soft-line></soft-line></soft-line></i-flavor>
-	power: 2
-	toughness: 2
+	power: 1
+	toughness: 1
 	illustrator: SpoonNarrative819
 	card_code_text: 
 	card_code_text_2: 
