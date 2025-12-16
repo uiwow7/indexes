@@ -192,12 +192,12 @@ include_file: card snakeskin veil
 include_file: card astral navigation
 include_file: card invigorate lost realms
 include_file: card stand your ground
-include_file: card devour to infinity
+include_file: card consume infinity
 include_file: card hunt for eternity
 include_file: card something hammer
 include_file: card devour earthly worlds
 include_file: card ca01 small creature
-include_file: card ca02 medium creature
+include_file: card clockwork effigy
 include_file: card eternal engine
 include_file: card ca04 noncreature
 include_file: card ca05 noncreature
@@ -228,12 +228,12 @@ include_file: card ub05 designed
 include_file: card ub07 designed
 include_file: card ub08 designed
 include_file: card ub10 designed
-include_file: card ub11 noncreature
-include_file: card ur01 small creature
+include_file: card ub11 designed
+include_file: card ur01 designed
 include_file: card ur02 small creature
 include_file: card ur04 medium creature
 include_file: card ur05 medium creature
-include_file: card ur06 medium creature
+include_file: card ur06 designed
 include_file: card ur09 noncreature
 include_file: card ur10 noncreature
 include_file: card ur11 noncreature
@@ -356,9 +356,9 @@ include_file: card archetypesthemes
 include_file: card realmgrasper
 include_file: card vibrant genesis
 include_file: card bloodbringer
-include_file: card no-name
-include_file: card a
-include_file: card watcher of eternity
+include_file: card ragewarden
+include_file: card thundersage
+include_file: card starbinder
 include_file: card ui01 small creature
 include_file: card ui03 small creature
 include_file: card ui04 small creature
@@ -382,7 +382,7 @@ include_file: card ri09 noncreature
 include_file: card ri10 noncreature
 include_file: card wonderings
 include_file: card refract empty space
-include_file: card no-name.1
+include_file: card no-name
 include_file: card frozen cavern
 include_file: card forsaken depths
 include_file: card sinful carvings

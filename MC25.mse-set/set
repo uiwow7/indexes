@@ -16,6 +16,9 @@ styling:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
+	magic-m15-altered-plus:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
 	magic-m15-mainframe-dfc:
 		front_style: normal
 		other_options: use hovering pt, unindent nonloyalty abilities, automate type frames, auto nyx crowns
@@ -63,6 +66,7 @@ include_file: card unfathomable exploration
 include_file: card caves of premonition
 include_file: card galen kinzan engineer
 include_file: card in search of brilliance
+include_file: card no-name
 keyword:
 	keyword: Torment
 	match: Torment yourself
