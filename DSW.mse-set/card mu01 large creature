@@ -5,9 +5,9 @@ card:
 	has_styling: false
 	notes: MU01,Large Creature,5,,Jin-Gitaxias
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-06-08 00:00:00
+	time_modified: 2025-07-16 09:06:44
 	name: MU01 Large Creature
-	casting_cost: 4U
+	casting_cost: 4I
 	image: 
 	image_2: 
 	mainframe_image: 

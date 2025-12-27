@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: RG05,Large Creature,7,,Ancient Imperiosaur
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-06-08 00:00:00
+	time_modified: 2025-12-18 14:49:04
 	name: RG05 Large Creature
 	casting_cost: 6G
 	image: 
@@ -15,6 +15,8 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en></word-list-race-en>
 	rarity: rare
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

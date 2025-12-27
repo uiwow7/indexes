@@ -5,15 +5,26 @@ card:
 	has_styling: false
 	notes: UR11,Noncreature,3,,Invasion of Regatha
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-06-08 00:00:00
+	time_modified: 2025-12-15 22:15:22
 	name: UR11 Noncreature
 	casting_cost: 2R
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	sub_type: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: uncommon
+	rule_text:
+		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/U</sym>.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever you cast a noncreature spell, <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> deals 1 damage to each opponent.
+	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

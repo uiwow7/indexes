@@ -5,10 +5,10 @@ card:
 	has_styling: false
 	notes: UU03,Small Creature,2,,Oracle of Tragedy
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-08-27 17:48:59
+	time_modified: 2025-12-17 10:58:05
 	name: UU03 DESIGNED
 	casting_cost: 1U
-	image: 
+	image: image178.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -21,6 +21,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 2
+	illustrator: Haiwden
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

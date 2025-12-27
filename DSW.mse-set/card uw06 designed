@@ -5,10 +5,10 @@ card:
 	has_styling: false
 	notes: UW06,Medium Creature,3,,Phyrexian Censor
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-08-27 15:53:53
+	time_modified: 2025-12-20 10:52:00
 	name: UW06 DESIGNED
 	casting_cost: 2W
-	image: 
+	image: image186.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -21,6 +21,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
 	toughness: 0
+	illustrator: Rozcker
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

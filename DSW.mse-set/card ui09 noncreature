@@ -5,23 +5,31 @@ card:
 	has_styling: false
 	notes: UU09,Noncreature,4,,Invasion of Vryn
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-07-16 09:05:11
+	time_modified: 2025-12-16 10:51:29
 	name: UI09 Noncreature
 	casting_cost: 3I
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	sub_type: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: 
+	rule_text:
+		Equipped creature gets +2/+2 and has <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-0><nospellcheck><key>healing <param-number>2</param-number></key></nospellcheck></kw-0>. <i-auto>(Damage dealt by it also causes you to gain 2 life.)</i-auto>
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 
-	flavor_text: <i-flavor></i-flavor>
+	flavor_text:
+		<i-flavor>ft<soft-line>
+		ft</soft-line></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	flavor_text_4: <i-flavor></i-flavor>

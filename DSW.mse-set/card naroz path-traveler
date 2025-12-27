@@ -3,10 +3,7 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes:
-		CW04,Small Creature,2,,Swordsworn Cavalier
-		
-		REDESIGN
+	notes: CW04,Small Creature,2,,Swordsworn Cavalier
 	time_created: 2025-06-08 00:00:00
 	time_modified: 2025-12-13 17:42:57
 	name: Naroz Path-Traveler

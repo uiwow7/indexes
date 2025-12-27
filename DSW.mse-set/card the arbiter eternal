@@ -1,0 +1,46 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		opacity: 180
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-12-18 15:00:02
+	time_modified: 2025-12-23 19:28:32
+	name: The Arbiter, Eternal
+	casting_cost: 5CC
+	image: image192.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-planeswalker>Arbiter</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	loyalty_cost_1: 
+	loyalty_cost_2: 0
+	loyalty_cost_3: -2
+	loyalty_cost_4: -10
+	loyalty: 5
+	level_1_text: Whenever one or more cards enter or leave your sanctum, put a loyalty counter on The Arbiter.
+	level_2_text: <margin:130:0:0>Put a card from your sanctum into your hand.</margin:130:0:0>
+	level_3_text: <margin:130:0:0><kw-0><nospellcheck><key>You get</key></nospellcheck></kw-0> <sym>V/U</sym>. You may cast a copy of a  vertex sorcery from your command zone without paying its mana cost. <i-auto>(You still pay its vertex cost.)</i-auto></margin:130:0:0>
+	level_4_text: <margin:130:0:0><kw-0><nospellcheck><key>You get</key></nospellcheck></kw-0> an emblem with “You may spend <sym>V</sym> as though it were mana of any type. <kw-0><nospellcheck><key>You get</key></nospellcheck></kw-0> ten <sym>V</sym>.”</margin:130:0:0>
+	level_5_text: 
+	illustrator: Era7
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		Whenever one or more cards enter or leave your sanctum, put a loyalty counter on The Arbiter.
+		[0]: <margin:130:0:0>Put a card from your sanctum into your hand.</margin:130:0:0>
+		[-2]: <margin:130:0:0><kw-0><nospellcheck><key>You get</key></nospellcheck></kw-0> <sym>V/U</sym>. You may cast a copy of a  vertex sorcery from your command zone without paying its mana cost. <i-auto>(You still pay its vertex cost.)</i-auto></margin:130:0:0>
+		[-10]: <margin:130:0:0><kw-0><nospellcheck><key>You get</key></nospellcheck></kw-0> an emblem with “You may spend <sym>V</sym> as though it were mana of any type. <kw-0><nospellcheck><key>You get</key></nospellcheck></kw-0> ten <sym>V</sym>.”</margin:130:0:0>

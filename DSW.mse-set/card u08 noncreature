@@ -5,19 +5,25 @@ card:
 	has_styling: false
 	notes: UU08,Noncreature,4,,Invasion of Kamigawa
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-07-16 09:04:35
+	time_modified: 2025-12-16 10:43:38
 	name: U08 Noncreature
 	casting_cost: 3I
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	sub_type: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: 
+	rule_text:
+		As an additional cost to cast this <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname>, you may sacrifice one or more creatures. When you do, copy this spell for each creature sacrificed this way.
+		Each opponent loses 2 life and you gain 2 life.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 

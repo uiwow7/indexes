@@ -5,10 +5,10 @@ card:
 	has_styling: false
 	notes: UU02,Small Creature,1,,Omen Hawker
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-12-01 22:21:14
+	time_modified: 2025-12-20 19:50:02
 	name: UU02 DESIGNED
 	casting_cost: U
-	image: 
+	image: image191.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -21,6 +21,7 @@ card:
 		ft</soft-line></i-flavor>
 	power: 1
 	toughness: 1
+	illustrator: Melkornm
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

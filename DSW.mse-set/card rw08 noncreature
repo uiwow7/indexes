@@ -5,15 +5,29 @@ card:
 	has_styling: false
 	notes: RW08,Noncreature,2,,Invasion of Gobakhan
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-06-08 00:00:00
+	time_modified: 2025-12-23 21:43:50
 	name: RW08 Noncreature
 	casting_cost: 1W
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	sub_type: 
+	super_type: <word-list-type-en>Kindred Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Revelation</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
+	rule_text:
+		Exile up to one target tapped creature.
+		<kw-A><nospellcheck><key>Realize <param-cost><sym-auto>3WW</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</i-auto></atom-reminder-custom></kw-A>
+		If a card would be put into a graveyard from anywhere, exile it instead.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

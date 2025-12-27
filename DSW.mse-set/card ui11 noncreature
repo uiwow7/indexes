@@ -5,19 +5,25 @@ card:
 	has_styling: false
 	notes: UU11,Noncreature,5,,Corruption of Towashi
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-07-16 09:05:20
+	time_modified: 2025-12-16 10:41:50
 	name: UI11 Noncreature
 	casting_cost: 4I
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	sub_type: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: 
+	rule_text:
+		Creature tokens you control get +1/+0 and lose <kw-0><nospellcheck><key>decayed</key></nospellcheck></kw-0>.
+		Whenever a nontoken creature you control dies, create two 1/1 black Spirit creature tokens with <kw-A><nospellcheck><key>decayed</key></nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 

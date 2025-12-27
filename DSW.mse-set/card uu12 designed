@@ -19,10 +19,10 @@ card:
 		well
 		itll be full of basics
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-09-18 15:08:56
+	time_modified: 2025-12-15 22:59:39
 	name: UU12 DESIGNED
 	casting_cost: 4U
-	image: 
+	image: image129.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -43,6 +43,7 @@ card:
 		ft<soft-line>
 		ft<soft-line>
 		ft</soft-line></soft-line></soft-line></soft-line></soft-line></i-flavor>
+	illustrator: COOLZONE17500
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

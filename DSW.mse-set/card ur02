@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: UR02,Small Creature,2,,Furnace Gremlin
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2025-12-15 22:27:12
+	card_trim: none 
+	name: UR02 
+	casting_cost: 1R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, if this creature doesn’t have a +1/+1 counter on it, put a +1/+1 counter on it.)</i-auto></atom-reminder-custom></kw-A>
+		<atom-name>This creature</atom-cardname> has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> as long as it has power 3 or greater.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
