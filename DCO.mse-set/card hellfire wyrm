@@ -3,9 +3,11 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-13 16:38:48
-	time_modified: 2025-03-17 13:53:18
+	time_modified: 2025-12-27 15:32:53
+	card_trim: prototype
 	name: Hellfire Wyrm
 	casting_cost: 3RR
+	casting_cost_2: 4R
 	image: image45.png
 	image_2: 
 	mainframe_image: 
@@ -16,8 +18,8 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
 		Whenever a creature you control attacks, <atom-cardname><nospellcheck>Hellfire Wyrm</nospellcheck></atom-cardname> deals 1 damage to each opponent.
-		<kw-A><nospellcheck><key>Uncover <param-cost><sym-auto>4R</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>4R</sym-auto></param-cost>: Return this card from your graveyard to the battlefield, except it’s an enchantment and loses all other card types. Exile it if it would leave the battlefield. Uncover only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
+	level_2_text: <kw-A><nospellcheck><key>Uncover</key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this as an enchantment from your graveyard for its uncover cost.)</i-auto></atom-reminder-custom></kw-A>
 	power: 4
 	toughness: 4
 	illustrator: Fmacmanus

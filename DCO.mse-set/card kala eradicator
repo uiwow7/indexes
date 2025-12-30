@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: !addtoken Reset Function;
 	time_created: 2025-03-21 10:40:50
-	time_modified: 2025-09-24 19:05:52
+	time_modified: 2025-12-27 15:43:58
 	name: Kala Eradicator
 	casting_cost: RR
 	image: image67.png
@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, put a +1/+1 counter on this creature if it doesn’t have one.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Infuse <param-number>1</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)</i-auto></atom-reminder-custom></kw-A>
 		Whenever <atom-cardname><nospellcheck>Kala Eradicator</nospellcheck></atom-cardname> attacks, exile the top card of your library. If it isn’t a creature or <atom-cardname><nospellcheck>Kala Eradicator</nospellcheck></atom-cardname> has a counter on it, you may play it this turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2

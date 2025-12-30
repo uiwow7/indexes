@@ -1,14 +1,19 @@
 ﻿mse_version: 2.5.8
 card:
-	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
-	has_styling: false
-	notes: S
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		use_holofoil_stamps: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: 
 	time_created: 2025-03-10 12:18:02
-	time_modified: 2025-09-25 17:27:31
-	card_trim: clear, nyx
+	time_modified: 2025-12-27 15:29:04
+	card_trim: clear, nyx, prototype
 	name: Cavesplitter
 	casting_cost: 4
+	casting_cost_2: 6
 	image: image180.png
 	image_2: 
 	mainframe_image: 
@@ -22,8 +27,8 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
 		Whenever <atom-cardname><nospellcheck>Cavesplitter</nospellcheck></atom-cardname> or another enchantment enters under your control, target creature loses all abilities until the end of your next turn.
-		<kw-A><nospellcheck><key>Uncover <param-cost><sym-auto>6</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>6</sym-auto></param-cost>: Return this card from your graveyard to the battlefield, except it’s an enchantment and loses all other card types. Exile it if it would leave the battlefield. Uncover only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
+	level_2_text: <kw-A><nospellcheck><key>Uncover</key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this as an enchantment from your graveyard for its uncover cost.)</i-auto></atom-reminder-custom></kw-A>
 	power: 3
 	toughness: 2
 	card_stamp: none

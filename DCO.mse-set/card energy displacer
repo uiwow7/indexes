@@ -9,9 +9,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2025-04-17 19:09:04
-	time_modified: 2025-09-25 17:27:02
+	time_modified: 2025-12-27 15:30:35
+	card_trim: prototype
 	name: Energy Displacer
 	casting_cost: 1U
+	casting_cost_2: 3U
 	image: image155.png
 	image_2: 
 	mainframe_image: 
@@ -25,10 +27,9 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text:
-		At the beginning of your upkeep, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
-		<kw-A><nospellcheck><key>Uncover <param-cost><sym-auto>3U</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>3U</sym-auto></param-cost>: Return this card from your graveyard to the battlefield, except it’s an enchantment and loses all other card types. Exile it if it would leave the battlefield. Uncover only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: At the beginning of your upkeep, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
 	flavor_text: <i-flavor></i-flavor>
+	level_2_text: <kw-A><nospellcheck><key>Uncover</key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this as an enchantment from your graveyard for its uncover cost.)</i-auto></atom-reminder-custom></kw-A>
 	card_stamp: none
 	illustrator: Scott Uminga
 	card_code_text: 

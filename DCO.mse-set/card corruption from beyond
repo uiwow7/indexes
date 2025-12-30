@@ -3,9 +3,11 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-13 16:38:48
-	time_modified: 2025-03-13 18:41:36
+	time_modified: 2025-12-27 15:33:07
+	card_trim: prototype
 	name: Corruption From Beyond
 	casting_cost: 3BB
+	casting_cost_2: 4B
 	image: image44.png
 	image_2: 
 	mainframe_image: 
@@ -16,8 +18,8 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
 		<sym-auto>2</sym-auto>, Sacrifice an enchantment: Draw a card. Activate only once during each of your turns.
-		<kw-A><nospellcheck><key>Uncover <param-cost><sym-auto>4B</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>4B</sym-auto></param-cost>: Return this card from your graveyard to the battlefield, except it’s an enchantment and loses all other card types. Exile it if it would leave the battlefield. Uncover only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
+	level_2_text: <kw-A><nospellcheck><key>Uncover</key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this as an enchantment from your graveyard for its uncover cost.)</i-auto></atom-reminder-custom></kw-A>
 	power: 5
 	toughness: 5
 	illustrator: PATVIT

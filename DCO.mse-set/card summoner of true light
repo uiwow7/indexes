@@ -3,9 +3,11 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-13 16:38:48
-	time_modified: 2025-03-13 19:07:26
+	time_modified: 2025-12-27 15:33:33
+	card_trim: prototype
 	name: Summoner of True Light
 	casting_cost: 3WW
+	casting_cost_2: 4W
 	image: image49.png
 	image_2: 
 	mainframe_image: 
@@ -16,8 +18,8 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
 		Once each turn, when a creature you control with power 2 or less enters, you may draw a card and gain 1 life.
-		<kw-A><nospellcheck><key>Uncover <param-cost><sym-auto>4W</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>4W</sym-auto></param-cost>: Return this card from your graveyard to the battlefield, except it’s an enchantment and loses all other card types. Exile it if it would leave the battlefield. Uncover only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
+	level_2_text: <kw-A><nospellcheck><key>Uncover</key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this as an enchantment from your graveyard for its uncover cost.)</i-auto></atom-reminder-custom></kw-A>
 	power: 4
 	toughness: 5
 	illustrator: NFatin

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-12 16:01:48
-	time_modified: 2025-10-02 16:24:02
+	time_modified: 2025-12-29 15:41:08
 	name: Celestial Darkness
 	casting_cost: 1B
 	image: image145.png
@@ -23,8 +23,8 @@ card:
 		When <atom-cardname><nospellcheck>Celestial Darkness</nospellcheck></atom-cardname> enters or is put into a graveyard from the battlefield, you draw a card and lose 1 life.
 		<sym-auto>2B</sym-auto>: Sacrifice <atom-cardname><nospellcheck>Celestial Darkness</nospellcheck></atom-cardname>.
 	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft</soft-line></i-flavor>
+		<i-flavor>“The cosmos is nothing more than a plaything for those who know how to use it.”<soft-line>
+		—The Arbiter</soft-line></i-flavor>
 	illustrator: Mink-TDR
 	card_code_text: 
 	card_code_text_2: 

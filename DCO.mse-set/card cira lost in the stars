@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: !tag energy;
 	time_created: 2025-04-20 11:45:33
-	time_modified: 2025-09-28 16:27:18
+	time_modified: 2025-12-27 15:45:22
 	extra_data:
 		magic-m15-altered-plus:
 			vorthos_box: She/Her
@@ -23,7 +23,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, put a +1/+1 counter on this creature if it doesn’t have one.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Infuse <param-number>1</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)</i-auto></atom-reminder-custom></kw-A>
 		Whenever <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Cira</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals combat damage to a player, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>. If she has a counter on her, draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1

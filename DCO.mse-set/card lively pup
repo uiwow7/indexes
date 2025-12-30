@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: The foxes of Baru have endless energy, waiting to be release during a collision.
 	time_created: 2025-04-12 16:01:48
-	time_modified: 2025-09-26 17:18:11
+	time_modified: 2025-12-27 15:42:46
 	name: Lively Pup
 	casting_cost: R
 	image: image146.png
@@ -20,10 +20,10 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, put a +1/+1 counter on this creature if it doesn’t have one.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Infuse <param-number>2</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has two.)</i-auto></atom-reminder-custom></kw-A>
 		<atom-cardname><nospellcheck>Lively Pup</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> as long as you’ve cast a noncreature spell this turn.
 	flavor_text: <i-flavor></i-flavor>
-	power: 1
+	power: 0
 	toughness: 1
 	illustrator: Clockbirds
 	card_code_text: 

@@ -92,6 +92,9 @@ styling:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-saga:
+		chapter_divider_coordinates: 
+		reminder_coordinate: 
+		reminder_text_size: 
 		other_options: class
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -339,7 +342,7 @@ include_file: card forest
 include_file: card treasure
 keyword:
 	keyword: Uncover
-	match: Uncover <atom-param>cost</atom-param>
+	match: Uncoverold <atom-param>cost</atom-param>
 	reminder: {param1}: Return this card from your graveyard to the battlefield, except it’s an enchantment and loses all other card types. Exile it if it would leave the battlefield. Uncover only as a sorcery.
 	rules: 
 	mode: custom
@@ -369,8 +372,14 @@ keyword:
 	mode: custom
 keyword:
 	keyword: Infuse
-	match: Infuse
-	reminder: When you cast a noncreature spell, put a +1/+1 counter on this creature if it doesn't have one.
+	match: Infuse <atom-param>number</atom-param>
+	reminder: Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has {if param1.value == "1" then "none" else english_number(param1.value)}.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Uncover
+	match: Uncover
+	reminder: You may cast this as an enchantment from your graveyard for its uncover cost.
 	rules: 
 	mode: custom
 version_control:

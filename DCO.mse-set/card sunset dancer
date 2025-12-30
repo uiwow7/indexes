@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-05-18 21:41:14
-	time_modified: 2025-09-30 17:10:03
+	time_modified: 2025-12-27 15:41:22
 	name: Sunset Dancer
 	casting_cost: UBR
 	image: image218.png
@@ -20,11 +20,11 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, put a +1/+1 counter on this creature if it doesn’t have one.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Infuse <param-number>3</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has three.)</i-auto></atom-reminder-custom></kw-A>
 		Whenever you cast a noncreature spell, <atom-cardname><nospellcheck>Sunset Dancer</nospellcheck></atom-cardname> deals 1 damage to each opponent and you gain 1 life.
 	flavor_text: <i-flavor></i-flavor>
-	power: 2
-	toughness: 2
+	power: 1
+	toughness: 1
 	illustrator: DaiSanVisArt
 	card_code_text: 
 	card_code_text_2: 

@@ -3,9 +3,11 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 01:28:21
-	time_modified: 2025-08-27 21:51:11
+	time_modified: 2025-12-27 15:32:09
+	card_trim: prototype
 	name: Door to Eternity
 	casting_cost: 1BB
+	casting_cost_2: 2B
 	image: image89.png
 	image_2: 
 	mainframe_image: 
@@ -19,10 +21,9 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text:
-		<sym-auto>T</sym-auto>, Sacrifice a nonland permanent: Draw a card.
-		<kw-A><nospellcheck><key>Uncover <param-cost><sym-auto>3B</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>3B</sym-auto></param-cost>: Return this card from your graveyard to the battlefield, except it’s an enchantment and loses all other card types. Exile it if it would leave the battlefield. Uncover only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: <sym-auto>T</sym-auto>, Sacrifice a nonland permanent: Draw a card.
 	flavor_text: <i-flavor></i-flavor>
+	level_2_text: <kw-A><nospellcheck><key>Uncover</key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this as an enchantment from your graveyard for its uncover cost.)</i-auto></atom-reminder-custom></kw-A>
 	illustrator: Scott Uminga
 	card_code_text: 
 	card_code_text_2: 

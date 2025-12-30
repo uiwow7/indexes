@@ -9,9 +9,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2025-03-17 14:22:21
-	time_modified: 2025-09-25 17:29:29
+	time_modified: 2025-12-27 15:32:26
+	card_trim: prototype
 	name: Moonlight Spellbinder
 	casting_cost: 1B
+	casting_cost_2: 1BB
 	image: image62.png
 	image_2: 
 	mainframe_image: 
@@ -25,10 +27,9 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text:
-		When <atom-cardname><nospellcheck>Moonlight Spellbinder</nospellcheck></atom-cardname> enters, you draw your second card each turn, or you cast your second spell each turn, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
-		<kw-A><nospellcheck><key>Uncover <param-cost><sym-auto>1BB</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>1BB</sym-auto></param-cost>: Return this card from your graveyard to the battlefield, except it’s an enchantment and loses all other card types. Exile it if it would leave the battlefield. Uncover only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: When <atom-cardname><nospellcheck>Moonlight Spellbinder</nospellcheck></atom-cardname> enters, you draw your second card each turn, or you cast your second spell each turn, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
 	flavor_text: <i-flavor></i-flavor>
+	level_2_text: <kw-A><nospellcheck><key>Uncover</key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this as an enchantment from your graveyard for its uncover cost.)</i-auto></atom-reminder-custom></kw-A>
 	power: 2
 	toughness: 2
 	card_stamp: none

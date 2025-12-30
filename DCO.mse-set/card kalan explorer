@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: !tag energy;
 	time_created: 2025-04-17 19:09:08
-	time_modified: 2025-09-25 10:55:30
+	time_modified: 2025-12-27 15:45:33
 	name: Kalan Explorer
 	casting_cost: 1R
 	image: image157.png
@@ -20,11 +20,11 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, put a +1/+1 counter on this creature if it doesn’t have one.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Infuse <param-number>2</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has two.)</i-auto></atom-reminder-custom></kw-A>
 		Whenever one or more counters are put on <atom-cardname><nospellcheck>Kalan Explorer</nospellcheck></atom-cardname>, you may discard a card. If you do, draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
-	toughness: 2
+	toughness: 1
 	illustrator: Plunteere
 	card_code_text: 
 	card_code_text_2: 

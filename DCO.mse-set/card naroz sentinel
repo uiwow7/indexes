@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 23:00:07
-	time_modified: 2025-09-26 09:35:40
+	time_modified: 2025-12-27 15:43:13
 	name: Naroz Sentinel
 	casting_cost: 2U
 	image: image104.png
@@ -20,10 +20,10 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, put a +1/+1 counter on this creature if it doesn’t have one.)</i-auto></atom-reminder-custom></kw-A>
-		At the beginning of your upkeep, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>.
+		<kw-A><nospellcheck><key>Infuse <param-number>2</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has two.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever one or more counters are put on <atom-cardname><nospellcheck>Naroz Sentinel</nospellcheck></atom-cardname>, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
-	power: 2
+	power: 1
 	toughness: 2
 	illustrator: DaiSamVisAart
 	card_code_text: 

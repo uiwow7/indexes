@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: !tag programming;
 	time_created: 2025-03-10 11:56:39
-	time_modified: 2025-09-27 08:47:10
+	time_modified: 2025-12-29 15:47:17
 	name: Circular Import
 	casting_cost: 2B
 	image: image15.png
@@ -22,10 +22,7 @@ card:
 	rule_text:
 		Destroy target creature.
 		Put up to one card in exile into their owner’s graveyards.
-	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft<soft-line>
-		ft</soft-line></soft-line></i-flavor>
+	flavor_text: <i-flavor>History repeats itself as The Arbiter continues its mission.</i-flavor>
 	illustrator: Scott Uminga
 	card_code_text: 
 	card_code_text_2: 
