@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: 
+	time_created: 2025-03-09 16:10:52
+	time_modified: 2025-12-30 10:38:25
+	name: Savan Warden
+	casting_cost: 2R
+	image: image11.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-0><nospellcheck><key>Ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>
+		Whenever you cast a spell that targets <atom-cardname><nospellcheck>Savan Warden</nospellcheck></atom-cardname>, you may discard a card. If you do, draw a card.
+		<atom-cardname><nospellcheck>Savan Warden</nospellcheck></atom-cardname> gets +1/+1 for each Aura attached to it.</atom-cardname><atom-name>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Coffeeandbiscuts
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

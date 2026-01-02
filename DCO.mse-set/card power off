@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: !tag energy;
 	time_created: 2025-03-26 01:28:17
-	time_modified: 2025-09-24 19:06:42
+	time_modified: 2025-12-30 11:02:57
 	name: Power Off
 	casting_cost: 2UU
 	image: image86.png
@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Whenever you cast a noncreature spell, put a +1/+1 counter on each creature you control without a counter on it.
+		Whenever you cast a noncreature spell, put a +1/+1 counter on each creature you control.
 		<sym-auto>1U</sym-auto>: Creatures you control gain <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Jeff Zuagle

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-11 19:49:10
-	time_modified: 2025-06-04 13:14:59
+	time_modified: 2025-12-30 10:56:33
 	name: Fungal Raze
 	casting_cost: GG
 	image: image36.png
@@ -14,7 +14,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
 	rule_text: Destroy target enchantment. Draw a card.
-	flavor_text: <i-flavor>In the depths, creatures that may seem abhorrent and disgusting lurk, waiting to take control of everything that crosses their path. Spores populate the air, and there’s a distinct stench that always comes with the <error-spelling:en_US>deepgrowth</error-spelling:en_US> because of it.</i-flavor>
+	flavor_text: <i-flavor>The <error-spelling:en_US>deepgrowth</error-spelling:en_US> is filled with horrors unknown.</i-flavor>
 	illustrator: Fmacmanus
 	card_code_text: 
 	card_code_text_2: 

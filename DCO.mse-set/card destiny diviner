@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-17 14:19:48
-	time_modified: 2025-09-14 14:16:41
+	time_modified: 2025-12-30 10:59:39
 	name: Destiny Diviner
 	casting_cost: 1G
 	image: image60.png
@@ -21,7 +21,7 @@ card:
 	rarity: rare
 	rule_text:
 		<atom-cardname><nospellcheck>Destiny Diviner</nospellcheck></atom-cardname> gets +1/+1 for each enchantment you control.
-		While you control an Aura, <atom-cardname><nospellcheck>Destiny Diviner</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.</atom-cardname><atom-name>
+		<atom-cardname><nospellcheck>Destiny Diviner</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> as long as you control an Aura.</atom-cardname><atom-name>
 	flavor_text: <i-flavor>“The Grand Oracles have turned their backs on <error-spelling:en_US>Drakol</error-spelling:en_US>, so I must help take their place.”</i-flavor>
 	power: 2
 	toughness: 2

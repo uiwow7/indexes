@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 23:00:07
-	time_modified: 2025-09-30 17:07:17
+	time_modified: 2025-12-30 11:06:19
 	name: Artificial Ferocity
 	casting_cost: G
 	image: image99.png
@@ -22,7 +22,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature you control</param-name></key></nospellcheck></kw-a>
 		Enchanted creature has <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
-		When <atom-cardname><nospellcheck>Artificial Ferocity</nospellcheck></atom-cardname> enters, enchanted creature fights target creature. <i-auto>(Each deals damage equal to its power to the other.)</i-auto>
+		When <atom-cardname><nospellcheck>Artificial Ferocity</nospellcheck></atom-cardname> enters, enchanted creature deals damage equal to its power to up to one target creature you don’t control.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Sylvia Ritter
 	card_code_text: 

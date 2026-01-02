@@ -3,12 +3,12 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 
-		chop_bottom: 15
+		chop_bottom: 8
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2025-05-16 18:37:50
-	time_modified: 2025-09-25 17:27:57
+	time_modified: 2025-12-30 10:43:22
 	name: The Arbiter’s Harmonizer
 	casting_cost: 1GW
 	image: image213.png

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 01:28:21
-	time_modified: 2025-09-24 19:07:48
+	time_modified: 2025-12-30 10:55:05
 	name: Rage of Sava
 	casting_cost: 3R
 	image: image90.png
@@ -19,9 +19,12 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: When <atom-cardname><nospellcheck>Rage of Sava</nospellcheck></atom-cardname> enters, discard your hand, then draw three cards.</atom-cardname><atom-name>
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Infuse <param-number>1</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever one or more counters are put on <atom-cardname><nospellcheck>Rage of Sava</nospellcheck></atom-cardname>, you may discard your hand. If you do, draw two cards.</atom-cardname><atom-name>
 	flavor_text: <i-flavor></i-flavor>
-	power: 3
+	power: 2
 	toughness: 2
 	illustrator: Anato Finnstark
 	card_code_text: 

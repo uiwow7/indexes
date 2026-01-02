@@ -9,7 +9,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2025-03-17 13:53:44
-	time_modified: 2025-09-26 09:06:19
+	time_modified: 2025-12-30 10:59:14
 	name: Look Across the Lake
 	casting_cost: B
 	image: image52.png
@@ -21,7 +21,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
-		<sym-auto>3BB</sym-auto>, Exile <atom-cardname><nospellcheck>Look Across the Lake</nospellcheck></atom-cardname> from your graveyard: Return target enchantment card from your graveyard to the battlefield.
+		<sym-auto>2BB</sym-auto>, Exile <atom-cardname><nospellcheck>Look Across the Lake</nospellcheck></atom-cardname> from your graveyard: Return target enchantment card from your graveyard to the battlefield.
 	flavor_text: <i-flavor></i-flavor>
 	card_stamp: none
 	illustrator: Davidev

@@ -8,7 +8,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: 
 	time_created: 2025-03-09 16:09:27
-	time_modified: 2025-09-25 17:29:03
+	time_modified: 2025-12-30 10:38:15
 	name: Lost Ghast
 	casting_cost: B
 	image: image9.png
@@ -19,7 +19,7 @@ card:
 	sub_type: <word-list-race-en>Demon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text: Whenever <atom-cardname><nospellcheck>Lost Ghast</nospellcheck></atom-cardname> enters or attacks, each opponent loses 1 life.
-	flavor_text: <i-flavor>The fall left ghosts of the fallen wandering in its ruins. The Arbiter took control. Soon these ghost went from wandering to being puppets forced to do the bidding of <error-spelling:en_US>Dazon’s</error-spelling:en_US> master.</i-flavor>
+	flavor_text: <i-flavor>The fall left ghosts of past planes wandering the amalgam. The Arbiter soon had plans for them.</i-flavor>
 	power: 0
 	toughness: 2
 	card_stamp: none

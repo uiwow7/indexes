@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 22:27:22
+	time_modified: 2025-12-30 11:05:22
+	card_trim: adventure focus
+	name: Herald of New Worlds
+	name_2: Explore Worlds
+	casting_cost: 5GG
+	casting_cost_2: 2G
+	image: image176.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: <word-list-spell>Omen</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Noncreature enchantments you control are 2/2 creatures in addition to their other types.
+	rule_text_2: Search your library for a land card, put it onto the battlefield tapped, then shuffle. <i-auto>(Also shuffle this card.)</i-auto>
+	flavor_text: <i-flavor>Exploration must never cease.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 5
+	toughness: 4
+	illustrator: Winterkeep
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

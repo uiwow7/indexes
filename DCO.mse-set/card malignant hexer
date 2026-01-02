@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 23:00:16
-	time_modified: 2025-04-06 19:36:14
+	time_modified: 2025-12-30 11:06:37
 	name: Malignant Hexer
 	casting_cost: 1BB
 	image: image96.png
@@ -22,7 +22,7 @@ card:
 	rule_text:
 		As an additional cost to cast <atom-cardname><nospellcheck>Malignant Hexer</nospellcheck></atom-cardname>, sacrifice a noncreature, nonland permanent.
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Malignant Hexer</nospellcheck></atom-cardname> enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. You draw two cards and lose 2 life.
+		When <atom-cardname><nospellcheck>Malignant Hexer</nospellcheck></atom-cardname> enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. You draw two cards and gain 2 life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

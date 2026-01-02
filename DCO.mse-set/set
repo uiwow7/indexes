@@ -134,14 +134,13 @@ include_file: card in search of eternity
 include_file: card the arbiters watcher
 include_file: card icedroid
 include_file: card lost ghast
-include_file: card the arbiters warden
+include_file: card savan warden
 include_file: card twisting nebulas
 include_file: card last light of naroz
 include_file: card stack popper
 include_file: card ghost of fallen angels
 include_file: card recursive pyromage
 include_file: card chosen of the grand oracles
-include_file: card buffer underflow
 include_file: card package manager
 include_file: card watching eternity
 include_file: card circular import
@@ -169,9 +168,9 @@ include_file: card depths giant
 include_file: card eldo abyssal city
 include_file: card night rummager
 include_file: card karan assassin
-include_file: card the arbiters informer
-include_file: card the arbiters protector
-include_file: card guardian of laba
+include_file: card interplanar informer
+include_file: card laban guardian
+include_file: card planar guard
 include_file: card summoner of true light
 include_file: card cosmic watcher
 include_file: card corruption from beyond
@@ -179,8 +178,8 @@ include_file: card hellfire wyrm
 include_file: card preserver of voro
 include_file: card tree of celestial light
 include_file: card memory leak
-include_file: card eternity seeker
-include_file: card the arbiters marauder
+include_file: card seeker of eternity
+include_file: card marauder of sava
 include_file: card harmony of voro
 include_file: card clockwork disciple
 include_file: card sky of beya
@@ -189,7 +188,7 @@ include_file: card careless whims
 include_file: card titan of sunrise
 include_file: card destiny diviner
 include_file: card moonlight spellbinder
-include_file: card the arbiters whisperer
+include_file: card whisperer of the arbiter
 include_file: card scorcher
 include_file: card dutiful companion
 include_file: card griffin of serenity
@@ -197,7 +196,7 @@ include_file: card unchained karan
 include_file: card kala eradicator
 include_file: card yuku mystic
 include_file: card warp gateway
-include_file: card denial of service
+include_file: card deny access
 include_file: card rite of the grand oracles
 include_file: card marring flames
 include_file: card byte down
@@ -225,7 +224,7 @@ include_file: card heartless executor
 include_file: card cosmic roamer
 include_file: card fragments of times past
 include_file: card warmth of a thousand souls
-include_file: card the arbiters worldbringer
+include_file: card herald of new worlds
 include_file: card the arbiters sight
 include_file: card naroz sentinel
 include_file: card vicious fiend
@@ -284,11 +283,11 @@ include_file: card blood of moonlight
 include_file: card deepgrowth explorer
 include_file: card lost curiosity
 include_file: card energy displacer
-include_file: card the arbiters reaper
+include_file: card reaper of kara
 include_file: card burning quasar
 include_file: card monk of deafening peace
 include_file: card idyllic tutor
-include_file: card the arbiters wavebringer
+include_file: card wavebringer
 include_file: card eternity from beyond
 include_file: card kalan explorer
 include_file: card deepgrowth expansion
@@ -301,7 +300,7 @@ include_file: card designed emptiness
 include_file: card naroz icebreaker
 include_file: card into eternity
 include_file: card firespace seeker
-include_file: card herald of the new times
+include_file: card bringer of new times
 include_file: card illuminating vortex
 include_file: card cold truths
 include_file: card dark dragonfire

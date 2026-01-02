@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-03 18:12:09
-	time_modified: 2025-10-02 16:22:37
+	time_modified: 2025-12-30 10:52:44
 	border_color: rgb(0,0,0)
 	name: The Arbiter’s Strength
 	casting_cost: 2G
@@ -21,7 +21,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text: Whenever a triggered ability of a noncreature enchantment you control triggers, you may pay <sym-auto>1</sym-auto>. If you do, copy that ability. You may choose new targets for the copy.
-	flavor_text: <i-flavor> “Grow. Explore. Expand.” Those 3 words were all that mattered. The amalgam would grow. The servants would explore. The Arbiter would expand.</i-flavor>
+	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
 	card_stamp: none

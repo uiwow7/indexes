@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 4
+		chop_bottom: 5
+		use_holofoil_stamps: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: 
+	time_created: 2025-03-12 14:39:43
+	time_modified: 2025-12-30 10:39:41
+	name: Laban Guardian
+	casting_cost: 2W
+	image: image42.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: Whenever a nontoken enchantment you control enters, create a 1/1 white Human enchantment creature token.
+	flavor_text: <i-flavor>The Arbiter ensures its realm is carefully protected.</i-flavor>
+	power: 1
+	toughness: 2
+	card_stamp: none
+	illustrator: CalebWorcester
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

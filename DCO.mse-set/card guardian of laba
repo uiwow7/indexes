@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-13 16:23:02
-	time_modified: 2025-04-19 15:44:13
+	time_modified: 2025-12-30 10:57:31
 	name: Guardian of Laba
 	casting_cost: 2UU
 	image: image34.png
@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text: Whenever you draw a card except the first one you draw in each of your draw steps, you may tap target creature.
-	flavor_text: <i-flavor>Sparks stolen from <error-spelling:en_US>planeswalkers</error-spelling:en_US> allowed for The Arbiter to control access to each of the Cosmic Splinters, including its home in <error-spelling:en_US>Laba</error-spelling:en_US>.</i-flavor>
+	flavor_text: <i-flavor>Sparks stolen from <error-spelling:en_US>planeswalkers</error-spelling:en_US> allowed for The Arbiter to control access to each of the Cosmic Splinters.</i-flavor>
 	power: 2
 	toughness: 2
 	illustrator: Tohad
