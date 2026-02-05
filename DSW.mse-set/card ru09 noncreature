@@ -5,15 +5,24 @@ card:
 	has_styling: false
 	notes: RU09,Noncreature,5,,Invasion of Arcavios
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-06-08 00:00:00
+	time_modified: 2026-02-05 11:47:56
 	name: RU09 Noncreature
-	casting_cost: 4U
+	casting_cost: 2UU
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	sub_type: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

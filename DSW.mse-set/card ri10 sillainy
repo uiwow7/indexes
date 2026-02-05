@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: RU10,Noncreature,6,flash ,Complete the Circuit
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2026-01-18 21:28:49
+	name: RI10 Sillainy
+	casting_cost: III
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Whenever a nontoken silver creature you control attacks, create a tapped and attacking token that’s a copy of it. Exile it at the beginning of the next end step.
+		Whenever you cast a silver creature spell, that creature enters with an additional +1/+1 counter on it.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

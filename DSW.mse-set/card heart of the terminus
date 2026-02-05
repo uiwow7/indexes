@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: MR01,Medium Creature,4,,Urabrask
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2026-01-15 20:23:06
+	name: Heart of the Terminus
+	casting_cost: 1RRR
+	image: image239.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Incarnation</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		At the beginning of your end step, for each card you discarded this turn, exile the top card of your library. You may play it during your next turn.
+		Discard a card: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> deals 2 damage to each opponent. Activate only once during each of your turns.
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 2
+	illustrator: ERA7
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

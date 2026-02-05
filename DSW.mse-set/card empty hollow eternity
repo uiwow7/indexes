@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CW20,Noncreature,3,,Scrollshift
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-12-01 22:07:55
+	time_modified: 2026-01-12 22:23:37
 	name: Empty Hollow Eternity
 	casting_cost: 3I
 	image: image119.png
@@ -22,7 +22,7 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		Each opponent loses 4 life and you gain 4 life. <kw-a><nospellcheck><key>Scry <param-number>4</param-number></key></nospellcheck></kw-a>.
+		Each opponent loses 4 life and you gain 4 life. Look at the top four cards of your library and put one into your hand and the rest on the bottom in a random order.
 		<kw-1><nospellcheck><key>Realize <param-cost><sym-auto>4II</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</i-auto></atom-reminder-custom></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3

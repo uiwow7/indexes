@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: UG04,Small Creature,3,,Kami of Whispered Hopes
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-12-17 10:50:52
+	time_modified: 2026-01-11 01:45:55
 	name: UG04 DESIGNED
 	casting_cost: 2G
 	image: image176.png
@@ -13,7 +13,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
-	sub_type: <word-list-race-en></word-list-race-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Wolf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Avatar</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: uncommon
 	rule_text:
 		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, put a +1/+1 counter on target creature.

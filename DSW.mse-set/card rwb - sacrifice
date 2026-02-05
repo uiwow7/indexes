@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/ausp-ice/art/Canary-Edeia-Art-Train-1286295757
+	time_created: 2026-01-19 19:18:19
+	time_modified: 2026-01-26 11:35:02
+	name: RWB - Sacrifice
+	casting_cost: 1RWB
+	image: image276.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, create two 1/1 XXX tokens.
+		<sym-auto>1</sym-auto>, Sacrifice a creature: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> deals 1 damage to each opponent. 
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Ausp-ice
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,49 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 4
+		chop_bottom: 4
+		other_options: 
+		additional_options: 
+		custom_symbol: MyrCustoms/ithLarge.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes:
+		UU12,Noncreature,5,flying ,Astral Wingspan // this is 5 mana draw 7 at unc which yeah is sketchy
+		but
+		in limited
+		youre not having a full 7card sanctum
+		well
+		itll be full of basics
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2026-01-11 01:43:25
+	name: Glimpse of True Colors
+	casting_cost: 4U
+	image: image129.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: You may play cards from your sanctum.
+	flavor_text:
+		<i-flavor>ft<soft-line>
+		ft<soft-line>
+		ft<soft-line>
+		ft<soft-line>
+		ft<soft-line>
+		ft</soft-line></soft-line></soft-line></soft-line></soft-line></i-flavor>
+	illustrator: COOLZONE17500
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

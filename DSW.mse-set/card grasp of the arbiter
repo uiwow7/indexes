@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CU14,Noncreature,2,,Negate — counterspell
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-07-16 09:01:30
+	time_modified: 2026-01-12 22:22:09
 	name: Grasp of The Arbiter
 	casting_cost: 1U
 	image: image39.png
@@ -21,12 +21,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: common
-	rule_text: Return target nonland permanent to its owner’s hand. If you control an Avatar, <kw-a><nospellcheck><key>scry <param-number>3</param-number></key></nospellcheck></kw-a>. 
-	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft<soft-line>
-		ft<soft-line>
-		ft</soft-line></soft-line></soft-line></i-flavor>
+	rule_text: Return target nonland permanent to its owner’s hand. If you control an Avatar, <kw-1><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck>. <atom-reminder-action> <i-auto>(To surveil <param-number>2</param-number>, look at the top <param-number>two</param-number> cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</i-auto></atom-reminder-action></kw-1>
+	flavor_text: <i-flavor></i-flavor>
 	illustrator: Dmitry Vishnevsky
 	card_code_text: 
 	card_code_text_2: 

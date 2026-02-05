@@ -12,10 +12,10 @@ card:
 		overlay: 
 	notes: CG05,Small Creature,3,,Fairgrounds Trumpeter
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-08-25 16:08:28
+	time_modified: 2026-01-10 19:29:42
 	card_color_2: green
 	name: Arisen Avatar
-	name_2: Arise
+	name_2: Rise
 	casting_cost: 2G
 	casting_cost_2: 1GV/GV/U
 	image: image94.png

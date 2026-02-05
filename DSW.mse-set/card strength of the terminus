@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: MG01,Large Creature,5,,Vorinclex
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2026-01-12 22:40:39
+	name: Strength of the Terminus
+	casting_cost: 2GGG
+	image: image240.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Incarnation</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		Creature spells you cast with power 4 or greater cost <sym-auto>1</sym-auto> less to cast.
+		Whenever one or more creatures you control with power 4 or greater attack, put a +1/+1 counter on each of them and draw a card.</atom-cardname><atom-name>
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: ERA7
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

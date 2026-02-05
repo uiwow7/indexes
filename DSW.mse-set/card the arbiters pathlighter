@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CR10,Medium Creature,6,,Cragsmasher Yeti
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-07-17 16:47:45
+	time_modified: 2026-01-20 16:26:24
 	name: The Arbiter’s Pathlighter
 	casting_cost: 6R
 	image: image70.png
@@ -21,9 +21,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: common
-	rule_text:
-		<atom-name>This creature</atom-cardname> costs <sym-auto>1</sym-auto> less for each noncreature card in your graveyard.
-		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, if this creature doesn’t have a +1/+1 counter on it, put a +1/+1 counter on it.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: </atom-cardname>REDESIGN<atom-name>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4

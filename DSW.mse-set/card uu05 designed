@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: UU05,Small Creature,3,,Referee Squad 
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-12-17 10:58:31
+	time_modified: 2026-01-10 19:50:20
 	name: UU05 DESIGNED
 	casting_cost: 2U
 	image: image179.png
@@ -30,7 +30,7 @@ card:
 	flavor_text_4: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
-	illustrator: era7
+	illustrator: ERA7
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

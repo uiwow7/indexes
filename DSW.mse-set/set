@@ -24,7 +24,7 @@ set_info:
 	card_number_style: 001/099
 	custom_super_types: 
 	custom_creature_races: Anima, Revelation, XXX, 
-	custom_index: rarity,color,name
+	custom_index: rarity,color,mv
 	custom_mana_symbol_name: MyrCustoms/Vertex.png
 	mana_symbol_options: enable in casting costs, enable in text boxes, colored mana symbols
 styling:
@@ -95,12 +95,12 @@ styling:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		colored_rarities: yes
 		overlay: 
-include_file: card sunrise caller
+include_file: card reart
 include_file: card fallen warden
 include_file: card traveler of lost planes
 include_file: card naroz path-traveler
 include_file: card extraplanar cleanser
-include_file: card pathwalker
+include_file: card toname
 include_file: card fractured avatar
 include_file: card ruptured cetacean
 include_file: card avatar of the door
@@ -112,9 +112,9 @@ include_file: card eye of naroz
 include_file: card fly across peaceful skies
 include_file: card to be named
 include_file: card unlock empty doors
-include_file: card toname baru
+include_file: card toname baru gowide
 include_file: card starbeam
-include_file: card new realms
+include_file: card toflavor
 include_file: card chromatic splinters
 include_file: card warden of the celestial tree
 include_file: card icefall soothsayer
@@ -142,7 +142,7 @@ include_file: card lightwoven ghast
 include_file: card recycled ikani
 include_file: card infused warrior
 include_file: card depthslighter
-include_file: card avatar of untold horrors
+include_file: card noncreature synergy
 include_file: card najari shaper
 include_file: card doorwatcher
 include_file: card otherworldy starbringer
@@ -155,7 +155,7 @@ include_file: card drain spiritual realms
 include_file: card embrace eternity
 include_file: card trianglify
 include_file: card allocate memory
-include_file: card corrupted withering
+include_file: card something withering
 include_file: card convergence of paths
 include_file: card freed from eternity
 include_file: card savan ascendant
@@ -211,129 +211,129 @@ include_file: card uw03 designed
 include_file: card uw04 designed
 include_file: card uw06 designed
 include_file: card uw07 designed
-include_file: card uw09 designed
+include_file: card uw09 designed submitgiveup
 include_file: card uw10 designed
-include_file: card uw11 designed
+include_file: card touch of the boundless
 include_file: card uw13 designed
-include_file: card uu01 designed
+include_file: card spirit channeler
 include_file: card uu02 designed
-include_file: card uu03 designed
+include_file: card celestial magpie
 include_file: card uu04 designed
-include_file: card uu05 designed
+include_file: card boundless xxxx
 include_file: card glimpse of eternity
-include_file: card uu09 designed
+include_file: card dissolve into time
 include_file: card uu10 designed
-include_file: card uu12 designed
+include_file: card glimpse of true colors
 include_file: card ub01 designed
-include_file: card ub02 designed
+include_file: card forewarning visitor
 include_file: card ub03 designed
 include_file: card ub04 designed
 include_file: card ub05 designed
 include_file: card ub07 blackhole
 include_file: card ub08 designed
-include_file: card ub10 bad omenmoonominous
-include_file: card ub11 darkgates
+include_file: card ominous moon
+include_file: card ub11 reart
 include_file: card ur01 designed
 include_file: card ur02 designed
 include_file: card ur04 designed
-include_file: card ur05 designed
+include_file: card ur05 designed void
 include_file: card ur06 designed
 include_file: card ur09 designed
 include_file: card something of ruin
 include_file: card ur11 designed
 include_file: card ur12 designed
 include_file: card ug01 designed
-include_file: card ug03 designed
-include_file: card ug04 designed
-include_file: card ug05 designed
+include_file: card solemn lightbearer
+include_file: card ug04 reart
+include_file: card imposing stare
 include_file: card ug06 designed
 include_file: card ug07 designed
 include_file: card ug09 designed
-include_file: card ug11 designed
-include_file: card ug13 designed
-include_file: card rw01 designed
-include_file: card rw02 small creature
-include_file: card rw03 designed
-include_file: card rw04 medium creature
-include_file: card rw05 medium creature
-include_file: card rw06 medium creature
+include_file: card dawns majesty
+include_file: card earthbound collision
+include_file: card ethereal voyager
+include_file: card rw02 selfbouncer
+include_file: card demonheart overseer
+include_file: card celestial wanderer
+include_file: card unbreakable remembrance
+include_file: card shrouded subjugator
 include_file: card rw07 medium creature
-include_file: card rw08 revelationw
-include_file: card rw09 noncreature
-include_file: card rw10 noncreature
-include_file: card ru01 small creature
-include_file: card ru02 designed
-include_file: card ru03 small creature
-include_file: card ru04 medium creature
-include_file: card ru05 medium creature
-include_file: card ru06 large creature
-include_file: card ru07 revelationu
-include_file: card ru08 noncreature
-include_file: card ru09 noncreature
-include_file: card ru10 noncreature
-include_file: card rb01 small creature
-include_file: card rb02 medium creature
-include_file: card rb03 medium creature
-include_file: card rb04 medium creature
-include_file: card rb05 medium creature
-include_file: card rb06 large creature
-include_file: card rb07 reanimate
-include_file: card rb08 revelationb
-include_file: card rb09 noncreature
-include_file: card rr01 designed
-include_file: card rr02 designed
-include_file: card rr03 medium creature
+include_file: card shatter unfulfilled promises
+include_file: card rw09 thing
+include_file: card rw10 boardwipe
+include_file: card ru01 designed
+include_file: card reflected familiar
+include_file: card ru03 snappy
+include_file: card portent of stars
+include_file: card uncontrollable faltering
+include_file: card embodiment of stars
+include_file: card seal futile dreams
+include_file: card ru08 millenchant
+include_file: card ru09 vertex guy
+include_file: card reveal veiled truths
+include_file: card herald of blackened stars
+include_file: card enter the mind
+include_file: card boundless reawakener
+include_file: card eclipse warden
+include_file: card unhesitating malice
+include_file: card voidcatcher
+include_file: card mark of return
+include_file: card devour absent memories
+include_file: card shattered and unbroken
+include_file: card observer of infernos
+include_file: card malignity from beyond
+include_file: card unchained unrest
 include_file: card interstellar phoenix
 include_file: card rr05 large creature
-include_file: card rr06 revelationr
+include_file: card burn forgotten wishes
 include_file: card rr07 noncreature
 include_file: card rr08 noncreature
 include_file: card rr09 noncreature
 include_file: card rr10 noncreature
 include_file: card rg01 medium creature
-include_file: card rg02 medium creature
-include_file: card rg03 designed
-include_file: card rg04 large creature
-include_file: card rg05 large creature
-include_file: card rg06 revelationg
-include_file: card rg07 noncreature
-include_file: card rg08 noncreature
-include_file: card rg09 noncreature
-include_file: card rg10 noncreature
-include_file: card rm01 small creature
-include_file: card rm02 small creature
-include_file: card rm03 medium creature
-include_file: card rm04 medium creature
-include_file: card rm05 medium creature
-include_file: card rm06 medium creature
-include_file: card rm07 medium creature
-include_file: card rm08 medium creature
-include_file: card rm09 medium creature
-include_file: card rm10 large creature
-include_file: card rm11 large creature
-include_file: card rm12 large creature
-include_file: card rm13 large creature
-include_file: card rm14 noncreature
-include_file: card rm15 noncreature
-include_file: card ra01 pod
-include_file: card mw01 small creature
-include_file: card mw02 small creature
-include_file: card mw03 buffer
-include_file: card mu01 wisher
-include_file: card mb01 large creature
-include_file: card mb02 noncreature
-include_file: card mr01 medium creature
-include_file: card mr02 noncreature
-include_file: card mr03 noncreature
-include_file: card mg01 large creature
+include_file: card rg02 designed
+include_file: card nurturing woodsoul
+include_file: card unrestricted growth
+include_file: card rg05 ramp target
+include_file: card restore unseen tranquility
+include_file: card unveil vibrant realms
+include_file: card rg08 hardened scales
+include_file: card rg09 1mv guy
+include_file: card rg10 gsz
+include_file: card rm01 designed
+include_file: card rm02 designed
+include_file: card rm03 edict
+include_file: card rm04
+include_file: card rm05
+include_file: card rm06
+include_file: card rm07
+include_file: card rm08
+include_file: card rm09
+include_file: card rm10 bounty
+include_file: card rm11
+include_file: card rm12
+include_file: card rm13 designed
+include_file: card rm14
+include_file: card rm15 designed
+include_file: card eonbringer
+include_file: card mw01 monastery mentor
+include_file: card law of the terminus
+include_file: card boundless unifier
+include_file: card will of the terminus
+include_file: card dread of the terminus
+include_file: card mb02 tutor but not really
+include_file: card heart of the terminus
+include_file: card the arbiters folly
+include_file: card mr03 recaster
+include_file: card strength of the terminus
 include_file: card mg02 noncreature
 include_file: card mg03 noncreature
 include_file: card mm01 small creature
 include_file: card mm02 medium creature
 include_file: card mm03 medium creature
 include_file: card mm04 medium creature
-include_file: card the eternal nexus
-include_file: card mm06 large creature
+include_file: card the terminus
+include_file: card drorix reformed
 include_file: card tomb of forgotten worlds
 include_file: card stormwrought titan
 include_file: card gatu gembearer
@@ -357,33 +357,26 @@ include_file: card empty hollow eternity
 include_file: card starlights glimmer
 include_file: card vertex reminder
 include_file: card archetypesthemes
-include_file: card realmgrasper
-include_file: card vibrant genesis
-include_file: card bloodbringer
-include_file: card ragewarden
-include_file: card thundersage
-include_file: card starbinder
-include_file: card ui01 designed
+include_file: card astral something
 include_file: card ui03 designed
 include_file: card ui04 designed
 include_file: card ui05 designed
 include_file: card ui06 designed
-include_file: card ui07 designed
-include_file: card u08 designed
-include_file: card ui09 designed
-include_file: card ui11 designed
-include_file: card mu01 small creature
-include_file: card mu01 large creature
-include_file: card ri01 small creature
-include_file: card ri02 small creature
-include_file: card ri03 designed
-include_file: card ri04 medium creature
-include_file: card ri05 medium creature
-include_file: card ri06 large creature
-include_file: card ri07 revelationi
-include_file: card ri08 noncreature
-include_file: card ri09 noncreature
-include_file: card ri10 noncreature
+include_file: card slice through stars
+include_file: card bring the collision
+include_file: card gaze into eternity
+include_file: card consumption of the collision
+include_file: card touch the void
+include_file: card wishes of the terminus
+include_file: card traitorous gaze
+include_file: card adamant moonseeker
+include_file: card boundless voidwalker
+include_file: card deceiving pathshaper
+include_file: card unnerving foresight
+include_file: card shimmering starbreaker
+include_file: card herald promised light
+include_file: card protect boundless will
+include_file: card embrace of the void
 include_file: card wonderings
 include_file: card refract empty space
 include_file: card no-name
@@ -403,22 +396,44 @@ include_file: card mysterious gateway
 include_file: card moonlit mouth
 include_file: card subterranean fungus
 include_file: card the arbiter eternal
+include_file: card eternity
+include_file: card identity
+include_file: card conspicuous glimpse
+include_file: card warden of secrets
+include_file: card rwb - sacrifice
+include_file: card no-name.1
+include_file: card wbg - counters
+include_file: card the arbiters oathwatcher
+include_file: card iub - noncreatures
+include_file: card bloodbringer
+include_file: card terminus seeker
+include_file: card boundless oath
+include_file: card redeemed imagination
+include_file: card reclaimed apprehension
+include_file: card reforged resentment
+include_file: card reawakaned savagery
+include_file: card reinvigorated song
+include_file: card ignite relinquished desires
+include_file: card vibrant genesis
+include_file: card darken the skies
+include_file: card mend lost memories
+include_file: card cosmic expansion
 keyword:
 	keyword: Infuse
 	match: Infuse
-	reminder: When you cast a noncreature spell, if this creature doesn’t have a +1/+1 counter on it, put a +1/+1 counter on it.
+	reminder: When you cast a noncreature spell, if this creature doesn’t have a +1/+1 counter on it if it has none.
 	rules: 
 	mode: custom
 keyword:
 	keyword: InfuseN
 	match: Infuse <atom-param>number</atom-param>
-	reminder: When you cast a noncreature spell, if this creature doesn’t have a +1/+1 counter on it, put {english_number(param1)} +1/+1 counter on it.
+	reminder: Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has {if param1.value == "1" then "none" else "fewer than " + english_number(param1)}.
 	rules: 
 	mode: custom
 keyword:
 	keyword: Depart
 	match: Depart <atom-param>number</atom-param>
-	reminder: You may cast this card from your sanctum by exiling an Avatar permanent you control with power {param1} or greater.
+	reminder: You may cast this from your sanctum by exiling an Avatar permanent you control with power {param1} or greater.
 	rules: 
 	mode: custom
 keyword:

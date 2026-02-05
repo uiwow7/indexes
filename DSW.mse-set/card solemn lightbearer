@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: UG03,Small Creature,2,,Streetwise Negotiator
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2026-01-11 01:45:48
+	name: Solemn Lightbearer
+	casting_cost: 1G
+	image: image205.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: Whenever you cast a Revelation spell, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym>.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text:
+		<i-flavor>ft: aftermath of the collision<soft-line>
+		ft<soft-line>
+		ft</soft-line></soft-line></i-flavor>
+	illustrator: Ausp-ice
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -8,7 +8,7 @@ card:
 		
 		CHANGEART
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-08-25 16:07:55
+	time_modified: 2026-01-12 22:23:06
 	card_color_2: blue
 	name: Extraplanar Seeker
 	name_2: Seek
@@ -30,7 +30,7 @@ card:
 	rule_text: Whenever you cast your second spell each turn, <kw-1><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym>.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-1>
 	rule_text_2:
 		<i-auto>(You can cast copies of this while in play)</i-auto>
-		<kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>, then draw a card.
+		<kw-0><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-0>, then draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	power: 2

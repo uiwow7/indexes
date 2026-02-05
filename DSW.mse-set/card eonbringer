@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: RA01,Noncreature,3,,Realmbreaker, the Invasion Tree
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2026-01-11 10:44:47
+	card_trim: clear, nyx
+	name: Eonbringer
+	casting_cost: 5
+	image: image219.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Anima</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-A><nospellcheck><key>Depart <param-number>3</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your sanctum by exiling an Avatar permanent you control with power <param-number>3</param-number> or greater.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever a creature enters under your control, search your library or sanctum for a creature card with mana value 1 greater than it, put it into your hand, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Ausp-ice
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

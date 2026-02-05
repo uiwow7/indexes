@@ -5,16 +5,29 @@ card:
 	has_styling: false
 	notes: RW02,Small Creature,2,,Dusk Legion Duelist
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-06-08 00:00:00
+	time_modified: 2026-01-14 21:27:54
 	name: RW02 Small Creature
 	casting_cost: 1W
-	image: 
+	image: image234.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
-	sub_type: <word-list-race-en></word-list-race-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
+	rule_text:
+		At the beginning of your end step, return target permanent you control to its owner’s hand.
+		Whenever you cast an enchantment or Avatar spell, put a +1/+1 counter on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.</atom-cardname><atom-name>
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 1
+	illustrator: Erisiar
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

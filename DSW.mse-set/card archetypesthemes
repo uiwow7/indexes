@@ -9,7 +9,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-06-09 21:13:13
-	time_modified: 2025-10-19 20:41:56
+	time_modified: 2026-01-20 16:14:54
 	name: Archetypes/Themes
 	image: 
 	image_2: 
@@ -20,12 +20,25 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<sym-auto>UBR</sym-auto>: <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Spellslinger</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
-		<sym-auto>IGU</sym-auto>: Revelations Ramp
-		<sym-auto>IWU</sym-auto>: Avatar kindred
-		<sym-auto>IBR</sym-auto>: Sacrifice/<kw-0><nospellcheck><key>Decayed</key></nospellcheck></kw-0>
-		<sym-auto>RGW</sym-auto>: Go wide
+		<sym-auto>URW</sym-auto>: Avatar <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>typal</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		<sym-auto>BGU</sym-auto>: <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Noncreatures</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <i-auto>(A/E)</i-auto>
+		<sym-auto>RWB</sym-auto>: Sacrifice
+		<sym-auto>GUR</sym-auto>: Revelations ramp
 		<sym-auto>WBG</sym-auto>: Counters
+		<sym-auto>IWU</sym-auto>: Avatar <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>typal</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		<sym-auto>IUB</sym-auto>: <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Noncreatures</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <i-auto>(I/S)</i-auto>
+		<sym-auto>IBR</sym-auto>: Sacrifice/<kw-0><nospellcheck><key>decayed</key></nospellcheck></kw-0>
+		<sym-auto>IRG</sym-auto>: Revelations ramp
+		<soft-line><sym>IGW</sym>: Go wide
+		
+		
+		
+		<sym>WU</sym>(<sym>RI</sym>): Avatar <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>typal</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		<sym>UB</sym>(<sym>GI</sym>): <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Noncreatures</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		<sym>BR</sym>(<sym>WI</sym>): Sacrifice/<kw-0><nospellcheck><key>decayed</key></nospellcheck></kw-0>
+		<sym>RG</sym>(<sym>UI</sym>): Revelations ramp
+		<sym>GW</sym>(<sym>BI</sym>): Counters/go wide
+		</soft-line>
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

@@ -40,6 +40,7 @@ set_info:
 	auto_nyx: yes
 	auto_star: no
 	alternate_nyx: star
+	custom_index: mv,color,
 styling:
 	magic-m15:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font

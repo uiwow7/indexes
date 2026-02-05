@@ -19,7 +19,7 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, if this creature doesn’t have a +1/+1 counter on it, put a +1/+1 counter on it.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, if this creature doesn’t have a +1/+1 counter on it if it has none.)</i-auto></atom-reminder-custom></kw-A>
 		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>. Spend this mana only to cast instant, sorcery, or <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Anima</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> spells.
 	rule_text_2: 
 	rule_text_3: 

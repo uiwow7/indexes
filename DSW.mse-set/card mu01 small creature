@@ -5,10 +5,10 @@ card:
 	has_styling: false
 	notes: MU01,Large Creature,5,,Jin-Gitaxias
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-10-19 20:50:18
+	time_modified: 2026-01-16 10:16:44
 	name: MU01 Small Creature
 	casting_cost: 1I
-	image: 
+	image: image249.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -19,6 +19,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
+	illustrator: Soron-exle
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

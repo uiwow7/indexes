@@ -5,15 +5,26 @@ card:
 	has_styling: false
 	notes: RU10,Noncreature,6,flash ,Complete the Circuit
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-07-17 19:03:40
+	time_modified: 2026-01-18 21:19:02
 	name: RI10 Noncreature
-	casting_cost: 5I
+	casting_cost: 2II
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	sub_type: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, search your library for a card, put it into your sanctum, then shuffle.
+		If you would draw a card from your library, you may draw a card from your sanctum instead.
+	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

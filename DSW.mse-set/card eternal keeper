@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CW13,Medium Creature,6,,Alabaster Host Intercessor
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-06-21 18:07:59
+	time_modified: 2026-01-12 18:22:45
 	name: Eternal Keeper
 	casting_cost: 6W
 	image: image12.png
@@ -22,11 +22,11 @@ card:
 	sub_type_4: 
 	rarity: common
 	rule_text:
-		<kw-A><nospellcheck><key>Depart <param-number>2</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this card from your sanctum by exiling an Avatar permanent you control with power <param-number>2</param-number> or greater.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Depart <param-number>2</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your sanctum by exiling an Avatar permanent you control with power <param-number>2</param-number> or greater.)</i-auto></atom-reminder-custom></kw-A>
 		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, exile target creature until <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> leaves the battlefield.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
-	toughness: 3
+	toughness: 2
 	illustrator: DaiSanVisArt
 	card_code_text: 
 	card_code_text_2: 

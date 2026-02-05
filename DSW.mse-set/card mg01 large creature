@@ -5,9 +5,9 @@ card:
 	has_styling: false
 	notes: MG01,Large Creature,5,,Vorinclex
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-06-08 00:00:00
+	time_modified: 2026-01-12 22:31:40
 	name: MG01 Large Creature
-	casting_cost: 4G
+	casting_cost: 2GGG
 	image: 
 	image_2: 
 	mainframe_image: 

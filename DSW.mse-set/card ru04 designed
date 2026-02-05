@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: RU04,Medium Creature,3,flying ,Chrome Host Seedshark
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2026-01-14 21:39:39
+	name: RU04 DESIGNED
+	casting_cost: 2U
+	image: image250.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	rarity: rare
+	rule_text:
+		Whenever you draw your second card each turn, create a 1/1 silver Avatar creature token and <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
+		As long as there are ten or more cards in your graveyard, creatures you control have <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Cafemfx
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -6,7 +6,7 @@ card:
 		
 		FINDART
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-08-08 17:58:18
+	time_modified: 2026-01-20 16:13:29
 	name: TO BE NAMED
 	casting_cost: 1W
 	image: 
@@ -24,8 +24,8 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/U</sym>.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
-		Enchanted creature can’t attack or block, and its activated abilities can’t be activated.
+		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, put a +1/+1 counter on up to one target creature you control.
+		Enchanted creature can’t attack or block.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Max Hay
 	card_code_text: 

@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-19 19:18:19
+	time_modified: 2026-01-20 21:10:22
+	name: IBR: Sacrifice/decayed
+	casting_cost: 1IBR
+	image: image256.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: At the beginning of combat on your turn, you may put a <kw-0><nospellcheck><key>decayed</key></nospellcheck></kw-0> counter on target creature you control without one. If you do, that creature gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-0><nospellcheck><key>you get</key></nospellcheck></kw-0> <sym>V/U</sym>. <i-auto>(A creature with <kw-0><nospellcheck><key>decayed</key></nospellcheck></kw-0> can’t block. When it attacks, sacrifice it at end of combat. Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Sylvia Ritter
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

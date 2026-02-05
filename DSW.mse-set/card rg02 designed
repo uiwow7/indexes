@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: RG02,Medium Creature,4,,Doomskar Warrior
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2026-01-14 21:16:31
+	name: RG02 DESIGNED
+	casting_cost: 1GG
+	image: image241.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	rarity: rare
+	rule_text:
+		<atom-name>This creature</atom-cardname> can’t be blocked by creatures with power 2 or less.
+		<atom-name>This creature</atom-cardname> gets +1/+1 for each basic land you control
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Sakimichan
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

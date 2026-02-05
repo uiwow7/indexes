@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/myprocrastinationfix/art/Day-1924-Planetary-Reach-1223554627
+	time_created: 2026-01-19 19:21:53
+	time_modified: 2026-01-21 19:35:27
+	name: Ignite Relinquished Desires
+	casting_cost: XIR
+	image: image154.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Revelation</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<atom-name>This spell</atom-cardname> deals X damage to any target. If this was realized, X is one plus the number of Avatars and <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Anima</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> you control.
+		<kw-A><nospellcheck><key>Realize <param-cost><sym>2IR</sym></atom-cardname></param-cost></key></nospellcheck><atom-name><atom-reminder-custom> <i-auto>(Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: MyProcrastinationFix
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

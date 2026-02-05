@@ -5,10 +5,10 @@ card:
 	has_styling: false
 	notes: RG06,Noncreature,2,,Invasion of Ikoria
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-12-23 22:14:10
+	time_modified: 2026-01-10 19:41:37
 	name: RG06 RevelationG
 	casting_cost: 1G
-	image: 
+	image: image206.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -28,6 +28,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
+	illustrator: Ausp-ice
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

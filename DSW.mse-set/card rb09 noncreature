@@ -5,15 +5,26 @@ card:
 	has_styling: false
 	notes: RB09,Noncreature,7,,Breach the Multiverse
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-06-08 00:00:00
+	time_modified: 2026-01-10 20:06:23
 	name: RB09 Noncreature
-	casting_cost: 6B
+	casting_cost: 6BB
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	sub_type: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
+	rule_text:
+		Each card you <kw-0><nospellcheck><key>sanctify</key></nospellcheck></kw-0> from your graveyard while casting this spell pays for <sym>1</sym>. <i-auto>(To <kw-0><nospellcheck><key>sanctify</key></nospellcheck></kw-0> a card, put it into its owner’s sanctum.)</i-auto>
+		Draw three cards. You lose life equal to the number of cards in your sanctum.
+	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

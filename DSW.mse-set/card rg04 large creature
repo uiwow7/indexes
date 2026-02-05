@@ -5,16 +5,26 @@ card:
 	has_styling: false
 	notes: RG04,Large Creature,6,,Surrak and Goreclaw
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-06-08 00:00:00
+	time_modified: 2026-01-12 18:43:08
 	name: RG04 Large Creature
-	casting_cost: 5G
+	casting_cost: 4GG
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
-	sub_type: <word-list-race-en></word-list-race-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Anima</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
+	rule_text:
+		<kw-A><nospellcheck><key>Depart <param-number>2</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your sanctum by exiling an Avatar permanent you control with <param-number>2</param-number> or greater.)</i-auto></atom-reminder-custom></kw-A>
+		Creatures you control get +X/+X, where X is the total mana value of cards exiled with <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.</atom-cardname></atom-cardname><atom-name><atom-name>
+	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
