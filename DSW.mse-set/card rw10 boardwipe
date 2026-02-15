@@ -5,10 +5,10 @@ card:
 	has_styling: false
 	notes: RW10,Noncreature,5,,Sunfall
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-05 11:41:36
+	time_modified: 2026-02-07 17:21:27
 	name: RW10 Boardwipe
 	casting_cost: 3WW
-	image: 
+	image: image288.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -23,6 +23,7 @@ card:
 	rarity: rare
 	rule_text: Exile all creatures. At the beginning of your next end step, return a creature card you own exiled this way to the battlefield.
 	flavor_text: <i-flavor></i-flavor>
+	illustrator: Ausp-ice
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

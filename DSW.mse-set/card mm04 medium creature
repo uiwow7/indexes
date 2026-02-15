@@ -5,16 +5,19 @@ card:
 	has_styling: false
 	notes: MM04,Medium Creature,5,flying URW URW URW ,Zurgo and Ojutai
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-06-08 00:00:00
+	time_modified: 2026-02-14 17:14:12
 	name: MM04 Medium Creature
 	casting_cost: 2URW
-	image: 
+	image: image297.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en></word-list-race-en>
 	rarity: mythic rare
+	illustrator:
+		
+		Marion-Aurore
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

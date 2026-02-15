@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes:
+		RM08,Medium Creature,5,WUBRG WUBRG WUBRG ,Omnath, Locus of All
+		https://www.deviantart.com/galder/art/The-Void-1049146973
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2026-02-14 20:21:12
+	name: Void Herald
+	casting_cost: 2BG
+	image: image300.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Whenever you cast a noncreature spell, each opponent loses 1 life and you gain 1 life. If that spell was an artifact or an enchantment, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
+	flavor_text:
+		<i-flavor>ft<soft-line>
+		ft</soft-line></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Galder
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -3,12 +3,14 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: RM03,Medium Creature,3,flying flash WU WU WU ,Errant and Giada
+	notes:
+		RM03,Medium Creature,3,flying flash WU WU WU ,Errant and Giada
+		https://www.deviantart.com/kpekep/art/Cosmic-conflict-463630275
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-04 11:12:09
+	time_modified: 2026-02-07 13:18:39
 	name: RM03 Edict
 	casting_cost: BR
-	image: 
+	image: image281.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -28,6 +30,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
+	illustrator: KPEKEP
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

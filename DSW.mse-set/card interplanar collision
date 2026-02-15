@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes:
+		MM01,Small Creature,2,WU WU WU ,Invasion of New Phyrexia
+		https://www.deviantart.com/artbycatherineradley/art/Birth-Of-The-Cosmos-825424042
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2026-02-14 16:52:03
+	name: Interplanar Collision
+	casting_cost: 1WUB
+	image: image290.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		Choose two —
+		<li><bullet>• </bullet>Return up to one target creature to its owner’s hand.
+		</li><li><bullet>• </bullet>Destroy all creatures.
+		</li><li><bullet>• </bullet>Exile up to one target player’s graveyard.</li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Catherine Radly
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

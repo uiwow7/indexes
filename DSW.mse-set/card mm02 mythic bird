@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes:
+		MM02,Medium Creature,3,BGU BGU BGU ,Zimone and Dina
+		https://www.deviantart.com/libertades/art/Purpose-1290781239
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2026-02-14 17:03:11
+	name: MM02 Mythic Bird
+	casting_cost: 1IU
+	image: image295.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Bird</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> deals combat damage to a player, <kw-1><nospellcheck><key>sift <param-number>1</param-number></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at the top card of your library. You may put that card into your sanctum.)</i-auto></atom-reminder-custom></kw-1>
+		You may cast creature spells with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> from your sanctum.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Libertades
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

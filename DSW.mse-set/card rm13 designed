@@ -3,12 +3,14 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: RM13,Large Creature,6,RG RG RG ,Kogla and Yidaro
+	notes:
+		RM13,Large Creature,6,RG RG RG ,Kogla and Yidaro
+		https://www.deviantart.com/drachenmagier/art/cosmic-insight-864794133
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-01-13 13:46:19
+	time_modified: 2026-02-07 13:16:04
 	name: RM13 DESIGNED
 	casting_cost: 4IIBB
-	image: 
+	image: image280.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -25,6 +27,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 
+	illustrator: drachenmagier
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

@@ -5,9 +5,9 @@ card:
 	has_styling: false
 	notes: RM05,Medium Creature,4,flying WB WB WB ,Drana and Linvala
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-01-12 18:48:49
+	time_modified: 2026-02-14 11:54:41
 	name: RM05
-	casting_cost: GW
+	casting_cost: 4GW
 	image: 
 	image_2: 
 	mainframe_image: 
@@ -15,6 +15,12 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en></word-list-race-en>
 	rarity: rare
+	rule_text:
+		</atom-cardname>This spell costs <sym-auto>1</sym-auto> less to cast for each counter among creatures you control.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, creatures you control get +1/+1 and gain flying until end of turn.<atom-name>
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

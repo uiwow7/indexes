@@ -85,6 +85,9 @@ styling:
 		overlay: 
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-unstable-basics:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	magic-new:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -257,19 +260,19 @@ include_file: card demonheart overseer
 include_file: card celestial wanderer
 include_file: card unbreakable remembrance
 include_file: card shrouded subjugator
-include_file: card rw07 medium creature
+include_file: card rw07 avatarharmonicon
 include_file: card shatter unfulfilled promises
 include_file: card rw09 thing
 include_file: card rw10 boardwipe
-include_file: card ru01 designed
+include_file: card boundless seeker
 include_file: card reflected familiar
-include_file: card ru03 snappy
+include_file: card cosmos augur
 include_file: card portent of stars
 include_file: card uncontrollable faltering
 include_file: card embodiment of stars
 include_file: card seal futile dreams
-include_file: card ru08 millenchant
-include_file: card ru09 vertex guy
+include_file: card chorus of the drowned
+include_file: card constellation erudite
 include_file: card reveal veiled truths
 include_file: card herald of blackened stars
 include_file: card enter the mind
@@ -286,11 +289,11 @@ include_file: card unchained unrest
 include_file: card interstellar phoenix
 include_file: card rr05 large creature
 include_file: card burn forgotten wishes
-include_file: card rr07 noncreature
-include_file: card rr08 noncreature
+include_file: card rr07 1mv guy
+include_file: card fallen star
 include_file: card rr09 noncreature
 include_file: card rr10 noncreature
-include_file: card rg01 medium creature
+include_file: card rg01 big
 include_file: card rg02 designed
 include_file: card nurturing woodsoul
 include_file: card unrestricted growth
@@ -303,17 +306,17 @@ include_file: card rg10 gsz
 include_file: card rm01 designed
 include_file: card rm02 designed
 include_file: card rm03 edict
-include_file: card rm04
+include_file: card rm04 drawguy
 include_file: card rm05
-include_file: card rm06
-include_file: card rm07
-include_file: card rm08
-include_file: card rm09
-include_file: card rm10 bounty
-include_file: card rm11
-include_file: card rm12
+include_file: card rm06 blood rabblemaster
+include_file: card rm07 vertexduplicator
+include_file: card void herald
+include_file: card rm09 helix
+include_file: card bounty of the cosmos
+include_file: card rm11 angel
+include_file: card bind unchained dreams
 include_file: card rm13 designed
-include_file: card rm14
+include_file: card rm14 aggro card
 include_file: card rm15 designed
 include_file: card eonbringer
 include_file: card mw01 monastery mentor
@@ -324,16 +327,16 @@ include_file: card dread of the terminus
 include_file: card mb02 tutor but not really
 include_file: card heart of the terminus
 include_file: card the arbiters folly
-include_file: card mr03 recaster
+include_file: card heart of the void
 include_file: card strength of the terminus
-include_file: card mg02 noncreature
+include_file: card mg02 creature
 include_file: card mg03 noncreature
-include_file: card mm01 small creature
-include_file: card mm02 medium creature
+include_file: card interplanar collision
+include_file: card mm02 mythic bird
 include_file: card mm03 medium creature
-include_file: card mm04 medium creature
+include_file: card mm04 noncreature
 include_file: card the terminus
-include_file: card drorix reformed
+include_file: card trena architect of gods
 include_file: card tomb of forgotten worlds
 include_file: card stormwrought titan
 include_file: card gatu gembearer
@@ -418,6 +421,12 @@ include_file: card vibrant genesis
 include_file: card darken the skies
 include_file: card mend lost memories
 include_file: card cosmic expansion
+include_file: card plains
+include_file: card island
+include_file: card swamp
+include_file: card mountain
+include_file: card forest
+include_file: card fault
 keyword:
 	keyword: Infuse
 	match: Infuse

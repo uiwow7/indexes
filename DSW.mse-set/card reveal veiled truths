@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: RU10,Noncreature,6,flash ,Complete the Circuit
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-01-16 17:25:28
+	time_modified: 2026-02-14 11:36:32
 	name: Reveal Veiled Truths<u></u>
 	casting_cost: 2U
 	image: image255.png
@@ -22,7 +22,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. When you do, return target instant or sorcery card from your graveyard to your hand.
+		<kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. When you do, return target instant or sorcery card from your graveyard to your hand. Exile <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> if it wasn’t realized.
 		<kw-A><nospellcheck><key>Realize <param-cost><sym-auto>8UUU</sym-auto></param-cost></key></nospellcheck>. This costs <sym-auto>1</sym-auto> less for each instant or sorcery card in your graveyard.<atom-reminder-custom> <i-auto>(Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4

@@ -5,15 +5,21 @@ card:
 	has_styling: false
 	notes: RU01,Small Creature,2,,Rona, Herald of Invasion
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-01-14 21:39:28
+	time_modified: 2026-02-07 16:05:06
 	name: RU01 DESIGNED
 	casting_cost: 1U
-	image: 
+	image: image278.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
-	sub_type: <word-list-race-en></word-list-race-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Angel</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
@@ -22,6 +28,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
+	illustrator: Ausp-ice
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

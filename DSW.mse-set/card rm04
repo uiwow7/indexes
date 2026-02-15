@@ -5,9 +5,9 @@ card:
 	has_styling: false
 	notes: RM04,Medium Creature,4,GU GU GU ,Inga and Esika
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-01-12 18:48:42
+	time_modified: 2026-02-14 11:38:42
 	name: RM04
-	casting_cost: RG
+	casting_cost: 3RG
 	image: 
 	image_2: 
 	mainframe_image: 

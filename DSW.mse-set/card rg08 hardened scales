@@ -3,12 +3,14 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: RG08,Noncreature,2,,Ozolith, the Shattered Spire
+	notes:
+		RG08,Noncreature,2,,Ozolith, the Shattered Spire
+		https://www.deviantart.com/nexumorphic/art/Purpose-803588766
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-05 12:02:38
+	time_modified: 2026-02-14 20:51:53
 	name: RG08 Hardened Scales
 	casting_cost: 1G
-	image: 
+	image: image306.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -23,8 +25,9 @@ card:
 	rarity: rare
 	rule_text:
 		If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead.
-		Whenever a creature you control with power greater than its base power attacks, you gain life equal to the difference.
+		Whenever a creature you control with power greater than its base power dies, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym> equal to the difference.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
+	illustrator: Nexumorphic
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

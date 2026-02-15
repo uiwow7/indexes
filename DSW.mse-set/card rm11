@@ -5,10 +5,10 @@ card:
 	has_styling: false
 	notes: RM11,Large Creature,5,flying UB UB UB ,Hidetsugu and Kairi
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-04 11:13:55
+	time_modified: 2026-02-14 11:35:17
 	name: RM11 
-	casting_cost: 1IW
-	image: 
+	casting_cost: IW
+	image: image279.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -16,15 +16,18 @@ card:
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en></word-list-race-en>
+	sub_type: <word-list-race-en>Angel</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: 
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		Other creatures you control with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> get +3/+0 and have <kw-0><nospellcheck><key>decayed</key></nospellcheck></kw-0>. <i-auto>(A creature with <kw-0><nospellcheck><key>decayed</key></nospellcheck></kw-0> can’t block. When it attacks, sacrifice it at end of combat.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 
+	illustrator: Helliomorr
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

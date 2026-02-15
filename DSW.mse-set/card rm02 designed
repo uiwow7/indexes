@@ -3,12 +3,14 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: RM02,Small Creature,7,GW GW GW ,Ghalta and Mavren
+	notes:
+		RM02,Small Creature,7,GW GW GW ,Ghalta and Mavren
+		https://www.deviantart.com/antoniarts/art/Voyage-847450983
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-01-13 13:40:52
+	time_modified: 2026-02-14 16:53:58
 	name: RM02 DESIGNED
 	casting_cost: UB
-	image: 
+	image: image291.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -23,6 +25,7 @@ card:
 	rarity: rare
 	rule_text: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. When you do, return target creature card with mana value less than or equal to the number of cards put into your graveyard from anywhere this turn from your graveyard to the battlefield.
 	flavor_text: <i-flavor></i-flavor>
+	illustrator: antoniarts
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

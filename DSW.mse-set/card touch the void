@@ -12,7 +12,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: MU01,Large Creature,5,,Jin-Gitaxias
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-01-16 20:01:12
+	time_modified: 2026-02-14 11:37:23
 	name: Touch the Void
 	casting_cost: 2I
 	image: image251.png
@@ -31,7 +31,7 @@ card:
 	rule_text:
 		Exile target card with mana value 2 or less from your graveyard. You may cast a copy of it without paying its mana cost. 
 		<kw-A><nospellcheck><key>Realize <param-cost><sym-auto>4II</sym-auto></param-cost></key></nospellcheck>. You may cast this spell from your graveyard for its realize cost.<atom-reminder-custom> <i-auto>(Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</i-auto></atom-reminder-custom></kw-A>
-		When this dies or doesn’t resolve and was cast for its realize cost, exile it.
+		When this dies or doesn’t resolve, if it was realized, exile it.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 4
