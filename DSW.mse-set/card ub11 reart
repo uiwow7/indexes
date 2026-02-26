@@ -3,12 +3,14 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: UB11,Noncreature,4,,Invasion of Eldraine
+	notes:
+		UB11,Noncreature,4,,Invasion of Eldraine
+		https://www.deviantart.com/scytalearts/art/The-Tower-of-Cosmic-Nihility-883940030
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-04 10:55:12
+	time_modified: 2026-02-15 01:21:08
 	name: UB11 Reart
 	casting_cost: 1B
-	image: 
+	image: image285.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -22,11 +24,12 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		Choose one —
-		<li><bullet>• </bullet>Exile target player’s graveyard.
-		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>Draft a card from your <param-one_word>sanctum</param-one_word></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at three random cards from your <param-one_word>sanctum</param-one_word>. Put one into your hand.)</i-auto></atom-reminder-custom></kw-A></li>
+		Choose two —
+		<li><bullet>• </bullet>Target player reveals their sanctum. You choose a card from it. Put that card into their graveyard.
+		</li><li><bullet>• </bullet>Exile target player’s graveyard.
+		</li><li><bullet>• </bullet>Each opponent loses 2 life.</li>
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: 
+	illustrator: ScytaleArts
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

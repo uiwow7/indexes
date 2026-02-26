@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes:
+		RR05,Large Creature,7,,Etali, Primal Conqueror
+		https://www.deviantart.com/mihaelvisuals/art/Cosmic-Ruler-Yasuo-923906090
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2026-02-19 19:46:41
+	name: Worldsinger
+	casting_cost: 2RR
+	image: image330.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Bard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		When this creature enters, <kw-1><nospellcheck><key>sift <param-number>3</param-number></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at the top <param-number>three</param-number> cards of your library, then put any number of them into your sanctum and the rest on top of your library in any order.)</i-auto></atom-reminder-custom></kw-1>
+		Whenever this creature attacks, you may put an Avatar or <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Anima</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creature card from your sanctum with mana value less than or equal to the number of attacking creatures onto the battlefield tapped and attacking.</atom-cardname><atom-name>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: mihaelvisuals
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

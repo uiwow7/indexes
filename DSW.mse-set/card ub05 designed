@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: UB05,Medium Creature,4,,Nezumi Freewheeler
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-12-16 11:02:38
+	time_modified: 2026-02-22 09:24:02
 	name: UB05 DESIGNED
 	casting_cost: 3B
 	image: image165.png
@@ -13,15 +13,23 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
-	sub_type: <word-list-race-en></word-list-race-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Dragon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: uncommon
-	rule_text: <sym-auto>1</sym-auto>, Sacrifice a creature: Put a +1/+1 counter on target creature you control.
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		<sym-auto>1</sym-auto>, Sacrifice a creature: Put a +1/+1 counter on target creature you control.
 	flavor_text:
 		<i-flavor>ft<soft-line>
 		ft<soft-line>
 		ft</soft-line></soft-line></i-flavor>
-	power: 3
-	toughness: 3
+	power: 2
+	toughness: 2
 	illustrator: Sapphireingore
 	card_code_text: 
 	card_code_text_2: 

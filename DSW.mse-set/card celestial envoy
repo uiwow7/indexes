@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CG03,Small Creature,2,,Portent Tracker
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-08-26 01:14:18
+	time_modified: 2026-02-15 16:16:16
 	name: Celestial Envoy
 	casting_cost: 1G
 	image: image97.png
@@ -22,11 +22,11 @@ card:
 	sub_type_4: 
 	rarity: common
 	rule_text:
-		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, if this creature doesn’t have a +1/+1 counter on it if it has none.)</i-auto></atom-reminder-custom></kw-A>
-		Whenever one or more counters are put on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>, you gain 1 life.
+		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, put a  +1/+1 counter on this creature if it has none.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> becomes infused, you gain 3 life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
-	toughness: 1
+	toughness: 2
 	illustrator: VegaColors
 	card_code_text: 
 	card_code_text_2: 

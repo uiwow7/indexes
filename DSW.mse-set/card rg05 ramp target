@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: RG05,Large Creature,7,,Ancient Imperiosaur
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-14 22:23:39
+	time_modified: 2026-02-17 21:06:15
 	name: RG05 Ramp Target
 	casting_cost: 5GG
 	image: image307.png
@@ -22,8 +22,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, it fights target creature.
-		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> is dealt damage, create a 2/2 XXX creature token.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, it fights up to one target creature.
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> is dealt damage, create a 2/2 green Avatar creature token.
 		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, put a +1/+1 counter on each creature you control.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4

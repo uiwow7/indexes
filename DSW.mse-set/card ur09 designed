@@ -3,12 +3,14 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: UR09,Noncreature,2,,Invasion of Mercadia
+	notes:
+		UR09,Noncreature,2,,Invasion of Mercadia
+		https://www.deviantart.com/temmaru/art/MOON-PRESENCE-1253655227
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-12-15 22:19:25
+	time_modified: 2026-02-15 01:45:18
 	name: UR09 DESIGNED
 	casting_cost: 1R
-	image: 
+	image: image325.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -23,6 +25,7 @@ card:
 	rarity: uncommon
 	rule_text: <atom-name>This spell</atom-cardname> deals 2 damage to any target. Create a 1/1 black Spirit creature token with <kw-A><nospellcheck><key>decayed</key></nospellcheck>.</atom-cardname><atom-name><atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
+	illustrator: Temmaru
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CU20,Noncreature,4,,Meeting of Minds — draw
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-01-12 22:22:36
+	time_modified: 2026-02-22 09:14:27
 	name: Amalgamate Memories
 	casting_cost: 3U
 	image: image34.png
@@ -22,11 +22,9 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		<kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>, then draw two cards.
+		<kw-A><nospellcheck><key>Sift <param-number>2</param-number></key></nospellcheck>, then draw two cards.<atom-reminder-custom> <i-auto>(To sift <param-number>2</param-number>, look at the top <param-number>two</param-number> cards of your library, then put any number of them into your sanctum and the rest on top of your library in any order.)</i-auto></atom-reminder-custom></kw-A>
 		<kw-A><nospellcheck><key>Realize <param-cost><sym-auto>5UU</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</i-auto></atom-reminder-custom></kw-A>
-	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft</soft-line></i-flavor>
+	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 4
 	illustrator: Sarah Carmody

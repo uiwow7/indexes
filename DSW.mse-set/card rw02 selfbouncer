@@ -23,7 +23,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, if this creature doesn’t have a +1/+1 counter on it if it has none.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, put a  +1/+1 counter on this creature if it has none.)</i-auto></atom-reminder-custom></kw-A>
 		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, return target permanent you control to its owner’s hand.</atom-cardname><atom-name>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2

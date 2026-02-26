@@ -7,13 +7,15 @@ card:
 		other_options: auto nyx crowns
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
-	notes: CW01,Small Creature,1,,Enduring Bondwarden
+	notes:
+		CW01,Small Creature,1,,Enduring Bondwarden
+		https://www.deviantart.com/miguelfirewolf/art/Alba-Mico-869213526
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-01-22 18:44:20
+	time_modified: 2026-02-15 01:33:07
 	name: REART
 	alias: 
 	casting_cost: W
-	image: 
+	image: image321.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -34,7 +36,7 @@ card:
 		ft</soft-line></soft-line></soft-line></i-flavor>
 	power: 0
 	toughness: 1
-	illustrator: 
+	illustrator: MiguelFirewolf
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

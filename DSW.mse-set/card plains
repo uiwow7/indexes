@@ -3,11 +3,11 @@ card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2018-02-08
 	has_styling: false
-	notes: 
+	notes: https://www.deviantart.com/era7/art/Runaway-Star-806189291
 	time_created: 2026-02-06 13:29:39
-	time_modified: 2026-02-06 13:29:39
+	time_modified: 2026-02-14 22:41:59
 	name: Plains
-	image: 
+	image: image296.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -18,6 +18,7 @@ card:
 	sub_type_4: 
 	rarity: basic land
 	watermark: mana symbol white
+	illustrator: ERA7
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

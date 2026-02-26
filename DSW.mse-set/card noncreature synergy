@@ -3,12 +3,14 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: CB06,Small Creature,4,,Consuming Aetherborn
+	notes:
+		CB06,Small Creature,4,,Consuming Aetherborn
+		https://www.deviantart.com/scottr5680/art/Reach-for-the-Light-844549097
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-01-20 16:23:27
+	time_modified: 2026-02-14 22:42:33
 	name: Noncreature synergy
 	casting_cost: 3B
-	image: 
+	image: image298.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -28,7 +30,7 @@ card:
 		ft</soft-line></soft-line></i-flavor>
 	power: 2
 	toughness: 3
-	illustrator: 
+	illustrator: Scottr5680
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

@@ -3,17 +3,31 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: RR10,Noncreature,8,,City on Fire
+	notes:
+		RR10,Noncreature,8,,City on Fire
+		https://www.deviantart.com/tomeriksmithart/art/Essence-777346348
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-06-08 00:00:00
+	time_modified: 2026-02-16 01:15:50
 	name: RR10 Noncreature
-	casting_cost: 7R
-	image: 
+	casting_cost: R
+	image: image332.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	sub_type: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
+	rule_text:
+		As an additional cost to cast <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname>, discard a noncreature, nonland card.
+		Draw two cards.</atom-cardname><atom-name>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: tomeriksmithArt
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

@@ -3,17 +3,27 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: MG03,Noncreature,5,,Invasion of Shandalar
+	notes:
+		MG03,Noncreature,5,,Invasion of Shandalar
+		https://www.deviantart.com/azazelorion/art/Glaring-Abyss-1297515873
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-06-08 00:00:00
+	time_modified: 2026-02-15 17:30:23
 	name: MG03 Noncreature
 	casting_cost: 4G
-	image: 
+	image: image329.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	sub_type: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: mythic rare
+	illustrator: AzazelOrion
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

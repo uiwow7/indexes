@@ -3,12 +3,14 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: RG01,Medium Creature,2,,Deeproot Wayfinder
+	notes:
+		RG01,Medium Creature,2,,Deeproot Wayfinder
+		https://www.deviantart.com/nexumorphic/art/Etier-789686019
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-14 22:26:57
+	time_modified: 2026-02-15 17:14:22
 	name: RG01 Big
 	casting_cost: 1G
-	image: 
+	image: image6.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -21,7 +23,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
-	illustrator: 
+	illustrator: Nexumorphic
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CA01,Small Creature,3,,Skittering Surveyor
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-01-12 22:22:22
+	time_modified: 2026-02-22 09:14:03
 	name: CA01 Small Creature
 	casting_cost: 1
 	image: image146.png
@@ -22,7 +22,7 @@ card:
 	sub_type_4: 
 	rarity: common
 	rule_text:
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, <kw-A><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of your library. You may put it into your graveyard.)</i-auto></atom-reminder-action></kw-A>
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, <kw-A><nospellcheck><key>sift <param-number>1</param-number></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at the top card of your library. You may put it into your sanctum.)</i-auto></atom-reminder-custom></kw-A>
 		<sym-auto>2</sym-auto>: Add one mana of any color.
 	flavor_text:
 		<i-flavor>ft<soft-line>

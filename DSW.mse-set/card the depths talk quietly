@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: MM04,Medium Creature,5,flying URW URW URW ,Zurgo and Ojutai
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2026-02-15 22:27:31
+	name: The Depths Talk Quietly
+	casting_cost: 2I
+	image: image297.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, create a tapped <kw-A><nospellcheck><key>powerstone toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-expert> <i-auto>(It’s an artifact with “<sym>T</sym>: Add <sym>C</sym>. This mana can’t be spent to cast a nonartifact spell.”)</i-auto></atom-reminder-expert></kw-A>
+		<sym-auto>4</sym-auto>: Put two +1/+1 counters on target noncreature permanent you control. It becomes a 0/0 creature.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Marion-Aurore
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

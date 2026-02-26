@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: RM15,Noncreature,5,WUBRG WUBRG WUBRG ,Invasion of Alara
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2026-02-19 17:27:15
+	name: Najari Bridgebinder
+	casting_cost: 2IG
+	image: image294.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Chimera</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		When this creature enters, create a tapped token that’s a copy of target land you control, except its name is Cosmic Path.
+		This creature gets +1/+1 for each differently named land you control.
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 0
+	illustrator: ChaosFissure
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

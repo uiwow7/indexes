@@ -3,24 +3,33 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: MW01,Small Creature,3,,Monastery Mentor
+	notes:
+		MW01,Small Creature,3,,Monastery Mentor
+		https://www.deviantart.com/ausp-ice/art/Creation-II-616769095
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-14 20:45:26
+	time_modified: 2026-02-17 21:03:12
 	name: MW01 Monastery Mentor
 	casting_cost: 2W
-	image: 
+	image: image303.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
-	sub_type: <word-list-race-en></word-list-race-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
-		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, if this creature doesn’t have a +1/+1 counter on it if it has none.)</i-auto></atom-reminder-custom></kw-A>
-		Whenever you cast a noncreature spell, create a 1/1 XXX token with <kw-0><nospellcheck><key>infuse</key></nospellcheck></kw-0>.
+		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, put a  +1/+1 counter on this creature if it has none.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever you cast a noncreature spell, create a 1/1 white Avatar Wizard creature token with <kw-0><nospellcheck><key>infuse</key></nospellcheck></kw-0>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
+	illustrator: Ausp-ice
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

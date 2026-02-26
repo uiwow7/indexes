@@ -3,22 +3,31 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: UR04,Medium Creature,3,,Harried Artisan
+	notes:
+		UR04,Medium Creature,3,,Harried Artisan
+		https://www.deviantart.com/manticora-miorro/art/Dance-under-the-red-stars-789188756
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-12-16 10:35:59
+	time_modified: 2026-02-15 01:23:22
 	name: UR04 DESIGNED
 	casting_cost: 2R
-	image: 
+	image: image305.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
-	sub_type: <word-list-race-en></word-list-race-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Horror</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: uncommon
 	rule_text: Whenever a creature you control dies, <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> gets +1/+0 until end of turn. If it was attacking, <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> deals 1 damage to each opponent.
 	flavor_text: <i-flavor>ft</i-flavor>
 	power: 2
 	toughness: 2
+	illustrator: Manticora-Miorro
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

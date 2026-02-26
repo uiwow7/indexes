@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: https://www.deviantart.com/ausp-ice/art/Canary-Edeia-Art-Train-1286295757
 	time_created: 2026-01-19 19:18:19
-	time_modified: 2026-01-26 11:35:02
+	time_modified: 2026-02-17 21:02:56
 	name: RWB - Sacrifice
 	casting_cost: 1RWB
 	image: image276.png
@@ -21,7 +21,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, create two 1/1 XXX tokens.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, create two 1/1 red Spirit creature tokens.
 		<sym-auto>1</sym-auto>, Sacrifice a creature: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> deals 1 damage to each opponent. 
 	flavor_text: <i-flavor></i-flavor>
 	power: 2

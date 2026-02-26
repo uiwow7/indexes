@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CR05,Small Creature,2,,Trailblazing Historian
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-12-20 19:50:39
+	time_modified: 2026-02-15 16:09:20
 	name: Cosmos Caller
 	casting_cost: 1R
 	image: image76.png
@@ -22,10 +22,10 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, if this creature doesn’t have a +1/+1 counter on it if it has none.)</i-auto></atom-reminder-custom></kw-A>
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/U</sym>.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, put a  +1/+1 counter on this creature if it has none.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> becomes infused, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/U</sym>.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
-	power: 1
+	power: 2
 	toughness: 1
 	illustrator: Katya Cyan
 	card_code_text: 

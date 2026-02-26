@@ -2,15 +2,20 @@
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
-	has_styling: false
+	has_styling: true
+	styling_data:
+		other_options: use taller frame, un-indent nonloyalty abilities
+		default_image_size: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	notes:
 		MM06,Large Creature,6,RWB RWB RWB ,Kroxa and Kunoros
 		https://www.deviantart.com/nexumorphic/art/Nothing-797984782
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-14 20:35:16
+	time_modified: 2026-02-15 12:44:59
 	name: Trena, Architect of Gods
 	casting_cost: 3WB
-	image: image303.png
+	image: image36.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -23,12 +28,21 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: mythic rare
-	loyalty_cost_2: 
-	level_1_text: ​
-	level_2_text: 
-	level_3_text: 
+	loyalty_cost_1: 
+	loyalty_cost_2: +1
+	loyalty_cost_3: -2
+	loyalty_cost_4: 
+	loyalty: 4
+	level_1_text: When <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname> enters, return target enchantment card from your graveyard to the battlefield.
+	level_2_text: <margin:130:0:0>Put a +1/+1 counter on target enchantment you control. If it isn’t a creature, it becomes a 0/0 creature until your next turn.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Each opponent loses life equal to the number of enchantments you control and you gain that much life.</margin:130:0:0>
+	level_4_text: 
+	level_5_text: 
 	illustrator: Nexumorphic
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
-	special_text: ​
+	special_text:
+		When <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname> enters, return target enchantment card from your graveyard to the battlefield.
+		[+1]: <margin:130:0:0>Put a +1/+1 counter on target enchantment you control. If it isn’t a creature, it becomes a 0/0 creature until your next turn.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Each opponent loses life equal to the number of enchantments you control and you gain that much life.</margin:130:0:0>

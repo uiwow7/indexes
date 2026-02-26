@@ -3,17 +3,25 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: RM05,Medium Creature,4,flying WB WB WB ,Drana and Linvala
+	notes:
+		RM05,Medium Creature,4,flying WB WB WB ,Drana and Linvala
+		https://www.deviantart.com/eldritchflower11/art/Eldritch-Flower-1016986511
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-14 11:54:41
+	time_modified: 2026-02-15 17:23:32
 	name: RM05
 	casting_cost: 4GW
-	image: 
+	image: image311.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
-	sub_type: <word-list-race-en></word-list-race-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Plant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
 	rule_text:
 		</atom-cardname>This spell costs <sym-auto>1</sym-auto> less to cast for each counter among creatures you control.
@@ -21,6 +29,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4
+	illustrator: EldritchFlower11
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

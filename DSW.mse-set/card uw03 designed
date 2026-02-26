@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: UW03,Small Creature,3,,Invasion of Belenon
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-12-17 10:57:13
+	time_modified: 2026-02-22 09:24:37
 	name: UW03 DESIGNED
 	casting_cost: 2W
 	image: image177.png
@@ -13,9 +13,15 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
-	sub_type: <word-list-race-en></word-list-race-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Horror</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: uncommon
-	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, draw a card, then create a 1/1 white Avatar creature token.
+	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, create a 1/1 white Avatar creature token and put a +1/+1 counter on it.
 	flavor_text:
 		<i-flavor>ft<soft-line>
 		ft</soft-line></i-flavor>

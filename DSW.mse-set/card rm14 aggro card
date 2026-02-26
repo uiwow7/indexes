@@ -7,7 +7,7 @@ card:
 		RM14,Noncreature,5,WB WB WB ,Invasion of Tolvada
 		https://www.deviantart.com/ausp-ice/art/Funguary-Bleeding-Fairy-OTA-1297860376
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-14 11:44:26
+	time_modified: 2026-02-17 21:03:22
 	name: RM14 Aggro Card
 	casting_cost: IR
 	image: image283.png
@@ -25,7 +25,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, you may sacrifice a nontoken creature. When you do, <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> deals 1 damage to each opponent and you create a 1/1 XXX creature token.
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, you may sacrifice a nontoken creature. When you do, <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> deals 1 damage to each opponent and you create a 1/1 red Spirit creature token.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1

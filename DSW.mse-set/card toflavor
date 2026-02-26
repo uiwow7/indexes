@@ -7,11 +7,12 @@ card:
 		CW20,Noncreature,3,,Scrollshift — blink
 		
 		REWORK
+		https://www.deviantart.com/alexspline/art/Fly-914845671
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-01-26 11:32:32
+	time_modified: 2026-02-17 21:01:50
 	name: TOFLAVOR
 	casting_cost: 2W
-	image: 
+	image: image320.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -25,12 +26,12 @@ card:
 	sub_type_4: 
 	rarity: common
 	rule_text:
-		Create two 1/1 XXX creature tokens.
+		Create two 1/1 white Bird creature tokens with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 		You may sacrifice a creature. If you do, you gain 4 life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 
-	illustrator: 
+	illustrator: alexspline
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

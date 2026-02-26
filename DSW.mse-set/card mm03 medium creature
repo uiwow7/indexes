@@ -3,18 +3,27 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: MM03,Medium Creature,4,WBG WBG WBG ,Thalia and The Gitrog Monster
+	notes:
+		MM03,Medium Creature,4,WBG WBG WBG ,Thalia and The Gitrog Monster
+		https://www.deviantart.com/jocarra/art/Commission-Cosmic-Dragon-722582621
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-06-08 00:00:00
+	time_modified: 2026-02-16 01:00:23
 	name: MM03 Medium Creature
-	casting_cost: 1WBG
-	image: 
+	casting_cost: 3IR
+	image: image328.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
-	sub_type: <word-list-race-en></word-list-race-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Dragon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: mythic rare
+	illustrator: Jocarra
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

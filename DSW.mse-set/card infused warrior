@@ -3,7 +3,9 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: CB04,Small Creature,2,,Nezumi Informant
+	notes:
+		CB04,Small Creature,2,,Nezumi Informant
+		EHART
 	time_created: 2025-06-08 00:00:00
 	time_modified: 2025-07-16 09:26:19
 	name: Infused Warrior
@@ -22,7 +24,7 @@ card:
 	sub_type_4: 
 	rarity: common
 	rule_text:
-		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, if this creature doesn’t have a +1/+1 counter on it if it has none.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, put a  +1/+1 counter on this creature if it has none.)</i-auto></atom-reminder-custom></kw-A>
 		Whenever you put one or more counters on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>, each opponent lose 1 life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1

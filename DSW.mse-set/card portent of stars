@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: RU04,Medium Creature,3,flying ,Chrome Host Seedshark
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-01-16 13:29:40
+	time_modified: 2026-02-22 09:18:24
 	name: Portent of Stars
 	casting_cost: 2U
 	image: image250.png
@@ -22,8 +22,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Whenever you draw your second card each turn, create a 1/1 silver Avatar creature token and <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
-		As long as there are ten or more cards in your graveyard, creatures you control have <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+		Whenever you draw your second card each turn, create a 1/1 silver Avatar creature token and <kw-A><nospellcheck><key>sift <param-number>1</param-number></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at the top card of your library. You may put it into your sanctum.)</i-auto></atom-reminder-custom></kw-A>
+		As long as there are twelve or more cards in your sanctum, creatures you control have <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

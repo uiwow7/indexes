@@ -3,7 +3,9 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: CG12,Large Creature,5,,Bonded Herdbeast
+	notes:
+		CG12,Large Creature,5,,Bonded Herdbeast
+		EHART
 	time_created: 2025-06-08 00:00:00
 	time_modified: 2025-08-26 01:23:35
 	name: Unconcerned Tortoise

@@ -31,7 +31,7 @@ card:
 	rule_text:
 		Counter up to one target instant, sorcery, or enchantment spell.
 		<kw-A><nospellcheck><key>Realize <param-cost><sym-auto>3II</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</i-auto></atom-reminder-custom></kw-A>
-		At the beginning of your upkeep, <kw-A><nospellcheck><key>sift <param-number>1</param-number></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at the top card of your library. You may put that card into your sanctum.)</i-auto></atom-reminder-custom></kw-A>
+		At the beginning of your upkeep, <kw-A><nospellcheck><key>sift <param-number>1</param-number></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at the top card of your library. You may put it into your sanctum.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3

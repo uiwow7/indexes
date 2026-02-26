@@ -3,12 +3,14 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: RR05,Large Creature,7,,Etali, Primal Conqueror
+	notes:
+		RR05,Large Creature,7,,Etali, Primal Conqueror
+		https://www.deviantart.com/mihaelvisuals/art/Cosmic-Ruler-Yasuo-923906090
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-08 10:31:21
+	time_modified: 2026-02-15 17:32:23
 	name: RR05 Large Creature
 	casting_cost: 6R
-	image: 
+	image: image330.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -17,6 +19,7 @@ card:
 	rarity: rare
 	rule_text: <atom-name>This creature</atom-cardname> costs <sym-auto>1</sym-auto> less to cast for each Avatar you control.
 	flavor_text: <i-flavor></i-flavor>
+	illustrator: mihaelvisuals
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
