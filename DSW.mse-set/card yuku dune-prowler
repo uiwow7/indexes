@@ -7,7 +7,7 @@ card:
 		CR09,Medium Creature,4,,War-Trained Slasher
 		EHART
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-07-17 16:37:50
+	time_modified: 2026-03-05 11:30:20
 	name: Yuku Dune-Prowler
 	casting_cost: 3R
 	image: image71.png
@@ -24,11 +24,7 @@ card:
 	sub_type_4: 
 	rarity: common
 	rule_text: Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, other attacking creatures you control get +1/+0 until end of turn.
-	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft<soft-line>
-		ft<soft-line>
-		ft</soft-line></soft-line></soft-line></i-flavor>
+	flavor_text: <i-flavor>The splinter of <error-spelling:en_US>Yuku</error-spelling:en_US> lost much of its luster during the rupture.</i-flavor>
 	power: 3
 	toughness: 3
 	illustrator: Yanli Wang

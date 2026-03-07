@@ -12,7 +12,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: RM09,Medium Creature,5,flying BR BR BR ,Rankle and Torbran
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-22 09:20:30
+	time_modified: 2026-03-05 19:31:19
 	name: Unleash Buried Power
 	casting_cost: RW
 	image: image282.png
@@ -31,7 +31,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
 		<atom-name>This spell</atom-cardname> deals 3 damage to any target.
-		<kw-1><nospellcheck><key>Realize <param-cost><sym>3RW</sym></atom-cardname></param-cost></key></nospellcheck><atom-name></atom-cardname><atom-name><atom-reminder-custom> <i-auto>(Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</i-auto></atom-reminder-custom></kw-1>
+		<kw-A><nospellcheck><key>Realize <param-cost><sym>4RW</sym></atom-cardname></param-cost></key></nospellcheck><atom-name></atom-cardname><atom-name><atom-reminder-custom> <i-auto>(Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2

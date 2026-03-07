@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes:
+		UM05,Small Creature,4,flying BR ,Interceptor Mechan
+		https://www.deviantart.com/firehartxsonja/art/capitano-1305814250
+	time_created: 2026-02-26 00:00:00
+	time_modified: 2026-03-04 10:59:31
+	name: UM05 Small Creature
+	casting_cost: 2BR
+	image: image6.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Celestial</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Eye</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		Other Horrors you control get +1/+0 and have <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+		<kw-A><nospellcheck><key>Sacralize</key></nospellcheck><atom-reminder-custom> <i-auto>(When this creature deals combat damage to a player, you may sacrifice it.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, create a 2/2 black Horror creature token. If <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> was <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>sacralized</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, create two of those tokens instead.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: firehartxsonja
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

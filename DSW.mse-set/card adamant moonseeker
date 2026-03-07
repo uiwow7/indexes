@@ -8,7 +8,7 @@ card:
 		
 		thanks eli
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-22 09:17:23
+	time_modified: 2026-03-05 19:53:29
 	name: Adamant Moonseeker
 	casting_cost: I
 	image: image260.png
@@ -25,7 +25,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters or attacks, <kw-A><nospellcheck><key>sift <param-number>1</param-number></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at the top card of your library. You may put it into your sanctum.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, <kw-A><nospellcheck><key>sift <param-number>1</param-number></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at the top card of your library. You may put it into your sanctum.)</i-auto></atom-reminder-custom></kw-A>
 		</atom-cardname>As long as there are 10 or more cards in your sanctum, <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> gets +2/+2 and has menace.<atom-name>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1

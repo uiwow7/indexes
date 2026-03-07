@@ -7,14 +7,14 @@ card:
 		MM02,Medium Creature,3,BGU BGU BGU ,Zimone and Dina
 		https://www.deviantart.com/libertades/art/Purpose-1290781239
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-17 21:12:25
+	time_modified: 2026-03-03 21:35:08
 	name: Primordial Knowledge
 	casting_cost: 1IU
 	image: image295.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>

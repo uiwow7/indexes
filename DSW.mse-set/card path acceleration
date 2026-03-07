@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CR16,Noncreature,2,,Burning Sun's Fury
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-07-17 17:33:04
+	time_modified: 2026-03-06 10:02:48
 	name: Path Acceleration
 	casting_cost: 1R
 	image: image85.png
@@ -23,10 +23,8 @@ card:
 	rarity: common
 	rule_text: Target creature you control gets +3/+0 and gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
 	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft<soft-line>
-		ft<soft-line>
-		ft</soft-line></soft-line></soft-line></i-flavor>
+		<i-flavor>“Beware of the paths that rip you apart and suck you towards new worlds.”<soft-line>
+		—<error-spelling:en_US>Nari</error-spelling:en_US>, <error-spelling:en_US>Worldsinger</soft-line></i-flavor></error-spelling:en_US>
 	illustrator: TheKayeman
 	card_code_text: 
 	card_code_text_2: 

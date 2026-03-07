@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CU02,Small Creature,2,,Illvoi Operative
+	time_created: 2026-02-26 00:00:00
+	time_modified: 2026-03-05 11:31:34
+	name: CU02 Small Creature
+	casting_cost: 1U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	rarity: common
+	rule_text:
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+		<sym-auto>3U</sym-auto>, Exile three other cards from your graveyard: Return <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> from your graveyard to the battlefield with a <kw-a><nospellcheck><key>finality counter</key></nospellcheck></kw-a> on it. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: UU07,Noncreature,2,,Change the Equation
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-12-17 10:42:45
+	time_modified: 2026-03-05 11:25:23
 	name: Glimpse of Eternity
 	casting_cost: U
 	image: image167.png
@@ -23,9 +23,8 @@ card:
 	rarity: uncommon
 	rule_text: Return target creature to its owner’s hand. <kw-A><nospellcheck><key>You get</key></nospellcheck> <sym>V</sym>.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft<soft-line>
-		ft</soft-line></soft-line></i-flavor>
+		<i-flavor>“Seek The Terminus. Find your power. Join us.”<soft-line>
+		—Call of The Terminus</soft-line></i-flavor>
 	illustrator: Sylvia Ritter
 	card_code_text: 
 	card_code_text_2: 

@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes:
+		UM01,Small Creature,2,GU ,Biomechan Engineer
+		https://www.deviantart.com/kassillea/art/God-s-Gift-871823947
+	time_created: 2026-02-26 00:00:00
+	time_modified: 2026-03-04 18:54:05
+	name: UM01 Small Creature
+	casting_cost: 3GU
+	image: image5.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Celestial</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Avatar</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		Whenever one or more cards leave your graveyard, put a +1/+1 counter on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> and it gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn.
+		<sym-auto>2GU</sym-auto>, Exile <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> from your graveyard: <kw-0><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-0>, then return up to one creature or land card from your graveyard to your hand.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Kassillea
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

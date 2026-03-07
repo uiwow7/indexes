@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CR11,Large Creature,5,,Onakke Javelineer
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-07-17 17:33:34
+	time_modified: 2026-03-05 11:29:51
 	name: Kara Mountain Guardian
 	casting_cost: 4R
 	image: image73.png
@@ -22,9 +22,7 @@ card:
 	sub_type_4: 
 	rarity: common
 	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, create three 1/1 black Spirit creature tokens with <kw-0><nospellcheck><key>decayed</key></nospellcheck></kw-0>. <i-auto>(They can’t block. When one attacks, sacrifice it at end of combat.)</i-auto>
-	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft</soft-line></i-flavor>
+	flavor_text: <i-flavor>Large swathes of the splinters were damaged, if not outright destroyed, during the rupture.</i-flavor>
 	power: 3
 	toughness: 3
 	illustrator: Gustavo Arteaga

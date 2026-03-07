@@ -7,7 +7,7 @@ card:
 		CG12,Large Creature,5,,Bonded Herdbeast
 		EHART
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-08-26 01:23:35
+	time_modified: 2026-03-05 11:17:00
 	name: Unconcerned Tortoise
 	casting_cost: 5G
 	image: image89.png
@@ -24,9 +24,7 @@ card:
 	sub_type_4: 
 	rarity: common
 	rule_text: Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters or attacks, put your choice of a +1/+1, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, or <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a> counter on target creature you control.
-	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft</soft-line></i-flavor>
+	flavor_text: <i-flavor>Many who heard the call of The Terminus chose to ignore it.</i-flavor>
 	power: 3
 	toughness: 6
 	card_code_text: 

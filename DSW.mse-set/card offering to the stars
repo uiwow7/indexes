@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CW02,Small Creature,1,,Tarkir Duneshaper
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-19 19:53:16
+	time_modified: 2026-03-03 21:40:42
 	name: Offering to the Stars
 	casting_cost: I
 	image: image150.png
@@ -22,7 +22,7 @@ card:
 	sub_type_4: 
 	rarity: common
 	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> leaves the battlefield, create a 1/1 black Spirit creature token with <kw-A><nospellcheck><key>decayed</key></nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
-	flavor_text: <i-flavor>ft</i-flavor>
+	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1
 	illustrator: ShootingStarLogBook

@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes:
+		CW11,Noncreature,1,,Focus Fire
+		https://www.deviantart.com/ausp-ice/art/Reunion-1305229347
+	time_created: 2026-02-26 00:00:00
+	time_modified: 2026-03-04 11:04:27
+	name: CW11 Combat Removal
+	casting_cost: W
+	image: image12.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text: <kw-A><i-auto><nospellcheck><key>Augury</key></nospellcheck></i-auto></kw-A> — This spell deals 3 damage to target attacking or blocking creature. If you exiled a card this turn, it deals 5 damage instead.</atom-cardname><atom-name>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Ausp-ice
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

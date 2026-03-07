@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CW07,Small Creature,3,flying ,Attentive Skywarden
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-12-01 21:56:22
+	time_modified: 2026-03-05 12:14:03
 	name: Ethereal Envoy
 	casting_cost: 2I
 	image: image120.png
@@ -22,10 +22,7 @@ card:
 	sub_type_4: 
 	rarity: common
 	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters or dies, tap up to one target creature and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.
-	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft<soft-line>
-		ft</soft-line></soft-line></i-flavor>
+	flavor_text: <i-flavor>“We are the boundless, touched by The Terminus and destined to carry out its will.”</i-flavor>
 	power: 2
 	toughness: 1
 	illustrator: Yury Solntsev

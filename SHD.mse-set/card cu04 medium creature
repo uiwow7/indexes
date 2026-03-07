@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CU04,Medium Creature,3,,Nanoform Sentinel
+	time_created: 2026-02-26 00:00:00
+	time_modified: 2026-03-05 11:37:42
+	name: CU04 Medium Creature
+	casting_cost: 2U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	rarity: common
+	rule_text: Whenever a creature you control enters, if it wasn’t cast from your hand, put a +1/+1 counter on it.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes:
+		UG09,Noncreature,3,,Tandem Takedown
+		https://www.deviantart.com/sehanmyid/art/Up-Ahead-1130668103
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2026-02-27 22:38:41
+	name: Essence Clash
+	casting_cost: 2G
+	image: image172.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: Put two +1/+1 counters on target creature you control. When you do, it fights target creature you don’t control.
+	flavor_text:
+		<i-flavor>ft<soft-line>
+		ft</soft-line></i-flavor>
+	illustrator: Sehanmyid
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

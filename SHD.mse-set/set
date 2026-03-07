@@ -1,0 +1,336 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2024-10-01
+stylesheet: m15-altered-plus
+stylesheet_version: 2020-09-04
+set_info:
+	title: Shattering Divinity
+	description:
+		Skeleton generator by Cajun
+		Notes:
+		Small creatures have P+T of 4 or less
+		Medium creatures have P+T of 5-8
+		Large creatures have P+T of 9 or greater
+		Wall creatures have a toughness that is at least 3 higher than their power
+	artist: 
+	copyright: Aanginer
+	set_code: SHD
+	symbol: symbol21.mse-symbol
+	masterpiece_symbol: 
+	CARDNAME_replacement: card's type
+	custom_creature_races: Celestial, 
+	custom_creature_classes: 
+	custom_index: rarity,color
+styling:
+	magic-m15-altered:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-altered-plus:
+		chop_top: 5
+		chop_bottom: 5
+		rarity_offsets: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	magic-m15-mainframe-tokens:
+		frames: archetype
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+include_file: card cw01 small creature
+include_file: card cw02 small creature
+include_file: card cw03 small creature
+include_file: card cw04 small creature
+include_file: card cw05 small creature
+include_file: card cw06 small creature
+include_file: card cw07 small creature
+include_file: card cw08 medium creature
+include_file: card cw09 medium creature
+include_file: card cw10 medium creature
+include_file: card fate smother
+include_file: card cw12 combat trick
+include_file: card cw13 banishing light
+include_file: card cw14 aura
+include_file: card cw15 removal
+include_file: card cu01 small creature
+include_file: card cu02 small creature
+include_file: card cu03 medium creature
+include_file: card cu04 medium creature
+include_file: card cu05 medium creature
+include_file: card cu06 medium creature
+include_file: card cu07 medium creature
+include_file: card cu08 mediumwall creature
+include_file: card cu09 large creature
+include_file: card cu10 noncreature
+include_file: card cu11 noncreature
+include_file: card cu12 noncreature
+include_file: card cu13 noncreature
+include_file: card cu14 noncreature
+include_file: card cu15 noncreature
+include_file: card cb01 small creature
+include_file: card cb02 small creature
+include_file: card cb03 small creature
+include_file: card cb04 small creature
+include_file: card cb05 small creature
+include_file: card cb06 medium creature
+include_file: card cb07 medium creature
+include_file: card cb08 medium creature
+include_file: card cb09 large creature
+include_file: card cb10 noncreature
+include_file: card cb11 noncreature
+include_file: card cb12 noncreature
+include_file: card cb13 noncreature
+include_file: card cb14 noncreature
+include_file: card cb15 noncreature
+include_file: card cr01 small creature
+include_file: card cr02 small creature
+include_file: card cr03 small creature
+include_file: card cr04 small creature
+include_file: card cr05 medium creature
+include_file: card cr06 medium creature
+include_file: card cr07 medium creature
+include_file: card cr08 medium creature
+include_file: card cr09 medium creature
+include_file: card cr10 large creature
+include_file: card cr11 noncreature
+include_file: card cr12 noncreature
+include_file: card cr13 noncreature
+include_file: card cr14 noncreature
+include_file: card cr15 noncreature
+include_file: card cg01 small creature
+include_file: card cg02 small creature
+include_file: card cg03 small creature
+include_file: card cg04 medium creature
+include_file: card cg05 medium creature
+include_file: card cg06 medium creature
+include_file: card cg07 medium creature
+include_file: card cg08 medium creature
+include_file: card cg09 large creature
+include_file: card cg10 large creature
+include_file: card cg11 noncreature
+include_file: card cg12 noncreature
+include_file: card cg13 noncreature
+include_file: card cg14 noncreature
+include_file: card cg15 noncreature
+include_file: card ca01 small creature
+include_file: card ca02 noncreature
+include_file: card ca03 noncreature
+include_file: card ca04 noncreature
+include_file: card ca05 noncreature
+include_file: card cl01 noncreature
+include_file: card cl02 noncreature
+include_file: card cl03 noncreature
+include_file: card cl04 noncreature
+include_file: card cl05 noncreature
+include_file: card cl06 noncreature
+include_file: card uw01 small creature
+include_file: card uw02 small creature
+include_file: card uw03 small creature
+include_file: card uw04 small creature
+include_file: card uw05 small creature
+include_file: card uw06 medium creature
+include_file: card uw07 medium creature
+include_file: card uw08 medium creature
+include_file: card uw09 medium creature
+include_file: card uw10 large creature
+include_file: card uw11 noncreature
+include_file: card uw12 noncreature
+include_file: card uw13 noncreature
+include_file: card uw14 noncreature
+include_file: card uw15 noncreature
+include_file: card uw16 noncreature
+include_file: card uw17 noncreature
+include_file: card uu01 small creature
+include_file: card uu02 small creature
+include_file: card uu03 small creature
+include_file: card uu04 small creature
+include_file: card uu05 small creature
+include_file: card uu06 small creature
+include_file: card uu07 medium creature
+include_file: card uu08 medium creature
+include_file: card uu09 large creature
+include_file: card uu10 noncreature
+include_file: card uu11 noncreature
+include_file: card uu12 noncreature
+include_file: card uu13 noncreature
+include_file: card uu14 noncreature
+include_file: card uu15 noncreature
+include_file: card uu16 noncreature
+include_file: card uu17 noncreature
+include_file: card ub01 small creature
+include_file: card ub02 small creature
+include_file: card ub03 small creature
+include_file: card ub04 small creature
+include_file: card ub05 small creature
+include_file: card ub06 medium creature
+include_file: card ub07 medium creature
+include_file: card ub08 medium creature
+include_file: card ub09 large creature
+include_file: card ub10 noncreature
+include_file: card ub11 noncreature
+include_file: card ub12 noncreature
+include_file: card ub13 noncreature
+include_file: card ub14 noncreature
+include_file: card ub15 noncreature
+include_file: card ub16 noncreature
+include_file: card ub17 noncreature
+include_file: card ur01 small creature
+include_file: card ur02 small creature
+include_file: card ur03 small creature
+include_file: card ur04 smallwall creature
+include_file: card ur05 medium creature
+include_file: card ur06 medium creature
+include_file: card ur07 medium creature
+include_file: card ur08 large creature
+include_file: card ur09 large creature
+include_file: card ur10 noncreature
+include_file: card ur11 noncreature
+include_file: card ur12 noncreature
+include_file: card ur13 noncreature
+include_file: card ur14 noncreature
+include_file: card ur15 noncreature
+include_file: card ur16 noncreature
+include_file: card ur17 noncreature
+include_file: card ug01 small creature
+include_file: card ug02 small creature
+include_file: card ug03 small creature
+include_file: card ug04 small creature
+include_file: card ug05 medium creature
+include_file: card ug06 medium creature
+include_file: card ug07 medium creature
+include_file: card ug08 medium creature
+include_file: card ug09 medium creature
+include_file: card ug10 large creature
+include_file: card ug11 large creature
+include_file: card ug12 noncreature
+include_file: card ug13 noncreature
+include_file: card ug14 noncreature
+include_file: card ug15 noncreature
+include_file: card ug16 noncreature
+include_file: card ug17 noncreature
+include_file: card um01 small creature
+include_file: card um02 small creature
+include_file: card um03 small creature
+include_file: card um04 small creature
+include_file: card um05 small creature
+include_file: card um06 medium creature
+include_file: card um07 medium creature
+include_file: card um09 medium creature
+include_file: card um10 medium creature
+include_file: card ua01 small creature
+include_file: card ua02 small creature
+include_file: card ua03 medium creature
+include_file: card ua04 large creature
+include_file: card ua05 noncreature
+include_file: card rw01 small creature
+include_file: card rw02 small creature
+include_file: card rw03 medium creature
+include_file: card rw04 medium creature
+include_file: card rw05 large creature
+include_file: card rw06 noncreature
+include_file: card rw07 noncreature
+include_file: card rw08 noncreature
+include_file: card rw09 noncreature
+include_file: card ru01 smallwall creature
+include_file: card ru02 medium creature
+include_file: card ru03 medium creature
+include_file: card ru04 large creature
+include_file: card ru05 noncreature
+include_file: card ru06 noncreature
+include_file: card ru07 noncreature
+include_file: card rb01 small creature
+include_file: card rb02 medium creature
+include_file: card rb03 medium creature
+include_file: card rb04 noncreature
+include_file: card rb05 noncreature
+include_file: card rb06 noncreature
+include_file: card rb07 noncreature
+include_file: card rb08 noncreature
+include_file: card rr01 small creature
+include_file: card rr02 medium creature
+include_file: card rr03 large creature
+include_file: card rr04 noncreature
+include_file: card rr05 noncreature
+include_file: card rr06 noncreature
+include_file: card rr07 noncreature
+include_file: card rr08 noncreature
+include_file: card rg01 medium creature
+include_file: card rg02 medium creature
+include_file: card rg03 medium creature
+include_file: card rg04 noncreature
+include_file: card rg05 noncreature
+include_file: card rg06 noncreature
+include_file: card rg07 noncreature
+include_file: card rm01 small creature
+include_file: card rm02 small creature
+include_file: card rm03 small creature
+include_file: card rm04 small creature
+include_file: card rm05 small creature
+include_file: card rm06 small creature
+include_file: card rm07 small creature
+include_file: card rm08 medium creature
+include_file: card rm09 noncreature
+include_file: card rm10 noncreature
+include_file: card rm11 noncreature
+include_file: card ra01 small creature
+include_file: card ra02 noncreature
+include_file: card ra03 noncreature
+include_file: card rl01 small creature
+include_file: card rl02 noncreature
+include_file: card rl03 noncreature
+include_file: card rl04 noncreature
+include_file: card rl05 noncreature
+include_file: card rl06 noncreature
+include_file: card rx01 large creature
+include_file: card mw01 small creature
+include_file: card mw02 large creature
+include_file: card mu01 large creature
+include_file: card mu02 noncreature
+include_file: card mb01 medium creature
+include_file: card mb02 noncreature
+include_file: card mr01 medium creature
+include_file: card mr02 noncreature
+include_file: card mg01 small creature
+include_file: card mg02 small creature
+include_file: card mm01 medium creature
+include_file: card ma01 noncreature
+include_file: card ma02 noncreature
+include_file: card ma03 noncreature
+include_file: card ml01 small creature
+include_file: card ml02 noncreature
+include_file: card ml03 noncreature
+include_file: card ml04 noncreature
+include_file: card ml05 noncreature
+include_file: card mx01 noncreature
+include_file: card archetypes
+include_file: card um01 small creature.1
+include_file: card um02 small creature.1
+include_file: card um03 small creature.1
+include_file: card um04 grovekeeper 2
+include_file: card um05 small creature.1
+include_file: card um07 medium creature.1
+include_file: card um08 medium creature
+include_file: card um09 medium creature.1
+include_file: card um10 medium creature.1
+include_file: card depths soulthief
+include_file: card um08 medium creature.1
+keyword:
+	keyword: Augury
+	match: Augury
+	reminder: 
+	rules: If you exiled a card this turn, [effect]
+	mode: pseudo
+keyword:
+	keyword: Revere
+	match: revere
+	reminder: Put a Celestial card you own from outside the game into your hand or graveyard. If a card wasn’t put into your hand, create a Clue token.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Sacralize
+	match: sacralize
+	reminder: When this creature deals combat damage to a player, you may sacrifice it.
+	rules: 
+	mode: custom
+version_control:
+	type: none
+apprentice_code: 

@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CW13,Noncreature,3,,Banishing Light
+	time_created: 2026-02-26 00:00:00
+	time_modified: 2026-03-04 10:25:39
+	name: CW13 Banishing Light
+	casting_cost: 2W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, exile target creature you don’t control until <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> leave the battlefield.
+		<kw-A><i-auto><nospellcheck><key>Augury</key></nospellcheck></i-auto></kw-A> — At the beginning of each end step, if you exiled a card this turn, you gain 1 life.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

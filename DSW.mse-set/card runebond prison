@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		CW16,Noncreature,2,,Realmbreaker's Grasp — pacifism-like
+		https://www.deviantart.com/dark-fenrir/art/Nascent-Light-875866974
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2026-02-27 09:59:52
+	name: Runebond Prison
+	casting_cost: 2W
+	image: image312.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, put a +1/+1 counter on up to one target creature you control.
+		Enchanted creature can’t attack or block and its activated abilities can’t be activated.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Dark-Fenrir
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

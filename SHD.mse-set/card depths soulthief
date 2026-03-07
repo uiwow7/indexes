@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: Slot 31	‎ 	Gold	‎ 	Uncommon	‎ 	Creature (Any MV)																						
+	time_created: 2025-12-02 18:56:27
+	time_modified: 2026-03-04 11:31:00
+	name: Depths Soulthief
+	casting_cost: 6BG
+	image: image1
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Delve</key></nospellcheck><atom-reminder-expert> <i-auto>(Each card you exile from your graveyard while casting this spell pays for <sym>1</sym>.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, destroy target creature with mana value less than or equal to the number of card types among cards exiled with <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: MyProcrastinationFix
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

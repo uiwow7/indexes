@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CW10,Medium Creature,6,,Weftblade Enhancer
+	time_created: 2026-02-26 00:00:00
+	time_modified: 2026-03-04 10:22:29
+	name: CW10 Medium Creature
+	casting_cost: 5W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	rarity: common
+	rule_text:
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters or dies, create two 1/1 XXX white creature tokens with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.
+		<kw-A><i-auto><nospellcheck><key>Augury</key></nospellcheck></i-auto></kw-A> — Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, if you exiled a card this turn, it gets +1/+1 for each creature you control.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

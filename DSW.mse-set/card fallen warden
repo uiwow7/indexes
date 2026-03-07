@@ -7,7 +7,7 @@ card:
 		CW02,Small Creature,1,,Tarkir Duneshaper
 		EHART
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-07-03 20:00:21
+	time_modified: 2026-02-27 22:44:13
 	name: Fallen Warden
 	casting_cost: W
 	image: image16.png
@@ -24,10 +24,7 @@ card:
 	sub_type_4: 
 	rarity: common
 	rule_text: <kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, put a  +1/+1 counter on this creature if it has none.)</i-auto></atom-reminder-custom></kw-A>
-	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft<soft-line>
-		ft</soft-line></soft-line></i-flavor>
+	flavor_text: <i-flavor>“The Oracles are dead, and so is <error-spelling:en_US>Drakol</error-spelling:en_US>. My home is no more.”</i-flavor>
 	power: 1
 	toughness: 1
 	illustrator: Chris Cold

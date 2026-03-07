@@ -2,7 +2,14 @@
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 4
+		chop_bottom: 12
+		other_options: 
+		custom_symbol: MyrCustoms/ithLarge.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes: CU18,Noncreature,3,,Ephara's Dispersal — bounce
 	time_created: 2025-06-08 00:00:00
 	time_modified: 2025-12-23 21:45:28

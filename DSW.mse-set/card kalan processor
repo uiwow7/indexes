@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CR04,Small Creature,2,,Thrashing Frontliner
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-08-25 16:24:38
+	time_modified: 2026-03-06 10:02:43
 	name: Kalan Processor
 	casting_cost: 1R
 	image: image80.png
@@ -23,10 +23,8 @@ card:
 	rarity: uncommon
 	rule_text: Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/W</sym>.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft<soft-line>
-		ft<soft-line>
-		ft</soft-line></soft-line></soft-line></i-flavor>
+		<i-flavor>“The flames that rage in <error-spelling:en_US>Kala</error-spelling:en_US> never cease, burning forever and scorching the world.”<soft-line>
+		—<error-spelling:en_US>Nari</error-spelling:en_US>, <error-spelling:en_US>Worldsinger</soft-line></i-flavor></error-spelling:en_US>
 	power: 2
 	toughness: 1
 	illustrator: Scott Uminga

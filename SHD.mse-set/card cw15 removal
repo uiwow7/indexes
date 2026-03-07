@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CW15,Noncreature,4,,Radiant Strike
+	time_created: 2026-02-26 00:00:00
+	time_modified: 2026-03-04 10:49:15
+	name: CW15 Removal
+	casting_cost: 3W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		Exile target tapped creature.
+		<kw-A><nospellcheck><key>Revere</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Put a Celestial card you own from outside the game into your hand or graveyard. If a card wasn’t put into your hand, create a Clue token.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

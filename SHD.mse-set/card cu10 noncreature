@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes:
+		CU10,Noncreature,1,,Cryoshatter<soft-line>
+		debuff aura</soft-line>
+	time_created: 2026-02-26 00:00:00
+	time_modified: 2026-03-05 11:41:40
+	name: CU10 Noncreature
+	casting_cost: U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		<kw-A><i-auto><nospellcheck><key>Augury</key></nospellcheck></i-auto></kw-A> — When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, if you exiled a card this turn, tap enchanted creature.
+		Enchanted creature doesn’t untap during its controllers untap step.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

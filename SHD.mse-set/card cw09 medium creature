@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CW09,Medium Creature,3,,Flight-Deck Coordinator
+	time_created: 2026-02-26 00:00:00
+	time_modified: 2026-03-04 10:39:48
+	name: CW09 Medium Creature
+	casting_cost: 2W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	rarity: common
+	rule_text:
+		<kw-A><nospellcheck><key>Sacralize</key></nospellcheck><atom-reminder-custom> <i-auto>(When this creature deals combat damage to a player, you may sacrifice it.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> is <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>sacralized</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, put a +1/+1 counter on each creature you control.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

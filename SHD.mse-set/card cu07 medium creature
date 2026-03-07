@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CU07,Medium Creature,5,flying ,Starbreach Whale
+	time_created: 2026-02-26 00:00:00
+	time_modified: 2026-03-05 11:33:41
+	name: CU07 Medium Creature
+	casting_cost: 4U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Horror</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		<kw-A><i-auto><nospellcheck><key>Augury</key></nospellcheck></i-auto></kw-A> — When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, if you exiled a card this turn, return target nonland permanent to its owner’s hand.
+		<kw-A><nospellcheck><key>Warp <param-cost><sym-auto>1U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

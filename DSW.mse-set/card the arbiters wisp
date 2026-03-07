@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CW10,Small Creature,4,,Knight of the New Coalition
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-08-25 16:16:09
+	time_modified: 2026-03-05 11:22:48
 	name: The Arbiter’s Wisp
 	casting_cost: 3W
 	image: image11.png
@@ -16,7 +16,7 @@ card:
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Elk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Avatar</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type: <word-list-race-en>Elk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Avatar</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 

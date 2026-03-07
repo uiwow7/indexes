@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes:
+		CB03,Small Creature,2,,Dreg Recycler
+		https://www.deviantart.com/sapphiringore/art/bro-thinks-he-Saturn-981298589
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2026-03-03 21:38:31
+	name: Reborn of the Void
+	casting_cost: 1B
+	image: image323.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text: <sym-auto>T</sym-auto>, Sacrifice an artifact or creature: Each opponent loses 1 life and you gain 1 life.
+	flavor_text: <i-flavor>As the blind eternities entered <error-spelling:en_US>Dazon</error-spelling:en_US>, many of the amalgam’s inhabitants were consumed by the void.</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Sapphiringore
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

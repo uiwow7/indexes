@@ -5,12 +5,12 @@ card:
 	has_styling: false
 	notes:
 		UG09,Noncreature,3,,Tandem Takedown
-		https://www.deviantart.com/merteren94/art/God-of-Darkness-921062021
+		https://www.deviantart.com/sehanmyid/art/Up-Ahead-1130668103
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-15 01:48:22
+	time_modified: 2026-02-27 22:38:21
 	name: UG09 DESIGNED
 	casting_cost: 2G
-	image: image326.png
+	image: image172.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -27,7 +27,7 @@ card:
 	flavor_text:
 		<i-flavor>ft<soft-line>
 		ft</soft-line></i-flavor>
-	illustrator: MertEren94
+	illustrator: Sehanmyid
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

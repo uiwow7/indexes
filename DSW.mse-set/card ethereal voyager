@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: RW01,Small Creature,1,,Progenitor Exarch
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-01-11 10:45:22
+	time_modified: 2026-03-02 19:08:06
 	name: Ethereal Voyager
 	casting_cost: W
 	image: image216.png
@@ -22,10 +22,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/U</sym>.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
-	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft<soft-line>
-		ft</soft-line></soft-line></i-flavor>
+	flavor_text: <i-flavor>The Arbiter’s search for The Terminus consumed all around it.</i-flavor>
 	power: 1
 	toughness: 1
 	illustrator: Ausp-ice 

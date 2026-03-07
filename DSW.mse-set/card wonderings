@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-08-06 11:46:37
-	time_modified: 2025-12-01 22:15:38
+	time_modified: 2026-03-05 11:08:00
 	name: Wonderings
 	casting_cost: I
 	image: image59.png
@@ -22,9 +22,7 @@ card:
 	rule_text:
 		Draw a card.
 		Look at the top three cards of your library, then put them back in any order. 
-	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft</soft-line></i-flavor>
+	flavor_text: <i-flavor>“Have you ever thought about why?”</i-flavor>
 	illustrator: Sylar113
 	card_code_text: 
 	card_code_text_2: 

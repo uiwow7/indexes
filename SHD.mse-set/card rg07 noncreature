@@ -1,0 +1,19 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: RG07,Noncreature,4,,Loading Zone
+	time_created: 2026-02-26 00:00:00
+	time_modified: 2026-02-26 00:00:00
+	name: RG07 Noncreature
+	casting_cost: 3G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	sub_type: 
+	rarity: rare
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

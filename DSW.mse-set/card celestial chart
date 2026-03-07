@@ -8,7 +8,7 @@ card:
 		this is a 3c set
 		so we need good fixing
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-24 09:53:42
+	time_modified: 2026-03-05 11:09:02
 	name: Celestial Chart
 	casting_cost: 2
 	image: image145.png
@@ -21,9 +21,7 @@ card:
 	rule_text:
 		When <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> enters, search your library for a basic land card, put it into your hand, then shuffle.
 		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Add one mana of any color.
-	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft</soft-line></i-flavor>
+	flavor_text: <i-flavor>The skies of <error-spelling:en_US>Dazon</error-spelling:en_US> shifted after <error-spelling:en_US>Najar</error-spelling:en_US> joined the amalgam.</i-flavor>
 	illustrator: Sabretooth2611
 	card_code_text: 
 	card_code_text_2: 

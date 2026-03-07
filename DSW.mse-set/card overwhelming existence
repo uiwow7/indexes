@@ -7,7 +7,7 @@ card:
 		CU21,Noncreature,4,,Tem poral Cleansing — removal
 		EHART
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-19 19:50:41
+	time_modified: 2026-02-27 22:48:48
 	name: Overwhelming Existence
 	casting_cost: 1UU
 	image: image38.png
@@ -27,7 +27,7 @@ card:
 		Choose one —
 		<li><bullet>• </bullet><kw-A><nospellcheck><key>Sanctify</key></nospellcheck> target spell.<atom-reminder-custom> <i-auto>(Put it into its owner’s sanctum.)</i-auto></atom-reminder-custom></kw-A>
 		</li><li><bullet>• </bullet>Tap target creature. Draw a card from your sanctum.</li>
-	flavor_text: <i-flavor>ft</i-flavor>
+	flavor_text: <i-flavor>The world is nothing compared to eternity.</i-flavor>
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

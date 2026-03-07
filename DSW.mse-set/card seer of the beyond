@@ -7,7 +7,7 @@ card:
 		CB06,Small Creature,4,,Consuming Aetherborn
 		https://www.deviantart.com/scottr5680/art/Reach-for-the-Light-844549097
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-19 19:51:57
+	time_modified: 2026-02-27 22:49:30
 	name: Seer of the Beyond
 	casting_cost: 3B
 	image: image298.png
@@ -25,8 +25,8 @@ card:
 	rarity: common
 	rule_text: Whenever an artifact or another enchantment you control enters, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym>.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft</soft-line></i-flavor>
+		<i-flavor>“They will come, they will destroy.”<soft-line>
+		—The Grand Oracles of <error-spelling:en_US>Drakol</soft-line></i-flavor></error-spelling:en_US>
 	power: 3
 	toughness: 3
 	illustrator: Scottr5680

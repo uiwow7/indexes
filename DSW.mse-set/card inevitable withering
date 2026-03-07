@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CB19,Noncreature,3,,Vanquish the Weak — removal
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-19 19:51:39
+	time_modified: 2026-03-03 21:39:05
 	name: Inevitable Withering
 	casting_cost: 2B
 	image: image67.png
@@ -25,9 +25,7 @@ card:
 		Choose one —
 		<li><bullet>• </bullet>Destroy target permanent with counters on it.
 		</li><li><bullet>• </bullet>Remove all counters from target permanent or player.</li>
-	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft</soft-line></i-flavor>
+	flavor_text: <i-flavor>The boundless carry out the will of the Terminus. Its will was destruction.</i-flavor>
 	illustrator: Leon Jaume
 	card_code_text: 
 	card_code_text_2: 

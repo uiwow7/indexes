@@ -7,9 +7,9 @@ card:
 		RM03,Medium Creature,3,flying flash WU WU WU ,Errant and Giada
 		https://www.deviantart.com/kpekep/art/Cosmic-conflict-463630275
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-17 22:18:31
+	time_modified: 2026-03-05 19:32:44
 	name: Bring Forth Calamity
-	casting_cost: BR
+	casting_cost: 1BR
 	image: image281.png
 	image_2: 
 	mainframe_image: 
@@ -24,12 +24,12 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Target opponent sacrifices a creature. <atom-cardname><nospellcheck>This spell</nospellcheck></atom-cardname> deals 2 damage to them.
+		Target opponent sacrifices a nontoken creature. <atom-cardname><nospellcheck>This spell</nospellcheck></atom-cardname> deals 3 damage to them.
 		<kw-A><nospellcheck><key>Realize <param-cost><sym-auto>3BR</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</i-auto></atom-reminder-custom></kw-A>
 		At the beginning of your upkeep, each opponent loses 1 life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
-	toughness: 3
+	toughness: 2
 	illustrator: KPEKEP
 	card_code_text: 
 	card_code_text_2: 

@@ -104,16 +104,16 @@ include_file: card traveler of lost planes
 include_file: card naroz path-traveler
 include_file: card extraplanar cleanser
 include_file: card najari pathwalker
-include_file: card fractured avatar
+include_file: card fractured soul
 include_file: card ruptured cetacean
 include_file: card avatar of the door
-include_file: card the arbiters wisp
+include_file: card wisp of the arbiter
 include_file: card kala reaper
 include_file: card ghost of beyas fallen
 include_file: card eternal keeper
 include_file: card eye of naroz
 include_file: card fly across peaceful skies
-include_file: card runebound prison
+include_file: card runebond prison
 include_file: card fuel endless storms
 include_file: card rise forever higher
 include_file: card starbeam
@@ -133,7 +133,7 @@ include_file: card eternal watcher
 include_file: card misrendering
 include_file: card splinter new worlds
 include_file: card grasp of the arbiter
-include_file: card walk within the skies
+include_file: card walk among the stars
 include_file: card rise from eternity
 include_file: card otherwordly sensation
 include_file: card witness fallen oracles
@@ -142,22 +142,22 @@ include_file: card amalgamate memories
 include_file: card overwhelming existence
 include_file: card the arbiters fallen
 include_file: card lightwoven ghast
-include_file: card recycled ikani
+include_file: card reborn of the void
 include_file: card infused warrior
 include_file: card depthslighter
 include_file: card seer of the beyond
 include_file: card najari shaper
 include_file: card doorwatcher
 include_file: card otherworldy starbringer
-include_file: card hollow
+include_file: card eye of the sword
 include_file: card vision from beyond
 include_file: card eternal wanderer
 include_file: card corrupted conviction
 include_file: card transcend mortality
 include_file: card drain spiritual realms
 include_file: card embrace eternity
-include_file: card trianglify
-include_file: card allocate memory
+include_file: card to dust
+include_file: card face unfettered judgement
 include_file: card inevitable withering
 include_file: card convergence of paths
 include_file: card freed from eternity
@@ -206,54 +206,54 @@ include_file: card devour earthly worlds
 include_file: card star chaser
 include_file: card clockwork effigy
 include_file: card eternal engine
-include_file: card ca04 noncreature
+include_file: card desolate radiance
 include_file: card celestial chart
 include_file: card monument to eternity
 include_file: card voiceless caller
 include_file: card herald of the beyond
 include_file: card mystery from beyond
-include_file: card mysterious xxx
+include_file: card collector of mysteries
 include_file: card skyborn whale
 include_file: card submit to eternity
 include_file: card protection of starlight
 include_file: card touch of the boundless
 include_file: card frozen in stone
 include_file: card spirit channeler
-include_file: card uu02 designed
+include_file: card void seeker
 include_file: card celestial magpie
-include_file: card uu04 designed
-include_file: card boundless xxxx
+include_file: card insight in the depths
+include_file: card boundless diviner
 include_file: card glimpse of eternity
 include_file: card dissolve into time
 include_file: card cosmic touch
 include_file: card glimpse of true colors
 include_file: card augur of the beyond
 include_file: card forewarning visitor
-include_file: card ub03 designed
-include_file: card ub04 designed
-include_file: card ub05 designed
-include_file: card ub07 blackhole
-include_file: card ub08 designed
+include_file: card hollow vessel
+include_file: card fate robber
+include_file: card fallen of najar
+include_file: card spatial rift
+include_file: card induced entropy
 include_file: card ominous moon
-include_file: card ub11 reart
-include_file: card ur01 designed
-include_file: card ur02 designed
-include_file: card ur04 designed
-include_file: card ur05 designed void
-include_file: card ur06 designed
-include_file: card ur09 designed
-include_file: card something of ruin
-include_file: card ur11 designed
-include_file: card ur12 designed
-include_file: card ug01 designed
+include_file: card forsake the light
+include_file: card flame of drakol
+include_file: card epoch lancer
+include_file: card approaching wingbeats
+include_file: card spine scion
+include_file: card calamity sentinel
+include_file: card flay to forever
+include_file: card winds of ruin
+include_file: card creations entropy
+include_file: card ego rupture
+include_file: card servant of the beyond
 include_file: card solemn lightbearer
-include_file: card ug04 toname
+include_file: card growth from demise
 include_file: card imposing stare
-include_file: card ug06 designed
-include_file: card ug07 designed
-include_file: card ug09 designed
+include_file: card imprint of aeons
+include_file: card prismheld lux
+include_file: card essence assault
 include_file: card dawns majesty
-include_file: card earthbound collision
+include_file: card earthbound  fracturing
 include_file: card ethereal voyager
 include_file: card dream dweller
 include_file: card demonheart overseer
@@ -266,7 +266,7 @@ include_file: card when the stars collide
 include_file: card rupture reality
 include_file: card boundless seeker
 include_file: card reflected familiar
-include_file: card cosmos augur
+include_file: card cosmic outsider
 include_file: card portent of stars
 include_file: card uncontrollable faltering
 include_file: card embodiment of stars
@@ -287,7 +287,7 @@ include_file: card observer of infernos
 include_file: card malignity from beyond
 include_file: card unchained unrest
 include_file: card interstellar phoenix
-include_file: card worldsinger
+include_file: card nari worldsinger
 include_file: card burn forgotten wishes
 include_file: card drakoli resistance
 include_file: card fallen star
@@ -316,7 +316,7 @@ include_file: card bounty of the cosmos
 include_file: card tainted ascension
 include_file: card bind unchained dreams
 include_file: card void exudation
-include_file: card servant of blood
+include_file: card nandir servant of blood
 include_file: card najari bridge-binder
 include_file: card eonbringer
 include_file: card voidborn cosmomancer
@@ -344,12 +344,12 @@ include_file: card offering to the stars
 include_file: card dedicated acolyte
 include_file: card barrier of storms
 include_file: card darkstar invader
-include_file: card forerunner of the collision
+include_file: card forerunner of the rupture
 include_file: card ethereal envoy
 include_file: card disciple of the celestial tree
 include_file: card thief of the boundless
-include_file: card ci11 medium creature
-include_file: card ci10 medium creature
+include_file: card wisp sorcerer
+include_file: card conniving cosmomancer
 include_file: card eternal warrior
 include_file: card skyshift
 include_file: card glimpse lost totality
@@ -360,15 +360,15 @@ include_file: card empty hollow eternity
 include_file: card starlights glimmer
 include_file: card vertex reminder
 include_file: card archetypesthemes
-include_file: card astral something
-include_file: card ui03 designed
-include_file: card ui04 designed
-include_file: card ui05 designed
-include_file: card ui06 designed
+include_file: card astral starcaller
+include_file: card watcher at the door
+include_file: card aurora reader
+include_file: card impetus of blood
+include_file: card nightfall enchanter
 include_file: card slice through stars
-include_file: card bring the collision
+include_file: card herald the rupture
 include_file: card gaze into eternity
-include_file: card consumption of the collision
+include_file: card destruction of the rupture
 include_file: card touch the void
 include_file: card wishes of the terminus
 include_file: card traitorous gaze
@@ -404,9 +404,9 @@ include_file: card conspicuous glimpse
 include_file: card warden of secrets
 include_file: card fallen of drakol
 include_file: card moonwater dancer
-include_file: card storm thing
+include_file: card embodiment of storms
 include_file: card the arbiters oathwatcher
-include_file: card iub noncreatures
+include_file: card augur of the stars
 include_file: card bloodbringer
 include_file: card terminus seeker
 include_file: card boundless oath
@@ -418,7 +418,7 @@ include_file: card reinvigorated song
 include_file: card ignite relinquished desires
 include_file: card vibrant genesis
 include_file: card darken the skies
-include_file: card mend lost memories
+include_file: card mend absent memories
 include_file: card cosmic expansion
 include_file: card plains
 include_file: card island

@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CB12,Large Creature,7,,Gloomfang Mauler
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-07-16 09:11:07
+	time_modified: 2026-03-02 19:05:06
 	name: Eternal Wanderer
 	casting_cost: 6B
 	image: image45.png
@@ -24,9 +24,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Depart <param-number>2</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your sanctum by exiling an Avatar permanent you control with power <param-number>2</param-number> or greater.)</i-auto></atom-reminder-custom></kw-A>
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft</soft-line></i-flavor>
+	flavor_text: <i-flavor>Some touched by The Terminus lost their desire to do anything, aimlessly wandering through space.</i-flavor>
 	power: 6
 	toughness: 6
 	illustrator: Andrzej Musial

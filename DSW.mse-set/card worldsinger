@@ -7,14 +7,14 @@ card:
 		RR05,Large Creature,7,,Etali, Primal Conqueror
 		https://www.deviantart.com/mihaelvisuals/art/Cosmic-Ruler-Yasuo-923906090
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-19 19:46:41
+	time_modified: 2026-03-03 21:34:20
 	name: Worldsinger
 	casting_cost: 2RR
 	image: image330.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>

@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CW05,Small Creature,4,,Knight Luminary
+	time_created: 2026-02-26 00:00:00
+	time_modified: 2026-03-04 09:23:07
+	name: CW05 Small Creature
+	casting_cost: 3W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	rarity: common
+	rule_text:
+		<kw-A><nospellcheck><key>Sacralize</key></nospellcheck><atom-reminder-custom> <i-auto>(When this creature deals combat damage to a player, you may sacrifice it.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever another creature you control leaves the battlefield, put a +1/+1 counter on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, put its counters on target creature you control.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

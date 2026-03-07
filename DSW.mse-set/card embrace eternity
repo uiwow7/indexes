@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CB16,Noncreature,2,,Traumatic Revelation — thoughtseize
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-07-16 09:55:20
+	time_modified: 2026-03-03 21:39:49
 	name: Embrace Eternity
 	casting_cost: 1B
 	image: image56.png
@@ -22,10 +22,7 @@ card:
 	sub_type_4: 
 	rarity: common
 	rule_text: Target player reveals their hand. You choose a nonland card from it. <kw-A><nospellcheck><key>Sanctify</key></nospellcheck> that card.<atom-reminder-custom> <i-auto>(Put it into its owner’s sanctum.)</i-auto></atom-reminder-custom></kw-A>
-	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft<soft-line>
-		ft</soft-line></soft-line></i-flavor>
+	flavor_text: <i-flavor>Many who heard The <error-spelling:en_US>Terminus’</error-spelling:en_US> message rejected it, returning back to their lives. The brave few who continued onward became the first <error-spelling:en_US>Anima</error-spelling:en_US>.</i-flavor>
 	illustrator: Max Hay
 	card_code_text: 
 	card_code_text_2: 

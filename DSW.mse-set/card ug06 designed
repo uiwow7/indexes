@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: UG06,Medium Creature,4,,Gnottvold Hermit
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-22 09:25:43
+	time_modified: 2026-02-26 18:32:13
 	name: UG06 DESIGNED
 	casting_cost: 2G
 	image: image171.png
@@ -27,7 +27,7 @@ card:
 		ft<soft-line>
 		ft</soft-line></soft-line></i-flavor>
 	power: 2
-	toughness: 1
+	toughness: 2
 	illustrator: Wolfestorm
 	card_code_text: 
 	card_code_text_2: 

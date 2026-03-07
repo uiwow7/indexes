@@ -5,8 +5,8 @@ card:
 		MM03,Medium Creature,4,WBG WBG WBG ,Thalia and The Gitrog Monster
 		https://www.deviantart.com/jocarra/art/Commission-Cosmic-Dragon-722582621
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-17 21:12:30
-	card_trim: adventure normal, adventure reversed
+	time_modified: 2026-03-03 21:35:21
+	card_trim: legend, adventure normal, adventure reversed
 	name: Primordial Passion
 	name_2: Rage
 	casting_cost: 3IR
@@ -15,7 +15,7 @@ card:
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
 	super_type_2: <word-list-type-en>Vertex Enchantment</word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
