@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CG11,Medium Creature,5,,Wildwood Escort
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-08-26 01:16:46
+	time_modified: 2026-03-17 14:55:48
 	name: Nebula Titan
 	casting_cost: 4G
 	image: image95.png
@@ -22,9 +22,7 @@ card:
 	sub_type_4: 
 	rarity: common
 	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, put a +1/+1 counter on each other creature you control.
-	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft</soft-line></i-flavor>
+	flavor_text: <i-flavor>The rupture caused the stars to leak into creatures as well as the land.</i-flavor>
 	power: 3
 	toughness: 3
 	illustrator: Fredrick Runtu

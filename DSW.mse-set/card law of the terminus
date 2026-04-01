@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: MW02,Small Creature,4,flying ,Archangel Elspeth
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-01-15 09:47:03
+	time_modified: 2026-03-31 20:37:55
 	name: Law of the Terminus
 	casting_cost: 1WWW
 	image: image237.png
@@ -23,7 +23,7 @@ card:
 	rarity: mythic rare
 	rule_text: Whenever another nontoken creature you control with mana value 3 or less enters, you may sacrifice it. If you do, create a token that’s a copy of it.
 	flavor_text: <i-flavor></i-flavor>
-	level_1_text: <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Pathbound</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+	level_1_text: 
 	power: 4
 	toughness: 3
 	illustrator: Ondieony

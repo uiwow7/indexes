@@ -39,7 +39,7 @@ styling:
 include_file: card cw01 small creature
 include_file: card cw02 small creature
 include_file: card cw03 small creature
-include_file: card cw04 small creature
+include_file: card honors fallen
 include_file: card cw05 small creature
 include_file: card cw06 small creature
 include_file: card cw07 small creature
@@ -47,7 +47,7 @@ include_file: card cw08 medium creature
 include_file: card cw09 medium creature
 include_file: card cw10 medium creature
 include_file: card fate smother
-include_file: card cw12 combat trick
+include_file: card reach for divinity
 include_file: card cw13 banishing light
 include_file: card cw14 aura
 include_file: card cw15 removal
@@ -66,21 +66,21 @@ include_file: card cu12 noncreature
 include_file: card cu13 noncreature
 include_file: card cu14 noncreature
 include_file: card cu15 noncreature
-include_file: card cb01 small creature
-include_file: card cb02 small creature
-include_file: card cb03 small creature
-include_file: card cb04 small creature
-include_file: card cb05 small creature
-include_file: card cb06 medium creature
-include_file: card cb07 medium creature
-include_file: card cb08 medium creature
-include_file: card cb09 large creature
+include_file: card cb01 selfmill
+include_file: card cb02 aristocrats
+include_file: card cb03 selfmill
+include_file: card cb04 see  end
+include_file: card cb05 horros  aristos
+include_file: card cb06 horrors
+include_file: card cb07 unearth
+include_file: card cb08 selfmill
+include_file: card cb09 delveguy  aristocrats
 include_file: card cb10 noncreature
 include_file: card cb11 noncreature
 include_file: card cb12 noncreature
 include_file: card cb13 noncreature
-include_file: card cb14 noncreature
-include_file: card cb15 noncreature
+include_file: card cb14 delve
+include_file: card cb15 delve
 include_file: card cr01 small creature
 include_file: card cr02 small creature
 include_file: card cr03 small creature
@@ -313,6 +313,9 @@ include_file: card um09 medium creature.1
 include_file: card um10 medium creature.1
 include_file: card depths soulthief
 include_file: card um08 medium creature.1
+include_file: card big dragon
+include_file: card fireface
+include_file: card fire-elk
 keyword:
 	keyword: Augury
 	match: Augury

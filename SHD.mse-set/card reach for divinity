@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes:
+		CW12,Noncreature,1,flash ,Squire's Lightblade
+		https://www.deviantart.com/nov9m18/art/DAWN-1310265638
+	time_created: 2026-02-26 00:00:00
+	time_modified: 2026-03-17 17:13:53
+	name: Reach for Divinity
+	casting_cost: W
+	image: image31.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		Target creature you control gets +2/+1 until end of turn.
+		<kw-A><nospellcheck><key>Revere</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Put a Celestial card you own from outside the game into your hand or graveyard. If a card wasn’t put into your hand, create a Clue token.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Nov9m18
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

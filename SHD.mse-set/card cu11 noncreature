@@ -7,15 +7,26 @@ card:
 		CU11,Noncreature,2,,Cryogen Relic
 		Artifact//stun//cantrip
 	time_created: 2026-02-26 00:00:00
-	time_modified: 2026-02-28 22:29:25
+	time_modified: 2026-03-11 12:46:54
 	name: CU11 Noncreature
 	casting_cost: 1U
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	sub_type: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: common
+	rule_text:
+		When <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> enters, look at the top card of your library. You may exile it. Draw a card.
+		<sym-auto>1U</sym-auto>, Sacrifice <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>: Return target creature to its owner’s hand.
+	flavor_text: <i-flavor></i-flavor>
 	illustrator: 
 	card_code_text: 
 	card_code_text_2: 

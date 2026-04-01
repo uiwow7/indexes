@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: RW06,Medium Creature,5,flying ,Boon-Bringer Valkyrie
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-03-05 19:34:25
+	time_modified: 2026-03-31 20:00:48
 	name: Shrouded Subjugator
 	casting_cost: 2W
 	image: image247.png
@@ -23,7 +23,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, put a  +1/+1 counter on this creature if it has none.)</i-auto></atom-reminder-custom></kw-A>
-		Whenever one or more counters are put on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>, put a +1/+1 counter on each other creature you control not named Shrouded <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Subjugator</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+		Once each turn, when one or more counters are put on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>, you may put a +1/+1 counter on each other creature you control not named Shrouded <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Subjugator</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2

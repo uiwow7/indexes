@@ -7,7 +7,7 @@ card:
 		UG09,Noncreature,3,,Tandem Takedown
 		https://www.deviantart.com/sehanmyid/art/Up-Ahead-1130668103
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-03-03 21:32:59
+	time_modified: 2026-03-24 10:29:25
 	name: Essence Assault
 	casting_cost: 2G
 	image: image172.png
@@ -24,7 +24,7 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text: Put two +1/+1 counters on target creature you control. When you do, it fights target creature you don’t control.
-	flavor_text: <i-flavor>“You don’t </i-flavor>
+	flavor_text: <i-flavor></i-flavor>
 	illustrator: Sehanmyid
 	card_code_text: 
 	card_code_text_2: 

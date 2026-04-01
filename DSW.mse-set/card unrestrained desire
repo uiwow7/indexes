@@ -7,9 +7,9 @@ card:
 		RM04,Medium Creature,4,GU GU GU ,Inga and Esika
 		https://www.deviantart.com/weirdybones/art/Hope-955395408
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-19 17:29:17
+	time_modified: 2026-03-10 20:56:44
 	name: Unrestrained Desire
-	casting_cost: RG
+	casting_cost: 1RG
 	image: image53.png
 	image_2: 
 	mainframe_image: 
@@ -23,7 +23,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: Whenever another creature you control with power 2 or less enters, exile the top card of your library. You may play it during your next turn.
+	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, look at the top four cards of your library. You may reveal a creature card with mana value 2 or less from among them and put it under the battlefield under your control.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

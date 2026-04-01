@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CW21,Noncreature,4,,Inspired Charge — board buff
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-08-25 16:15:31
+	time_modified: 2026-03-22 14:38:47
 	name: Chromatic Splinters
 	casting_cost: 3W
 	image: image25.png
@@ -24,11 +24,7 @@ card:
 	rule_text:
 		Creatures you control get +1/+1.
 		Avatars you control have <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
-	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft<soft-line>
-		ft<soft-line>
-		ft</soft-line></soft-line></soft-line></i-flavor>
+	flavor_text: <i-flavor>“The sky split into colors. Beautiful shards, waiting to fall down and cause calamity to us all.”</i-flavor>
 	illustrator: Matteo Marjoram
 	card_code_text: 
 	card_code_text_2: 

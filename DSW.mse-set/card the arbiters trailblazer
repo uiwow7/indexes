@@ -7,7 +7,7 @@ card:
 		MG02,Noncreature,3,,Wrenn and Realmbreaker
 		https://www.deviantart.com/temmaru/art/ASTEL-NATURALBORN-OF-THE-VOID-1251021937
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-17 21:09:29
+	time_modified: 2026-03-31 20:16:02
 	name: The Arbiter’s Trailblazer
 	casting_cost: 3G
 	image: image331.png
@@ -25,7 +25,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, put a  +1/+1 counter on this creature if it has none.)</i-auto></atom-reminder-custom></kw-A>
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> becomes infused, creatures you control get +2/+2 and gain <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> becomes infused, creatures you control get +3/+3 and gain <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

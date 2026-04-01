@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: RW02,Small Creature,2,,Dusk Legion Duelist
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-17 21:14:01
+	time_modified: 2026-03-09 13:03:25
 	name: Dream Dweller
 	casting_cost: 1W
 	image: image234.png
@@ -24,7 +24,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, put a  +1/+1 counter on this creature if it has none.)</i-auto></atom-reminder-custom></kw-A>
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, return target permanent you control to its owner’s hand.</atom-cardname><atom-name>
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>you get</key></nospellcheck> an amount of <sym>V</sym> equal to the number of creatures that have attacked this turn.</atom-cardname><atom-name><atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

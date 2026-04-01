@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: UU01,Small Creature,1,,Captive Weird
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-26 13:37:37
+	time_modified: 2026-03-20 11:00:59
 	name: Astral Starcaller
 	casting_cost: I
 	image: image203.png
@@ -25,10 +25,7 @@ card:
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 
-	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft<soft-line>
-		ft</soft-line></soft-line></i-flavor>
+	flavor_text: <i-flavor>Many creatures saw the fallen stars as the answers to their situation.</i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	flavor_text_4: <i-flavor></i-flavor>

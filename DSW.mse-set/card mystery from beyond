@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: UW04,Small Creature,3,,Seedpod Caretaker
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-24 13:35:52
+	time_modified: 2026-03-17 15:07:40
 	name: Mystery from Beyond
 	casting_cost: 2W
 	image: image182.png
@@ -25,10 +25,7 @@ card:
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 
-	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft<soft-line>
-		ft</soft-line></soft-line></i-flavor>
+	flavor_text: <i-flavor>Not all the horrors that entered <error-spelling:en_US>Dazon</error-spelling:en_US> sought to kill.</i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	flavor_text_4: <i-flavor></i-flavor>

@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CW06,Small Creature,3,,Sigiled Sentinel
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-03-03 21:31:49
+	time_modified: 2026-03-15 11:01:02
 	name: Forerunner of the Rupture
 	casting_cost: 2I
 	image: image106.png
@@ -24,10 +24,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
 		<sym-auto>T</sym-auto>: Untap another target permanent you control.
-	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft<soft-line>
-		ft</soft-line></soft-line></i-flavor>
+	flavor_text: <i-flavor>Some saw the rupture coming before others.</i-flavor>
 	power: 1
 	toughness: 4
 	illustrator: DaiSanVisArt

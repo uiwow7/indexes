@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CW15,Noncreature,2,,Angelic Intervention
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-12-01 22:01:38
+	time_modified: 2026-03-17 15:06:49
 	name: Glimpse Lost Totality
 	casting_cost: 1I
 	image: image161.png
@@ -24,9 +24,7 @@ card:
 	rule_text:
 		You draw a card and gain 3 life.
 		<kw-A><nospellcheck><key>Realize <param-cost><sym-auto>5II</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</i-auto></atom-reminder-custom></kw-A>
-	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft</soft-line></i-flavor>
+	flavor_text: <i-flavor>The rupture caused much of <error-spelling:en_US>Dazon</error-spelling:en_US> to become a shell of its former self.</i-flavor>
 	power: 4
 	toughness: 4
 	illustrator: Sylvia Ritter

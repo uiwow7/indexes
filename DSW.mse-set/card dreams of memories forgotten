@@ -7,7 +7,7 @@ card:
 		RR09,Noncreature,4,,Invasion of Karsus
 		https://www.deviantart.com/tomtc/art/Valley-of-forgotten-Lovers-801659424
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-17 21:22:03
+	time_modified: 2026-03-31 20:15:35
 	name: Dreams of Memories Forgotten
 	casting_cost: 2R
 	image: image333.png
@@ -23,7 +23,9 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: Once during each of your turns, you may cast a permanent spell with mana value less than or equal to the number of creatures that have died this turn from your graveyard. It enters with a <kw-a><nospellcheck><key>finality counter</key></nospellcheck></kw-a>.
+	rule_text:
+		Whenever a creature you control attacks, exile the top card of your library.
+		You may play cards exiled with <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> as long as a source you control has dealt noncombat damage to an opponent this turn.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: TomTC
 	card_code_text: 

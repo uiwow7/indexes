@@ -7,7 +7,7 @@ card:
 		CU13,Noncreature,2,,Mental Modulation
 		tap//tempremoval
 	time_created: 2026-02-26 00:00:00
-	time_modified: 2026-03-05 11:39:02
+	time_modified: 2026-03-11 12:42:13
 	name: CU13 Noncreature
 	casting_cost: 1U
 	image: 

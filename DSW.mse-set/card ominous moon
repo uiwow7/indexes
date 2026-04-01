@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: UB10,Noncreature,3,,Render Inert
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-22 09:15:59
+	time_modified: 2026-03-09 12:46:26
 	name: Ominous Moon
 	casting_cost: 2B
 	image: image193.png
@@ -23,7 +23,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, create two 1/1 black Spirit creature tokens with <kw-A><nospellcheck><key>decayed</key></nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
-		Whenever a creature you control dies, <kw-A><nospellcheck><key>sift <param-number>1</param-number></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at the top card of your library. You may put it into your sanctum.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever a creature you control dies, each opponent loses 1 life.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 

@@ -3,8 +3,7 @@ card:
 	has_styling: false
 	notes: MW03,Medium Creature,4,,Elesh Norn
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-01-12 18:20:15
-	card_trim: adventure normal, adventure reversed
+	time_modified: 2026-03-09 12:58:26
 	card_color_2: white
 	name: Boundless Unifier
 	name_2: Unity
@@ -23,7 +22,10 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: mythic rare
-	rule_text: Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters or attacks, you may cast a copy of its vertex sorcery without paying its costs.
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, untap each creature you control.
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, put a +1/+1 counter on each creature you control.
 	rule_text_2:
 		<i-auto>(You can cast copies of this while in play)</i-auto>
 		Put a +1/+1 counter on each creature you control.

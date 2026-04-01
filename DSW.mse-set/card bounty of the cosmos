@@ -7,7 +7,7 @@ card:
 		RM10,Large Creature,5,RW RW RW ,Djeru and Hazoret
 		https://www.deviantart.com/pixamight/art/Day55-1291106971
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-22 09:15:24
+	time_modified: 2026-03-31 20:37:30
 	name: Bounty of the Cosmos
 	casting_cost: 1GU
 	image: image289.png
@@ -26,7 +26,7 @@ card:
 	rule_text:
 		You gain 2 life and choose one —
 		<li><bullet>• </bullet><kw-A><nospellcheck><key>Sift <param-number>1</param-number></key></nospellcheck>, then draw a card. You may play an additional land this turn.<atom-reminder-custom> <i-auto>(To sift <param-number>1</param-number>, look at the top card of your library. You may put it into your sanctum.)</i-auto></atom-reminder-custom></kw-A>
-		</li><li><bullet>• </bullet>Create an 0/0 colorless Fractal creature token. Put X +1/+1 counters on it, where X is the number of lands you control.</li>
+		</li><li><bullet>• </bullet>Create an 0/0 colorless Fractal Horror creature token. Put X +1/+1 counters on it, where X is the number of lands you control.</li>
 	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 

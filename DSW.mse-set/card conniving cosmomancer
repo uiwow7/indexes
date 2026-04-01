@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CW12,Medium Creature,5,flying ,Golden-Scale Aeronaut
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-03-02 18:41:36
+	time_modified: 2026-03-17 15:03:21
 	name: Conniving Cosmomancer
 	casting_cost: 3II
 	image: image157.png
@@ -24,7 +24,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, up to one target creature gets +2/-2 until end of turn.
-	flavor_text: <i-flavor>ft</i-flavor>
+	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2
 	illustrator: Tron30

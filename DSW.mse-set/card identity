@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: RU10,Noncreature,6,flash ,Complete the Circuit
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-01-19 10:21:37
+	time_modified: 2026-03-31 20:06:51
 	name: Identity
 	casting_cost: III
 	image: image259.png
@@ -22,7 +22,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Whenever a creature you control deals combat damage to a player, reveal a card from your sanctum with mana value less than or equal to the damage dealt and put it into your hand.
+		Whenever one or more creatures you control deal combat damage to a player, you may cast a card from your sanctum with mana value less than or equal to the amount of damage dealt without paying its mana cost.
 		Whenever you cast a silver spell, <kw-0><nospellcheck><key>sift <param-number>1</param-number></key></nospellcheck></kw-0>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Ausp-ice

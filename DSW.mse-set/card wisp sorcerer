@@ -8,7 +8,7 @@ card:
 		
 		FIND ORIGINAL ART
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-03-02 18:44:00
+	time_modified: 2026-03-17 15:01:41
 	name: Wisp Sorcerer
 	casting_cost: 4I
 	image: image149.png
@@ -19,15 +19,13 @@ card:
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Sorcerer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
 	rarity: common
 	rule_text: <kw-A><nospellcheck><key>Ward—<param-cost><sym-auto>1</sym-auto>, Pay 3 life</param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays <param-cost><sym-auto>1</sym-auto> and pays 3 life</param-cost>.)</i-auto></atom-reminder-expert></kw-A>
-	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft</soft-line></i-flavor>
+	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 5
 	illustrator: Anato Finnstark

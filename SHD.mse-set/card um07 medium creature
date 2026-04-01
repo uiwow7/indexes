@@ -7,7 +7,7 @@ card:
 		UM07,Medium Creature,3,RG ,Tannuk, Memorial Ensign
 		https://www.deviantart.com/flammvaffy/art/Uncorrupted-1305532294
 	time_created: 2026-02-26 00:00:00
-	time_modified: 2026-03-04 11:02:27
+	time_modified: 2026-03-17 16:59:37
 	name: UM07 Medium Creature
 	casting_cost: 2RG
 	image: image9.png
@@ -24,7 +24,7 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, destroy up to one target artifact or enchantment.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, another target creature you control gets +2/+0 and gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
 		<kw-A><nospellcheck><key>Warp <param-cost><sym-auto>RG</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3

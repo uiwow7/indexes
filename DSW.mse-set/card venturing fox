@@ -7,7 +7,7 @@ card:
 		CG01,Small Creature,1,,Placid Rottentail
 		EHART
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-08-08 17:13:04
+	time_modified: 2026-03-17 14:55:25
 	name: Venturing Fox
 	casting_cost: G
 	image: image88.png
@@ -24,10 +24,7 @@ card:
 	sub_type_4: 
 	rarity: common
 	rule_text: Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, if at least two other creatures are attacking, put a +1/+1 counter on it.
-	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft<soft-line>
-		ft</soft-line></soft-line></i-flavor>
+	flavor_text: <i-flavor>Many different varieties of creatures inhabit the forests of <error-spelling:en_US>Voro</error-spelling:en_US>.</i-flavor>
 	power: 1
 	toughness: 1
 	illustrator: Clockbirds

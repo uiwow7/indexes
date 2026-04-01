@@ -3,13 +3,15 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: CA03,Large Creature,6,,Phyrexian Archivist
+	notes:
+		CA03,Large Creature,6,,Phyrexian Archivist
+		https://www.deviantart.com/ausp-ice/art/Edeia-Melanoheliophobia-Notion-1275482094
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-07-09 18:48:52
+	time_modified: 2026-03-10 21:06:22
 	card_color_2: colorless
 	name: Eternal Engine
 	casting_cost: 6
-	image: image48.png
+	image: image339.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -28,7 +30,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4
-	illustrator: Terence CANTAL
+	illustrator: Ausp-ice
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

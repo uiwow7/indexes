@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: UU01,Small Creature,1,,Captive Weird
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-01-11 01:40:48
+	time_modified: 2026-03-22 14:34:31
 	name: Spirit Channeler
 	casting_cost: U
 	image: image174.png
@@ -22,10 +22,7 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text: <kw-1><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-core> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-core></kw-1>
-	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft<soft-line>
-		ft</soft-line></soft-line></i-flavor>
+	flavor_text: <i-flavor>The Boundless may allow others to control them.</i-flavor>
 	power: 1
 	toughness: 1
 	illustrator: Heathen1738

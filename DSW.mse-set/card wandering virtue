@@ -11,7 +11,7 @@ card:
 		CW01,Small Creature,1,,Enduring Bondwarden
 		https://www.deviantart.com/miguelfirewolf/art/Alba-Mico-869213526
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-27 22:45:59
+	time_modified: 2026-03-24 10:36:25
 	name: Wandering Virtue
 	alias: 
 	casting_cost: W
@@ -31,7 +31,7 @@ card:
 	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> or another Avatar you control enters, you gain 1 life.
 	flavor_text:
 		<i-flavor>“Fear The Terminus, for it seeks to destroy reality. <soft-line>Fear The Arbiter, for it seeks to control reality”<soft-line>
-		—SOMEONE</soft-line></soft-line></i-flavor>
+		—<error-spelling:en_US>Trena</error-spelling:en_US>, Architect of Gods</soft-line></soft-line></i-flavor>
 	power: 1
 	toughness: 1
 	illustrator: MiguelFirewolf

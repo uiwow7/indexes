@@ -3,12 +3,14 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: CU05,Medium Creature,2,,Expedition Lookout
+	notes:
+		CU05,Medium Creature,2,,Expedition Lookout
+		https://www.deviantart.com/muwrichan/art/Glow-squid-1309040578
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-08-25 16:17:49
+	time_modified: 2026-03-13 13:50:16
 	name: Ikan Lookout
 	casting_cost: 2U
-	image: image27.png
+	image: image244.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -16,7 +18,7 @@ card:
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type: <word-list-race-en>Horror</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
@@ -27,7 +29,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 2
-	illustrator: G
+	illustrator: Muwrichan
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

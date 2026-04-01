@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CR03,Small Creature,2,,Ral's Reinforcements
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-15 16:09:40
+	time_modified: 2026-03-31 20:35:48
 	name: Extraplanar Existence
 	casting_cost: 1R
 	image: image75.png
@@ -23,7 +23,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, put a  +1/+1 counter on this creature if it has none.)</i-auto></atom-reminder-custom></kw-A>
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> becomes infused, create a tapped <kw-1><nospellcheck><key>treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> becomes infused, create a tapped <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

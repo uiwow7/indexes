@@ -19,7 +19,7 @@ card:
 		well
 		itll be full of basics
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-01-11 01:43:25
+	time_modified: 2026-03-22 14:36:01
 	name: Glimpse of True Colors
 	casting_cost: 4U
 	image: image129.png
@@ -37,12 +37,8 @@ card:
 	rarity: uncommon
 	rule_text: You may play cards from your sanctum.
 	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft<soft-line>
-		ft<soft-line>
-		ft<soft-line>
-		ft<soft-line>
-		ft</soft-line></soft-line></soft-line></soft-line></soft-line></i-flavor>
+		<i-flavor>“After <error-spelling:en_US>recieving</error-spelling:en_US> the gift, I understand it now. I can see the worlds floating among space, I can see all of the details that were invisible before. The Terminus has granted this to me.”<soft-line>
+		—The First Eternal</soft-line></i-flavor>
 	illustrator: COOLZONE17500
 	card_code_text: 
 	card_code_text_2: 

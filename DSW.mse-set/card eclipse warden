@@ -5,9 +5,9 @@ card:
 	has_styling: false
 	notes: RB04,Medium Creature,4,,Terror of Towashi
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-01-11 02:02:54
+	time_modified: 2026-03-09 12:41:14
 	name: Eclipse Warden
-	casting_cost: 2BB
+	casting_cost: 1BB
 	image: image151.png
 	image_2: 
 	mainframe_image: 
@@ -23,7 +23,7 @@ card:
 	rarity: rare
 	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym> for each creature card in your graveyard.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
-	power: 1
+	power: 2
 	toughness: 1
 	illustrator: MorkarDFC
 	card_code_text: 

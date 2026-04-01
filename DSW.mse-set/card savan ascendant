@@ -5,9 +5,9 @@ card:
 	has_styling: false
 	notes: CR01,Small Creature,1,,Akki Scrapchomper
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-03-05 11:27:34
+	time_modified: 2026-03-31 20:35:31
 	name: Savan Ascendant
-	casting_cost: R
+	casting_cost: 1R
 	image: image69.png
 	image_2: 
 	mainframe_image: 
@@ -21,9 +21,9 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: common
-	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, create a 1/1 red Avatar creature token.
+	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, create a 1/1 silver Avatar creature token.
 	flavor_text: <i-flavor>“They say that those who find The Terminus unlock grand truths that we will never know. I wish to join them.”</i-flavor>
-	power: 0
+	power: 1
 	toughness: 1
 	illustrator: Daniel Ignacio
 	card_code_text: 

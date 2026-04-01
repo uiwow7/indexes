@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CU05,Medium Creature,3,,Sinister Cryologist
 	time_created: 2026-02-26 00:00:00
-	time_modified: 2026-02-26 00:00:00
+	time_modified: 2026-03-09 13:12:18
 	name: CU05 Medium Creature
 	casting_cost: 2U
 	image: 
@@ -15,6 +15,10 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en></word-list-race-en>
 	rarity: common
+	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, then return up to one noncreature card milled this way to your hand.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

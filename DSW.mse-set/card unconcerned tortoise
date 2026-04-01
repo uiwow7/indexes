@@ -7,7 +7,7 @@ card:
 		CG12,Large Creature,5,,Bonded Herdbeast
 		EHART
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-03-05 11:17:00
+	time_modified: 2026-03-27 19:59:13
 	name: Unconcerned Tortoise
 	casting_cost: 5G
 	image: image89.png
@@ -27,6 +27,7 @@ card:
 	flavor_text: <i-flavor>Many who heard the call of The Terminus chose to ignore it.</i-flavor>
 	power: 3
 	toughness: 6
+	illustrator: Madeleine Bellwoar
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

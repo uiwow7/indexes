@@ -3,12 +3,14 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: CG13,Large Creature,6,,Timberland Ancient
+	notes:
+		CG13,Large Creature,6,,Timberland Ancient
+		https://www.deviantart.com/scenesbycolleen/art/River-Dryad-1287913034
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-19 19:52:46
+	time_modified: 2026-03-10 20:59:27
 	name: Eternal Blossoming
 	casting_cost: 5G
-	image: image50.png
+	image: image326.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -16,7 +18,7 @@ card:
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Treefolk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Anima</word-list-class-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type: <word-list-race-en>Dryad</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Anima</word-list-class-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
@@ -27,7 +29,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 4
-	illustrator: Matias Tapia
+	illustrator: scenesbycolleen
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

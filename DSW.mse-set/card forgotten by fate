@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes:
+		CB04,Small Creature,2,,Nezumi Informant
+		EHART
+		https://www.deviantart.com/jess-madhouse/art/Tree-Island-1299095710
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2026-03-13 13:44:00
+	name: Forgotten by Fate
+	casting_cost: 1B
+	image: image48.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, put a  +1/+1 counter on this creature if it has none.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever you put one or more counters on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>, each opponent lose 1 life.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Jess-madhouse
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

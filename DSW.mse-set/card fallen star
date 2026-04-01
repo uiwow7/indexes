@@ -7,7 +7,7 @@ card:
 		RR08,Noncreature,4,,Invasion of Kaldheim
 		https://www.deviantart.com/chaosfissure/art/Fallen-Star-725354401
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-27 22:40:37
+	time_modified: 2026-03-10 21:09:45
 	name: Fallen Star
 	casting_cost: 2R
 	image: image302.png
@@ -25,7 +25,7 @@ card:
 	rarity: rare
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>CC</sym-auto>. You can’t spend this mana to cast a permanent spell.
-		<kw-A><nospellcheck><key>Exhaust — <param-cost><sym-auto>XXR</sym-auto></param-cost>: <param-action><atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> deals X damage to any target</param-action>.</key></nospellcheck><atom-reminder-expert> <i-auto>(Activate each exhaust ability only once.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Exhaust — <param-cost><sym-auto>XXR</sym-auto></param-cost>: <param-action>Put a +1/+1 counter on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>. It deals X damage to any target</param-action>.</key></nospellcheck><atom-reminder-expert> <i-auto>(Activate each exhaust ability only once.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2

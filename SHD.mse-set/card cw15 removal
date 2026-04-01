@@ -3,12 +3,14 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: CW15,Noncreature,4,,Radiant Strike
+	notes:
+		CW15,Noncreature,4,,Radiant Strike
+		https://www.deviantart.com/lej-ah/art/Nocturnal-Butterfly-1303469591
 	time_created: 2026-02-26 00:00:00
-	time_modified: 2026-03-04 10:49:15
+	time_modified: 2026-03-12 19:33:41
 	name: CW15 Removal
 	casting_cost: 3W
-	image: 
+	image: image11.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -23,8 +25,9 @@ card:
 	rarity: common
 	rule_text:
 		Exile target tapped creature.
-		<kw-A><nospellcheck><key>Revere</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Put a Celestial card you own from outside the game into your hand or graveyard. If a card wasn’t put into your hand, create a Clue token.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Revere</key></nospellcheck><atom-reminder-custom> <i-auto>(Put a Celestial card you own from outside the game into your hand or graveyard. If a card wasn’t put into your hand, create a Clue token.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
+	illustrator: Lej-Ah
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

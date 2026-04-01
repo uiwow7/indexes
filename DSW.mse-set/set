@@ -76,6 +76,7 @@ styling:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-mainframe-tokens:
+		frames: M20
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-paradox:
@@ -123,14 +124,14 @@ include_file: card warden of the celestial tree
 include_file: card icefall soothsayer
 include_file: card najari ascendant
 include_file: card extraplanar seeker
-include_file: card ikan lookout
+include_file: card persistent figment
 include_file: card najari pathshaper
 include_file: card cosmic aven
 include_file: card stillwater sentry
 include_file: card najari companion
 include_file: card astral navigator
 include_file: card eternal watcher
-include_file: card misrendering
+include_file: card cosmic gap
 include_file: card splinter new worlds
 include_file: card grasp of the arbiter
 include_file: card walk among the stars
@@ -143,7 +144,7 @@ include_file: card overwhelming existence
 include_file: card the arbiters fallen
 include_file: card lightwoven ghast
 include_file: card reborn of the void
-include_file: card infused warrior
+include_file: card forgotten by fate
 include_file: card depthslighter
 include_file: card seer of the beyond
 include_file: card najari shaper
@@ -167,12 +168,12 @@ include_file: card extraplanar existence
 include_file: card kalan processor
 include_file: card cosmos caller
 include_file: card rage from beyond
-include_file: card ikan explorer
+include_file: card savan bloodthirster
 include_file: card stormborn flamebringer
 include_file: card yuku dune-prowler
 include_file: card the arbiters pathlighter
 include_file: card kara mountain guardian
-include_file: card eternal flamebearer
+include_file: card eternal passion
 include_file: card perpetual ricochet
 include_file: card render worlds
 include_file: card shatter eternity
@@ -187,7 +188,7 @@ include_file: card dreamborn uncoverer
 include_file: card celestial envoy
 include_file: card ghostly wanderer
 include_file: card arisen avatar
-include_file: card beya woodswalker
+include_file: card voro woodswalker
 include_file: card thickets incarnation
 include_file: card deepgrowth critter
 include_file: card resolute herald
@@ -225,7 +226,7 @@ include_file: card insight in the depths
 include_file: card boundless diviner
 include_file: card glimpse of eternity
 include_file: card dissolve into time
-include_file: card cosmic touch
+include_file: card touch of the terminus
 include_file: card glimpse of true colors
 include_file: card augur of the beyond
 include_file: card forewarning visitor
@@ -243,7 +244,7 @@ include_file: card spine scion
 include_file: card calamity sentinel
 include_file: card flay to forever
 include_file: card winds of ruin
-include_file: card creations entropy
+include_file: card entropy of creation
 include_file: card ego rupture
 include_file: card servant of the beyond
 include_file: card solemn lightbearer
@@ -253,7 +254,7 @@ include_file: card imprint of aeons
 include_file: card prismheld lux
 include_file: card essence assault
 include_file: card dawns majesty
-include_file: card earthbound  fracturing
+include_file: card earthbound fracturing
 include_file: card ethereal voyager
 include_file: card dream dweller
 include_file: card demonheart overseer
@@ -367,7 +368,7 @@ include_file: card impetus of blood
 include_file: card nightfall enchanter
 include_file: card slice through stars
 include_file: card herald the rupture
-include_file: card gaze into eternity
+include_file: card gaze into void
 include_file: card destruction of the rupture
 include_file: card touch the void
 include_file: card wishes of the terminus
@@ -432,6 +433,14 @@ include_file: card swamp.1
 include_file: card mountain.1
 include_file: card forest.1
 include_file: card fault.1
+include_file: card avatar
+include_file: card bird
+include_file: card spirit
+include_file: card elemental avatar
+include_file: card avatar.1
+include_file: card fractal horror
+include_file: card spirit.1
+include_file: card avatar wizard
 keyword:
 	keyword: Infuse
 	match: Infuse

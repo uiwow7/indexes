@@ -7,7 +7,7 @@ card:
 		UB04,Medium Creature,3,,Seer of Stolen Sight
 		https://www.deviantart.com/swansdown/art/Fox-1299517065
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-27 22:33:35
+	time_modified: 2026-03-24 10:35:21
 	name: Fate Robber
 	casting_cost: 1B
 	image: image334.png
@@ -27,10 +27,7 @@ card:
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 
-	flavor_text:
-		<i-flavor>ft<soft-line>
-		ft<soft-line>
-		ft</soft-line></soft-line></i-flavor>
+	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	flavor_text_4: <i-flavor></i-flavor>

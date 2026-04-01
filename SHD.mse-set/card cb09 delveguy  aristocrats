@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: CB09,Large Creature,5,,Perigee Beckoner
+	time_created: 2026-02-26 00:00:00
+	time_modified: 2026-03-25 20:12:09
+	name: CB09 Delveguy // Aristocrats
+	casting_cost: 5BB
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	rarity: common
+	rule_text:
+		<kw-A><nospellcheck><key>Delve</key></nospellcheck><atom-reminder-expert> <i-auto>(Each card you exile from your graveyard while casting this spell pays for <sym>1</sym>.)</i-auto></atom-reminder-expert></kw-A>
+		Creatures you control have <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> as long as a creature you control died this turn.</atom-cardname><atom-name></atom-cardname><atom-name>
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

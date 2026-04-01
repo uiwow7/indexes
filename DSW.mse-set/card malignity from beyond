@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: RR02,Small Creature,3,,Voldaren Thrillseeker
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-24 13:36:10
+	time_modified: 2026-03-09 12:44:17
 	name: Malignity from Beyond
 	casting_cost: 2R
 	image: image224.png
@@ -21,10 +21,12 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym> for each permanent you control that left the battlefield this turn.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym> for each permanent you control that left the battlefield this turn.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
-	toughness: 1
+	toughness: 2
 	illustrator: Ausp-ice
 	card_code_text: 
 	card_code_text_2: 
