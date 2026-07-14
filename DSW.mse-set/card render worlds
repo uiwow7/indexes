@@ -8,7 +8,7 @@ card:
 		
 		CHANGEART
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-03-09 13:07:45
+	time_modified: 2026-05-10 19:28:25
 	name: Render Worlds
 	casting_cost: R
 	image: image148.png
@@ -24,7 +24,9 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: common
-	rule_text: <kw-A><nospellcheck><key>You get</key></nospellcheck> <sym>V</sym>. Then you may pay X <sym>V</sym>. If you do, exile X cards from the top of your library. You may play one of them until your next end step.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text:
+		Exile the top card of your library. If <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> wasn’t cast from your hand, instead exile the top three cards of your library. You may play them this turn.
+		<kw-A><nospellcheck><key>Starfall <param-cost><sym-auto>1R</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>1R</sym-auto></param-cost>, Exile this card from your graveyard: Create a Saga enchantment token with “<sym>r3</sym>: You may cast a copy the exiled card without paying its mana cost.”)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Vadim Sadovski
 	card_code_text: 

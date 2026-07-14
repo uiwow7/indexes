@@ -1,0 +1,48 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: archetype, M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !group Big Blue
+	time_created: 2026-04-18 13:07:00
+	time_modified: 2026-04-18 19:18:12
+	name: Big Blue
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	sub_type: 
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		4 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Alom</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Dreamlord</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		3 Galaxy Rings
+		2 Phantom <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Channeler</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		3 Cosmic Manipulation
+		3 Return to Essence
+		3 Celestial Command Center
+		3 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Azali</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Spectral Hunter
+		3 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Stoneborn</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Crab
+		3 Gone in an Instant
+		4 Tempting Proposition
+		2 Unrestrained Tides
+		3 Ruminate
+		20 Island
+		4 Frozen Seascape
+		sanctum
+		1 Abandoned <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Tradepost</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		1 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Cloudwater</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Visions
+		1 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lotusfall</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		1 Prosperous <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Skyscape</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		1 Cosmic Nexus
+		1 Ardent <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Starkeeper</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		1 Hunting for Memories
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

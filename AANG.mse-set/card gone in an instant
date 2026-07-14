@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!sort 10
+		!group Big Blue
+		https://www.deviantart.com/smiling-demon/art/Wave-Power-192843948
+	time_created: 2026-04-18 17:51:25
+	time_modified: 2026-05-16 12:37:52
+	name: Gone in an Instant
+	casting_cost: 1U
+	image: image35.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Exile up to two target nonland permanents you control. Return one to the battlefield under its owner’s control. Search your library for an instant or sorcery card not named Gone in an Instant with mana value equal to the other card, reveal it, put it into your hand, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Alastair Temple
+	card_code_text: RGA
+	card_code_text_2: 
+	card_code_text_3: 

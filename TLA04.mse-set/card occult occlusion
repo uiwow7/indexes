@@ -1,0 +1,53 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-showcase-strixhaven
+	stylesheet_version: 2021-06-01
+	has_styling: true
+	styling_data:
+		text_chops: 3,5
+		d20_dividers: all breaks
+		frames: clear
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		promo: no
+		overlay: 
+	notes: 
+	time_created: 2023-03-12 05:12:25
+	time_modified: 2026-06-23 16:41:42
+	card_color: black
+	name: Occult Occlusion
+	casting_cost: 2B
+	image: image3
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell>Shader</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	chapter_text: 
+	rule_text:
+		<i-auto>(This spell gains effects based on the sources of mana spent to cast it.)</i-auto>
+		<b>Land </b>| Occult Occlusion deals 3 damage to target player and you gain 3 life.
+		<b>Artifact </b>| Target player draws two cards and loses 2 life.
+		<b>Instant</b> | Target player sacrifices a nontoken creature or enchantment.
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	level_1_text: <i-auto>(This spell gains effects based on the sources of mana spent to cast it.)</i-auto>
+	level_2_text: 
+	level_3_text: 
+	level_4_text: 
+	illustrator: Caleb Worcester
+	card_code_text: Kogane
+	card_code_text_2: Kogane
+	card_code_text_3: Kogane
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha
+	special_text: 

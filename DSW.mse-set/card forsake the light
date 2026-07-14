@@ -7,7 +7,7 @@ card:
 		UB11,Noncreature,4,,Invasion of Eldraine
 		https://www.deviantart.com/scytalearts/art/The-Tower-of-Cosmic-Nihility-883940030
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-26 18:19:55
+	time_modified: 2026-05-04 09:44:40
 	name: Forsake the Light
 	casting_cost: 1B
 	image: image285.png
@@ -27,7 +27,7 @@ card:
 		Choose two —
 		<li><bullet>• </bullet>Target player reveals their sanctum. You choose a card from it. Put that card into their graveyard.
 		</li><li><bullet>• </bullet>Exile target player’s graveyard.
-		</li><li><bullet>• </bullet>Each opponent loses 2 life.</li>
+		</li><li><bullet>• </bullet>Target opponent loses 2 life.</li>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: ScytaleArts
 	card_code_text: 

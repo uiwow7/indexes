@@ -3,9 +3,12 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: CR04,Small Creature,2,,Thrashing Frontliner
+	notes:
+		CR04,Small Creature,2,,Thrashing Frontliner<soft-line>
+		“The flames that rage in Kala never cease, burning forever and scorching the world.”
+		—Nari, Worldsinger</soft-line>
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-03-06 10:02:43
+	time_modified: 2026-05-30 11:26:49
 	name: Kalan Processor
 	casting_cost: 1R
 	image: image80.png
@@ -21,10 +24,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/W</sym>.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
-	flavor_text:
-		<i-flavor>“The flames that rage in <error-spelling:en_US>Kala</error-spelling:en_US> never cease, burning forever and scorching the world.”<soft-line>
-		—<error-spelling:en_US>Nari</error-spelling:en_US>, <error-spelling:en_US>Worldsinger</soft-line></i-flavor></error-spelling:en_US>
+	rule_text: <kw-0><nospellcheck><key>Starfall—<param-cost><sym-auto>1R</sym-auto>, Exile a card with mana value 2 or less from your graveyard. </param-cost></key></nospellcheck></kw-0> <i-auto>(<sym-auto>1R</sym-auto>, Exile a card with mana value 2 or less from your graveyard, Exile this card from your graveyard: Create a Saga enchantment token with “<sym>r3</sym>: You may cast a copy the exiled cards without paying its mana cost.”)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1
 	illustrator: Scott Uminga

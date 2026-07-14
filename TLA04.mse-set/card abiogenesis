@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-showcase-strixhaven
+	stylesheet_version: 2021-06-01
+	has_styling: false
+	notes: 
+	time_created: 2023-09-07 23:42:37
+	time_modified: 2026-06-24 16:32:50
+	card_color: blue
+	name: Abiogenesis
+	casting_cost: U
+	image: image119.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Wizard</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: mythic rare
+	rule_text:
+		<kw-A><nospellcheck><key>Liberate</key></nospellcheck> target artifact or enchantment.<atom-reminder-custom> <i-auto>(Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</i-auto></atom-reminder-custom></kw-A>
+		<sym-auto>R/G</sym-auto>, Embrace <atom-cardname><nospellcheck>Abiogenesis</nospellcheck></atom-cardname> from your hand: Draw a card. <i-auto>(Exile it. You may play it on a later turn that a Wizard or Artificer you control dealt damage to an opponent.)</i-auto>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Maxime Minard
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

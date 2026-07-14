@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-saga
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes:
+		!sort 30
+		!group Unearth
+		https://www.deviantart.com/louielorry/art/Dark-Prince-464551230
+	time_created: 2026-04-20 16:38:03
+	time_modified: 2026-04-20 16:42:50
+	name: Watch by Candlelight
+	casting_cost: 2WB
+	image: image74.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Saga</word-list-enchantment><atom-sep> </atom-sep><word-list-enchantment>Dream</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: Destroy target creature with mana value 3 or less.
+	level_2_text: Create a 2/2 white and black Demon creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.
+	level_3_text: Return target creature card from your graveyard to your hand.
+	illustrator: Louie Lorry
+	card_code_text: DON
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+		I — Destroy target creature with mana value 3 or less.
+		II — Create a 2/2 white and black Demon creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.
+		III — Return target creature card from your graveyard to your hand.

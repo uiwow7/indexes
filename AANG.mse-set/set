@@ -1,0 +1,314 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2024-10-01
+stylesheet: m15-altered-plus
+stylesheet_version: 2020-09-04
+set_info:
+	title: Voyager II
+	set_code: AANG
+	symbol: symbol3.mse-symbol
+	masterpiece_symbol: masterpiece_symbol5.mse-symbol
+	automatic_reminder_text: old, expert, pseudo, action, custom, lower case
+	use_gradient_multicolor: yes
+styling:
+	magic-jumpstart-front:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-altered:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-altered-plus:
+		chop_top: 5
+		chop_bottom: 5
+		other_options: vorthos box
+		level_containers: arrows
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	magic-m15-mainframe-dfc:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-dfc-plus:
+		altered_plus_frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-planeswalker:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-tokens:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-saga:
+		auto_frames: vehicle, snow, universes beyond
+		other_options: custom border
+		custom_border_source: space/-color-space.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-textless-land:
+		overlay: 
+	magic-rule-card:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+include_file: card aang standard notes  sets
+include_file: card aang standard notes  sets pt2
+include_file: card aang standard notes  sets pt3
+include_file: card ir phoenix
+include_file: card find order in chaos
+include_file: card read the stars
+include_file: card piercing lightning
+include_file: card reach for enlightenment
+include_file: card sunset seeker
+include_file: card starfall phoenix
+include_file: card naer king of talan
+include_file: card in the world of dreams
+include_file: card twisting turmoil
+include_file: card herald of flame
+include_file: card center mass
+include_file: card path to infinity
+include_file: card sunlit cliffs
+include_file: card towering spires
+include_file: card mystical valley
+include_file: card divine gateway
+include_file: card mystics quest
+include_file: card rain of flowers
+include_file: card untouched pinnacles
+include_file: card unbroken effigies
+include_file: card behold true suns
+include_file: card village on the peaks
+include_file: card starseeker whale
+include_file: card hunger arisen
+include_file: card tannin explorer
+include_file: card mystic
+include_file: card mountain
+include_file: card fault
+include_file: card big blue
+include_file: card alom dreamlord
+include_file: card galaxy rings
+include_file: card phantom channeler
+include_file: card cosmic manipulation
+include_file: card embrace the void
+include_file: card return to essence
+include_file: card unrestrained tides
+include_file: card tempting proposition
+include_file: card celestial command center
+include_file: card azali spectral hunter
+include_file: card ruminate
+include_file: card stoneborn crab
+include_file: card gone in an instant
+include_file: card frozen seascape
+include_file: card island
+include_file: card abandoned tradepost
+include_file: card cloudwater visions
+include_file: card lotusfall
+include_file: card properous skyscape
+include_file: card cosmic nexus
+include_file: card ardent starkeeper
+include_file: card hunting for memories
+include_file: card horror
+include_file: card wizards quest
+include_file: card scout
+include_file: card spirit
+include_file: card wizard
+include_file: card druids quest
+include_file: card wb unearth
+include_file: card comfort of return
+include_file: card steel enforcer
+include_file: card knight of finality
+include_file: card trial of midnight
+include_file: card forgotten cliffwatcher
+include_file: card ranor spectral lightbearer
+include_file: card splinter into nightmares
+include_file: card fracture
+include_file: card golden slayer
+include_file: card trap in eternity
+include_file: card delve into storms
+include_file: card sky seer
+include_file: card desolate cliffside
+include_file: card transcendent towers
+include_file: card barren heath
+include_file: card prismatic vista
+include_file: card plains
+include_file: card swamp
+include_file: card whispers of autumn
+include_file: card watch by candlelight
+include_file: card mourn lost virtue
+include_file: card let them blossom
+include_file: card darkstar prowler
+include_file: card burn eternally bright
+include_file: card cleric
+include_file: card bird
+include_file: card demon
+include_file: card mono-red aggro
+include_file: card flamepeak guardian
+include_file: card aurora reader
+include_file: card seek the stars
+include_file: card blood howler
+include_file: card lone explorer
+include_file: card bleeding moon dragon
+include_file: card ashfall herald
+include_file: card firemist seeker
+include_file: card phoenix
+include_file: card big blue.1
+include_file: card unearth
+include_file: card aggro
+include_file: card unchained monstrosity
+include_file: card through hellish skies
+include_file: card lightning strike
+include_file: card mammoth riders
+include_file: card bant sagas
+include_file: card tared first of the divine
+include_file: card druidic visionary
+include_file: card celestial wielder
+include_file: card dreamwatcher
+include_file: card lakedancer elk
+include_file: card seedborn combatant
+include_file: card warden of saplings
+include_file: card heavenly containment
+include_file: card path of ascension
+include_file: card sagas
+include_file: card glistening hope
+include_file: card search for essence
+include_file: card haunted by moonlight
+include_file: card blessed by sunlight
+include_file: card visions of flowering
+include_file: card gi ramp
+include_file: card forgotten wayfarer
+include_file: card in full bloom
+include_file: card forest
+include_file: card frosted landscape
+include_file: card dawn prarie
+include_file: card tranquil meadow
+include_file: card frozen cavern
+include_file: card peacful jungle
+include_file: card submerged woodland
+include_file: card druid of high earth
+include_file: card forsaken worlds
+include_file: card ramp
+include_file: card clerics quest
+include_file: card shamans quest
+include_file: card warrior
+include_file: card shaman
+include_file: card druid
+include_file: card cleric.1
+include_file: card dryad
+include_file: card treefolk
+include_file: card spirit.1
+include_file: card starlight seer
+include_file: card cradle of growth
+include_file: card shadow slayer
+include_file: card tannin frontliner
+include_file: card nexus of infinity
+include_file: card bringer of emptiness
+include_file: card void channeling
+include_file: card spatial conflux
+include_file: card scam
+include_file: card knowledge arisen
+include_file: card ub scam
+include_file: card depthseeker
+include_file: card nightstalker
+include_file: card singularity distortion
+include_file: card from eternitys grasp
+include_file: card cloudcatcher
+keyword:
+	keyword: Cleric’s Quest
+	match: cleric’s quest token
+	reminder: It’s a Saga enchantment with <sym>r1</sym>—Create a 1/1 white Cleric creature token, <sym>r2</sym>—You gain 2 life, and <sym>r3</sym>—Put a +1/+1 counter on up to one target creature.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Wizard’s Quest
+	match: wizard’s quest token
+	reminder: It’s a Saga enchantment with <sym>r1</sym>—Create a 1/1 blue Wizard creature token, <sym>r2</sym>—Surveil ]2[, and <sym>r3</sym>—Draw a card.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Warlock’s Quest
+	match: warlock’s quest token
+	reminder: It’s a Saga enchantment with <sym>r1</sym>—Create a 1/1 black Warlock creature token, <sym>r2</sym>—Draw two cards, and <sym>r3</sym>—You lose 2 life and discard a card.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Shaman’s Quest
+	match: shaman’s quest token
+	reminder: It’s a Saga enchantment with <sym>r1</sym>—Create a 1/1 red Shaman creature token, <sym>r2</sym>—This deals 2 damage to each opponent, and <sym>r3</sym>—Target creature can’t block this turn.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Druid’s Quest
+	match: druid’s quest token
+	reminder: It’s a Saga enchantment with <sym>r1</sym>—Create a 1/1 green Druid creature token, <sym>r2</sym>—You may play an additional land this turn, and <sym>r3</sym>—Target creature gets +2/+2 until end of turn.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Forgive
+	match: Forgive <atom-param>cost</atom-param>
+	reminder: {param1}, Reveal this card from your sanctum as a sorcery: Exile it. You may play it during your next turn.
+	rules: 
+	mode: custom
+keyword:
+	keyword: 
+	match: Ascension
+	reminder: 
+	rules: 
+	mode: pseudo
+keyword:
+	keyword: Verdant
+	match: Verdant
+	reminder: This card can’t start in your deck. 1, Exile an untapped land you control as a sorcery: Put this card from your sanctum onto the battlefield.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Skyward
+	match: Skyward
+	reminder: You may cast this spell from your sanctum as though it had flash by exiling an instant or sorcery spell you control that isn’t being targeted.
+	rules: 
+	mode: custom
+keyword:
+	keyword: 
+	match: Absolute
+	reminder: You may cast your chosen divinity from your sanctum by exiling two permanents you control that share a color with it in addition to its other costs.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Blight
+	match: Blight <atom-param>cost</atom-param>
+	reminder: You can cast this from your graveyard transformed for {param1}. If you do, it enters under an opponent’s control. Exile it if it would leave the battlefield or not resolve.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Refined
+	match: Refined
+	reminder: When this creature enters, conjure its protocol into your sanctum.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Uncover
+	match: Uncover
+	reminder: You may cast this as a noncreature artifact from your graveyard for its uncover cost. Exile it if it would leave the battlefield.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Dream
+	match: dream
+	reminder: Reveal a Dream card from your sanctum and put it into your hand or draw a card.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Mystic’s Quest
+	match: mystic’s quest token
+	reminder: It’s a Saga enchantment with <sym>r1</sym>—Create a 1/1 silver Mystic creature token, <sym>r2</sym>—Each opponent loses 1 life and you gain 1 life, and <sym>r3</sym>—Draw a card from your sanctum at random.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Realize
+	match: Realize <atom-param>cost</atom-param>
+	reminder: Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.
+	rules: 
+	mode: custom
+version_control:
+	type: none
+apprentice_code: 

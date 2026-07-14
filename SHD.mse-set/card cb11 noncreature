@@ -2,20 +2,35 @@
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		rarity_offsets: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes:
 		CB11,Noncreature,2,,Dark Endurance
 		unearth
 	time_created: 2026-02-26 00:00:00
-	time_modified: 2026-02-26 00:00:00
+	time_modified: 2026-04-04 14:03:24
 	name: CB11 Noncreature
 	casting_cost: 1B
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	sub_type: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: common
+	rule_text: <kw-A><i-auto><nospellcheck><key>Augury</key></nospellcheck></i-auto></kw-A> — Return target creature with mana value 3 or less from your graveyard to the battlefield. If you exiled a card this turn, return target creature with mana value 4 or less from your graveyard to the battlefield instead.
+	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

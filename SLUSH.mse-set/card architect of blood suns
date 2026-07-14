@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 9
+		chop_bottom: 9
+		other_options: 
+		additional_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes: https://www.deviantart.com/303sc/art/Undertale-Scarlet-Land-1326047927
+	time_created: 2026-04-27 19:42:23
+	time_modified: 2026-05-19 13:22:27
+	card_trim: clear
+	name: Architect of Blood Suns
+	casting_cost: 1CCC
+	image: image24.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		Colorless spells you cast cost <sym-auto>1</sym-auto> less to cast.
+		Whenever you cast a colorless spell, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>. Then if you have six or more nonland colorless cards in your graveyard, exile <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> and each colored creature your opponents control.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: 303sc
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

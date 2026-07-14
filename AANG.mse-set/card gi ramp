@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: archetype, M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!sort 02
+		!group Ramp
+	time_created: 2026-04-29 13:31:08
+	time_modified: 2026-05-16 11:59:37
+	name: GI Ramp
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	sub_type: 
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		4 Forgotten Wayfarer
+		4 In Full <kw-0><nospellcheck><key>Bloom</key></nospellcheck></kw-0>
+		2 Cradle of Growth
+		2 Starlight Seer
+		4 Druid of High Earth
+		4 Forsaken Worlds
+		4 Spatial <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Conflux</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		3 Bringer of Emptiness
+		2 <kw-0><nospellcheck><key>Shadow</key></nospellcheck></kw-0> Slayer
+		3 Tannin <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Frontliner</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		3 Nexus of Infinity
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

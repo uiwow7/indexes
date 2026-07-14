@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!sort 10
+		!group Big Blue
+		!group Sagas`
+		https://www.deviantart.com/atik1n/art/Cancer-734809895
+	time_created: 2026-04-18 17:35:40
+	time_modified: 2026-04-18 17:50:44
+	name: Stoneborn Crab
+	casting_cost: 3U
+	image: image34.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Crab</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Stoneborn Crab</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>blank</key></nospellcheck> target creature.<atom-reminder-custom> <i-auto>(It loses all abilities.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Warp <param-cost><sym-auto>1U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Nikita Bubriak
+	card_code_text: FST
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/guihuahuzi/art/Christmas-1005080404
+	time_created: 2024-08-28 13:31:25
+	time_modified: 2026-06-25 13:40:14
+	name: Lamplure
+	casting_cost: G
+	image: image48
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text:
+		Target creature you control gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and must be blocked if able until end of turn. 
+		Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: guihuahuzi
+	card_code_text: 
+	card_code_text_2:
+		 Story Spotlight
+	card_code_text_3:
+		 Story Spotlight
+	copyright: 
+	copyright_2: 
+	copyright_3: 

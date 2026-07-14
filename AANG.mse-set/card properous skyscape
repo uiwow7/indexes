@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		other_options: vorthos box
+		level_containers: arrows
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes:
+		!sort 30
+		!group Big Blue
+		https://www.deviantart.com/jstiller30/art/Sky-Whales-896248624
+	time_created: 2026-04-18 18:17:46
+	time_modified: 2026-04-18 18:58:40
+	card_trim: mutate
+	card_trim_plus: path
+	name: Properous Skyscape
+	image: image44.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Whale</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>.
+		<sym-auto>4UU</sym-auto>: Until end of turn, <atom-cardname><nospellcheck>Properous Skyscape</nospellcheck></atom-cardname> becomes a 3/2 creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and “Whenever <atom-cardname><nospellcheck>Properous Skyscape</nospellcheck></atom-cardname> deals combat damage to a player, draw a card.”
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: <kw-A><nospellcheck><key>Verdant</key></nospellcheck><atom-reminder-custom> <i-auto>(This card can’t start in your deck. <sym-auto>1</sym-auto>, Exile an untapped land you control as a sorcery: Put this card from your sanctum onto the battlefield.)</i-auto></atom-reminder-custom></kw-A>
+	illustrator: JStiller30
+	card_code_text: FWO
+	card_code_text_2: 
+	card_code_text_3: 

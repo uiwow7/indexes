@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes:
+		green druid 11
+		white cleric 11
+		green dryad 11
+		gw spirit 22 vigilance
+		green treefolk 11
+	time_created: 2026-05-16 09:55:28
+	time_modified: 2026-05-16 10:58:27
+	card_color: green
+	name: Treefolk
+	image: image126.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Treefolk</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	power: 1
+	toughness: 1
+	illustrator: Bachzim
+	card_code_text: FWO
+	card_code_text_2: 
+	card_code_text_3: 

@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: UG13,Noncreature,5,,Tangled Skyline
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-03-31 20:36:53
+	time_modified: 2026-05-10 22:48:21
 	name: Earthbound Fracturing
 	casting_cost: 4G
 	image: image200.png
@@ -22,8 +22,8 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, create an X/X green Elemental Avatar creature token, where X is the number of lands you control.
-		Whenever a land or Revelation you control enters, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym>.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, create a 0/0 green Elemental Avatar creature token with “This creature gets +1/+1 for each counter on it.” and put a number of lore counters on it equal to the number of lands you control.
+		Whenever a land or Revelation you control enters, put a lore counter on target permanent you control.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Dracaena53
 	card_code_text: 

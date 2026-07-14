@@ -1,0 +1,50 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-showcase-strixhaven
+	stylesheet_version: 2021-06-01
+	has_styling: true
+	styling_data:
+		text_chops: ,2
+		d20_dividers: all breaks
+		frames: clear
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		promo: no
+		overlay: 
+	notes:
+		https://www.deviantart.com/eliottsontot/art/Survival-house-909958530
+		https://www.deviantart.com/maksimii2/art/Alien-Underworld-Bioluminescent-Landscape-1337584745
+		https://www.deviantart.com/josegoncalo/art/cavernous-1045380259
+		https://www.deviantart.com/billycrawshrimp/art/do-not-grow-here-906152978
+	time_created: 2023-03-12 05:12:25
+	time_modified: 2026-06-24 16:53:19
+	name: Subsurface Scattering
+	casting_cost: 2G
+	image: image22.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell>Shader</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	chapter_text: 
+	rule_text:
+		<i-auto>(This spell gains effects based on the sources of mana spent to cast it.)</i-auto>
+		<b>Land </b>| Return target card from your graveyard to your hand. Exile Subsurface Scattering.
+		<b>Creature </b>| <kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>, then draw a card.
+		<b>Enchantment </b>| You may put a land card from your graveyard or hand onto the battlefield.
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: 
+	level_2_text: 
+	level_3_text: 
+	level_4_text: 
+	illustrator: Billy Crawshrimp
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha
+	special_text: 

@@ -7,7 +7,7 @@ card:
 		CB04,Small Creature,3,,Insatiable Skittermaw
 		https://www.deviantart.com/dariuszkieliszek/art/Assassin-sketch-917733634
 	time_created: 2026-02-26 00:00:00
-	time_modified: 2026-03-24 15:07:43
+	time_modified: 2026-04-04 13:58:43
 	name: CB04 see @ end
 	casting_cost: 2B
 	image: image42.png
@@ -17,6 +17,12 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en></word-list-race-en>
 	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> leaves your graveyard during your turn, you may pay <sym-auto>2B</sym-auto>. If you do, return it to the battlefield tapped.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
 	illustrator: dariuszkieliszek
 	card_code_text: 
 	card_code_text_2: 

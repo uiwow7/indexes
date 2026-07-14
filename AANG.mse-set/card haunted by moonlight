@@ -1,0 +1,45 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-saga
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		snap_chapter_to_box: 1,2,3,
+		chapter_divider_coordinates: 229,333,
+		auto_frames: vehicle, snow, universes beyond
+		other_options: custom border
+		custom_border_source: space/-color-space.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!sort 30
+		!group Sagas
+		https://www.deviantart.com/louielorry/art/Evelin-404151563
+	time_created: 2026-05-15 09:00:35
+	time_modified: 2026-05-15 09:31:02
+	name: Haunted by Moonlight
+	casting_cost: 1WU
+	image: image107.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Saga</word-list-enchantment><atom-sep> </atom-sep><word-list-enchantment>Dream</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: Each player draws two cards.
+	level_2_text: You gain life equal to the number of cards in your hand.
+	level_3_text: Return up to one other target permanent you control to its owner’s land.
+	illustrator: Louie Lorry
+	card_code_text: DON
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+		Each player draws two cards.
+		You gain life equal to the number of cards in your hand.
+		Return up to one other target permanent you control to its owner’s land.

@@ -17,14 +17,14 @@ set_info:
 	set_language: 
 	masterpiece_set_code: SPG
 	symbol: symbol11.mse-symbol
-	masterpiece_symbol: 
+	masterpiece_symbol: masterpiece_symbol1.mse-symbol
 	CARDNAME_replacement: card's type
 	border_color: rgb(0,0,0)
 	use_gradient_multicolor: yes
 	card_number_style: 001/099
 	custom_super_types: 
 	custom_creature_races: Anima, Revelation, XXX, 
-	custom_index: rarity,color,mv
+	custom_index: rarity,color,searchtype_Creature,mv
 	custom_mana_symbol_name: MyrCustoms/Vertex.png
 	mana_symbol_options: enable in casting costs, enable in text boxes, colored mana symbols
 styling:
@@ -82,6 +82,9 @@ styling:
 	magic-m15-paradox:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
+	magic-m15-saga:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	magic-m15-saga-creatures:
 		overlay: 
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -103,7 +106,7 @@ include_file: card wandering virtue
 include_file: card fallen warden
 include_file: card traveler of lost planes
 include_file: card naroz path-traveler
-include_file: card extraplanar cleanser
+include_file: card guidance of moonlight
 include_file: card najari pathwalker
 include_file: card fractured soul
 include_file: card ruptured cetacean
@@ -123,7 +126,7 @@ include_file: card chromatic splinters
 include_file: card warden of the celestial tree
 include_file: card icefall soothsayer
 include_file: card najari ascendant
-include_file: card extraplanar seeker
+include_file: card seek the void
 include_file: card persistent figment
 include_file: card najari pathshaper
 include_file: card cosmic aven
@@ -144,10 +147,10 @@ include_file: card overwhelming existence
 include_file: card the arbiters fallen
 include_file: card lightwoven ghast
 include_file: card reborn of the void
-include_file: card forgotten by fate
+include_file: card sunset warden
 include_file: card depthslighter
 include_file: card seer of the beyond
-include_file: card najari shaper
+include_file: card serene starfall
 include_file: card doorwatcher
 include_file: card otherworldy starbringer
 include_file: card eye of the sword
@@ -168,7 +171,7 @@ include_file: card extraplanar existence
 include_file: card kalan processor
 include_file: card cosmos caller
 include_file: card rage from beyond
-include_file: card savan bloodthirster
+include_file: card unflinching flames
 include_file: card stormborn flamebringer
 include_file: card yuku dune-prowler
 include_file: card the arbiters pathlighter
@@ -187,7 +190,7 @@ include_file: card venturing fox
 include_file: card dreamborn uncoverer
 include_file: card celestial envoy
 include_file: card ghostly wanderer
-include_file: card arisen avatar
+include_file: card realms arisen
 include_file: card voro woodswalker
 include_file: card thickets incarnation
 include_file: card deepgrowth critter
@@ -224,7 +227,6 @@ include_file: card void seeker
 include_file: card celestial magpie
 include_file: card insight in the depths
 include_file: card boundless diviner
-include_file: card glimpse of eternity
 include_file: card dissolve into time
 include_file: card touch of the terminus
 include_file: card glimpse of true colors
@@ -233,7 +235,7 @@ include_file: card forewarning visitor
 include_file: card hollow vessel
 include_file: card fate robber
 include_file: card fallen of najar
-include_file: card spatial rift
+include_file: card duress
 include_file: card induced entropy
 include_file: card ominous moon
 include_file: card forsake the light
@@ -257,7 +259,7 @@ include_file: card dawns majesty
 include_file: card earthbound fracturing
 include_file: card ethereal voyager
 include_file: card dream dweller
-include_file: card demonheart overseer
+include_file: card song of the ruptured
 include_file: card celestial wanderer
 include_file: card unbreakable remembrance
 include_file: card shrouded subjugator
@@ -273,19 +275,19 @@ include_file: card uncontrollable faltering
 include_file: card embodiment of stars
 include_file: card seal futile dreams
 include_file: card chorus of the drowned
-include_file: card constellation erudite
+include_file: card path to shrouded worlds
 include_file: card reveal veiled truths
-include_file: card herald of blackened stars
+include_file: card star blackener
 include_file: card enter the mind
 include_file: card boundless reawakener
-include_file: card eclipse warden
+include_file: card darkened eclipse
 include_file: card unhesitating malice
 include_file: card voidcatcher
 include_file: card mark of return
 include_file: card devour absent memories
 include_file: card shattered and unbroken
 include_file: card observer of infernos
-include_file: card malignity from beyond
+include_file: card malice of the beyond
 include_file: card unchained unrest
 include_file: card interstellar phoenix
 include_file: card nari worldsinger
@@ -296,7 +298,7 @@ include_file: card dreams of memories forgotten
 include_file: card seek the unknowable
 include_file: card boundless aspirant
 include_file: card dreamdancer colossus
-include_file: card nurturing woodsoul
+include_file: card reaching golden roots
 include_file: card unrestricted growth
 include_file: card endless abstraction
 include_file: card restore unseen tranquility
@@ -344,7 +346,7 @@ include_file: card gatu gembearer
 include_file: card offering to the stars
 include_file: card dedicated acolyte
 include_file: card barrier of storms
-include_file: card darkstar invader
+include_file: card darkstar invasion
 include_file: card forerunner of the rupture
 include_file: card ethereal envoy
 include_file: card disciple of the celestial tree
@@ -359,7 +361,6 @@ include_file: card shadowy incarnations
 include_file: card consume into the boundless
 include_file: card empty hollow eternity
 include_file: card starlights glimmer
-include_file: card vertex reminder
 include_file: card archetypesthemes
 include_file: card astral starcaller
 include_file: card watcher at the door
@@ -374,7 +375,7 @@ include_file: card touch the void
 include_file: card wishes of the terminus
 include_file: card traitorous gaze
 include_file: card adamant moonseeker
-include_file: card boundless voidwalker
+include_file: card watching inifinity
 include_file: card deceiving pathshaper
 include_file: card unnerving foresight
 include_file: card shimmering starbreaker
@@ -441,10 +442,20 @@ include_file: card avatar.1
 include_file: card fractal horror
 include_file: card spirit.1
 include_file: card avatar wizard
+include_file: card timetangle
+include_file: card prithites summons
+include_file: card sundown
+include_file: card forgiving monument
+include_file: card closure
+include_file: card arbiter
+include_file: card glorious enforcer
+include_file: card eons of ancestry
+include_file: card path of insight
+include_file: card return to essence
 keyword:
 	keyword: Infuse
 	match: Infuse
-	reminder: When you cast a noncreature spell, put a  +1/+1 counter on this creature if it has none.
+	reminder: When you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.
 	rules: 
 	mode: custom
 keyword:
@@ -499,6 +510,18 @@ keyword:
 	keyword: Healing
 	match: Healing <atom-param>number</atom-param>
 	reminder: Damage dealt by this {if has_pt() then "creature" else "permanent"} also causes you to gain {param1} life.
+	rules: 
+	mode: custom
+keyword:
+	keyword: 
+	match: Starfall Toke<atom-param>*s</atom-param>
+	reminder: {handle_merged_rt(if param1.value == "ns" then "They’re Saga enchantments" else "It’s a Saga enchantment", moved:"A Starfall token is a Saga enchantment")} with <sym>r3</sym>—Put a card from your sanctum on top of your library.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Starfall
+	match: Starfall <atom-param>cost</atom-param>
+	reminder: {param1}, Exile this card from your graveyard: Create a Saga enchantment token with "<sym>r3</sym>: You may cast a copy the exiled card without paying its mana cost."
 	rules: 
 	mode: custom
 version_control:

@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: UR01,Small Creature,2,,Axgard Artisan
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-03-05 12:09:30
+	time_modified: 2026-05-17 13:02:18
 	name: Flame of Drakol
 	casting_cost: 1R
 	image: image197.png
@@ -21,7 +21,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: <kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>; <kw-0><nospellcheck><key>decayed</key></nospellcheck></kw-0> <i-auto>(This creature can’t block. When it attacks, sacrifice it at end of combat.)</i-auto>
+	rule_text: <kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>decayed</key></nospellcheck></kw-0> <i-auto>(This creature can’t block. When it attacks, sacrifice it at end of combat.)</i-auto>
 	flavor_text: <i-flavor>When The Grand Oracles turned to insanity, so too did many of <error-spelling:en_US>Drakol’s</error-spelling:en_US> inhabitants.</i-flavor>
 	power: 4
 	toughness: 1

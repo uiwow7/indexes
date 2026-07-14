@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/liktar/art/Creature-of-the-night-762248949
+	time_created: 2021-10-10 04:09:00
+	time_modified: 2026-06-23 17:06:31
+	card_color: red
+	name: Overharvest
+	casting_cost: 1R
+	image: image8
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text:
+		Add two mana in any combination of colors.
+		Draw a card if this is the only noncreature spell you’ve cast this turn.
+	flavor_text: <i-flavor>A tree can flower only so many times.</i-flavor>
+	illustrator: Liktar
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utahra
+	copyright_2: Utahra
+	copyright_3: Utahra

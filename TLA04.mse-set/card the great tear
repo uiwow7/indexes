@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		https://www.deviantart.com/neopher/art/The-Call-Concept-768003891
+		https://www.deviantart.com/ayrrres/art/3-928747440
+	time_created: 2022-03-30 22:04:17
+	time_modified: 2026-06-25 13:37:54
+	name: The Great Tear
+	casting_cost: 4WW
+	image: image26
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text:
+		Exile all creatures and planeswalkers.
+		<sym-auto>2WW</sym-auto>, Discard this: Exile target creature or planeswalker.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark one
+	illustrator: ayrrres
+	card_code_text: 
+	card_code_text_2: Story Spotlight
+	card_code_text_3: Story Spotlight
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

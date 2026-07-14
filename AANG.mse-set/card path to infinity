@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!sort 10
+		!group Phoenix
+		https://www.deviantart.com/ane-bonazza/art/The-End-1258567048
+	time_created: 2026-04-18 10:22:23
+	time_modified: 2026-04-18 11:57:50
+	name: Path to Infinity
+	casting_cost: R
+	image: image6.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-A><i-auto><nospellcheck><key>Ascension</key></nospellcheck></i-auto></kw-A> — <atom-cardname><nospellcheck>Path to Infinity</nospellcheck></atom-cardname> deals 2 damage to any target. If a card left your graveyard this turn, it deals 3 damage to that target instead.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Ane Bonazza
+	card_code_text: DDR
+	card_code_text_2: 
+	card_code_text_3: 

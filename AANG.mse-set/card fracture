@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!sort 10
+		!group Unearth
+		https://www.deviantart.com/atik1n/art/Vigilando-Extimus-TheShift-762656665
+	time_created: 2026-04-20 14:26:51
+	time_modified: 2026-04-20 14:31:54
+	name: Fracture
+	casting_cost: B
+	image: image58.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Ascend</key></nospellcheck><atom-reminder-expert> <i-auto>(If you control ten or more permanents, you get the city’s blessing for the rest of the game.)</i-auto></atom-reminder-expert></kw-A>
+		Destroy target creature if it has mana value 2 or less or you have the city’s blessing.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Nikita Bubriak
+	card_code_text: FWO
+	card_code_text_2: 
+	card_code_text_3: 

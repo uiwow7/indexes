@@ -7,7 +7,7 @@ card:
 		MB02,Noncreature,4,flash ,Invasion of Innistrad
 		https://www.deviantart.com/era7/art/Dark-Goddess-1292707336
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-03-03 21:34:55
+	time_modified: 2026-05-06 10:16:47
 	name: Primordial Fright
 	casting_cost: 1B
 	image: image275.png
@@ -24,7 +24,7 @@ card:
 	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, search your library for a card, put it into your sanctum, then shuffle.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, search your library for a card, <kw-A><nospellcheck><key>sanctify</key></nospellcheck> it, then shuffle.<atom-reminder-custom> <i-auto>(Put it into its owner’s sanctum.)</i-auto></atom-reminder-custom></kw-A>
 		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, draw a card from your sanctum.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1

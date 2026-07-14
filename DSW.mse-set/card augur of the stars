@@ -3,9 +3,9 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-01-19 19:18:19
-	time_modified: 2026-03-31 20:38:50
+	time_modified: 2026-05-17 11:06:30
 	name: Augur of the Stars
-	casting_cost: XIUB
+	casting_cost: IUB
 	image: image155.png
 	image_2: 
 	mainframe_image: 
@@ -20,12 +20,12 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		You may spent <sym>V</sym> as though it were <sym>C</sym> to cast this spell.
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, you may create a 0/0 colorless Fractal Horror creature token. Put X +1/+1 counters on it.
+		<kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever one or more counters are put on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>, each opponent loses 1 life and you gain 1 life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
 	illustrator: Floverale-Hellewen
-	card_code_text: • Designed by Trewq
+	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

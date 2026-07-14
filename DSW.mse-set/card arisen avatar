@@ -1,45 +1,44 @@
 ﻿mse_version: 2.5.8
 card:
-	stylesheet: m15-adventure
-	stylesheet_version: 2024-05-27
-	has_styling: true
-	styling_data:
-		chop_adventure: 0,9
-		frames: Reversed
-		left_style: name and type page
-		right_style: blank page
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		overlay: 
+	stylesheet: m15-saga
+	stylesheet_version: 2024-09-23
+	has_styling: false
 	notes: CG05,Small Creature,3,,Fairgrounds Trumpeter
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-03-31 20:16:43
+	time_modified: 2026-05-10 16:11:31
 	card_color_2: green
 	name: Arisen Avatar
-	name_2: Rise
-	casting_cost: 2G
-	casting_cost_2: 1GV/GV/U
-	image: image94.png
+	name_2: 
+	casting_cost: 3G
+	casting_cost_2: 
+	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
-	super_type_2: <word-list-type-en>Vertex Sorcery</word-list-type-en>
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: <word-list-spell></word-list-spell>
+	sub_type: <word-list-enchantment>Saga</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: Whenever you cast a creature spell, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym>.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
-	rule_text_2:
-		<i-auto>(You can cast copies of this while in play)</i-auto>
-		Put two +1/+1 counters on target creature you control.
+	rule_text: 
+	rule_text_2: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
-	power: 2
-	toughness: 2
+	level_1_text: Search your library for a land card, put it onto the battlefield tapped, then shuffle.
+	level_2_text: Up to one target land you control becomes a 2/2 creature.
+	level_3_text: Put a +1/+1 counter on each creature you control.
+	power: 
+	toughness: 
 	illustrator: Alice Boudry
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+	special_text:
+		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+		I — Search your library for a land card, put it onto the battlefield tapped, then shuffle.
+		II — Up to one target land you control becomes a 2/2 creature.
+		III — Put a +1/+1 counter on each creature you control.

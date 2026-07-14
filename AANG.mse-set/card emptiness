@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/artofcako/art/Untitled-1287599897
+	time_created: 2026-05-16 11:37:19
+	time_modified: 2026-05-16 11:50:13
+	name: Emptiness
+	casting_cost: 3II
+	image: image135.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Horror</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Incarnation</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: Whenever <atom-cardname><nospellcheck>Emptiness</nospellcheck></atom-cardname> enters or attacks, create a 1/1 silver Horror creature token. Then if you control five or more creatures, conjure a card named </i><kw-A><i-auto><nospellcheck><key>Void</key></nospellcheck></i-auto></kw-A><i><i> </i>Channeling into your hand. <i-auto>(It’s a <sym>1I</sym> Sorcery with “<kw-A><i-auto><nospellcheck><key>Void</key></nospellcheck></i-auto></kw-A> Channeling deals 1 damage to each opponent for each token you control.”)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: artofcako
+	card_code_text: FST
+	card_code_text_2: 
+	card_code_text_3: 

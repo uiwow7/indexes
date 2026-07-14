@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		hm?
+		https://www.deviantart.com/josegoncalo/art/triangulation-1171204076
+	time_created: 2024-12-03 22:39:07
+	time_modified: 2026-06-25 13:42:13
+	name: Iterate
+	casting_cost: U
+	image: image36
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text: Draw a card. Create a Gear token. <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)</i-auto>
+	flavor_text:
+		<i-flavor>“Perfection isn’t a state, but a mindset of striving for improvement.”<soft-line>
+		—<error-spelling:en_US>Gallas</error-spelling:en_US>, Temporal Pioneer</soft-line></i-flavor>
+	illustrator: Jose Goncalo
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

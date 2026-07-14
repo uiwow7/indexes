@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CG15,Noncreature,1,,Seed of Hope
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-08-26 01:17:39
+	time_modified: 2026-05-13 10:12:16
 	name: Astral Navigation
 	casting_cost: G
 	image: image102.png
@@ -23,8 +23,8 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>land</param-name></key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/U</sym>.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
 		Enchanted land has “<sym-auto>T</sym-auto>: Add one mana of any color.”
+		<kw-A><nospellcheck><key>Starfall <param-cost><sym-auto>G</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>G</sym-auto></param-cost>, Exile this card from your graveyard: Create a Saga enchantment token with “<sym>r3</sym>: You may cast a copy the exiled card without paying its mana cost.”)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Anjoyer
 	card_code_text: 

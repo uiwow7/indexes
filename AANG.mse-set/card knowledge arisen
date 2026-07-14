@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/lavaterae/art/BTA-Bright-Heart-1333230676?file=1
+	time_created: 2026-04-18 11:35:26
+	time_modified: 2026-05-16 14:59:04
+	card_trim: legend, mutate
+	card_trim_plus: path
+	name: Knowledge Arisen
+	casting_cost: 4UU
+	image: image136.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>God</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>idk</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> man
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: <kw-A><nospellcheck><key>Absolute</key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast your chosen divinity from your sanctum by exiling two permanents you control that share a color with it in addition to its other costs.)</i-auto></atom-reminder-custom></kw-A>
+	power: 4
+	toughness: 5
+	illustrator: Valonia-Art
+	card_code_text: DDR
+	card_code_text_2: 
+	card_code_text_3: 

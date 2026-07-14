@@ -1,0 +1,42 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 9
+		other_options: vorthos box
+		level_containers: arrows
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes:
+		!sort 10
+		!group Sagas
+		https://www.deviantart.com/forrestimel/art/The-Soul-Taker-587702224
+	time_created: 2026-04-28 11:26:39
+	time_modified: 2026-04-28 11:30:16
+	name: Seedborn Combatant
+	casting_cost: 3GW
+	image: image101.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Druid</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Whenever a creature you control attacks, choose one —
+		<li><bullet>• </bullet>Create a <kw-A><nospellcheck><key>Druid’s Quest token</key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s a Saga enchantment with <sym>r1</sym>—Create a 1/1 green Druid creature token, <sym>r2</sym>—You may play an additional land this turn, and <sym>r3</sym>—Target creature gets +2/+2 until end of turn.)</i-auto></atom-reminder-custom></kw-A>
+		</li><li><bullet>• </bullet>Put a lore counter on each Saga you control.</li>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Forrest Imel
+	card_code_text: DDR
+	card_code_text_2: 
+	card_code_text_3: 

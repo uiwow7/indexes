@@ -1,0 +1,46 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-saga
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		snap_chapter_to_box: 1,2,3,
+		chapter_divider_coordinates: 214,383,
+		reminder_coordinate: 
+		auto_frames: vehicle, snow, universes beyond
+		other_options: custom border
+		custom_border_source: space/-color-space.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!sort 30
+		!group Sagas
+		https://www.deviantart.com/louielorry/art/Calla-83290538
+	time_created: 2026-05-15 09:46:14
+	time_modified: 2026-05-15 20:09:53
+	name: Visions of Flowering
+	casting_cost: GU
+	image: image104.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Saga</word-list-enchantment><atom-sep> </atom-sep><word-list-enchantment>Dream</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: You may play an additional land this turn.
+	level_2_text: <kw-A><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>two</param-number> cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</i-auto></atom-reminder-action></kw-A>
+	level_3_text: Draw a card.
+	illustrator: Louie Lorry
+	card_code_text: DON
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+		You may play an additional land this turn.
+		<kw-A><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>two</param-number> cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</i-auto></atom-reminder-action></kw-A>
+		Draw a card.

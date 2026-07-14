@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes:
+		!sort 90
+		!group Big Blue
+		https://www.deviantart.com/benedickbana/art/Sage-636463048
+	time_created: 2026-04-18 19:31:04
+	time_modified: 2026-04-18 19:43:35
+	card_color: blue
+	name: Wizard
+	image: image56.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Wizard</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	power: 1
+	toughness: 1
+	illustrator: benedickbana
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

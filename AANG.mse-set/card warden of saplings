@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!sort 10
+		!group Sagas
+		https://www.deviantart.com/baukjespirit/art/Leaf-Golem-speedpainting-589894348
+	time_created: 2026-04-28 11:30:34
+	time_modified: 2026-04-28 11:34:40
+	name: Warden of Saplings
+	casting_cost: 1GG
+	image: image102.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Treefolk</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-A><nospellcheck><key>Ascend</key></nospellcheck><atom-reminder-expert> <i-auto>(If you control ten or more permanents, you get the city’s blessing for the rest of the game.)</i-auto></atom-reminder-expert></kw-A>
+		Once each turn, when an enchantment you control enters, create a 1/1 green Treefolk token. If you have the city’s blessing, put a +1/+1 counter on each creature you control.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: BaukjeSpirit
+	card_code_text: FWO
+	card_code_text_2: 
+	card_code_text_3: 

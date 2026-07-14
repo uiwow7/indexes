@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-saga
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chapter_divider_coordinates: 209,360,
+		chapter_number_coordinates: 170,
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: https://www.deviantart.com/louielorry/art/Autumn-bird-485539541
+	time_created: 2026-04-20 16:42:55
+	time_modified: 2026-04-20 16:53:15
+	name: Mourning Lost Virtue
+	casting_cost: 3WW
+	image: image75.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Saga</word-list-enchantment><atom-sep> </atom-sep><word-list-enchantment>Dream</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: Exile all creatures until <atom-cardname><nospellcheck>Mourning Lost Virtue</nospellcheck></atom-cardname> leaves the battlefield.
+	level_2_text: Look at the top five cards of your library. Reveal any number of creature cards with total mana value 5 or less from among them and put them into your hand. Put the rest on the bottom in a random order.
+	level_3_text: Put a creature card with mana value 5 or less from your sanctum onto the battlefield.
+	illustrator: Louie Lorry
+	card_code_text: DON
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+		I — Exile all creatures until <atom-cardname><nospellcheck>Mourning Lost Virtue</nospellcheck></atom-cardname> leaves the battlefield.
+		II — Look at the top five cards of your library. Reveal any number of creature cards with total mana value 5 or less from among them and put them into your hand. Put the rest on the bottom in a random order.
+		III — Put a creature card with mana value 5 or less from your sanctum onto the battlefield.

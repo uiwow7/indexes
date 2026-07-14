@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-01-19 19:18:19
-	time_modified: 2026-01-21 19:49:03
+	time_modified: 2026-05-10 21:20:22
 	name: Bloodbringer
 	casting_cost: 1IBR
 	image: image256.png
@@ -19,10 +19,10 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: At the beginning of combat on your turn, you may put a <kw-0><nospellcheck><key>decayed</key></nospellcheck></kw-0> counter on target creature you control without one. If you do, that creature gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-0><nospellcheck><key>you get</key></nospellcheck></kw-0> <sym>V/U</sym>. <i-auto>(A creature with <kw-0><nospellcheck><key>decayed</key></nospellcheck></kw-0> can’t block. When it attacks, sacrifice it at end of combat. Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto>
+	rule_text: At the beginning of combat on your turn, you may put a <kw-0><nospellcheck><key>decayed</key></nospellcheck></kw-0> counter on target creature you control without one. If you do, that creature gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and you draw a card and lose 1 life. <i-auto>(A creature with <kw-0><nospellcheck><key>decayed</key></nospellcheck></kw-0> can’t block. When it attacks, sacrifice it at end of combat.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
-	toughness: 4
+	toughness: 3
 	illustrator: Sylvia Ritter
 	card_code_text: 
 	card_code_text_2: 

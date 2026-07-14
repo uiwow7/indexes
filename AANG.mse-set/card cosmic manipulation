@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!sort 10
+		!group Big Blue
+		https://www.deviantart.com/gouzk/art/Cosmic-god-812701436
+	time_created: 2026-04-18 16:34:57
+	time_modified: 2026-04-18 16:47:18
+	name: Cosmic Manipulation
+	casting_cost: 2UU
+	image: image27.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Counter target spell.
+		Conjure two cards named Embrace the </i><kw-A><i-auto><nospellcheck><key>Void</key></nospellcheck></i-auto></kw-A><i> into your hand. <i-auto>(They’re <sym>U</sym> instants with “Draw a card, then discard a card.”)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Gouzk
+	card_code_text: FST
+	card_code_text_2: 
+	card_code_text_3: 

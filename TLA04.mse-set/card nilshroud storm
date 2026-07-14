@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-showcase-strixhaven
+	stylesheet_version: 2021-06-01
+	has_styling: true
+	styling_data:
+		frames: clear
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		center_text: always
+		overlay: 
+	notes:
+		DONE
+		https://www.deviantart.com/eliottsontot/art/Guarding-Hogwarts-744583467
+		https://www.deviantart.com/yogjoshiart/art/Any-color-you-like-523022032
+	time_created: 2022-01-28 07:45:30
+	time_modified: 2026-06-24 16:47:24
+	name: Nilshroud Storm
+	casting_cost: 2UU
+	image: image10.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: You get nine <sym>V</sym>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Yog Joshi
+	card_code_text: 
+	card_code_text_2: Spotlight 6/10
+	card_code_text_3: Spotlight 6/10
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha

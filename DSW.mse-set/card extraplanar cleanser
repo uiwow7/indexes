@@ -1,38 +1,37 @@
 ﻿mse_version: 2.5.8
 card:
-	stylesheet: m15-adventure
-	stylesheet_version: 2024-05-27
 	has_styling: false
 	notes:
 		CW05,Small Creature,3,,Kithkin Billyrider
 		
 		CHANGEART
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2025-08-25 16:07:48
+	time_modified: 2026-05-10 15:49:32
 	extra_data:
-		magic-m15-altered-plus: adventure_overlay4: white
+		magic-m15-altered-plus:
+			adventure_overlay4: white
 	card_color_2: white
 	name: Extraplanar Cleanser
-	name_2: Cleanse
+	name_2: 
 	casting_cost: 2W
-	casting_cost_2: 1WV/GV/U
+	casting_cost_2: 
 	image: image3.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
-	super_type_2: <word-list-type-en>Vertex Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-race-en>Avatar</word-list-race-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: <word-list-spell></word-list-spell>
+	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: Whenever one or more counters are put on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym>.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
-	rule_text_2:
-		<i-auto>(You can cast copies of this while in play)</i-auto>
-		You gain 3 life and draw a card.
+	rule_text:
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, if it wasn’t cast from your hand, put two +1/+1 counters on target creature.
+		<kw-A><nospellcheck><key>Starfall <param-cost><sym-auto>3W</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>3W</sym-auto></param-cost>, Exile this card from your graveyard: Create a Saga enchantment token with “<sym>r3</sym>: You may cast a copy the exiled card without paying its mana cost.”)</i-auto></atom-reminder-custom></kw-A>
+	rule_text_2: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	power: 2

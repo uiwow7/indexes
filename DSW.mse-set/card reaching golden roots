@@ -1,0 +1,45 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-saga
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		snap_chapter_to_box: 2,2,3
+		chapter_divider_coordinates: 249,393,
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: RG03,Large Creature,3,,Polukranos Reborn
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2026-05-10 21:27:12
+	name: Reaching Golden Roots
+	casting_cost: 4GG
+	image: image3.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Saga</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	chapter_text: <i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: Whenever a nontoken creature you control enters, put a +1/+1 counter on it and draw a card.
+	level_2_text: Look at the top three cards of your library. You may reveal a permanent card from among them and put it into your hand. Put the rest on the bottom in a random order.
+	level_3_text: You gain 10 life.
+	power: 
+	toughness: 
+	illustrator: Jose Luis V.
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+		Whenever a nontoken creature you control enters, put a +1/+1 counter on it and draw a card.
+		I, II — Look at the top three cards of your library. You may reveal a permanent card from among them and put it into your hand. Put the rest on the bottom in a random order.
+		III — You gain 10 life.

@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/zephyressence/art/Mysterious-Waters-exploring-1278447240
+	time_created: 2026-04-15 17:11:24
+	time_modified: 2026-04-16 11:28:33
+	name: Watching the Winds
+	casting_cost: 1I
+	image: image5
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, draw a card.
+		<sym-auto>1I</sym-auto>: You gain 1 life and each opponent loses 1 life.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Zephyressence
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

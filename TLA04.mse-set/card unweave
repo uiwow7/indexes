@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		frames: clear
+		unsorted_casting_cost: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		promo: no
+		overlay: 
+	notes:
+		https://www.deviantart.com/roccolicinio/art/Mountain-968005148
+		https://www.instagram.com/p/C-Vr1HlShS6/
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2026-06-24 17:06:24
+	name: Unweave
+	casting_cost: 1I
+	image: image29.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: mythic rare
+	rule_text:
+		Choose one —
+		<li><bullet>• </bullet>Counter target permanent spell unless its controller pays <sym-auto>2</sym-auto>. If you control three or more tokens, counter that spell instead.
+		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>Draft a card from your <param-one_word>sanctum</param-one_word></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at three random cards from your <param-one_word>sanctum</param-one_word>. Put one into your hand.)</i-auto></atom-reminder-custom></kw-A></li>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Slitherbop
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

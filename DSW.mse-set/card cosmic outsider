@@ -8,7 +8,7 @@ card:
 		https://www.deviantart.com/cayman307/art/Cosmic-Wrath-959814784
 		https://www.deviantart.com/chaotickitty/art/space-37585459
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-26 13:36:27
+	time_modified: 2026-04-04 13:49:00
 	name: Cosmic Outsider
 	casting_cost: 1U
 	image: image286.png
@@ -28,8 +28,8 @@ card:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, exile up to one target instant or sorcery card in your graveyard. You may cast a copy of that spell until end of turn by paying <sym>V/W</sym> in addition to its other costs.
 	flavor_text: <i-flavor></i-flavor>
-	power: 2
-	toughness: 1
+	power: 1
+	toughness: 2
 	illustrator: Cayman307, chaotickitty (edited)
 	card_code_text: 
 	card_code_text_2: 

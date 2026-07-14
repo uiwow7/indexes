@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: RB03,Medium Creature,3,,Bloated Processor
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-03-09 12:47:56
+	time_modified: 2026-04-04 13:48:27
 	name: Boundless Reawakener
 	casting_cost: 2B
 	image: image246.png
@@ -26,7 +26,7 @@ card:
 		At the beginning of your end step, return target creature card with mana value less than or equal to the number of noncreature spells you’ve cast this turn from your graveyard to the battlefield.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
-	toughness: 1
+	toughness: 2
 	illustrator: Ani2ad
 	card_code_text: 
 	card_code_text_2: 

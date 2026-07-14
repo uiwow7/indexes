@@ -1,0 +1,54 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: archetype, M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!sort 02
+		!group Unearth
+	time_created: 2026-04-19 16:22:10
+	time_modified: 2026-05-16 13:34:46
+	name: WB Unearth
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	sub_type: 
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		4 Comfort of Return
+		2 Knight of Finality
+		2 Trial of Midnight
+		4 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ranor</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Spectral <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lightbearer</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		4 Steel Enforcer
+		3 Forgotten <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Cliffwatcher</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		4 <kw-0><nospellcheck><key>Delve</key></nospellcheck></kw-0> into Storms
+		4 Splinter into Nightmares
+		3 </i><kw-A><i-auto><nospellcheck><key>Fracture</key></nospellcheck></i-auto></kw-A><i><i>
+		</i>3 Golden Slayer
+		2 Trap in Eternity
+		3 Sky Seer
+		4 Desolate <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Cliffside</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		4 Transcendent Towers
+		4 Prismatic Vista
+		2 Barren Heath
+		5 Swamp
+		3 Plains
+		sanctum
+		1 Trial of Midnight
+		1 Whispers of Autumn
+		1 Watch by Candlelight
+		1 Mourn Lost Virtue
+		1 Let Them Blossom
+		1 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Darkstar</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Prowler
+		1 Burn Eternally Bright
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

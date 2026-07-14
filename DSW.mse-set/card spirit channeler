@@ -3,7 +3,9 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: UU01,Small Creature,1,,Captive Weird
+	notes:
+		UU01,Small Creature,1,,Captive Weird
+		REWORK
 	time_created: 2025-06-08 00:00:00
 	time_modified: 2026-03-22 14:34:31
 	name: Spirit Channeler

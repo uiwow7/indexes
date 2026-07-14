@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!sort 30
+		!group Phoenix
+		https://www.deviantart.com/valonia-art/art/Dark-Crimson-Chronicles-Air-Elemental-907926327
+	time_created: 2026-04-18 11:35:26
+	time_modified: 2026-04-18 15:52:21
+	card_trim: legend, mutate
+	card_trim_plus: path
+	name: Hunger Arisen
+	casting_cost: 4II
+	image: image21.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>God</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Hunger Arisen</nospellcheck></atom-cardname> enters, create X 1/1 silver Mystic creature tokens, where X is half the number of cards in your graveyard, rounded down.
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: <kw-A><nospellcheck><key>Absolute</key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast your chosen divinity from your sanctum by exiling two permanents you control that share a color with it in addition to its other costs.)</i-auto></atom-reminder-custom></kw-A>
+	power: 3
+	toughness: 3
+	illustrator: Valonia-Art
+	card_code_text: DDR
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,42 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		other_options: vorthos box
+		additional_options: half frameless art
+		level_containers: arrows
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes:
+		!sort 90
+		!group Ramp
+		https://www.deviantart.com/vincet-360/art/T-h-e-G-a-l-a-x-y-204895685
+	time_created: 2026-04-20 19:11:42
+	time_modified: 2026-05-16 11:51:09
+	card_trim: frameless art
+	name: Void Channeling
+	casting_cost: 1I
+	image: image134.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: masterpiece
+	rule_text: </i><kw-A><i-auto><nospellcheck><key>Void</key></nospellcheck></i-auto></kw-A><i> Channeling deals 1 damage to each opponent for each token you control.
+	flavor_text: <i-flavor></i-flavor>
+	card_stamp: none
+	illustrator: Vincet-360
+	card_code_text: FST
+	card_code_text_2: 
+	card_code_text_3: 

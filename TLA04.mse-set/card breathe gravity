@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		DONE
+		https://www.deviantart.com/miieryu/art/Feathers-and-Clouds-899195113
+		
+		https://www.deviantart.com/gthlart/art/Rain-Spirit-854203419
+	time_created: 2022-02-26 15:29:17
+	time_modified: 2026-06-24 15:45:36
+	extra_data:
+		magic-m15-altered: ascend: 
+	border_color: rgb(5,5,5)
+	name: Breathe Gravity
+	casting_cost: 3WW
+	transformation: custom symbol one
+	image: image9
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en>Erysite</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Dragon</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-A><nospellcheck><key>Transcend <param-cost><sym>1WWW</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(At the beginning of combat, cast your chosen Erysite from your sanctum by paying its Transcend cost and exiling a Dragon creature you control.)</i-auto></atom-reminder-custom></kw-A>
+		Return any number of nonland permanent cards with total mana value 6 or less from your graveyard to the battlefield.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Gthlart
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Apriken
+	copyright_2: Apriken
+	copyright_3: Apriken

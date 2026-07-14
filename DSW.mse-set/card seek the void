@@ -1,0 +1,48 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-saga
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes:
+		CU04,Small Creature,3,flying ,Preening Champion
+		https://www.deviantart.com/3kazumi3/art/The-Conductress-1309050355#image-1
+		https://www.deviantart.com/ao-sun/art/God-of-Void-Lifiil-1289285071
+		CHANGEART
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2026-05-10 15:55:46
+	card_color_2: blue
+	name: Seek the Void
+	name_2: 
+	casting_cost: 2U
+	casting_cost_2: 
+	image: image78.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Saga</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: 
+	rule_text_2: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	level_1_text: Create a 1/1 blue Avatar creature token.
+	level_2_text: Draw two cards, then discard a card.
+	level_3_text: Until end of turn, noncreature spells you cast cost <sym-auto>1</sym-auto> less to cast.
+	power: 
+	toughness: 
+	illustrator: Yury Solntsev
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+		I — Create a 1/1 blue Avatar creature token.
+		II — Draw two cards, then discard a card.
+		III — Until end of turn, noncreature spells you cast cost <sym-auto>1</sym-auto> less to cast.

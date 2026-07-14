@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: RU02,Medium Creature,4,,Starfield Vocalist
+	time_created: 2026-02-26 00:00:00
+	time_modified: 2026-04-08 10:58:32
+	card_trim: devoid
+	name: Heartlessness
+	casting_cost: 3U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	rarity: rare
+	rule_text:
+		<kw-A><nospellcheck><key>Devoid</key></nospellcheck><atom-reminder-expert> <i-auto>(This card has no color.)</i-auto></atom-reminder-expert></kw-A>
+		If <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> would be returned from the battlefield to your hand or deck, create a token that’s a copy of it instead.
+		If a player would draw one or more cards outside of their draw step, put a +1/+1 counter on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> instead.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

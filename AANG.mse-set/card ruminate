@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!sort 10
+		!group Big Blue
+		https://www.deviantart.com/louielorry/art/Abraxas-104664195
+	time_created: 2026-04-18 17:24:45
+	time_modified: 2026-04-18 17:35:37
+	name: Ruminate
+	casting_cost: U
+	image: image33.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>.
+		Draw a card from your sanctum at random.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Louie Lorry
+	card_code_text: DON
+	card_code_text_2: 
+	card_code_text_3: 

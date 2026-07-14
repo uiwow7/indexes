@@ -23,7 +23,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: common
-	rule_text: <kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, put a  +1/+1 counter on this creature if it has none.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: <kw-A><nospellcheck><key>Infuse</key></nospellcheck><atom-reminder-custom> <i-auto>(When you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor>“The Oracles are dead, and so is <error-spelling:en_US>Drakol</error-spelling:en_US>. My home is no more.”</i-flavor>
 	power: 1
 	toughness: 1

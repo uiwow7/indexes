@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CB07,Medium Creature,4,,Gravblade Heavy
 	time_created: 2026-02-26 00:00:00
-	time_modified: 2026-03-11 12:54:00
+	time_modified: 2026-04-04 13:55:57
 	name: CB07 Unearth
 	casting_cost: 3B
 	image: 
@@ -15,6 +15,12 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en></word-list-race-en>
 	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, you may cast target creature card from your graveyard this turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

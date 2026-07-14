@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!sort 10
+		!group Big Blue
+		https://www.deviantart.com/danielbogni/art/Video-Wave-644398048
+	time_created: 2026-04-18 16:48:51
+	time_modified: 2026-04-18 17:03:32
+	name: Unrestrained Tides
+	casting_cost: 3UU
+	image: image28.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-A><nospellcheck><key>Ascend</key></nospellcheck><atom-reminder-expert> <i-auto>(If you control ten or more permanents, you get the city’s blessing for the rest of the game.)</i-auto></atom-reminder-expert></kw-A>
+		Return each nonland permanent to its owner’s hand. If you have the city’s blessing, you may cast a spell from your hand without paying its mana cost.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Daniel Bogni
+	card_code_text: FWO
+	card_code_text_2: 
+	card_code_text_3: 

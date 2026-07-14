@@ -1,0 +1,124 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2024-10-01
+stylesheet: m15-altered-plus
+stylesheet_version: 2020-09-04
+set_info:
+	title: Slush File
+	set_code: SLUSH
+	symbol: symbol19.mse-symbol
+	masterpiece_symbol: masterpiece_symbol1.mse-symbol
+	CARDNAME_replacement: card's type
+	use_gradient_multicolor: yes
+	custom_mana_symbol_name: MyrCustoms/Vertex.png
+	mana_symbol_options: enable in casting costs, enable in text boxes, colored mana symbols
+styling:
+	magic-m15-altered:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-altered-plus:
+		chop_top: 5
+		chop_bottom: 5
+		other_options: 
+		additional_options: 
+		inverted_common_symbol: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	magic-m15-mainframe-dfc:
+		dfc_type: modal with standard flags
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-dfc-plus:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-tokens:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-old:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+include_file: card phoenix of suns
+include_file: card blood phoenix
+include_file: card transcendent phoenix
+include_file: card augmented phoenix
+include_file: card augmented phoenix.1
+include_file: card rising phoenix
+include_file: card brilliant phoenix
+include_file: card magma phoenix
+include_file: card popular phoenix
+include_file: card unchained phoenix
+include_file: card military phoenix
+include_file: card regal phoenix
+include_file: card adventuruous phoenix
+include_file: card divine phoenix
+include_file: card prophetic phoenix
+include_file: card marred phoenix
+include_file: card pathborn phoenix
+include_file: card interstellar phoenix
+include_file: card adept phoenix
+include_file: card rise from ashes
+include_file: card wish for flame
+include_file: card firebird caller
+include_file: card twice-called phoenix
+include_file: card moondancer phoenix
+include_file: card phoenix of folly
+include_file: card unbroken phoenix
+include_file: card reflected phoenix
+include_file: card emsen dream phoenix
+include_file: card nebula phoenix
+include_file: card shattered phoenix
+include_file: card blossoming phoenix
+include_file: card architect of blood suns
+include_file: card roaming enchanter
+include_file: card eclipse watcher
+include_file: card cradle of growth
+include_file: card the geometric void
+include_file: card cosmic convergence
+keyword:
+	keyword: sanctify
+	match: sanctify
+	reminder: Put it into its owner’s sanctum.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Cleric’s Quest
+	match: cleric’s quest token
+	reminder: It’s a Saga enchantment with <sym>r1</sym>—Create a 1/1 white Cleric creature token, <sym>r2</sym>—You gain 2 life, and <sym>r3</sym>—Put a +1/+1 counter on up to one target creature.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Cleric’s Quest
+	match: wizard’s quest token
+	reminder: It’s a Saga enchantment with <sym>r1</sym>—Surveil 2, <sym>r2</sym>—Draw a card, and <sym>r3</sym>—Discard a card.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Warlock’s Quest
+	match: warlock’s quest token
+	reminder: It’s a Saga enchantment with <sym>r1</sym>—Draw two cards, <sym>r2</sym>—You lose 2 life, and <sym>r3</sym>—Sacrifice a creature.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Shaman’s Quest
+	match: shaman’s quest token
+	reminder: It’s a Saga enchantment with <sym>r1</sym>—This deals 2 damage to any target, <sym>r2</sym>—Target creature can’t block this turn, and <sym>r3</sym>—Discard a card.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Druid’s Quest
+	match: druid’s quest token
+	reminder: It’s a Saga enchantment with <sym>r1</sym>—You may play an additional land this turn, <sym>r2</sym>—Target creature gets +2/+2 until end of turn, and <sym>r3</sym>—You gain 2 life.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Mystic’s Quest
+	match: mystic’s quest token
+	reminder: It’s a Saga enchantment with <sym>r1</sym>—Create a 1/1 silver Mystic creature token, <sym>r2</sym>—Each opponent loses 1 life and you gain 1 life, and <sym>r3</sym>—Draw a card from your sanctum at random.
+	rules: 
+	mode: custom
+version_control:
+	type: none
+apprentice_code: 

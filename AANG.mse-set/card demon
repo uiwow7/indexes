@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes:
+		!sort 90
+		!group Unearth
+		https://www.deviantart.com/atomaurus/art/The-Akarane-547804317
+	time_created: 2026-04-20 17:36:22
+	time_modified: 2026-04-20 17:42:47
+	card_color: white, black, multicolor, horizontal
+	name: Demon
+	image: image63.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Atomaurus
+	card_code_text: DON
+	card_code_text_2: 
+	card_code_text_3: 

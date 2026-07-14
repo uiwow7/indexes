@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: UW11,Noncreature,3,,Invasion of Dominaria
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-01-11 01:52:49
+	time_modified: 2026-05-11 10:35:38
 	name: Touch of the Boundless
 	casting_cost: 1W
 	image: image207.png
@@ -21,7 +21,9 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: Destroy target tapped creature. <kw-A><nospellcheck><key>You get</key></nospellcheck> <sym>V/W</sym>.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text:
+		Destroy target tapped creature.
+		Put a +1/+1 counter or lore counter on up to one target permanent you control.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Ausp-ice
 	card_code_text: 

@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: RU03,Small Creature,3,,Invasion of Segovia
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-03-31 20:04:56
+	time_modified: 2026-04-04 13:47:41
 	name: Boundless Voidwalker
 	casting_cost: 1I
 	image: image229.png
@@ -25,8 +25,8 @@ card:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
 		When this creature enters, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym> for each noncreature, nonland, permanent you control.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
-	power: 2
-	toughness: 1
+	power: 3
+	toughness: 2
 	illustrator: Ausp-ice
 	card_code_text: 
 	card_code_text_2: 

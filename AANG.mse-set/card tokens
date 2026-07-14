@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		tokens:
+		red warrior 11
+		shaman quest
+		red shaman 11
+		druid quest
+		green druid 11
+		cleric quest
+		white cleric 11
+		green dryad 11
+		gw spirit 22 vigilance
+		green treefolk 11
+
+	time_created: 2026-05-16 09:50:49
+	time_modified: 2026-05-16 09:51:22
+	name: tokens
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

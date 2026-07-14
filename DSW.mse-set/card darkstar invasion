@@ -1,0 +1,49 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-saga
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		snap_chapter_to_box: 1,2,3,
+		chapter_divider_coordinates: 219,303,
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: CW05,Small Creature,3,,Kithkin Billyrider
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2026-05-30 11:25:56
+	card_color_2: silver
+	name: Darkstar Invasion
+	name_2: 
+	casting_cost: 2I
+	casting_cost_2: 
+	image: image355.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Saga</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: 
+	rule_text_2: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	level_1_text: Put a <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> counter on target permanent.
+	level_2_text: <atom-name>This enchantment</atom-cardname> deals 3 damage to each opponent.
+	level_3_text: Put two +1/+1 counter on another target enchantment you control. It becomes a 0/0 creature.</atom-cardname><atom-name>
+	power: 
+	toughness: 
+	illustrator: ThyBlake
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+		I — Put a <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> counter on target permanent.
+		II — <atom-name>This enchantment</atom-cardname> deals 3 damage to each opponent.
+		III — Put two +1/+1 counter on another target enchantment you control. It becomes a 0/0 creature.</atom-cardname><atom-name>

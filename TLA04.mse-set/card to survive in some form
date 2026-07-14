@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!designer Trewq
+		https://www.deviantart.com/metanagon/art/Circle-of-Life-1283143154
+	time_created: 2025-02-23 03:11:40
+	time_modified: 2026-06-24 09:26:41
+	name: To Survive in Some Form
+	casting_cost: I
+	image: image76
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text: Until end of turn, target creature you control has size 3/2 and has “When this creature dies, create a token that’s a copy of it with size 3/2.”
+	flavor_text: <i-flavor>“It’s me.”</i-flavor>
+	illustrator: Metanagon
+	card_code_text: 
+	card_code_text_2: Trewq
+	card_code_text_3: Trewq
+	copyright: 
+	copyright_2: 
+	copyright_3: 

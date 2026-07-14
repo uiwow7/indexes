@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		DONE
+		https://www.deviantart.com/maksimii2/art/Serenade-of-Silence-Fantasy-Anime-Landscape-1341216142
+	time_created: 2024-12-06 00:44:31
+	time_modified: 2026-06-25 13:13:19
+	name: Distill Virtuality
+	casting_cost: 2WW
+	image: image21
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: Exile all artifacts and enchantments. Each player gains life equal to the number of permanents they controlled that were exiled this way.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Max Harven XIII
+	additional_credit: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

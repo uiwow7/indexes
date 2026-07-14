@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!designer TVP
+		https://www.deviantart.com/guihuahuzi/art/pain-knight-971682274
+	time_created: 2025-01-18 15:32:19
+	time_modified: 2026-06-25 13:40:43
+	card_color: silver
+	name: Center Mass
+	casting_cost: I
+	image: image73
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text: <atom-name>This spell</atom-cardname> deals 1 damage to any target. <kw-A><nospellcheck><key>Surveil <param-number>3</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>three</param-number> cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: guihuahuzi
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

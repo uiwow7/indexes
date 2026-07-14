@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!sort 10
+		!group Sagas
+		https://www.deviantart.com/blackflamedesigns/art/The-Creator-God-701725744
+	time_created: 2026-04-28 10:57:34
+	time_modified: 2026-04-28 11:22:09
+	card_trim: clear, legend
+	name: Tared, First of the Divine
+	casting_cost: 8
+	image: image91.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>God</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		This spell costs <sym-auto>1</sym-auto> less to cast for each Saga you control and each Saga card in your graveyard.
+		If a chapter ability of a Saga you control would trigger, that ability triggers an additional time.
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: BlackFlameDesigns
+	card_code_text: DDR
+	card_code_text_2: 
+	card_code_text_3: 

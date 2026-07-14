@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/jstiller30/art/Orcs-aka-Mt-Krushmore-1247873244
+	time_created: 2026-04-18 11:07:10
+	time_modified: 2026-04-18 11:11:17
+	name: Frozen Effigies
+	image: image15.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Frontier</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Orc</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-A><nospellcheck><key>Verdant</key></nospellcheck><atom-reminder-custom> <i-auto>(This card can’t start in your deck. You may play it from your sanctum by exiling an untapped land you control that could produce a color this card could and a card from your hand.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto>.
+		<sym-auto>3RR</sym-auto>: This land becomes a creature until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Jstiller30
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

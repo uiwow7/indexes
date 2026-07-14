@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CW09,Small Creature,4,,Bola Slinger
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-03-20 11:05:29
+	time_modified: 2026-05-10 15:49:58
 	name: Avatar of the Door
 	casting_cost: 3W
 	image: image2.png
@@ -21,7 +21,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters or attacks, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/W</sym>.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: Whenever a Saga you control enters, put a lore counter on it.
 	flavor_text: <i-flavor>Some stood at the edges of the paths, taking in other worlds while still rooted in one.</i-flavor>
 	power: 3
 	toughness: 4

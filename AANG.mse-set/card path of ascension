@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!sort 10
+		!group Sagas
+		https://www.deviantart.com/blackflamedesigns/art/Infinity-891573606
+	time_created: 2026-04-28 13:23:18
+	time_modified: 2026-04-28 13:31:58
+	name: Path of Ascension
+	casting_cost: 1U
+	image: image94.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: At the beginning of your end step, if an enchantment you control left the battlefield this turn, create a <kw-A><nospellcheck><key>Wizard’s Quest token</key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s a Saga enchantment with <sym>r1</sym>—Create a 1/1 blue Wizard creature token, <sym>r2</sym>—Surveil <nosym>2</nosym>, and <sym>r3</sym>—Draw a card.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: BlackFlameDesigns
+	card_code_text: DDR
+	card_code_text_2: 
+	card_code_text_3: 

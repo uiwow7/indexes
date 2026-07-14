@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!sort 30
+		!group Phoenix
+		https://www.deviantart.com/jstiller30/art/Streampaint-711-1103223124
+	time_created: 2026-04-18 10:59:56
+	time_modified: 2026-04-18 11:22:43
+	card_trim: mutate
+	card_trim_plus: path
+	name: Untouched Pinnacles
+	image: image17.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>I</sym-auto> or <sym-auto>R</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: <kw-A><nospellcheck><key>Verdant</key></nospellcheck><atom-reminder-custom> <i-auto>(This card can’t start in your deck. <sym-auto>1</sym-auto>, Exile an untapped land you control as a sorcery: Put this card from your sanctum onto the battlefield.)</i-auto></atom-reminder-custom></kw-A>
+	illustrator: Jstiller30
+	card_code_text: FWO
+	card_code_text_2: 
+	card_code_text_3: 

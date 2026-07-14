@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: RR01,Small Creature,2,flying ,Bloodfeather Phoenix
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-01-11 02:05:30
+	time_modified: 2026-04-04 13:48:15
 	name: Observer of Infernos
 	casting_cost: 1R
 	image: image196.png
@@ -24,7 +24,7 @@ card:
 	rule_text: Discard a card: Exile the top card of your library. You may play it this turn. Activate only once during each of your turns.
 	flavor_text: <i-flavor>“Their world is fire yet they survive.”</i-flavor>
 	power: 2
-	toughness: 1
+	toughness: 2
 	illustrator: Miloecute
 	card_code_text: 
 	card_code_text_2: 

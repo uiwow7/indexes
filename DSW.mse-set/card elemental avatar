@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-03-31 20:39:06
-	time_modified: 2026-03-31 21:03:20
+	time_modified: 2026-05-10 22:48:15
 	card_color: green
 	name: Elemental Avatar
 	image: image343.png
@@ -20,8 +20,10 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	power: X
-	toughness: X
+	rule_text: <atom-name>This creature</atom-cardname> gets +1/+1 for each counter on it.
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 0
 	illustrator: Dracaena53
 	card_code_text: 
 	card_code_text_2: 

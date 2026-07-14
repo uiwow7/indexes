@@ -1,0 +1,45 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-saga
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		auto_frames: vehicle, snow, universes beyond
+		other_options: nyx
+		custom_border_source: space/-color-space.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!group Sagas
+		!sort 90
+		https://www.deviantart.com/irislupe/art/Quest-846853173
+	time_created: 2026-04-18 19:35:03
+	time_modified: 2026-05-16 09:54:34
+	card_color: green
+	name: Druid’s Quest
+	image: image50.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Saga</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: Create a 1/1 green Druid creature token.
+	level_2_text: You may play an additional land this turn.
+	level_3_text: Target creature gets +2/+2 until end of turn.
+	illustrator: IrisLupe
+	card_code_text: DDR
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+		I — Create a 1/1 green Druid creature token.
+		II — You may play an additional land this turn.
+		III — Target creature gets +2/+2 until end of turn.

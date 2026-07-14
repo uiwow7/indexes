@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		center_text: always
+		other_options: vorthos box
+		level_containers: arrows
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	notes:
+		!sort 10
+		!group Aggro
+		https://www.deviantart.com/majentta/art/Fourth-State-580997433
+	time_created: 2026-04-22 13:22:42
+	time_modified: 2026-04-22 13:27:40
+	name: Lightning Strike
+	casting_cost: 1R
+	image: image90.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <atom-cardname><nospellcheck>Lightning Strike</nospellcheck></atom-cardname> deals 3 damage to any target.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Majentta
+	card_code_text: FST
+	card_code_text_2: 
+	card_code_text_3: 

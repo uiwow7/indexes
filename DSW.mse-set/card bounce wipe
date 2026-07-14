@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes:
+		RU09,Noncreature,5,,Invasion of Arcavios
+		https://www.deviantart.com/valonia-art/art/Celestial-Dragon-917401080
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2026-05-04 09:49:09
+	name: BOUNCE WIPE
+	casting_cost: 2UU
+	image: image267.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Return all nonland permanents to their owner’s hands, then each player may cast a spell with mana value 3 or less from their hand without paying its mana cost.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Valonia-Art
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

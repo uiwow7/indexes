@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		frames: clear
+		unsorted_casting_cost: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		promo: no
+		overlay: 
+	notes: Create a tapped token that’s a copy of target land if it’s basic or if you’ve illuminated silver. Then untap that token if you’ve illuminated silver.
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2026-06-23 16:44:24
+	name: Perspective Shift
+	casting_cost: 2I
+	image: image63
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: mythic rare
+	rule_text:
+		<kw-A><nospellcheck><key>Luminous</key></nospellcheck><atom-reminder-custom> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-custom></kw-A>
+		Target creature becomes an enchantment land. <i-auto>(It loses all other card types.)</i-auto> It gains “<sym-auto>TTT</sym-auto>: Add <sym-auto>I</sym-auto>.” If you’ve illuminated silver, it loses all abilities.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Jeffery Smith
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

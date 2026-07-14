@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!sort 10
+		!group Unearth
+		https://www.deviantart.com/cofecofecofe/art/Also-finished-free-comms-just-a-little-different-1323420037
+	time_created: 2026-04-20 14:20:18
+	time_modified: 2026-04-20 16:29:54
+	name: Splinter into Nightmares
+	casting_cost: 1B
+	image: image46.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: Destroy target creature. You lose 3 life unless you sacrifice a nonland permanent or discard a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: cofecofecofe
+	card_code_text: DON
+	card_code_text_2: 
+	card_code_text_3: 

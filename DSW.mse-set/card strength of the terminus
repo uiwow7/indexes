@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: MG01,Large Creature,5,,Vorinclex
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-03-05 19:59:03
+	time_modified: 2026-04-04 13:46:17
 	name: Strength of the Terminus
 	casting_cost: 2GGG
 	image: image240.png
@@ -25,7 +25,7 @@ card:
 		Creatures you control with power 4 or greater have <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>. 
 		Whenever one or more creatures you control with power 4 or greater attack, put a +1/+1 counter on each of them and draw a card.</atom-cardname><atom-name>
 	flavor_text: <i-flavor></i-flavor>
-	power: 4
+	power: 6
 	toughness: 4
 	illustrator: ERA7
 	card_code_text: 

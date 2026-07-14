@@ -7,7 +7,7 @@ card:
 		RM07,Medium Creature,5,RW RW RW ,Quintorius, Loremaster
 		https://www.deviantart.com/louivi/art/Lumi-07-1018373511
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-03-10 21:07:16
+	time_modified: 2026-05-10 16:21:42
 	name: Blind Navigator
 	casting_cost: 1UR
 	image: image293.png
@@ -23,7 +23,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: Whenever you cast a Vertex spell, copy it. You may choose new targets for the copy.
+	rule_text: If a chapter ability of a Saga you control would trigger, it triggers an additional time.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3

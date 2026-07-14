@@ -3,9 +3,11 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: CU01,Small Creature,2,,Order of the Mirror
+	notes:
+		CU01,Small Creature,2,,Order of the Mirror
+		The Celestial tree guides those who traverse the paths, making sure they reach outwards and expand.
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-03-09 12:49:15
+	time_modified: 2026-05-10 19:26:51
 	name: Warden of the Celestial Tree
 	casting_cost: U
 	image: image4.png
@@ -21,8 +23,10 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: common
-	rule_text: Whenever another Avatar you control enters, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym>.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
-	flavor_text: <i-flavor>The Celestial tree guides those who traverse the paths, making sure they reach outwards and expand.</i-flavor>
+	rule_text:
+		<sym-auto>1U</sym-auto>: Return an Avatar you control to its owner’s hand, then draw a card and discard a card. Activate only as a sorcery.
+		<kw-A><nospellcheck><key>Starfall <param-cost><sym-auto>1U</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>1U</sym-auto></param-cost>, Exile this card from your graveyard: Create a Saga enchantment token with “<sym>r3</sym>: You may cast a copy the exiled card without paying its mana cost.”)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
 	illustrator: Samuel Speziali

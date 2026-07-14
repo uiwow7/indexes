@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: archetype, M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!sort 02
+		!group Scam
+	time_created: 2026-04-29 13:31:08
+	time_modified: 2026-05-17 10:52:44
+	name: UB Scam
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	sub_type: 
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		4 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Depthseeker</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		4 Nightstalker
+		3 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Stoneborn</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Crab
+		2 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>warper</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		4 Singularity Distortion
+		3 blink
+		2 From Eternity’s Grasp
+		4 Splinter into Nightmares
+		3 Galaxy Rings
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>MIDRANGEGUYS</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> FOR REST
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!sort 10
+		!group Sagas
+		https://www.deviantart.com/joelchaimholtzman/art/Noaidi-794259298
+	time_created: 2026-04-28 11:08:15
+	time_modified: 2026-04-28 11:16:12
+	card_trim: adventure omen
+	name: Druidic Visionary
+	name_2: Seek Wishes
+	casting_cost: 2G
+	casting_cost_2: G
+	image: image97.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Druid</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: <word-list-spell>Omen</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: When <atom-cardname><nospellcheck>Druidic Visionary</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Druid’s Quest token</key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s a Saga enchantment with <sym>r1</sym>—Create a 1/1 green Druid creature token, <sym>r2</sym>—You may play an additional land this turn, and <sym>r3</sym>—Target creature gets +2/+2 until end of turn.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text_2: Search your library for a basic land card, reveal it, put it into your hand, then shuffle. <i-auto>(Also shuffle this card.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 0
+	toughness: 3
+	illustrator: Joel Chaim Holtzman
+	card_code_text: DDR
+	card_code_text_2: 
+	card_code_text_3: 

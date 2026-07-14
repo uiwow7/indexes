@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!sort 30
+		!group Phoenix
+	time_created: 2026-04-18 11:19:15
+	time_modified: 2026-04-18 11:31:20
+	card_trim: mutate
+	card_trim_plus: path
+	name: Behold True Suns
+	casting_cost: 1R
+	image: image19.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		As an additional cost to cast <atom-cardname><nospellcheck>Behold True Suns</nospellcheck></atom-cardname>, discard a card.
+		Draw two cards.
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: <kw-A><nospellcheck><key>Skyward</key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this spell from your sanctum as though it had flash by exiling an instant or sorcery spell you control that isn’t being targeted.)</i-auto></atom-reminder-custom></kw-A>
+	illustrator: Cobaltplasma
+	card_code_text: FST
+	card_code_text_2: 
+	card_code_text_3: 

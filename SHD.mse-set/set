@@ -22,6 +22,9 @@ set_info:
 	custom_creature_classes: 
 	custom_index: rarity,color
 styling:
+	magic-m15-adventure:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	magic-m15-altered:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -81,16 +84,16 @@ include_file: card cb12 noncreature
 include_file: card cb13 noncreature
 include_file: card cb14 delve
 include_file: card cb15 delve
-include_file: card cr01 small creature
-include_file: card cr02 small creature
-include_file: card cr03 small creature
-include_file: card cr04 small creature
-include_file: card cr05 medium creature
-include_file: card cr06 medium creature
-include_file: card cr07 medium creature
-include_file: card cr08 medium creature
-include_file: card cr09 medium creature
-include_file: card cr10 large creature
+include_file: card cr01 exiler
+include_file: card cr02 horrors
+include_file: card cr03 augury
+include_file: card cr04 horrors
+include_file: card cr05 warpayoff
+include_file: card cr06 small
+include_file: card cr07 warper  horrors
+include_file: card cr08 small  horrors
+include_file: card cr09 delve  augury  small
+include_file: card cr10 warper  small
 include_file: card cr11 noncreature
 include_file: card cr12 noncreature
 include_file: card cr13 noncreature
@@ -224,14 +227,14 @@ include_file: card ua05 noncreature
 include_file: card rw01 small creature
 include_file: card rw02 small creature
 include_file: card rw03 medium creature
-include_file: card rw04 medium creature
+include_file: card retribution
 include_file: card rw05 large creature
 include_file: card rw06 noncreature
 include_file: card rw07 noncreature
 include_file: card rw08 noncreature
 include_file: card rw09 noncreature
 include_file: card ru01 smallwall creature
-include_file: card ru02 medium creature
+include_file: card heartlessness
 include_file: card ru03 medium creature
 include_file: card ru04 large creature
 include_file: card ru05 noncreature
@@ -239,7 +242,6 @@ include_file: card ru06 noncreature
 include_file: card ru07 noncreature
 include_file: card rb01 small creature
 include_file: card rb02 medium creature
-include_file: card rb03 medium creature
 include_file: card rb04 noncreature
 include_file: card rb05 noncreature
 include_file: card rb06 noncreature
@@ -247,7 +249,6 @@ include_file: card rb07 noncreature
 include_file: card rb08 noncreature
 include_file: card rr01 small creature
 include_file: card rr02 medium creature
-include_file: card rr03 large creature
 include_file: card rr04 noncreature
 include_file: card rr05 noncreature
 include_file: card rr06 noncreature
@@ -255,7 +256,6 @@ include_file: card rr07 noncreature
 include_file: card rr08 noncreature
 include_file: card rg01 medium creature
 include_file: card rg02 medium creature
-include_file: card rg03 medium creature
 include_file: card rg04 noncreature
 include_file: card rg05 noncreature
 include_file: card rg06 noncreature
@@ -316,6 +316,15 @@ include_file: card um08 medium creature.1
 include_file: card big dragon
 include_file: card fireface
 include_file: card fire-elk
+include_file: card indecision
+include_file: card disregard
+include_file: card burden
+include_file: card trena arthold
+include_file: card progenitor of fate
+include_file: card progenitor of honor
+include_file: card progenitor of knowledge
+include_file: card progenitor of chaos
+include_file: card progenitor of potential
 keyword:
 	keyword: Augury
 	match: Augury
@@ -325,7 +334,7 @@ keyword:
 keyword:
 	keyword: Revere
 	match: revere
-	reminder: Put a Celestial card you own from outside the game into your hand or graveyard. If a card wasn’t put into your hand, create a Clue token.
+	reminder: {handle_action_rt(to:"revere", "Put")} a Celestial card you own from outside the game into your hand or graveyard. If a card wasn’t put into your hand, create a Clue token.
 	rules: 
 	mode: custom
 keyword:

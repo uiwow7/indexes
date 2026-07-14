@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/smiling-demon/art/His-Crown-707723728
+	time_created: 2026-05-16 11:51:52
+	time_modified: 2026-05-17 10:49:24
+	name: Spatial Conflux
+	casting_cost: 3GGG
+	image: image137.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: Reveal the top seven cards of your library, then choose up to five cards with different card types from among them. You may cast any number of spells with total mana value five or less from among those cards and put the rest into your hand.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Alastair Temple
+	card_code_text: RGA
+	card_code_text_2: 
+	card_code_text_3: 

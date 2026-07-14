@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/carlos-a-m/art/Sunrise-1332891460
+	time_created: 2026-05-14 17:44:53
+	time_modified: 2026-05-14 17:51:46
+	name: The Geometric Void
+	casting_cost: 16
+	image: image33.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-A><nospellcheck><key>Affinity for <param-name>artifacts</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(This spell costs <sym>1</sym> less to cast for each <param-name>artifact</param-name> you control.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> enters, exile target creature with mana value nine or less.
+		Whenever you cast a spell, create a 1/1 colorless Spirit creature token. If you spent four or more mana to cast it, put a +1/+1 counter on each creature you control.</atom-cardname><atom-name>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Carlos-A-M
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

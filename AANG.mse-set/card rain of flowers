@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!sort 30
+		!group Phoenix
+		https://www.deviantart.com/moondustdreams/art/Voyage-493904680
+	time_created: 2026-04-18 10:56:31
+	time_modified: 2026-04-18 18:55:21
+	card_trim: mutate
+	card_trim_plus: path
+	name: Rain of Flowers
+	casting_cost: 1I
+	image: image41.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: <kw-A><nospellcheck><key>Forgive <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck>. Activate only if there are eight or more cards in your sanctum.<atom-reminder-custom> <i-auto>(<param-cost><sym-auto>2</sym-auto></param-cost>, Reveal this card from your sanctum as a sorcery: Exile it. You may play it during your next turn.)</i-auto></atom-reminder-custom></kw-A>
+	illustrator: Moondustdreams
+	card_code_text: QES
+	card_code_text_2: 
+	card_code_text_3: 

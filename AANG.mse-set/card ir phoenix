@@ -1,0 +1,56 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: archetype
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !sort 02
+	time_created: 2026-04-18 08:25:56
+	time_modified: 2026-04-18 12:53:32
+	name: IR Phoenix
+	casting_cost: W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	sub_type: 
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		4 Find Order in Chaos
+		4 In the World of Dreams
+		4 <kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a> for Enlightenment
+		3 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Naer</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, King of <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Talan</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		2 Read the Stars
+		4 Piercing Lightning
+		4 Center Mass
+		2 Path to Infinity
+		4 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Starfall</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Phoenix
+		3 Tannin Explorer
+		3 Sunset Seeker
+		3 Herald of Flame
+		3 Twisting Turmoil
+		4 Sunlit Cliffs
+		2 Towering Spires
+		4 Mystical Valley
+		4 Divine Gateway
+		2 Mountain
+		2 Fault
+		sanctum
+		1 Rain of Flowers
+		1 Untouched Pinnacles
+		1 Unbroken Effigies
+		1 Village on the Peaks
+		1 Behold True Suns
+		1 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Starseeker</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Whale
+		1 Hunger Arisen
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

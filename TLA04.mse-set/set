@@ -1,0 +1,92 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2024-10-01
+stylesheet: m15-showcase-strixhaven
+stylesheet_version: 2021-06-01
+set_info:
+	title: Lexarcanum Marina
+	set_code: TLA04
+	symbol: symbol6.mse-symbol
+	masterpiece_symbol: 
+	custom_mana_symbol_name: MyrCustoms/Vertex.png
+	mana_symbol_options: enable in casting costs, enable in text boxes, colored mana symbols
+styling:
+	magic-m15-altered:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-altered-plus:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+	magic-m15-saga:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-showcase-strixhaven:
+		frames: clear
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		promo: no
+		overlay: 
+include_file: card albedo arbalest
+include_file: card metallic mirage
+include_file: card occult occlusion
+include_file: card roughness rails
+include_file: card subsurface scattering
+include_file: card breathe gravity
+include_file: card echo eternity
+include_file: card clutch divinity
+include_file: card ingest infinity
+include_file: card ream possibility
+include_file: card blinding majesty
+include_file: card distill virtuality
+include_file: card energy tax
+include_file: card left to wander
+include_file: card the great tear
+include_file: card trust in the future
+include_file: card yearn for the sky
+include_file: card a better yesterday
+include_file: card door to clear skies
+include_file: card eusocial signal
+include_file: card extrude wisdom
+include_file: card heavy tutelage
+include_file: card iterate
+include_file: card nilshroud storm
+include_file: card timecoil tracings
+include_file: card abiogenesis
+include_file: card catharsis of grief
+include_file: card contagious murder
+include_file: card corrupted wish
+include_file: card final word
+include_file: card on the knifes edge
+include_file: card pioneers premonition
+include_file: card stare at the stars
+include_file: card abstracted rapture
+include_file: card burnout
+include_file: card call to revolution
+include_file: card cascade coherency failure
+include_file: card controlled calamity
+include_file: card grifters ambush
+include_file: card overharvest
+include_file: card spoils of scarcity
+include_file: card subvert the light
+include_file: card trounce
+include_file: card beseech the eldmother
+include_file: card dyads dance
+include_file: card exhuberant genesis
+include_file: card infested heart
+include_file: card lamplure
+include_file: card pestilent meeting
+include_file: card stand your ground
+include_file: card ancient interference
+include_file: card back to market
+include_file: card blank
+include_file: card center mass
+include_file: card liminal ambiguity
+include_file: card probe the veil
+include_file: card to survive in some form
+include_file: card unweave
+include_file: card restlessness
+include_file: card a flock is born
+include_file: card witness totality
+version_control:
+	type: none
+apprentice_code: 

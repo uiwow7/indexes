@@ -1,0 +1,113 @@
+﻿mse_version: 0.3.5
+part:
+	type: shape
+	name: Star
+	combine: subtract
+	point:
+		position: (0.5236045348,0.1196962494)
+		lock: free
+		line_after: line
+	point:
+		position: (0.6073446591,0.3903546751)
+		lock: free
+		line_after: line
+	point:
+		position: (0.8783333938,0.3903546751)
+		lock: free
+		line_after: line
+	point:
+		position: (0.6590989022,0.5576307814)
+		lock: free
+		line_after: line
+	point:
+		position: (0.7428390265,0.8282892070)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5236045348,0.6610131007)
+		lock: free
+		line_after: line
+	point:
+		position: (0.3043700432,0.8282892070)
+		lock: free
+		line_after: line
+	point:
+		position: (0.3881101675,0.5576307814)
+		lock: free
+		line_after: line
+	point:
+		position: (0.1688756759,0.3903546751)
+		lock: free
+		line_after: line
+	point:
+		position: (0.4398644105,0.3903546751)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: Star
+	combine: overlap
+	point:
+		position: (0.5212765957,0.1382978723)
+		lock: free
+		line_after: line
+	point:
+		position: (0.6000705616,0.3929697030)
+		lock: free
+		line_after: line
+	point:
+		position: (0.8550531915,0.3929697030)
+		lock: free
+		line_after: line
+	point:
+		position: (0.6487679107,0.5503655503)
+		lock: free
+		line_after: line
+	point:
+		position: (0.7275618766,0.8050373810)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5212765957,0.6476415337)
+		lock: free
+		line_after: line
+	point:
+		position: (0.3149913149,0.8050373810)
+		lock: free
+		line_after: line
+	point:
+		position: (0.3937852808,0.5503655503)
+		lock: free
+		line_after: line
+	point:
+		position: (0.1875000000,0.3929697030)
+		lock: free
+		line_after: line
+	point:
+		position: (0.4424826299,0.3929697030)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: Pentagon
+	combine: overlap
+	point:
+		position: (0.5231973012,0.9694021400)
+		lock: free
+		line_after: line
+	point:
+		position: (0.0948206996,0.6486837045)
+		lock: free
+		line_after: line
+	point:
+		position: (0.2580756504,0.1292696386)
+		lock: free
+		line_after: line
+	point:
+		position: (0.7873493604,0.1289725270)
+		lock: free
+		line_after: line
+	point:
+		position: (0.9512035517,0.6482029679)
+		lock: free
+		line_after: line

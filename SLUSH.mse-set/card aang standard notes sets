@@ -1,0 +1,42 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: archetype
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-04-18 08:25:56
+	time_modified: 2026-04-18 08:57:38
+	name: Aang Standard Notes: Sets
+	casting_cost: W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	sub_type: 
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Sets:
+		<li><bullet>• </bullet><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>FST</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <i-auto>(Falling Stars — Space set)</i-auto>
+		</li><li><bullet>• </bullet>DON <i-auto>(Dreams of <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Nasen</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> — Surreal dream set)</i-auto>
+		</li><li><bullet>• </bullet><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>RGA</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <i-auto>(<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Rallea</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>: Golden Age — <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Scifi</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> set)</i-auto>
+		</li><li><bullet>• </bullet><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>FWO</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <i-auto>(Forsaken Worlds — Bloomburrow alike where humans come back)</i-auto>
+		</li><li><bullet>• </bullet><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>DDR</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <i-auto>(<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Drakol</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>: Divinity Rising — Generic fantasy set)</i-auto>
+		</li><li><bullet>• </bullet><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>QES</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <i-auto>(<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Qianlin</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>: Eternally Sealed — East <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>asia</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> setting)</i-auto>
+		<margin:0:0:5></li></margin:0:0:5>
+		<margin:0:0:5><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>FST</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> mechanics:</margin:0:0:5>
+		<li><bullet>• </bullet>Realize
+		</li><li><bullet>• </bullet>Skyward <i-auto>(You may cast this spell from your sanctum as though it had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> by exiling an instant or sorcery spell you control.)</i-auto>
+		</li><li><bullet>• </bullet>Conjure
+		</li><li><bullet>• </bullet>Warp <i-auto>(horrors)</i-auto></li>
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

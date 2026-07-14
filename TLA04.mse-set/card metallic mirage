@@ -1,0 +1,45 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-showcase-strixhaven
+	stylesheet_version: 2021-06-01
+	has_styling: true
+	styling_data:
+		d20_dividers: all breaks
+		frames: clear
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		promo: no
+		overlay: 
+	notes: https://www.deviantart.com/mikailil/art/Drones-900252733
+	time_created: 2023-03-12 05:12:25
+	time_modified: 2026-06-24 09:12:22
+	name: Metallic Mirage
+	casting_cost: 2U
+	image: image2
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell>Shader</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	chapter_text: 
+	rule_text:
+		<i-auto>(This spell gains effects based on the sources of mana spent to cast it.)</i-auto>
+		<b>Land</b> | Return target spell or nonland permanent to its owner’s hand.
+		<b>Creature</b> | When you cast your next noncreature spell this turn, copy it. You may choose new targets for the copies.
+		<b>Sorcery</b> |Add <sym>CCC</sym>.
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: 
+	level_2_text: 
+	level_3_text: 
+	level_4_text: 
+	illustrator: MIKAILIL
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Utaha
+	copyright_2: Utaha
+	copyright_3: Utaha
+	special_text: 

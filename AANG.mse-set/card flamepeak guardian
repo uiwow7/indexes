@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!sort 10
+		!group Aggro
+		https://www.deviantart.com/lavam00/art/Tiger-guardian-973388272
+	time_created: 2026-04-20 19:00:05
+	time_modified: 2026-04-20 19:17:06
+	name: Flamepeak Guardian
+	casting_cost: R
+	image: image73.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
+		<kw-A><i-auto><nospellcheck><key>Landfall</key></nospellcheck></i-auto></kw-A> — Whenever a land you control enters, <atom-cardname><nospellcheck>Flamepeak Guardian</nospellcheck></atom-cardname> deals 1 damage to each opponent.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Nicoleta Stavarache
+	card_code_text: FWO
+	card_code_text_2: 
+	card_code_text_3: 

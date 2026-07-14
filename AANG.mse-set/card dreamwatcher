@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!sort 10
+		!group Sagas
+		https://www.deviantart.com/atomaurus/art/Reflections-651916525
+	time_created: 2026-04-28 11:18:25
+	time_modified: 2026-04-28 12:57:57
+	name: Dreamwatcher
+	casting_cost: 1U
+	image: image98.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: When <atom-cardname><nospellcheck>Dreamwatcher</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>dream</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Reveal a Dream card from your sanctum and put it into your hand or draw a card.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Atomaurus
+	card_code_text: DON
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!sort 10
+		!group Aggro
+		https://www.deviantart.com/llassie/art/Untitled-874424041
+	time_created: 2026-04-20 19:06:52
+	time_modified: 2026-04-20 19:11:39
+	name: Aurora Reader
+	casting_cost: R
+	image: image70.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elk</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever <atom-cardname><nospellcheck>Aurora Reader</nospellcheck></atom-cardname> attacks, conjure a card named Seek the Stars into your hand. <i-auto>(It’s a <sym>R</sym> sorcery with “Seek the Stars deals 1 damage to each opponent.”)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Llassie
+	card_code_text: FST
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: archetype
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-04-18 08:25:56
+	time_modified: 2026-04-18 10:13:36
+	name: Aang Standard Notes: Sets (pt3)
+	casting_cost: W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	sub_type: 
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>DDR</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> mechanics:
+		<li><bullet>• </bullet>Omens
+		</li><li><bullet>• </bullet><kw-A><i-auto><nospellcheck><key>Ascension</key></nospellcheck></i-auto></kw-A> <i-auto>(ability word: When a card leaves grave)</i-auto>
+		</li><li><bullet>• </bullet>saga tokens <i-auto>(life-token-counter, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>surveil</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>-draw-discard, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>bigpayoff</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>-discard-sac, damage-damage-discard, land-pump-life, selection-token-drain)</i-auto>
+		</li><li><bullet>• </bullet>companion-alike for gods <i-auto>(exile two perms that share a color with them)</i-auto>
+		<margin:0:0:5></li></margin:0:0:5>
+		<margin:0:0:5><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>QES</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> mechanics:</margin:0:0:5>
+		<li><bullet>• </bullet><kw-0><nospellcheck><key>Delve</key></nospellcheck></kw-0>
+		</li><li><bullet>• </bullet>evoke
+		</li><li><bullet>• </bullet>mobilize
+		</li><li><bullet>• </bullet><font:Gotham Pro Black>FORGIVE</font> <i-auto>([cost], reveal this from your sanctum: Put it into your graveyard)</i-auto></li>
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

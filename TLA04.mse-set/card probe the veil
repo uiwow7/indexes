@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-showcase-strixhaven
+	stylesheet_version: 2021-06-01
+	has_styling: true
+	styling_data:
+		frames: clear
+		unsorted_casting_cost: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		promo: no
+		overlay: 
+	notes:
+		https://www.deviantart.com/maksimii2/art/Dark-Green-Energy-Tornado-Landscape-1337584124
+		https://www.deviantart.com/liktar/art/TWWM-Quest-Shattered-Peaks-Ch2-784285640
+	time_created: 2024-04-02 01:24:54
+	time_modified: 2026-06-25 13:40:55
+	name: Probe the Veil
+	casting_cost: 2I
+	image: image75
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text: Draw a card, then exchange any number of cards in your hand and sanctum.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Liktar
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Set by Tvpattack
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack

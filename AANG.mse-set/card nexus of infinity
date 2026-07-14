@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/sylviaritter/art/Speedpainting-01122025-1270235963
+	time_created: 2026-05-16 11:32:40
+	time_modified: 2026-05-16 11:36:57
+	name: Nexus of Infinity
+	casting_cost: 1I
+	image: image129.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Target creature gets +X/-X until end of turn, where X is the number of lands you control.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sylvia Ritter
+	card_code_text: FST
+	card_code_text_2: 
+	card_code_text_3: 

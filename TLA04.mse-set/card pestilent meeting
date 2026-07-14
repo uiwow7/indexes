@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/tintoad/art/The-Stuepp-and-Kuma-Lisa-cmm-1303666409?file=1
+	time_created: 2026-06-24 16:15:35
+	time_modified: 2026-06-24 16:23:59
+	name: Pestilent Meeting
+	casting_cost: 1G
+	image: image51
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: Search your library for a land card, put it onto the battlefield tapped, then shuffle. If it wasn’t basic, sacrifice a land.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: TinToad
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

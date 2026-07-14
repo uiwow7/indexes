@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-saga
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		auto_frames: vehicle, snow, universes beyond
+		other_options: custom border
+		custom_border_source: space/-color-space.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!sort 30
+		!group Unearth
+		https://www.deviantart.com/louielorry/art/Autumn-Sycamore-511080950
+	time_created: 2026-04-20 15:22:50
+	time_modified: 2026-04-20 16:38:07
+	name: Whispers of Autumn
+	casting_cost: 1W
+	image: image72.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Saga</word-list-enchantment><atom-sep> </atom-sep><word-list-enchantment>Dream</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: You gain 3 life.
+	level_2_text: Create a 1/1 white Cleric creature token with <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
+	level_3_text: Creatures you control get +1/+1 until end of turn.
+	illustrator: Louie Lorry
+	card_code_text: DON
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+		I — You gain 3 life.
+		II — Create a 1/1 white Cleric creature token with <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
+		III — Creatures you control get +1/+1 until end of turn.

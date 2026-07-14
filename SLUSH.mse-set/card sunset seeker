@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/drunk-ferret/art/I-see-the-light-1068022556
+	time_created: 2026-04-18 09:20:30
+	time_modified: 2026-04-18 09:36:42
+	name: Sunset Seeker
+	casting_cost: IR
+	image: image36.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Mystic</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		Whenever you cast your second noncreature spell each turn, create a <kw-A><nospellcheck><key>Mystic’s Quest token</key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s a Saga enchantment with <sym>r1</sym>—Create a 1/1 silver Mystic creature token, <sym>r2</sym>—Each opponent loses 1 life and you gain 1 life, and <sym>r3</sym>—Draw a card from your sanctum at random.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Drunk-Ferret
+	card_code_text: DDR
+	card_code_text_2: 
+	card_code_text_3: 

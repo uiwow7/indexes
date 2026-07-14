@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/lcaillot/art/ECLIPSE-953335320
+	time_created: 2026-05-14 17:39:05
+	time_modified: 2026-05-14 17:42:49
+	card_trim: adventure omen
+	name: Eclipse Watcher
+	name_2: The Stars Await
+	casting_cost: BBB
+	casting_cost_2: B
+	image: image38.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Bird</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: <word-list-spell>Omen</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, search your library for a card, put it into your graveyard, then shuffle.
+	rule_text_2: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. <i-auto>(Then shuffle this card into its owner’s library.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: lcaillot
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

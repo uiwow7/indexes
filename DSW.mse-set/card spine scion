@@ -7,7 +7,7 @@ card:
 		UR05,Medium Creature,4,,Scrappy Bruiser
 		Noble???
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-26 18:26:38
+	time_modified: 2026-05-10 21:19:35
 	name: Spine Scion
 	casting_cost: 3R
 	image: image213.png
@@ -24,8 +24,8 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		At the beginning of your first main phase, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym>.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
-		Whenever you cast a noncreature spell, <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> deals 1 damage to each opponent.
+		Discard a card: Target creature you control gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+		<kw-A><nospellcheck><key>Starfall <param-cost><sym-auto>2R</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>2R</sym-auto></param-cost>, Exile this card from your graveyard: Create a Saga enchantment token with “<sym>r3</sym>: You may cast a copy the exiled card without paying its mana cost.”)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 
@@ -34,7 +34,7 @@ card:
 	flavor_text_3: <i-flavor></i-flavor>
 	flavor_text_4: <i-flavor></i-flavor>
 	power: 3
-	toughness: 2
+	toughness: 3
 	illustrator: Ausp-ice
 	card_code_text: 
 	card_code_text_2: 

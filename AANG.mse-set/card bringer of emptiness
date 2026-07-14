@@ -1,0 +1,44 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes: https://www.deviantart.com/artofcako/art/Untitled-1287599897
+	time_created: 2026-05-16 11:37:19
+	time_modified: 2026-05-16 11:57:33
+	name: Bringer of Emptiness
+	casting_cost: 3II
+	image: image138.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-planeswalker>Ita</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	loyalty_cost_1: +1
+	loyalty_cost_2: -1
+	loyalty_cost_3: -5
+	loyalty: 5
+	level_1_text: <margin:130:0:0>Create a 1/1 silver Horror creature token with <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Conjure a card named </i><kw-A><i-auto><nospellcheck><key>Void</key></nospellcheck></i-auto></kw-A><i> Channeling into your hand. <i-auto>(It’s a <sym>1I</sym> Sorcery with “<kw-A><i-auto><nospellcheck><key>Void</key></nospellcheck></i-auto></kw-A> Channeling deals 1 damage to each opponent for each token you control.”)</i-auto></margin:130:0:0>
+	level_3_text: <margin:130:0:0>Return target permanent card from your graveyard to the battlefield.</margin:130:0:0>
+	level_4_text: 
+	level_5_text: 
+	power: 
+	toughness: 
+	illustrator: artofcako
+	card_code_text: FST
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		[+1]: <margin:130:0:0>Create a 1/1 silver Horror creature token with <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>.</margin:130:0:0>
+		[-1]: <margin:130:0:0>Conjure a card named </i><kw-A><i-auto><nospellcheck><key>Void</key></nospellcheck></i-auto></kw-A><i> Channeling into your hand. <i-auto>(It’s a <sym>1I</sym> Sorcery with “<kw-A><i-auto><nospellcheck><key>Void</key></nospellcheck></i-auto></kw-A> Channeling deals 1 damage to each opponent for each token you control.”)</i-auto></margin:130:0:0>
+		[-5]: <margin:130:0:0>Return target permanent card from your graveyard to the battlefield.</margin:130:0:0>

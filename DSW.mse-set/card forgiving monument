@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/luxvestraart/art/The-Lotus-Flower-Phoenix-979704477
+	time_created: 2026-05-09 22:13:50
+	time_modified: 2026-05-09 22:27:51
+	card_trim: special guest, inverted
+	card_trim_plus: none
+	name: Forgiving Monument
+	casting_cost: 6
+	image: image346.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: masterpiece
+	rule_text:
+		When this enchantment enters, search your library for a colorless card, reveal it, put it into your hand, then shuffle.
+		At the beginning of your first main phase, add <sym-auto>CC</sym-auto>. You can’t spend this mana to cast spells that aren’t mana value 5 or greater.
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: 
+	card_stamp: none
+	illustrator: jaco147
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

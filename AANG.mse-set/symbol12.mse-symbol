@@ -1,0 +1,85 @@
+﻿mse_version: 0.3.5
+part:
+	type: shape
+	name: Ellipse
+	combine: border
+	point:
+		position: (0.8262711864,0.5105932203)
+		lock: size
+		line_after: curve
+		handle_before: (0.0000000000,0.1731740403)
+		handle_after: (-0.0000000000,-0.1731740403)
+	point:
+		position: (0.5487288136,0.1970338983)
+		lock: size
+		line_after: curve
+		handle_before: (0.1532824276,0.0000000000)
+		handle_after: (-0.1532824276,-0.0000000000)
+	point:
+		position: (0.2711864407,0.5105932203)
+		lock: size
+		line_after: curve
+		handle_before: (0.0000000000,-0.1731740403)
+		handle_after: (-0.0000000000,0.1731740403)
+	point:
+		position: (0.5487288136,0.8241525423)
+		lock: size
+		line_after: curve
+		handle_before: (-0.1532824276,0.0000000000)
+		handle_after: (0.1532824276,-0.0000000000)
+part:
+	type: shape
+	name: Ellipse
+	combine: overlap
+	point:
+		position: (0.6906779661,0.5063559322)
+		lock: size
+		line_after: curve
+		handle_before: (0.0000000000,0.0830767355)
+		handle_after: (-0.0000000000,-0.0830767355)
+	point:
+		position: (0.5444915254,0.3559322034)
+		lock: size
+		line_after: curve
+		handle_before: (0.0807365458,0.0000000000)
+		handle_after: (-0.0807365458,-0.0000000000)
+	point:
+		position: (0.3983050847,0.5063559322)
+		lock: size
+		line_after: curve
+		handle_before: (0.0000000000,-0.0830767355)
+		handle_after: (-0.0000000000,0.0830767355)
+	point:
+		position: (0.5444915254,0.6567796610)
+		lock: size
+		line_after: curve
+		handle_before: (-0.0807365458,0.0000000000)
+		handle_after: (0.0807365458,-0.0000000000)
+part:
+	type: shape
+	name: Ellipse
+	combine: overlap
+	point:
+		position: (0.2482248621,0.6327937269)
+		lock: size
+		line_after: curve
+		handle_before: (-0.1060438102,-0.2447360242)
+		handle_after: (0.1060438102,0.2447360242)
+	point:
+		position: (0.7426796461,0.9436719232)
+		lock: size
+		line_after: curve
+		handle_before: (-0.1670360400,0.0730427288)
+		handle_after: (0.1670360400,-0.0730427288)
+	point:
+		position: (0.8531158419,0.3682826202)
+		lock: size
+		line_after: curve
+		handle_before: (0.1060438102,0.2447360242)
+		handle_after: (-0.1060438102,-0.2447360242)
+	point:
+		position: (0.3586610578,0.0574044239)
+		lock: size
+		line_after: curve
+		handle_before: (0.1670360400,-0.0730427288)
+		handle_after: (-0.1670360400,0.0730427288)

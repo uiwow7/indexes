@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: RU02,Small Creature,2,flying flash ,Faerie Mastermind
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-03-09 12:41:49
+	time_modified: 2026-05-10 15:55:20
 	name: Reflected Familiar
 	casting_cost: 1U
 	image: image152.png
@@ -23,9 +23,10 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, if you’ve cast another spell this turn, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V/U</sym>.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, the next time you cast a spell this turn, draw a card.
+		<kw-A><nospellcheck><key>Starfall <param-cost><sym-auto>UU</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>UU</sym-auto></param-cost>, Exile this card from your graveyard: Create a Saga enchantment token with “<sym>r3</sym>: You may cast a copy the exiled card without paying its mana cost.”)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
-	power: 2
+	power: 1
 	toughness: 1
 	illustrator: ARVEN92
 	card_code_text: 

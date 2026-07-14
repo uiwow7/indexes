@@ -6,16 +6,26 @@ card:
 	notes:
 		CB13,Noncreature,3,,Decode Transmissions
 		https://www.deviantart.com/xetobyte/art/Voices-567363271
+		draw
 	time_created: 2026-02-26 00:00:00
-	time_modified: 2026-03-24 15:05:03
+	time_modified: 2026-04-04 14:05:13
 	name: CB13 Noncreature
 	casting_cost: 2B
 	image: image40.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	sub_type: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: common
+	rule_text: You draw two cards, lose 2 life, and <kw-A><nospellcheck><key>revere</key></nospellcheck>. Discard a card.<atom-reminder-custom> <i-auto>(To revere, put a Celestial card you own from outside the game into your hand or graveyard. If a card wasn’t put into your hand, create a Clue token.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
 	illustrator: Xetobyte
 	card_code_text: 
 	card_code_text_2: 

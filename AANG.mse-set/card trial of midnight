@@ -1,0 +1,44 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-saga
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chapter_divider_coordinates: 269,333,
+		auto_frames: vehicle, snow, universes beyond
+		other_options: custom border
+		custom_border_source: space/-color-space.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!sort 10
+		!group Unearth
+		https://www.deviantart.com/kanizo/art/Master-Training-818030569
+	time_created: 2026-04-20 11:54:25
+	time_modified: 2026-04-20 11:57:02
+	name: Trial of Midnight
+	casting_cost: 2B
+	image: image40.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Saga</word-list-enchantment><atom-sep> </atom-sep><word-list-enchantment>Dream</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+	level_2_text: Draw two cards.
+	level_3_text: You lose 3 life, sacrifice a nonland permanent, and discard a card.
+	illustrator: Kanizo
+	card_code_text: DON
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+		I — Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+		II — Draw two cards.
+		III — You lose 3 life, sacrifice a nonland permanent, and discard a card.

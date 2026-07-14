@@ -1,0 +1,51 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-dfc-plus
+	stylesheet_version: 2024-09-06
+	has_styling: true
+	styling_data:
+		shrink_typeline_text: 2
+		front_chop: 4,9
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!sort 10
+		!group Big Blue
+		https://www.deviantart.com/louielorry/art/Lord-568092252
+		https://www.deviantart.com/louielorry/art/mirror-World2-641333019
+	time_created: 2026-04-18 15:55:31
+	time_modified: 2026-04-28 12:58:12
+	card_color_2: blue
+	name: Alom, Dreamlord
+	name_2: Mirror Worlds
+	casting_cost: 1UUUU
+	image: image23.png
+	image_2: image_21.png
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Noble</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: <word-list-spell></word-list-spell>
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Alom, Dreamlord</nospellcheck></atom-cardname> enters, tap each creature you don’t control and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on them.
+		<kw-A><nospellcheck><key>Disturb <param-cost><sym-auto>5UU</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard transformed for its disturb cost.)</i-auto></atom-reminder-expert></kw-A>
+	rule_text_2:
+		For each nonland permanent you control, create a token that’s a copy of it.
+		Exile <atom-cardname><nospellcheck>Mirror Worlds</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Louie Lorry
+	illustrator_2: Louie Lorry
+	card_code_text: DON
+	card_code_text_2: 
+	card_code_text_3: 

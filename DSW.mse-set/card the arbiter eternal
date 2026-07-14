@@ -11,7 +11,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-12-18 15:00:02
-	time_modified: 2026-02-19 18:03:46
+	time_modified: 2026-05-17 11:05:50
 	name: The Arbiter, Eternal
 	casting_cost: 5CC
 	image: image192.png
@@ -29,13 +29,13 @@ card:
 	rarity: mythic rare
 	loyalty_cost_1: 
 	loyalty_cost_2: 0
-	loyalty_cost_3: -2
-	loyalty_cost_4: -10
+	loyalty_cost_3: -3
+	loyalty_cost_4: -12
 	loyalty: 5
 	level_1_text: Whenever one or more cards enter or leave your sanctum, put a loyalty counter on The Arbiter.
 	level_2_text: <margin:130:0:0>Put a card from your sanctum into your hand.</margin:130:0:0>
-	level_3_text: <margin:130:0:0><kw-0><nospellcheck><key>You get</key></nospellcheck></kw-0> <sym>V/U</sym>. You may cast a copy of a  vertex sorcery from your command zone without paying its mana cost. <i-auto>(You still pay its vertex cost.)</i-auto></margin:130:0:0>
-	level_4_text: <margin:130:0:0><kw-0><nospellcheck><key>You get</key></nospellcheck></kw-0> an emblem with “You may spend <sym>V</sym> as though it were mana of any type. <kw-0><nospellcheck><key>You get</key></nospellcheck></kw-0> ten <sym>V</sym>.”</margin:130:0:0>
+	level_3_text: <margin:130:0:0><kw-0><nospellcheck><key>Sift <param-number>2</param-number></key></nospellcheck></kw-0>, then create a 0/0 colorless Fractal Horror creature token. Put X +1/+1 counters on it, where X is the number of cards in your sanctum.</margin:130:0:0>
+	level_4_text: <margin:130:0:0>Put any number of permanent cards from your sanctum onto the battlefield.</margin:130:0:0>
 	level_5_text: 
 	illustrator: ERA7
 	card_code_text: 
@@ -44,5 +44,5 @@ card:
 	special_text:
 		Whenever one or more cards enter or leave your sanctum, put a loyalty counter on The Arbiter.
 		[0]: <margin:130:0:0>Put a card from your sanctum into your hand.</margin:130:0:0>
-		[-2]: <margin:130:0:0><kw-0><nospellcheck><key>You get</key></nospellcheck></kw-0> <sym>V/U</sym>. You may cast a copy of a  vertex sorcery from your command zone without paying its mana cost. <i-auto>(You still pay its vertex cost.)</i-auto></margin:130:0:0>
-		[-10]: <margin:130:0:0><kw-0><nospellcheck><key>You get</key></nospellcheck></kw-0> an emblem with “You may spend <sym>V</sym> as though it were mana of any type. <kw-0><nospellcheck><key>You get</key></nospellcheck></kw-0> ten <sym>V</sym>.”</margin:130:0:0>
+		[-3]: <margin:130:0:0><kw-0><nospellcheck><key>Sift <param-number>2</param-number></key></nospellcheck></kw-0>, then create a 0/0 colorless Fractal Horror creature token. Put X +1/+1 counters on it, where X is the number of cards in your sanctum.</margin:130:0:0>
+		[-12]: <margin:130:0:0>Put any number of permanent cards from your sanctum onto the battlefield.</margin:130:0:0>

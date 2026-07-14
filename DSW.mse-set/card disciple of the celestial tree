@@ -3,9 +3,11 @@ card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
 	has_styling: false
-	notes: CW08,Small Creature,3,flying ,Phyrexian Pegasus
+	notes:
+		CW08,Small Creature,3,flying ,Phyrexian Pegasus
+		The Celestial Tree reaches through reality, providing an anchor to its disciples.
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-03-31 21:00:58
+	time_modified: 2026-05-30 11:27:43
 	name: Disciple of the Celestial Tree
 	casting_cost: 2I
 	image: image115.png
@@ -21,8 +23,10 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: common
-	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, create a 2/2 green Avatar creature token.
-	flavor_text: <i-flavor>The Celestial Tree reaches through reality, providing an anchor to its disciples.</i-flavor>
+	rule_text:
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>sift <param-number>2</param-number></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at the top <param-number>two</param-number> cards of your library, then put any number of them into your sanctum and the rest on top of your library in any order.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Starfall <param-cost><sym-auto>1I</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>1I</sym-auto></param-cost>, Exile this card from your graveyard: Create a Saga enchantment token with “<sym>r3</sym>: You may cast a copy the exiled card without paying its mana cost.”)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
 	illustrator: RaidesArt

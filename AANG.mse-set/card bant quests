@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: archetype, M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-04-28 10:11:53
+	time_modified: 2026-04-28 13:23:05
+	name: Bant Quests
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	sub_type: 
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		4 Tared, First of the Divine
+		2 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Druidic</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Visionary
+		4 Celestial Wielder
+		4 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Dreamwatcher</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		3 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lakedancer</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Elk
+		3 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Seedborn</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Combatant
+		2 Warden of Saplings
+		4 good quest enabler
+		2 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Stoneborn</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Crab
+		2 Heavenly Containment<font:Gotham Pro Black></font>
+		3 Trap in Eternity
+		3 payoff
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

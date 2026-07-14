@@ -7,7 +7,7 @@ card:
 		RG08,Noncreature,2,,Ozolith, the Shattered Spire
 		https://www.deviantart.com/nexumorphic/art/Purpose-803588766
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-03-09 12:48:06
+	time_modified: 2026-05-12 11:53:14
 	name: Council of the Forsaken
 	casting_cost: 1G
 	image: image306.png
@@ -24,8 +24,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead.
-		Whenever a creature you control with power greater than its base power dies, <kw-A><nospellcheck><key>you get</key></nospellcheck> an amount <sym>V</sym> equal to the difference.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
+		If one or more counters would be put on a permanent you control, that many plus one counters are put on it instead.
+		Whenever a permanent you control with counters on it leaves the battlefield, you gain life equal to the number of counters on it.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Nexumorphic
 	card_code_text: 

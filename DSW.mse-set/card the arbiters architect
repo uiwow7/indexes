@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: RW07,Medium Creature,5,flying ,Essence of Orthodoxy
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-02-17 22:02:54
+	time_modified: 2026-04-04 13:49:07
 	name: The Arbiter’s Architect
 	casting_cost: 3WW
 	image: image126.png
@@ -25,7 +25,7 @@ card:
 		If a triggered ability of an Avatar you control would trigger, that ability triggers an additional time.
 		<sym-auto>2W</sym-auto>: Exile another target creature, then return it to the battlefield tapped under its owner’s control. 
 	flavor_text: <i-flavor></i-flavor>
-	power: 4
+	power: 5
 	toughness: 4
 	illustrator: sujiraho
 	card_code_text: 

@@ -1,0 +1,44 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-saga
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: CG05,Small Creature,3,,Fairgrounds Trumpeter
+	time_created: 2025-06-08 00:00:00
+	time_modified: 2026-05-10 16:12:24
+	card_color_2: green
+	name: Realms Arisen
+	name_2: 
+	casting_cost: 3G
+	casting_cost_2: 
+	image: image354.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Saga</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: 
+	rule_text_2: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	level_1_text: Search your library for a land card, put it onto the battlefield tapped, then shuffle.
+	level_2_text: Up to one target land you control becomes a 2/2 creature.
+	level_3_text: Put a +1/+1 counter on each creature you control.
+	power: 
+	toughness: 
+	illustrator: Alice Boudry
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+		I — Search your library for a land card, put it onto the battlefield tapped, then shuffle.
+		II — Up to one target land you control becomes a 2/2 creature.
+		III — Put a +1/+1 counter on each creature you control.

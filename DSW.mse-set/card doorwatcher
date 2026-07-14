@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: CB08,Medium Creature,3,,Ichor Shade
 	time_created: 2025-06-08 00:00:00
-	time_modified: 2026-03-22 14:40:26
+	time_modified: 2026-05-17 11:02:36
 	name: Doorwatcher
 	casting_cost: 2B
 	image: image54.png
@@ -23,8 +23,8 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		Whenever a creature you control deals combat damage to a player, <kw-A><nospellcheck><key>you get</key></nospellcheck> <sym>V</sym>.<atom-reminder-custom> <i-auto>(Spend <sym>V</sym> to cast copies of Vertex spells.)</i-auto></atom-reminder-custom></kw-A>
-		Whenever you cast a vertex spell, each opponent loses 1 life and you gain 1 life.
+		Whenever one or more creatures you control deal combat damage to a player, put a lore counter on target permanent.
+		<kw-A><nospellcheck><key>Starfall <param-cost><sym-auto>2B</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>2B</sym-auto></param-cost>, Exile this card from your graveyard: Create a Saga enchantment token with “<sym>r3</sym>: You may cast a copy the exiled card without paying its mana cost.”)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3
