@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-24 09:53:56
-	time_modified: 2025-09-25 11:01:00
+	time_modified: 2026-07-18 04:49:33
 	name: Darkwave Container
 	casting_cost: 2
 	image: image202.png
@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Darkwave Container</nospellcheck></atom-cardname> enters, you draw a card.
+		When <atom-cardname><nospellcheck>Darkwave Container</nospellcheck></atom-cardname> enters, draw a card.
 		<sym-auto>1</sym-auto>: Add one mana of any color. Activate only once during each of your turns.
 	flavor_text: <i-flavor>When <error-spelling:en_US>Gatu</error-spelling:en_US> and <error-spelling:en_US>Ikan</error-spelling:en_US> collide, large swaths of emptiness are combined with unbound technology.</i-flavor>
 	illustrator: Luetche

@@ -22,7 +22,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-A><nospellcheck><key>Infuse <param-number>2</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has two.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Infuse <param-number>2</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has fewer than two.)</i-auto></atom-reminder-custom></kw-A>
 		Whenever one or more counters are put on <atom-cardname><nospellcheck>Energizer</nospellcheck></atom-cardname>, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
 	flavor_text: <i-flavor>The Arbiter implants its servants with stolen sparks and sends them through the paths seeking new worlds.</i-flavor>
 	power: 2

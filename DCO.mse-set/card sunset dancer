@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-A><nospellcheck><key>Infuse <param-number>3</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has three.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Infuse <param-number>3</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has fewer than three.)</i-auto></atom-reminder-custom></kw-A>
 		Whenever you cast a noncreature spell, <atom-cardname><nospellcheck>Sunset Dancer</nospellcheck></atom-cardname> deals 1 damage to each opponent and you gain 1 life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1

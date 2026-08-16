@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-A><nospellcheck><key>Infuse <param-number>2</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has two.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Infuse <param-number>2</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has fewer than two.)</i-auto></atom-reminder-custom></kw-A>
 		<kw-A><i-auto><nospellcheck><key>Landfall</key></nospellcheck></i-auto></kw-A> — Whenever a land enters under your control, you gain 1 life. If a counter was put on <atom-cardname><nospellcheck>Yuku Mystic</nospellcheck></atom-cardname> this turn, you gain 2 life instead.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1

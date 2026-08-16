@@ -373,7 +373,7 @@ keyword:
 keyword:
 	keyword: Infuse
 	match: Infuse <atom-param>number</atom-param>
-	reminder: Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has {if param1.value == "1" then "none" else english_number(param1.value)}.
+	reminder: Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has {if param1.value == "1" then "none" else "fewer than " + english_number(param1.value)}.
 	rules: 
 	mode: custom
 keyword:

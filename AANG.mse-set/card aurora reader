@@ -1,6 +1,15 @@
 ﻿mse_version: 2.5.8
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		other_options: vorthos box
+		popout_image_style: 
+		popout_image_style_2: 
+		level_containers: arrows
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
 	notes:
 		!sort 10
 		!group Aggro

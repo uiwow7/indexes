@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-A><nospellcheck><key>Infuse <param-number>3</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has three.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Infuse <param-number>3</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has fewer than three.)</i-auto></atom-reminder-custom></kw-A>
 		At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to that card’s mana value minus the number of counters on <atom-cardname><nospellcheck>Unchained Karan</nospellcheck></atom-cardname>. 
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
